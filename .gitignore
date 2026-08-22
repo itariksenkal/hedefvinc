@@ -1,0 +1,6 @@
+# Özel dosyalar — ASLA yayınlanmaz (vergi levhası, kaşe, orijinal fotoğraflar)
+_private/
+
+# Sistem dosyaları
+Thumbs.db
+.DS_Store
