@@ -1,0 +1,264 @@
+{
+  "slug": "vinc-retrofit-modernizasyon-nedir",
+  "_hedef": "vinç retrofit / vinç modernizasyonu",
+  "title": "Vinç Retrofit ve Modernizasyon Nedir? Milas Atölye Rehberi",
+  "h1": "Vinç Retrofit (Modernizasyon) Nedir? Yeni Almak Yerine Ne Zaman Mantıklı?",
+  "desc": "Vinç retrofit nedir? Hidrolik, kumanda, emniyet sistemleri ve yapısal onarımla vinç modernizasyonu; yeni vinç almaktan ne zaman mantıklı olduğu ve süreç.",
+  "category": "Vinç Tamiri",
+  "image": "real_ones/atolye-revizyonu-biten-katlanir-bom-vinc.jpg",
+  "imageAlt": "Atölye zemininde katlanmış duran, baştan elden geçirilip sarıya boyanmış, üzerinde Retrofit Hedef Crane etiketi olan büyük katlanır bomlu vinç",
+  "kisaCevap": "Vinç retrofit (modernizasyon), taşıyıcı yapısı sağlam bir vincin hidrolik sistemini, kumandasını, emniyet donanımlarını ve yıpranmış parçalarını güncel karşılıklarıyla yenileyerek vinci yeniden güvenli ve verimli çalışır hale getirmektir. Bom, kolon ve şase sağlamsa ve parça bulunabiliyorsa çoğu zaman yeni vinç almaktan mantıklıdır; yaygın çatlak ya da yorulma varsa değildir. Kaynaklı onarım veya parça değişimi içeren retrofitten sonra periyodik kontrol yeniden yapılmalıdır.",
+  "cikarimlar": [
+    "Retrofit yalnızca sağlam bir gövdeye yapılır; önce bom, kolon ve şase bağlantıları kontrol edilmelidir.",
+    "Kollu valften oransal valfe ve telsiz kumandaya geçiş, retrofitin en çok fark edilen kısmıdır.",
+    "Azami çalışma yükü 1000 kg ya da devrilme momenti 40.000 Nm ve üzeri makinelerde aşırı yük tertibatı zorunludur.",
+    "Kapasite artırmak ya da bom uzatmak retrofit değil, mühendislik hesabı isteyen bir tasarım değişikliğidir.",
+    "Kaynaklı onarımdan sonraki periyodik kontrolü, bakımı yapan atölyeden bağımsız yetkili bir kişi yapar."
+  ],
+  "intro": "Bu soruyu bize çoğunlukla gövdesi hâlâ sağlam ama hidroliği yorulmuş, kumandası eskimiş ya da parçası artık bulunmayan bir vincin sahibi soruyor: Yenisini mi almalı, eldekini mi baştan elden geçirmeli? Cevap vincin durumuna göre değişir. Aşağıdaki karar tablosu, mevzuat notu ve süreç adımları, bu kararı bir ustaya danışmadan önce kendi vinciniz üzerinden düşünebilmeniz için.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Tamir, revizyon ve retrofit: farkı nedir?"
+    },
+    {
+      "type": "p",
+      "text": "Fark işin kapsamındadır: tamir tek bir arızayı giderir, revizyon aşınan parçaları planlı olarak topluca yeniler, retrofit ise eskiyen sistemleri güncel karşılıklarıyla değiştirir. Sahada bu üç kelime sık sık birbirine karışır. <strong>Tamirde</strong> patlayan hortum değişir, yanan bobin yenilenir, vinç işine döner. <strong>Revizyonda</strong> vincin ana sistemleri planlı şekilde sökülür ve aşınan parçalar topluca yenilenir; amaç vinci ilk günkü haline yaklaştırmaktır."
+    },
+    {
+      "type": "p",
+      "text": "<strong>Retrofit</strong> bir adım daha ileri gider. Vinci yalnızca eski haline döndürmez; eskiyen ya da artık parçası bulunmayan sistemleri güncel karşılıklarıyla değiştirir. Mekanik kollu valf bloğunun yerine oransal valf ve telsiz kumanda takmak, hiç aşırı yük koruması olmayan bir vince yük moment sınırlayıcı eklemek, korozyondan yorulmuş tesisatı baştan döşemek tipik retrofit işleridir."
+    },
+    {
+      "type": "p",
+      "text": "Firmamızın adındaki \"Retrofit\" de buradan gelir. 2005'ten beri Milas'taki atölyemizde yaptığımız işin önemli bir kısmı, gövdesi hâlâ iş görecek durumdaki vinçleri yenilenmiş sistemlerle yeniden sahaya hazırlamaktır."
+    },
+    {
+      "type": "h2",
+      "text": "Retrofit kapsamına neler girer?"
+    },
+    {
+      "type": "p",
+      "text": "Retrofit beş ana başlığı kapsar: hidrolik sistem, kumanda sistemi, emniyet sistemleri, yapısal onarım; son olarak da döner tabla, ayaklar ve korozyon. Hangi başlığın ne ölçüde yenileneceği, inceleme sonrası çıkan iş listesine göre belirlenir; her vinçte beşine birden girmek gerekmez."
+    },
+    {
+      "type": "h3",
+      "text": "Hidrolik sistem"
+    },
+    {
+      "type": "p",
+      "text": "Pompa, kumanda valfi, silindirler, hortumlar, filtreler ve yağ tankı. Pompası verim kaybetmiş, silindirleri iç kaçak yapan bir vinçte parçaları tek tek tamir etmek yerine hidrolik devreyi bir bütün olarak ele alırız: basınç ve debi ölçülür, silindir keçeleri yenilenir, gerekirse milleri işlenir ya da değiştirilir, hortumlar baştan preslenir, yağ ve filtreler yenilenir. Ayrıntılar için <a href=\"/hizmetler/vinc-hidrolik-tamiri.html\">vinç hidrolik tamiri</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "h3",
+      "text": "Kumanda sistemi"
+    },
+    {
+      "type": "p",
+      "text": "Kollu valflerden elektro-hidrolik oransal valflere ve telsiz uzaktan kumandaya geçiş, retrofitin en çok fark edilen kısmıdır. Operatör yükü daha yakından ve daha iyi açıdan görebilir, hareketler yumuşar, hassas montaj işleri kolaylaşır. Kablo tesisatı, soketler, acil stop devresi ve sensörler de bu aşamada yenilenir."
+    },
+    {
+      "type": "h3",
+      "text": "Emniyet sistemleri"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12907&MevzuatTur=7&MevzuatTertip=5\">Makina Emniyeti Yönetmeliği (2006/42/AT)</a>, azami çalışma yükü 1000 kg'dan ya da devrilme momenti 40.000 Nm'den az olmayan makinelerin; aşırı yükleme veya devrilme momentinin aşılması durumunda sürücüyü uyaran ve tehlikeli hareketleri engelleyen tertibatlarla donatılmasını ister. Eski vinçlerde bu koruma ya hiç yoktur ya da yıllar içinde işlevini yitirmiştir. Retrofitte yük moment sınırlayıcı, ayak (outrigger) konum kontrolü, acil stop ve sınır anahtarları elden geçirilir ya da yenilenir."
+    },
+    {
+      "type": "h3",
+      "text": "Yapısal onarım"
+    },
+    {
+      "type": "p",
+      "text": "Bom, kolon, şase bağlantıları ve ayak kutularındaki çatlaklar; ovalleşmiş pim yuvaları, boşluk yapan burçlar. Pim ve burçları torna tezgâhımızda ölçüsüne göre üretir, yük taşıyan bölgelerde uygun yöntemle kaynak onarımı yaparız. Kaynağın nerede çözüm olduğunu, nerede olmadığını <a href=\"/blog/vinc-bom-catlagi-kaynakla-onarilir-mi.html\">vinç bom çatlağı kaynakla onarılır mı</a> yazımızda anlattık."
+    },
+    {
+      "type": "h3",
+      "text": "Döner tabla, ayaklar ve korozyon"
+    },
+    {
+      "type": "p",
+      "text": "Döner tabla rulmanı ve dişlisi, ayak silindirleri ve kayar kutular, pas temizliği ve koruyucu boya. Deniz kenarında çalışan vinçlerde korozyonun durumu, retrofit kararının en belirleyici kalemlerinden biridir."
+    },
+    {
+      "type": "h2",
+      "text": "Ne zaman retrofit, ne zaman yeni vinç?"
+    },
+    {
+      "type": "p",
+      "text": "Taşıyıcı yapı sağlam, parça bulunabilir ve kapasite işinize yetiyorsa retrofit; bu üç koşuldan biri yoksa yeni vinç çoğu zaman daha doğru seçimdir. Aşağıdaki tablo, atölyede vinç sahipleriyle yaptığımız konuşmanın özeti gibidir."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Durum",
+        "Retrofit mantıklı",
+        "Yeni vinç düşünülmeli"
+      ],
+      "rows": [
+        [
+          "Bom ve kolon",
+          "Sağlam ya da lokal, onarılabilir hasar",
+          "Yaygın çatlak, kalıcı eğilme, yorulma"
+        ],
+        [
+          "Hidrolik",
+          "Pompa, valf, keçeler yorgun ama gövde sağlam",
+          "Hidrolik sorunu yapısal hasarla birlikte"
+        ],
+        [
+          "Parça bulunabilirliği",
+          "Muadil ya da imal edilebilir parça var",
+          "Kritik parçalar yok ve üretilemiyor"
+        ],
+        [
+          "Kapasite ihtiyacı",
+          "Mevcut kapasite işinize yetiyor",
+          "İşiniz artık daha büyük vinç istiyor"
+        ],
+        [
+          "Taşıyıcı kamyon",
+          "Kamyon sağlam ve vinçle uyumlu",
+          "Kamyon da ömrünü tamamlamış"
+        ],
+        [
+          "Zaman",
+          "Vinç kısa sürede işe dönmeli",
+          "Yeni vincin teslimini bekleyebilirsiniz"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Basit bir kural: Retrofit, sağlam bir gövdenin üstüne yapılır. Yorulmuş bir gövdeye ne kadar yeni hidrolik takarsanız takın, en zayıf halka yine taşıyıcı yapı olarak kalır. Bu yüzden her retrofit teklifinden önce bomu, kolonu ve şase bağlantılarını kontrol ederiz; şüpheli bölge varsa tahribatsız muayene öneririz."
+    },
+    {
+      "type": "p",
+      "text": "Bir sınırı da baştan söyleyelim: Vincin kapasitesini artırmak, bom boyunu uzatmak ya da geometrisini değiştirmek retrofit değil, tasarım değişikliğidir. Üretici verisi ve mühendislik hesabı olmadan bu tür işlere girmiyoruz; sizin de girmemenizi öneririz."
+    },
+    {
+      "type": "h2",
+      "text": "Retrofitten sonra vinç hemen işe dönebilir mi?"
+    },
+    {
+      "type": "p",
+      "text": "Hayır; kaynaklı onarım ya da halat ve zincir dışında parça değişimi içeren bir retrofitten sonra vinç, periyodik kontrolü yeniden yapılmadan işe dönmemelidir. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a>, kaldırma ekipmanlarında konstrüksiyon ve yük kolu gibi kısımlara yapılan kaynak, kesme, taşlama gibi onarımları ve halat, zincir dışındaki parça değişimlerini \"önemli bakım ve onarım\" sayar ve bu faaliyetlerden sonra periyodik kontrolün yetkili kişilerce yapılmasını ister. Yönetmelik ayrıca ekipmanın bakımını yapan kişilerin aynı ekipmanın periyodik kontrolünü yapamayacağını söyler."
+    },
+    {
+      "type": "p",
+      "text": "Kısacası retrofiti atölye yapar, muayeneyi bağımsız bir yetkili yapar. Takvimi baştan buna göre kurmak, vincin sahaya dönüş tarihini netleştirir."
+    },
+    {
+      "type": "callout",
+      "text": "Retrofit teklifi için vincin modelini, üretim yılını, şikâyetlerinizi ve elinizde varsa son periyodik kontrol raporunu bize iletin. Vinci Milas'taki atölyemizde ya da bulunduğu yerde inceleyip neyin yenileneceğini kalem kalem çıkaralım."
+    },
+    {
+      "type": "h2",
+      "text": "Retrofit süreci nasıl işler?"
+    },
+    {
+      "type": "p",
+      "text": "Süreç yedi adımda ilerler ve her adımın sonunda neyin yapıldığı kayda geçer:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Ön görüşme: fotoğraf ve videoyla ilk değerlendirme, vincin geçmişi ve beklentileriniz.",
+        "İnceleme: yapısal kontrol, hidrolik basınç ve kaçak testleri, kumanda ve emniyet sistemlerinin kontrolü.",
+        "İş listesi: neyin yenileneceği, neyin onarılacağı, neyin olduğu gibi kalacağı; parça listesi ve onay.",
+        "Söküm ve temizlik, yapısal onarım, korozyon temizliği ve boya.",
+        "Hidrolik ve kumanda montajı, emniyet sistemlerinin kurulumu ve ayarı.",
+        "Atölyede yüksüz ve kontrollü yükle fonksiyon testleri.",
+        "Bağımsız periyodik kontrol ve teslim."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Sürenin uzunluğu en çok parça tedarikine ve söküm sırasında çıkan bulgulara bağlıdır. Maliyet tarafını <a href=\"/blog/vinc-tamiri-mi-yenisi-mi.html\">vinç tamiri mi yenisi mi</a> yazımızda ayrıca ele aldık."
+    },
+    {
+      "type": "h2",
+      "text": "Retrofitte en sık hangi hatalar yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "En sık hata, sistemleri birbirinden habersiz, parça parça yenilemektir; yarım yapılan bir retrofit hiç yapılmamış olandan bazen daha fazla sorun çıkarır. Sahada en sık karşılaştığımız hatalar şunlardır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Yeni kumanda, eski valf: Telsiz kumanda takılıp iç kaçak yapan, ayarı bozuk valf bloğu olduğu gibi bırakılmış. Hareketler yine sarsıntılı, operatör yine şikâyetçi.",
+        "Yeni pompa, eski hortum ve filtre: Kirli yağ ve yaşlanmış hortumlar, yeni pompanın ömrünü ilk aylarda tüketir.",
+        "Emniyet sisteminin eklenip ayarlanmaması: Sensörler takılmış ama sistem bilinen yüklerle doğrulanmamış; ekranda değer var, koruma yok.",
+        "Boyanın altında kalan çatlak: Yeni boya, kontrol edilmemiş bir kaynak dikişini ya da başlamış bir çatlağı gizler.",
+        "Kayıt tutulmaması: Hangi parçanın ne zaman değiştiği, hangi ayarın yapıldığı yazılmamışsa bir sonraki serviste her şey yeniden araştırılır."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu yüzden retrofitte iş listesini sistem sistem çıkarır, her sistemi kendi testinden geçirir ve yapılan işleri teslimde yazılı olarak veririz."
+    },
+    {
+      "type": "h2",
+      "text": "Deniz kenarında çalışan vinçte retrofit neden farklıdır?"
+    },
+    {
+      "type": "p",
+      "text": "Tuzlu nem elektrik soketlerini, hidrolik tankı ve kaynak dikişlerini içeriden yıprattığı için kıyıda çalışan bir vinçte retrofit, korozyonun kaynağını da kapsamalıdır. Soketler ve konnektörler oksitlenir, hidrolik tank havalandırmasından içeri nem girer, pim yuvaları ve kaynak dikişleri altından paslanır. Bodrum ve Milas kıyısında retrofit yaparken soket ve tesisat korumasına, tank havalandırma filtresine ve korozyon temizliğine ayrıca önem veriyoruz; kaynak giderilmezse yenilenen sistemler de aynı hızla yıpranır."
+    },
+    {
+      "type": "h2",
+      "text": "Retrofit neden tek atölyede yapılmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü retrofit hidrolik, kaynak, torna, elektrik ve pres hortum işlerini birlikte ister; bunlar aynı çatı altında olduğunda parça bekleme süresi kısalır, işin bir kısmı başka bir servise havale edilmez ve sorumluluk tek yerde kalır. Güllük–Güvercinlik arasındaki, Tuzla Kavşağı'ndaki atölyemizde bu işlerin hepsini yapıyoruz. Yola çıkamayacak durumdaki vinçler için Milas, Bodrum, Muğla, Aydın ve İzmir çevresinde yerinde ön inceleme yapıyoruz. Hizmetin kapsamını <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> sayfamızda bulabilirsiniz."
+    },
+    {
+      "type": "p",
+      "text": "Retrofit sürerken işiniz durmasın diye aradaki dönemi <a href=\"/hizmetler/vinc-kiralama.html\">operatörlü vinç kiralama</a> ile de kapatabiliriz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Vinç retrofit ne demek?",
+      "a": "Vincin taşıyıcı yapısı korunarak hidrolik, kumanda, emniyet ve elektrik sistemlerinin güncel parçalarla yenilenmesi, yıpranmış parçaların değiştirilmesi ve gerekli yapısal onarımların yapılmasıdır. Revizyondan farkı, vinci yalnızca eski haline döndürmekle kalmayıp eskiyen sistemleri günceliyle değiştirmesidir."
+    },
+    {
+      "q": "Retrofit yapılan vinç periyodik kontrole girmeli mi?",
+      "a": "Evet. Yönetmelik, yük kolu ve konstrüksiyondaki kaynak onarımlarını ve halat, zincir dışındaki parça değişimlerini önemli bakım ve onarım sayar ve bu işlerden sonra periyodik kontrolün yapılmasını ister. Kontrolü, bakımı yapan atölyeden bağımsız yetkili bir kişi yapar."
+    },
+    {
+      "q": "Eski bir hiyaba telsiz uzaktan kumanda takılabilir mi?",
+      "a": "Çoğu durumda evet, ancak mevcut valf bloğunun elektro-hidrolik kumandaya uygun olması ya da uygun bir blokla değiştirilmesi gerekir. Bu karar vinci gördükten ve hidrolik devreyi inceledikten sonra verilir."
+    },
+    {
+      "q": "Retrofit için vinci atölyeye getirmek şart mı?",
+      "a": "İlk inceleme için şart değildir: yapısal kontrol, hidrolik basınç ölçümü ve kumanda testleri vincin bulunduğu yerde de yapılabilir. Söküm, kaynak, torna ve kontrollü yük testi gerektiren asıl iş ise atölyede yapılır; çünkü bu işler kaldırma ekipmanı, tezgâh ve güvenli bir test alanı ister."
+    },
+    {
+      "q": "Hangi durumda retrofit yerine yeni vinç alınmalı?",
+      "a": "Bom ya da kolonda yaygın çatlak, kalıcı eğilme veya yorulma varsa, kritik parçalar artık bulunamıyor ve üretilemiyorsa ya da işiniz mevcut vincin kapasitesini aşıyorsa yeni vinç daha doğru olur. Taşıyıcı kamyon da ömrünü tamamladıysa retrofitin ekonomik tarafı zayıflar. Karar, inceleme sonrası çıkan iş listesine göre verilmelidir."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "Makina Emniyeti Yönetmeliği (2006/42/AT)",
+      "publisher": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12907&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/hizmetler/hiyap-vinc-tamiri.html",
+    "/hizmetler/vinc-hidrolik-tamiri.html",
+    "/blog/vinc-tamiri-mi-yenisi-mi.html",
+    "/blog/vinc-revizyonu-ne-zaman.html"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "slug": "is-makinasi-bakim-rehberi",
+  "_hedef": "iş makinası periyodik bakım",
+  "title": "İş Makinası Periyodik Bakım Rehberi: Günlükten Sezonluğa",
+  "h1": "İş Makinası Periyodik Bakım Rehberi: Günlük Kontrolden Sezon Hazırlığına",
+  "desc": "İş makinası periyodik bakım nasıl planlanır? Günlük kontroller, çalışma saatine göre yağ ve filtre, gres, Ege yazına hazırlık ve ihmal belirtileri. Milas.",
+  "category": "Atölye",
+  "datePublished": "2026-08-22",
+  "dateModified": "2026-10-22",
+  "image": "atolye-torna.jpg",
+  "imageAlt": "Atölyede yeşil büyük torna tezgâhı; arkada takım panosu ve parça rafları",
+  "kisaCevap": "İş makinası periyodik bakımı takvime değil motor çalışma saatine göre planlanır. Operatör her vardiya başında seviyeleri, kaçakları, yürüyüş takımını ve günlük gres noktalarını kontrol eder; motor yağı, filtreler, hidrolik yağ ve gresleme ise üreticinin kılavuzundaki saat aralıklarında yapılır. Tozlu, sıcak ve ağır işlerde bu aralıklar kısalır. Her işlem tarih ve çalışma saatiyle kayda geçirilmelidir.",
+  "intro": "Bu rehber ekskavatör, yükleyici, beko loder ve forklift sahipleri ile şantiye ve ocak işletmecileri için. Sahada sık gördüğümüz tablo şudur: Bakım masraf olarak görülür, ertelenir; sonra makine işin en yoğun gününde arıza yapar. Aşağıda günlük kontrolden sezon hazırlığına kadar bir bakım planını, kılavuzun neden esas olduğunu, ihmal edilmiş bir makinenin nasıl anlaşıldığını ve yasal periyodik kontrolün bakımdan farkını anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Periyodik bakım neden bu kadar önemli?"
+    },
+    {
+      "type": "p",
+      "text": "Periyodik bakım, arızayı ucuzken yakalamanın tek düzenli yoludur. Plansız arızada yalnızca parça ve işçilik ödemezsiniz; makinenin beklediği her saat, ona bağlı ekibin ve diğer ekipmanın da beklemesi demektir. Zamanında değişmeyen bir filtre bile motor veya hidrolik pompa gibi çok daha pahalı parçaların ömrünü kısaltır. Mermer ocağında, hafriyatta ya da tarlada çalışan bir makinede bu zincir daha hızlı işler; toz ve sıcak, ihmal edilen her kalemi büyütür."
+    },
+    {
+      "type": "h2",
+      "text": "Her vardiya başında neler kontrol edilmeli?"
+    },
+    {
+      "type": "p",
+      "text": "Vardiya başında seviyeler, kaçaklar, yürüyüş takımı, genel durum ve kılavuzun günlük istediği gres noktaları kontrol edilir. İyi bir bakım programının ilk halkası servis değil operatördür; on dakikalık bir tur, arızaların çoğunu doğmadan yakalar:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Seviyeler:</strong> Motor yağı, soğutma suyu ve hidrolik yağ. Eksilen seviye çoğu zaman bir kaçağın ilk habercisidir.",
+        "<strong>Kaçaklar:</strong> Makinenin altına ve hortum bağlantılarına bakın. Zemindeki leke, terleyen hortum veya nemli rekor ciddiye alınmalıdır.",
+        "<strong>Yürüyüş takımı:</strong> Paletli makinelerde palet gerginliği, makara ve cer dişlisi; lastikli makinelerde hava basıncı ve diş durumu.",
+        "<strong>Genel bakış:</strong> Gevşek cıvata, başlayan çatlak, hasarlı pim veya burç, çalışmayan ikaz lambası not edilip bildirilir.",
+        "<strong>Gres noktaları:</strong> Kılavuzda günlük gresleme istenen pimler varsa vardiya başında basılır."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "İş makinası bakımı neden çalışma saatine göre yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü makine takvimle değil çalıştıkça yıpranır; bu yüzden üreticiler bakım aralıklarını motor çalışma saatiyle verir. Örneğin Caterpillar'ın <a href=\"https://hammerhire.com.au/assets/files/hire-excavators/cat-operator-manual-320-323.pdf\">ekskavatör kullanım ve bakım kılavuzu</a> aralıkların saat sayacına göre izlenmesini ister; günlük, haftalık, aylık gibi takvim aralıkları ancak saat değerine yaklaştığında ve daha pratik olduğunda kullanılır, hangisi önce gelirse bakım o zaman yapılır. Aralıklar katlanarak ilerler: Örneğin 500 saatlik bakımda 250 saatlik ve günlük kalemler de yapılır. Aynı kılavuz tozlu, ağır veya ıslak koşullarda tablodakinden daha sık yağlama gerekebileceğini yazar. Aralıklar marka ve modele göre değiştiği için doğru kaynak her zaman makinenin kendi kılavuzudur; Ege'deki şantiye ve ocak koşullarında kılavuzdaki ağır hizmet notlarına mutlaka bakın."
+    },
+    {
+      "type": "h3",
+      "text": "Bakım planı şablonu"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Kalem",
+        "Ne zaman?",
+        "Dikkat"
+      ],
+      "rows": [
+        [
+          "Motor yağı ve yağ filtresi",
+          "Kılavuzdaki saat aralığında, birlikte",
+          "Tozlu sahada aralık kısalabilir"
+        ],
+        [
+          "Hava filtresi",
+          "Kılavuz aralığı veya tıkanma ikazı",
+          "Tozlu ortamda daha sık kontrol"
+        ],
+        [
+          "Yakıt filtresi ve su ayırıcı",
+          "Kılavuz aralığı; ayırıcı sık boşaltılır",
+          "Kalitesiz yakıt pompa ve enjektöre zarar verir"
+        ],
+        [
+          "Hidrolik yağ ve dönüş filtresi",
+          "Kılavuz aralığı",
+          "Koyulaşma, köpük veya yanık kokusunda beklemeden kontrol"
+        ],
+        [
+          "Şanzıman ve cer yağları",
+          "Daha uzun aralıklar; seviye düzenli izlenir",
+          "Yağda metal parçacık kötü işarettir"
+        ],
+        [
+          "Gres noktaları",
+          "Kılavuzdaki sıklıkta",
+          "Gres basılmayan pim ve burç boşluk yapar"
+        ],
+        [
+          "Hidrolik hortumlar",
+          "Her bakımda göz kontrolü",
+          "Çatlak, kabarma ve sürtünme izi"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Hidrolik yağın renginde koyulaşma, köpüklenme veya yanık kokusu varsa periyodu beklemeden yağı kontrol ettirin; gerekiyorsa yağ analizi yaptırmak arızanın kaynağını gösterir. Hortumlar için makine üreticisinin önerisi yoksa hortum üreticisi Gates, mobil makinelerde 400–600 çalışma saatinde ya da üç ayda bir, hangisi önce gelirse, kontrol önerir. Hortum tarafındaki belirtiler için <a href=\"/blog/hidrolik-hortum-neden-patlar.html\">hidrolik hortum neden patlar</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "callout",
+      "text": "Kabine basit bir bakım kartı asın: her yağ ve filtre değişiminde tarihi ve çalışma saatini yazın. Bir sonraki bakımı kimse hafızasından hesaplamak zorunda kalmaz, atlanmış periyot da anında görülür."
+    },
+    {
+      "type": "h2",
+      "text": "Bakım kaydı neden önemli?"
+    },
+    {
+      "type": "p",
+      "text": "Bakım kaydı, bir sonraki bakımı hatırlatmanın yanında arıza teşhisini hızlandırır ve makinenin değerini korur. Arıza çıktığında servis, makinenin geçmişini bildiği için teşhisi daha hızlı koyar. Makineyi satarken düzenli bakım kaydı alıcının ilk sorduğu belgedir. Periyodik kontrole tabi makinelerde de bakım geçmişi, kontrolü yapan kişinin işini kolaylaştırır. Kâğıt bir defter, kabindeki kart ya da telefonunuzdaki basit bir tablo yeterlidir; önemli olan her işlemi tarih ve çalışma saatiyle yazmaktır."
+    },
+    {
+      "type": "h2",
+      "text": "Ege'de yaz ve kış öncesi makinede neler yapılmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Yaz öncesinde soğutma sistemi, kış öncesinde antifriz, akü ve yakıttaki su ayırıcı elden geçirilir. Ege'de yaz, uzun mesai ve yüksek sıcaklık demektir: Radyatör ve yağ soğutucu petekleri temizlenmeli, soğutma suyu ve fan kayışı kontrol edilmelidir; sıcakta hidrolik yağın daha çabuk yorulduğu unutulmamalıdır. Kış öncesinde antifriz oranı, akü şarjı, ısıtma bujileri ve yakıt filtresindeki su ayırıcı gözden geçirilir. Sezon geçişleri, ertelenen küçük işleri toplu hâlde bitirmek için en doğru zamandır."
+    },
+    {
+      "type": "h2",
+      "text": "Bakımı ihmal edilmiş makine nasıl anlaşılır?"
+    },
+    {
+      "type": "p",
+      "text": "İhmal edilmiş makine kendini duman, güç kaybı, ses, boşluk, eksilen sıvılar ve erken yükselen hararetle belli eder:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Egzozdan koyu veya mavi duman, yakıt tüketiminde belirgin artış",
+        "Hidrolik hareketlerde yavaşlama, güç kaybı veya titreme",
+        "Pompa ve valf tarafından gelen ıslık ya da inleme sesi",
+        "Pim ve burçlarda hissedilir boşluk, çalışırken tıkırtı",
+        "Sürekli eksilen yağ ve su, makinenin altında büyüyen leke",
+        "Normalden erken yükselen hararet"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu belirtiler kendiliğinden geçmez, büyüyerek geri döner. Pim ve burç boşluğu erken yakalanırsa iş bir değişimle biter; geç kalınırsa aşınan yuvanın kaynakla doldurulup yeniden işlenmesi ve ölçüsüne göre yeni pim ve burç yapılması gerekir. Pim ve burç imalatını <a href=\"/hizmetler/torna-isleri.html\">torna atölyemizde</a> yapıyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "İş makinaları periyodik kontrole tabi mi?"
+    },
+    {
+      "type": "p",
+      "text": "Evet. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a>'nin Ek-III tabloları yükleyicileri, kazıcı yükleyicileri (beko loder) ve hidrolik kazıcıları (ekskavatör) periyodik kontrole tabi ekipman olarak sayar; ilgili standartta süre belirtilmemişse azami süre bir yıldır. Forklift ve teleskopik yükleyici gibi endüstriyel araçlar ile vinçler için de aynı azami süre geçerlidir. İş makinelerinin periyodik kontrolünü yönetmelikte sayılan yetkili mühendis ve teknikerler yapar; bakımı yapan kişi aynı ekipmanın periyodik kontrolünü yapamaz. Yani düzenli bakım periyodik kontrolün yerini tutmaz, ama kontrolden sorunsuz geçmenin en kısa yoludur. Makinenizde vinç varsa kontrol öncesi hazırlık ve revizyon için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Bakımınızı Milas'ta yaptırın"
+    },
+    {
+      "type": "p",
+      "text": "Milas'taki atölyemizde ve sahada ekskavatör, yükleyici, beko loder, forklift, teleskopik yükleyici ve diğer iş makinaları için periyodik bakım, arıza tespiti, hidrolik onarım ve <a href=\"/hizmetler/pres-hortum.html\">pres hortum</a> hizmeti veriyoruz. Pres hortum, torna ve kaynak aynı tesiste olduğu için çoğu iş tek durakta biter. Makinenizin bakım planını birlikte kuralım; ayrıntılar için <a href=\"/hizmetler/is-makinasi-tamir-bakim.html\">iş makinası tamir ve bakım</a> sayfamıza göz atın."
+    }
+  ],
+  "cikarimlar": [
+    "Bakım aralıklarını saat sayacına göre izleyin; takvim aralığı daha önce dolarsa onu uygulayın.",
+    "Tozlu, sıcak veya ıslak sahada kılavuzdaki ağır hizmet aralıklarını ve daha sık yağlamayı uygulayın.",
+    "Hidrolik yağda koyulaşma, köpük veya yanık kokusu varsa periyodu beklemeden yağı kontrol ettirin.",
+    "Ekskavatör, yükleyici ve beko loder de yıllık periyodik kontrole tabidir; bakım bunun yerini tutmaz.",
+    "Kabine bir bakım kartı asın; her değişimi tarih ve çalışma saatiyle yazın."
+  ],
+  "faqs": [
+    {
+      "q": "İş makinası bakımı kaç saatte bir yapılır?",
+      "a": "Aralıkları makinenin kullanım ve bakım kılavuzu belirler; marka ve modele göre değişir. Örneğin bir ekskavatör kılavuzu günlük, 250 saatlik ve 500 saatlik gibi katlanan aralıklar verir; büyük bakımda küçük aralıkların kalemleri de yapılır. Tozlu, sıcak veya ağır işlerde kılavuzdaki ağır hizmet notları uygulanmalıdır."
+    },
+    {
+      "q": "Bakım saate göre mi, takvime göre mi yapılır?",
+      "a": "Esas olan motor saat sayacıdır. Kılavuzdaki günlük, aylık gibi takvim aralıkları, saat değerine yaklaştığı ve daha pratik olduğu durumlarda kullanılabilir. Az çalışan makinede takvim, yoğun çalışan makinede saat önce dolar; hangisi önce gelirse bakım o zaman yapılır."
+    },
+    {
+      "q": "İş makinasında hangi noktalar sık greslenir?",
+      "a": "Hangi noktanın hangi sıklıkla greslenmesi gerektiğini kılavuzdaki yağlama şeması gösterir. Ekskavatör ve beko loderde bom, kol ve kova bağlantı pimleri en sık greslenen ve en çok ihmal edilen noktalardır. Gres basılmayan pim ve burç kısa sürede boşluk yapar; tozlu ve ıslak sahada üreticiler daha sık yağlamayı öngörür."
+    },
+    {
+      "q": "Ekskavatör ve beko loder periyodik kontrole tabi mi?",
+      "a": "Evet. İş Ekipmanları Yönetmeliği Ek-III'teki iş makineleri tablosu hidrolik kazıcıları, yükleyicileri ve kazıcı yükleyicileri sayar; standartta süre belirtilmemişse azami süre bir yıldır. Forklift de endüstriyel araçlar satırında aynı süreyle yer alır."
+    },
+    {
+      "q": "Bakımı sahada yaptırabilir miyim?",
+      "a": "Evet. Milas, Bodrum, Muğla, Aydın ve İzmir çevresinde sahaya geliyoruz. Yağ, filtre, gres ve hortum işlerinin çoğu yerinde biter; söküm gerektiren işler atölyede yapılır."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "320, 323 Excavator Operation and Maintenance Manual (M0068104-12)",
+      "publisher": "Caterpillar",
+      "url": "https://hammerhire.com.au/assets/files/hire-excavators/cat-operator-manual-320-323.pdf"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "Safe Hydraulics Pocket Guide: Hydraulic Maintenance & Safety Tips",
+      "publisher": "Gates",
+      "url": "https://www.gates.com/content/dam/documents-library/operating-manuals/safe-hydraulics-pocket-guide.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/is-makinasi-tamir-bakim.html",
+    "/hizmetler/pres-hortum.html",
+    "/blog/hidrolik-hortum-neden-patlar.html",
+    "/hizmetler/torna-isleri.html"
+  ]
+}

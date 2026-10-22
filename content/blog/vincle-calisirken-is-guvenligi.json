@@ -1,0 +1,222 @@
+{
+  "slug": "vincle-calisirken-is-guvenligi",
+  "_hedef": "vinç iş güvenliği kuralları",
+  "title": "Vinç İş Güvenliği Kuralları: Sahada Uyulması Gereken 10 Kural",
+  "h1": "Vinçle Çalışırken İş Güvenliği: Sahada 10 Kural",
+  "desc": "Vinç iş güvenliği kuralları: kaldırma planı, zemin, sapan kontrolü, yük altı yasağı, işaretçi, rüzgâr, enerji hattı, günlük ve periyodik kontrol. 10 kural.",
+  "category": "Rehber",
+  "datePublished": "2026-08-22",
+  "dateModified": "2026-10-22",
+  "image": "saha-celik-konstruksiyon.jpg",
+  "imageAlt": "HEDEF VİNÇ yazılı kamyon üstü vinç ve arkasında büyük mobil vinç, çelik çatı konstrüksiyonunun montajında; arka planda inşaat hâlindeki yüksek binalar",
+  "kisaCevap": "Vinçle güvenli çalışmanın temel kuralları şunlardır: iş başlamadan kaldırma planı yapılır, vinç sağlam zemine tam açık ayaklarla kurulur, sapan ve kanca her işten önce kontrol edilir, askıdaki yükün altına kimse girmez, operatör yükü göremiyorsa eğitimli bir işaretçi yönlendirir, enerji hatlarından güvenli mesafe korunur ve hava güvenli çalışmayı engellediğinde iş durdurulur. Vincin günlük kontrolü yapılmış, periyodik kontrol raporu güncel olmalıdır.",
+  "intro": "Bu yazı; şantiyede, villa inşaatında, çelik montajda ya da tekne işinde vinçle kaldırma yaptıracak müteahhitler, saha sorumluları ve operatörler için. Vinçli işlerdeki kazaların çoğu karmaşık sebeplerden değil, bilinen bir kuralın “bu seferlik” atlanmasından çıkar: ölçülmeyen bir yarıçap, rögar kapağına basan bir ayak, askıdaki yükün altından geçen bir çalışan. Kuralların önemli bir kısmı doğrudan İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği'nden gelir. Aşağıda her operasyonda uyguladığımız 10 kuralı, sahada kimin ne yaptığını, işe başlamadan bakılacak listeyi ve bir şey ters gittiğinde ne yapılacağını bulacaksınız.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Vinçle çalışırken uyulması gereken 10 kural nedir?"
+    },
+    {
+      "type": "p",
+      "text": "On kural şunlardır: kaldırma planı, sağlam zemin ve tam açık ayaklar, sapan ve aparat kontrolü, askıdaki yükün altına girmemek, işaretçiyle tek kanaldan iletişim, rüzgâr ve hava takibi, enerji hattı mesafesi, dengeli bağlama ve deneme kaldırması, kişisel koruyucu donanım ve günlük-periyodik kontrol. Her biri aşağıda."
+    },
+    {
+      "type": "h3",
+      "text": "1. Kaldırma planı olmadan iş başlamaz"
+    },
+    {
+      "type": "p",
+      "text": "Yükün ağırlığı (sapan ve aparatlar dahil), kaldırma yüksekliği, çalışma yarıçapı ve vincin yük tablosu iş başlamadan karşılaştırılır. Yük nereden kalkacak, hangi güzergâhı izleyecek, nereye inecek; bunlar havada değil, önceden kararlaştırılır. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> de bütün yük kaldırma işlerinin uygun şekilde planlanmasını ve gözetim altında yürütülmesini ister."
+    },
+    {
+      "type": "h3",
+      "text": "2. Zemin kontrol edilir, destek ayakları tam açılır"
+    },
+    {
+      "type": "p",
+      "text": "Ayak altındaki zeminin çökmesi vinci devirebilir; yönetmelik de seyyar kaldırma ekipmanının zemin özellikleri dikkate alınarak sağlam ve kararlı şekilde kullanılmasını ister. Kurulumdan önce zemine bakılır; gevşek dolgu, rögar, kanal, bodrum ve kazı üstleri özellikle kontrol edilir. Destek ayakları üreticinin öngördüğü şekilde açılır, altına yük altında eğilmeyecek ve zemine gömülmeyecek büyüklükte taban plakası konur. Araç üstü vinçte el freni çekilir, tekerleklere takoz konur."
+    },
+    {
+      "type": "h3",
+      "text": "3. Sapan, zincir ve aparatlar her işten önce gözden geçirilir"
+    },
+    {
+      "type": "p",
+      "text": "Ezilmiş, kesilmiş veya lifleri açılmış sapan kullanılmaz; deforme kanca ve emniyet mandalı bozuk ekipman sahaya çıkmaz. Yönetmelik, kaldırma aksesuarlarının yüke, kavrama noktalarına, bağlantılara ve hava koşullarına uygun seçilmesini ve hasar görmeyecek şekilde saklanmasını ister. Sapanlar da vinç gibi periyodik kontrole tabidir."
+    },
+    {
+      "type": "h3",
+      "text": "4. Askıdaki yükün altında durulmaz"
+    },
+    {
+      "type": "p",
+      "text": "En temel ve en çok ihlal edilen kural budur. Yönetmelik, teknik zorunluluk olmadıkça kaldırılan yükün altında insan bulunmamasını ve yükün çalışanların bulunduğu korunmasız alanların üzerinden geçirilmemesini ister. Askıdaki yük, tehlikeli bölgeye giriş engellenmedikçe gözetimsiz bırakılmaz; yük askıdayken araç da hareket ettirilmez. Yük güzergâhı önceden belirlenir, gerekirse alan şeritle veya dubayla kapatılır."
+    },
+    {
+      "type": "h3",
+      "text": "5. İşaretçiyle tek kanaldan iletişim kurulur"
+    },
+    {
+      "type": "p",
+      "text": "Operatör yükün tamamını göremiyorsa ona yol gösterecek eğitimli ve deneyimli bir kişi görevlendirilir. Komutlar tek kişiden gelir; el işaretleri veya telsiz kullanılır ve operatörle işaretçi aynı işaretleri bildiğinden iş başlamadan emin olur. “Dur” komutu istisnadır: kim verirse versin operasyon durur."
+    },
+    {
+      "type": "h3",
+      "text": "6. Hava koşulları, özellikle rüzgâr takip edilir"
+    },
+    {
+      "type": "p",
+      "text": "Rüzgâr, geniş yüzeyli yüklerde yelken etkisi yaratır. Her vincin izin verilen rüzgâr sınırı kullanım kılavuzunda yazar; örneğin bir araç üstü vinç <a href=\"https://cms.hiab.com/contentassets/176458ce1b3c4d0e82a446779079d6b8/hiab---435k-hipro---operators-manual.pdf\">kılavuzu</a> bu sınırı 10 metre yükseklikte ölçülen 10 dakikalık ortalama rüzgâr hızıyla tanımlar ve fırtınada ya da gök gürültülü havada vincin hiç kullanılmamasını ister. Sınır aşılıyorsa iş ertelenir. Yönetmelik de hava koşulları güvenli kullanımı engelleyecek kadar bozulduğunda açık havadaki kaldırma işinin durdurulmasını ve özellikle devrilmeye karşı önlem alınmasını ister."
+    },
+    {
+      "type": "h3",
+      "text": "7. Enerji hatlarına güvenli mesafe korunur"
+    },
+    {
+      "type": "p",
+      "text": "Bom veya halatın enerji hattına yaklaşması ölümcül sonuç doğurur. Örneğin bir araç üstü vinç kılavuzu gerilime göre artan asgari yaklaşma mesafeleri verir ve ulusal kuralların farklı bir mesafe öngörebileceğini belirtir. Keşifte havai hatlar işaretlenir; güvenli mesafe korunamıyorsa çalışmadan önce dağıtım şirketiyle görüşülür, gerekirse hat enerjisiz bırakılır."
+    },
+    {
+      "type": "h3",
+      "text": "8. Yük dengelenir ve deneme kaldırması yapılır"
+    },
+    {
+      "type": "p",
+      "text": "Yükün ağırlık merkezi bulunur, bağlantı noktaları buna göre ayarlanır. Yük önce yerden birkaç santim kaldırılıp bekletilir; denge, sapan oturması ve fren bu kısa duraklamada kontrol edilir. Sorun varsa yük indirilir, bağlantı düzeltilir. Askıdaki yüke sonradan ek yapılmaz. İki vinçle ortak kaldırmada operatörler arasında eşgüdüm önceden kurulur."
+    },
+    {
+      "type": "h3",
+      "text": "9. Kişisel koruyucu donanım olmadan sahaya çıkılmaz"
+    },
+    {
+      "type": "p",
+      "text": "Baret, iş ayakkabısı, reflektörlü yelek ve eldiven vinçli sahada asgari donanımdır; yüksekte çalışan personel için emniyet kemeri eklenir. İnsan kaldırmak gerekiyorsa yük vinci değil, bu amaçla üretilmiş ekipman kullanılır; yönetmelik insan kaldırmak için üretilmemiş ekipmanı yalnızca olağanüstü veya acil istisnai durumlarda, önlem alınarak ve gözetim altında kabul eder."
+    },
+    {
+      "type": "h3",
+      "text": "10. Günlük ve periyodik kontrol aksatılmaz"
+    },
+    {
+      "type": "p",
+      "text": "Operatör her çalışmaya başlamadan önce vinci kontrol eder: halat, kanca, frenler, hidrolik kaçaklar, emniyet düzenekleri. Yönetmelik bu gözle muayenenin ve fonksiyon denemesinin kayıt altına alınmasını, çatlak veya aşırı aşınma görülen ekipmanın kullanım dışı bırakılıp derhal periyodik kontrole sokulmasını ister. Bunun yanında vincin yetkili kişilerce yapılan periyodik kontrolü güncel olmalı; nasıl yapıldığını <a href=\"/blog/vinc-periyodik-kontrol-oncesi-bakim.html\">vinç periyodik kontrolü</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç operasyonunda sahada kim ne yapar?"
+    },
+    {
+      "type": "p",
+      "text": "Her kaldırmada dört rol netleşmelidir: operatör, işaretçi, bağlama yapan kişi ve saha sorumlusu. Kazaların bir kısmı kuralların bilinmemesinden değil, kimin neden sorumlu olduğunun belirsiz kalmasından çıkar:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Operatör:</strong> Vincin kurulumu, yük tablosuna uyum ve kumanda. Güvenli bulmadığı kaldırmayı başlatmaz, başladıysa durdurur.",
+        "<strong>İşaretçi:</strong> Operatörün göremediği yerde tek komut kaynağıdır; yük güzergâhını ve iniş noktasını izler.",
+        "<strong>Bağlama yapan kişi:</strong> Sapan seçimi, yükün dengeli bağlanması, yönlendirme halatı.",
+        "<strong>Saha sorumlusu:</strong> Alanın boşaltılması, şerit ve işaretleme, diğer ekiplerin uzak tutulması."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "İşe başlamadan önce neler kontrol edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Aşağıdaki sekiz soruya “evet” demeden kaldırma başlamaz; bu liste iki dakikanızı alır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Yükün ağırlığı ve yarıçap yük tablosunda karşılanıyor mu?",
+        "Zemin sağlam mı, ayaklar tam açık ve altları destekli mi?",
+        "El freni çekili, tekerlekler takozlu mu?",
+        "Sapan, kanca ve mandal sağlam mı?",
+        "Yük güzergâhı ve altı boş mu, alan işaretli mi?",
+        "İşaretçi belli mi, iletişim yöntemi konuşuldu mu?",
+        "Rüzgâr ve hava uygun mu, yakında enerji hattı var mı?",
+        "Vincin periyodik kontrol raporu sahada mı?"
+      ]
+    },
+    {
+      "type": "callout",
+      "text": "Sahada tereddüt ettiğiniz an operasyonu durdurun. Bir kaldırmayı tekrarlamak birkaç dakikanızı alır; bir kazayı telafi etmek çoğu zaman mümkün olmaz."
+    },
+    {
+      "type": "h2",
+      "text": "Kaldırma sırasında bir şey ters giderse ne yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Hareket durdurulur, mümkünse yük güvenli bir yere indirilir ve sebep anlaşılmadan devam edilmez. Sık karşılaşılan durumlar:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Yağ kaçağı veya hortum patlaması:</strong> Herkes vinçten ve yükten uzaklaşır. Vinç güvenle yere ya da kasaya indirilir, sistem kapatılır ve PTO devreden çıkarılır. Silindirlerdeki yük tutma valfleri hortum patlasa bile bomun çökmesini önlemek için vardır; ama arıza giderilmeden çalışılmaz.",
+        "<strong>Aşırı yük uyarısı:</strong> Yük tablosu aşılmış demektir. Yük indirilir, yarıçap küçültülür ya da daha büyük vinç planlanır; koruma sistemi asla köprülenmez.",
+        "<strong>Ayak oturması veya zemin çökmesi:</strong> Yük hemen ve yavaşça indirilir, vinç yeniden kurulmadan devam edilmez.",
+        "<strong>Hava bozulması:</strong> Yük güvenli bir yere indirilir; rüzgâr sınırın altına inmeden yeniden başlanmaz."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bu kurallar bizde standarttır"
+    },
+    {
+      "type": "p",
+      "text": "Vinçlerimiz sahaya operatörüyle gider; kaldırma planı, sapan seçimi ve saha güvenliği bizim sorumluluğumuzdadır. Vinçlerimizin bakımı ve revizyonu kendi atölyemizde yapıldığı için sahaya bakımlı makine göndeririz. Milas, Bodrum ve çevresinde bir kaldırma işi planlıyorsanız <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> sayfamıza, hangi makinenin uygun olduğu için <a href=\"/blog/dogru-vinc-secimi.html\">doğru vinç seçimi</a> yazımıza bakın. Kendi vincinizde günlük kontrolde kaçak, boşluk veya çatlak gördüyseniz <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> için bize ulaşın."
+    }
+  ],
+  "cikarimlar": [
+    "Askıdaki yükün altına girilmez; yük güzergâhı önceden boşaltılır ve işaretlenir.",
+    "Ayaklar rögar, kazı veya yeni dolgu üstüne basmamalı; geniş ve sağlam taban plakası kullanılmalı.",
+    "Operatör yükü göremiyorsa tek bir eğitimli işaretçi komut verir; “dur” komutunu herkes verebilir.",
+    "Rüzgâr sınırı vincin kılavuzunda yazar; aşılıyorsa veya fırtına varsa kaldırma ertelenir.",
+    "Çatlak veya aşırı aşınma görülen vinç kullanım dışı bırakılır ve kontrole alınır."
+  ],
+  "faqs": [
+    {
+      "q": "Askıdaki yükün altında çalışılabilir mi?",
+      "a": "Hayır. İş Ekipmanları Yönetmeliği, teknik zorunluluk olmadıkça kaldırılan yükün altında insan bulunmamasını ister. Zorunlu durumlarda bile uygun yöntem ve önlemler önceden belirlenmelidir."
+    },
+    {
+      "q": "Vinç rüzgârda ne zaman durdurulur?",
+      "a": "Herkes için geçerli tek bir değer yoktur; izin verilen rüzgâr sınırı vincin kullanım kılavuzunda yazar; örneğin bir araç üstü vinç kılavuzu bu sınırı 10 metre yükseklikteki 10 dakikalık ortalama rüzgâr hızıyla tanımlar. Yükün yüzeyi büyüdükçe risk artar. Sınır aşılıyorsa, fırtına veya gök gürültüsü varsa iş durdurulur."
+    },
+    {
+      "q": "Vinç operasyonunda işaretçi zorunlu mu?",
+      "a": "Operatör yükün tamamını göremiyorsa evet. Yönetmelik bu durumda operatöre yol gösterecek eğitimli ve deneyimli bir kişinin görevlendirilmesini ister."
+    },
+    {
+      "q": "Vinç operatörü işe başlamadan neleri kontrol etmeli?",
+      "a": "Vinci çatlak, gevşek bağlantı, deformasyon, aşınma ve korozyon yönünden gözle kontrol etmeli, fonksiyonları denemeli ve bunu kayda geçirmelidir. Hidrolik kaçaklar, ayak kilitleri, pim emniyetleri, stop butonları, kanca mandalı ve kolların nötre dönmesi bu kontrolün parçasıdır."
+    },
+    {
+      "q": "Kiraladığım vincin güvenli olduğunu nasıl anlarım?",
+      "a": "Son periyodik kontrol raporunu isteyin; yönetmelik işyeri dışında kullanılan seyyar ekipmanda bu raporun ekipmanla birlikte bulundurulmasını ister. Operatörün deneyimini ve kaldırma planını kimin yaptığını da sorun."
+    },
+    {
+      "q": "Sapanlar ne sıklıkla kontrol edilmeli?",
+      "a": "Her kullanımdan önce gözle kontrol edilmeli; kesik, ezik, açılmış lif veya okunmayan etiket varsa kullanılmamalıdır. Ayrıca kaldırma aksesuarları İş Ekipmanları Yönetmeliği Ek-III'e göre, standartlarda süre belirtilmemişse en geç yılda bir periyodik kontrole tabidir."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (güncel metin)",
+      "publisher": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "HIAB 435K HiPro Operator's Manual (bakım, güvenlik ve arıza giderme bölümleri)",
+      "publisher": "HIAB",
+      "url": "https://cms.hiab.com/contentassets/176458ce1b3c4d0e82a446779079d6b8/hiab---435k-hipro---operators-manual.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-kiralama.html",
+    "/blog/vinc-periyodik-kontrol-oncesi-bakim.html",
+    "/blog/dogru-vinc-secimi.html",
+    "/hizmetler/vinc-revizyon-tamir-bakim.html"
+  ]
+}

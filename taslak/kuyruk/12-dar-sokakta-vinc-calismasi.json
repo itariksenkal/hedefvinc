@@ -1,0 +1,256 @@
+{
+  "slug": "dar-sokakta-vinc-calismasi",
+  "_hedef": "dar sokakta vinç",
+  "title": "Dar Sokakta Vinç Çalışması: Erişim, Ayaklar ve İzin",
+  "h1": "Dar Sokakta Vinç Çalışması: Erişim, Destek Ayakları ve Yol Kapatma İzni",
+  "desc": "Dar sokakta vinç çalışması için hangi vinç seçilir, destek ayakları nasıl açılır, yol kapatma izni nereden alınır? Keşif ve planlama kontrol listesi.",
+  "category": "Vinç Kiralama",
+  "image": "hedef-vinc-kamyon.jpg",
+  "imageAlt": "Hedef yazılı beyaz kamyon üstü katlanır bomlu vinç, zincirlerle sarı çelik kafes elemanı kaldırıyor; yanında iki kişi",
+  "kisaCevap": "Dar sokakta vinç çalışması mümkündür; şartı, aracın sokağa girip çıkabilmesi, destek ayaklarının plakalarla sağlam zeminde açılabilmesi ve yol kapanacaksa ilgili idareden izin alınmasıdır. Ayaklar tam açılamıyorsa yalnızca üreticinin o konum için verdiği düşük kapasiteyle çalışılır. Çoğu dar sokak işinde doğru seçim, yükü kendi kasasında getirip indiren araç üstü katlanır bomlu vinçtir. Bu koşulların hepsi keşifte netleşir.",
+  "cikarimlar": [
+    "Sokağın yalnızca girişi değil, güzergâhtaki en dar noktası, virajları ve havai engelleri ölçülmelidir.",
+    "Ayakların altına mutlaka plaka konur; rögar, menfez ve bordür üzerine ayak konmaz.",
+    "Kapasite tablosunun izin vermediği ayak konumunda kaldırma yapılmaz.",
+    "Yol kapatma iznini genellikle iş sahibi, yolun bağlı olduğu idareden alır.",
+    "Enerji hattına yeterli güvenlik mesafesi bırakılamıyorsa ilgili kuruluşun onayı olmadan çalışılmaz."
+  ],
+  "intro": "Milas'ın eski mahallelerinde, Bodrum'un köy içlerinde ve sahil yerleşimlerinin ara sokaklarında vinç işi, yükten çok sokağın kendisiyle ilgilidir. Bu rehber dar bir sokakta malzeme, ekipman ya da konteyner indirmesi gereken ev sahipleri, ustalar ve müteahhitler için; erişimi, ayakları, izni, komşuları ve iş gününün sırasını keşifte baktığımız sırayla anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Dar sokakta vinç çalışmasında asıl sorun nedir?"
+    },
+    {
+      "type": "p",
+      "text": "Asıl sorun erişimdir: aracın boyu ve dönüş yarıçapı, ayakların açılacağı genişlik, balkonlar ve havai hatlar, park etmiş araçlar ve sokaktan geçmek zorunda olan yayalar. Yükün ağırlığı çoğu zaman ikinci sırada gelir. İyi haber şu: Doğru planlandığında bu işlerin büyük bölümü güvenle yapılabilir."
+    },
+    {
+      "type": "h2",
+      "text": "Vincin sokağa girip giremeyeceği nasıl anlaşılır?"
+    },
+    {
+      "type": "p",
+      "text": "Sokağın en dar noktası, virajlar, eğim ve havai engeller bunu belirler; keşifte bütün güzergâh yürünerek kontrol edilir. İlk baktığımız şey, aracın sokağa girip çalışma noktasına ulaşıp ulaşamayacağı ve iş bitince geri çıkabileceğidir. Şu noktaları birlikte kontrol ederiz:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Sokağın en dar noktasının genişliği; yalnızca girişteki değil, tüm güzergâhtaki",
+        "Köşe dönüşleri ve virajlar; aracın manevra yapıp yapamayacağı",
+        "Eğim; özellikle dik ve dar sokaklarda aracın kalkış ve duruşu",
+        "Sarkan ağaç dalları, balkonlar, tenteler ve tabelalar",
+        "Elektrik, telefon ve aydınlatma hatları",
+        "Yol üstündeki geçitlerin ve köprülerin yükseklik ve taşıma sınırları",
+        "Yol kenarına park etmiş araçlar ve iş günü bunların çekilip çekilemeyeceği",
+        "Zeminde eski menfez, kanal ya da çökmüş asfalt gibi zayıf noktalar"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Size düşen en pratik hazırlık, sokağın en dar noktasını metreyle ölçmek ve sokağı iki ucundan, ayrıca çalışma noktasından fotoğraflamaktır. Bu fotoğraflar çoğu zaman keşfin yarısını uzaktan yapmamızı sağlar. Güzergâhta havai hat varsa <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18928&MevzuatTur=7&MevzuatTertip=5\">Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği</a>, yeterli güvenlik mesafesinin hat tellerinin rüzgârdaki salınımı da hesaba katılarak belirlenmesini, bu mesafe bırakılamıyorsa hattın yerinin değiştirilmesi ya da akımın kesilmesi için ilgili kuruluştan onay ve izin alınmasını ister."
+    },
+    {
+      "type": "h2",
+      "text": "Dar sokakta destek ayakları nasıl açılır?"
+    },
+    {
+      "type": "p",
+      "text": "Ayaklar plakalarıyla sağlam zeminde, mümkünse tam açılır; tam açılamıyorsa yalnızca üreticinin o konum için kapasite tanımladığı vinçlerde, o düşük kapasiteyle çalışılır. Bir vincin kapasite tablosundaki değerler, destek ayaklarının üreticinin tanımladığı konumda açılmış olmasına göre verilir. Dar sokakta ayakları tam açacak yer yoksa iki durum vardır. Bazı vinçlerde ayakların kısmen açık olduğu konumlar için ayrı kapasite değerleri tanımlanmıştır; bu durumda vinç o konumdaki düşük kapasiteyle çalışabilir. Böyle bir tablo yoksa ayaklar tam açılmadan yük kaldırılmaz. Kural basittir: kapasite tablosunun izin vermediği bir konumda kaldırma yapılmaz."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Ayakların altına mutlaka yük dağıtma plakası konur; plakasız ayak asfaltı ezebilir ya da zemine gömülebilir.",
+        "Rögar kapağı, menfez, kanal ve su sayacı kutularının üzerine ayak konmaz.",
+        "Kaldırım kenarı, bordür taşı ve yol banketi gibi kırılabilecek noktalardan kaçınılır.",
+        "Yeni yapılmış asfalt ve sıkıştırılmamış dolgu zemin ayrıca değerlendirilir.",
+        "Eğimli sokakta vincin terazide olması sağlanır; sağlanamıyorsa kaldırma yapılmaz."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Destek ayaklarının kendisindeki arızalar da dar sokakta ayrıca risk yaratır; ayakların bakımı ve sık görülen sorunlar için <a href=\"/blog/vinc-ayaklari-outrigger-arizasi.html\">vinç ayakları (outrigger) arızası</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç için yol kapatma izni nereden alınır?"
+    },
+    {
+      "type": "p",
+      "text": "Yolun bağlı olduğu idareden alınır: ilçe belediyesi, büyükşehir belediyesi ya da devlet yoluysa Karayolları. Vinç kurulduğunda sokak çoğu zaman kısmen ya da tamamen kapanır; kamu yolunu, kaldırımı ya da yaya yolunu kullanacaksanız izin gerekebilir. İlçe belediyesinde başvurunun hangi birime yapılacağını önceden sormak zaman kazandırır."
+    },
+    {
+      "type": "p",
+      "text": "Başvuruda genellikle işin tanımı, tarih ve saat aralığı, kapatılacak alanın krokisi ve vincin bilgileri istenir; bazı idareler sigorta, ekipmanın periyodik kontrol raporu ve operatör belgesi gibi belgeleri de isteyebilir. Başvuruyu genellikle işin sahibi yapar. Biz kullanacağımız alanı, süreyi ve vincin belgelerini veririz. Bodrum'da çalışacaksanız, güzergâh planlarken belediyenin <a href=\"https://www.bodrum.bel.tr/kapali_yollar\">trafiğe kapalı yollar</a> sayfasına da bakmanızı öneririz; yol çalışması nedeniyle kapanan bir cadde, aracın sahaya giriş yolunu değiştirebilir."
+    },
+    {
+      "type": "h2",
+      "text": "Dar sokak için hangi vinç seçilmeli?"
+    },
+    {
+      "type": "p",
+      "text": "Kısa mesafe ve orta ağırlıkta araç üstü katlanır bomlu vinç, uzun erişimde ise sokak dışına kurulan daha büyük bir vinç düşünülür:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Durum",
+        "Uygun seçenek",
+        "Not"
+      ],
+      "rows": [
+        [
+          "Kısa mesafe, orta ağırlık, dar giriş",
+          "Araç üstü katlanır bomlu (hiyap) vinç",
+          "Yükü kendi kasasında getirip indirebilir"
+        ],
+        [
+          "Yük binanın arkasına ya da çatısına, uzun erişim",
+          "Daha büyük erişimli vinç; kurulum sokak dışında",
+          "Keşif şarttır"
+        ],
+        [
+          "Ayak açılacak yer yok",
+          "Ana yol ya da boş arsa gibi alternatif kurulum noktası",
+          "Bazen yük parçalara ayrılarak taşınır"
+        ],
+        [
+          "Yük değil insan çıkarılacak",
+          "Sepetli platform",
+          "Bu iş vinçle yapılmaz"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Araç üstü vincin dar sokaktaki en büyük avantajı, taşıma ve kaldırmayı tek araçla yapmasıdır. Malzeme ayrı bir kamyonla gelip ardından vinç beklenmez; sokağa tek araç girer, yükünü indirir ve çıkar. Bu, sokağın kapalı kalacağı süreyi ciddi biçimde kısaltır. Buna karşılık erişim mesafesi sınırlıdır; yük binanın arka tarafına ya da yüksek bir çatıya verilecekse daha büyük bir vinç ve ona uygun bir kurulum noktası gerekebilir. Vinç türlerinin güçlü ve zayıf yanlarını <a href=\"/blog/dogru-vinc-secimi.html\">doğru vinç seçimi</a> yazımızda ayrıntılı anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Komşular ve yayalar için hangi önlemler alınır?"
+    },
+    {
+      "type": "p",
+      "text": "Çalışma alanı işaretlenir, komşular önceden bilgilendirilir ve yük rotası kimsenin üzerinden geçmez:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Çalışmadan önce sokaktaki komşuları tarih ve saat konusunda bilgilendirin.",
+        "Park etmiş araçların sahiplerine bir gün önceden haber verin.",
+        "Çalışma alanını şerit, bariyer ve uyarı levhalarıyla belirleyin.",
+        "Yük rotası insanların üzerinden geçmez; yayalar için güvenli bir geçiş yolu bırakılır.",
+        "Balkon ve pencerelerde yük rotasına yakın kimsenin bulunmaması sağlanır.",
+        "Sahada tek bir işaretçi bulunur; operatör yalnızca ondan talimat alır."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Sahada uyduğumuz kuralların tamamını <a href=\"/blog/vincle-calisirken-is-guvenligi.html\">vinçle çalışırken iş güvenliği</a> yazımızda bulabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Dar sokakta vinç hangi saatte çalışmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Trafiğin yoğun olduğu sokaklarda en sorunsuz çözüm, çalışmayı sokağın en sakin olduğu saate almaktır. Sabahın erken saatleri, esnafın açılmadığı ve araç trafiğinin az olduğu zamanlardır. Bazı işlerde gece çalışması da planlanabilir; ancak bu durumda yeterli aydınlatma, komşuların bilgilendirilmesi ve gürültüyle ilgili yerel kurallar ayrıca değerlendirilmelidir. Gece çalışmasının izin koşullarını da başvuru sırasında sormak gerekir."
+    },
+    {
+      "type": "h2",
+      "text": "İş günü dar sokakta çalışma nasıl ilerler?"
+    },
+    {
+      "type": "p",
+      "text": "Alan araç gelmeden kapatılır, iş bitince sokak temiz şekilde açılır; arada şu sıra izlenir:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Çalışma alanı, araç gelmeden önce bariyer ve uyarı levhalarıyla kapatılır.",
+        "Araç, keşifte belirlenen güzergâhtan ve gerekiyorsa yönlendirmeyle sokağa girer.",
+        "Ayaklar plakalarıyla birlikte açılır; vincin terazisi kontrol edilir.",
+        "Yük bağlanır, birkaç santim kaldırılıp dengesi kontrol edilir.",
+        "Yük, insanların ve araçların üzerinden geçmeyen rotadan taşınıp yerine indirilir.",
+        "Ayaklar toplanır, alan temizlenir ve sokak trafiğe açılır."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Keşifte adım adım neye bakıyoruz?"
+    },
+    {
+      "type": "p",
+      "text": "Keşif, ana yoldan çalışma noktasına kadar güzergâhı, kurulum noktalarını ve izin ihtiyacını kapsar:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Ana yoldan çalışma noktasına kadar güzergâhı yürüyerek kontrol ederiz.",
+        "Vincin kurulabileceği noktaları ve her birinde ayakların açılacağı alanı ölçeriz.",
+        "Yükün alınacağı ve ineceği noktalar arasındaki yatay mesafeyi ve yüksekliği belirleriz.",
+        "Havai hatları, ağaçları ve balkonları not ederiz.",
+        "Zemindeki zayıf noktaları, rögar ve menfezleri işaretleriz.",
+        "Yol kapatma gerekip gerekmediğini ve ne kadar süreceğini çıkarırız.",
+        "Bu bilgilerle uygun vinci ve net fiyatı söyleriz."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Milas, Bodrum ve çevresinde dar sokak işleri"
+    },
+    {
+      "type": "p",
+      "text": "2005'ten beri Milas merkezli çalışıyoruz ve bölgede dar sokak, site içi yol ve köy içi işler sık karşımıza çıkıyor. Vinçlerimiz operatörleriyle gelir; kaldırma planı, sapan seçimi ve saha güvenliği bizim sorumluluğumuzdadır. İşten önce ücretsiz keşif yapar ve fiyatı baştan netleştiririz. Kiralama seçenekleri için <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> sayfamıza, yamaçtaki villa işleri için <a href=\"/blog/bodrum-villa-insaatinda-vinc.html\">Bodrum villa inşaatında vinç</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "callout",
+      "text": "Sokağın en dar noktasının ölçüsünü ve birkaç fotoğrafı gönderin; vincin girip giremeyeceğini, ayakların nereye açılacağını ve izin gerekip gerekmediğini birlikte netleştirelim."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Dar sokakta vinç ayakları kaldırıma açılabilir mi?",
+      "a": "Kaldırımın sağlamlığına ve kapanacak alan için izin durumuna bağlıdır. Ayak her zaman plakayla açılır; bordür taşı, kaldırım kenarı, rögar ve sayaç kutularının üzerine ayak konmaz. Kaldırım ya da yaya yolu kapanacaksa, yolun bağlı olduğu idareden izin gerekebilir."
+    },
+    {
+      "q": "Yol kapatma başvurusunda hangi bilgiler istenir?",
+      "a": "Genellikle işin tanımı, tarih ve saat aralığı, kapatılacak alanın krokisi ve vincin bilgileri istenir; bazı idareler sigorta, periyodik kontrol raporu ve operatör belgesini de isteyebilir. Başvuruyu çoğunlukla iş sahibi yapar; biz kullanılacak alanı, süreyi ve vincin belgelerini veririz."
+    },
+    {
+      "q": "Destek ayakları tam açılmazsa kaldırma yapılabilir mi?",
+      "a": "Yalnızca vincin üreticisi o konum için kapasite değeri tanımlamışsa ve yük bu değerin altındaysa. Böyle bir tablo yoksa ayaklar tam açılmadan kaldırma yapılmaz."
+    },
+    {
+      "q": "Sokakta park etmiş araçlar ne olacak?",
+      "a": "İş günü çalışma alanının boş olması gerekir. Araç sahiplerine önceden haber vermek ve gerekirse ilgili birimden destek istemek en sağlıklı yoldur."
+    },
+    {
+      "q": "Dar sokakta vinç çalışması ne kadar sürer?",
+      "a": "Kaldırmanın kendisi çoğu zaman kısa sürer; asıl zamanı alan, alanın kapatılması, ayakların kurulması ve toplanmasıdır. Keşifte yolun ne kadar süre kapalı kalacağını size baştan söyleriz."
+    },
+    {
+      "q": "Elektrik hattına yakın vinç çalışabilir mi?",
+      "a": "Yeterli güvenlik mesafesi korunabiliyorsa çalışabilir; mesafe belirlenirken tellerin rüzgârda salınımı da hesaba katılır. Mesafe korunamıyorsa çalışma yapılmaz; alternatif bir kurulum noktası aranır ya da hattın yerinin değiştirilmesi veya enerjinin kesilmesi için elektrik dağıtım şirketiyle görüşülür."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18928&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "Trafiğe Kapalı Yollar",
+      "publisher": "Bodrum Belediyesi",
+      "url": "https://www.bodrum.bel.tr/kapali_yollar"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-kiralama.html",
+    "/blog/dogru-vinc-secimi.html",
+    "/blog/vinc-ayaklari-outrigger-arizasi.html",
+    "/blog/bodrum-villa-insaatinda-vinc.html"
+  ]
+}

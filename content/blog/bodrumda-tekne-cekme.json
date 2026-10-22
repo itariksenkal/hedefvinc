@@ -1,0 +1,208 @@
+{
+  "slug": "bodrumda-tekne-cekme",
+  "_hedef": "Bodrum tekne çekme vinç (tekne karaya alma / denize indirme)",
+  "title": "Bodrum'da Tekne Çekme ve Denize İndirme: Vinçle Adım Adım",
+  "h1": "Bodrum'da Tekne Çekme ve Denize İndirme: Vinçle Güvenli Kaldırma Rehberi",
+  "desc": "Bodrum'da tekne çekme ve denize indirme vinçle nasıl yapılır? Sapan yerleşimi, denge, sehpa, sezon planı ve hazırlık listesi; Milas–Bodrum operatörlü vinç.",
+  "category": "Vinç Kiralama",
+  "datePublished": "2026-08-22",
+  "dateModified": "2026-10-22",
+  "image": "real_ones/tekne-kaldirma-katlanir-bom-vinc.jpg",
+  "imageAlt": "Sarı katlanır bomlu vinç, iki sarı kaldırma kayışıyla beyaz bir motorlu tekneyi kaldırıyor; arkada okaliptüs ağaçları",
+  "kisaCevap": "Bodrum'da marina vinci olmayan koylarda, iskelelerde ve bahçede kışlayacak teknelerde tekne çekme ve denize indirme, mobil vinç ya da araç üstü katlanır bomlu vinçle yapılır. Tekne geniş kayışlarla şaft, pervane ve sensörlerden uzak noktalardan bağlanır, birkaç santim kaldırılıp denge kontrol edilir, sonra sehpaya, taşıyıcıya ya da suya indirilir. Gereken vinci teknenin ağırlığı ve vincin tekneye mesafesi belirler; bu işi Milas'taki atölyemizden operatörlü vinçle yapıyoruz.",
+  "intro": "Bu yazı, teknesini sezon sonunda karaya almak ya da baharda yeniden suya indirmek isteyen tekne sahipleri, çekek yeri işletenler ve tekne bakımı yapanlar için. Bodrum yarımadasında ve Milas sahilinde her sonbahar aynı sorular gelir: Marina vinci yoksa tekne nasıl çıkar, hangi vinç gelir, tekne sahibi neyi hazırlamalı, fiyatı ne belirler? Aşağıda bu soruları sahadaki iş sırasıyla, 2005'ten beri vinçle çalışan bir atölye olarak bildiğimiz kadarıyla cevaplıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Bodrum'da tekne çekme ne zaman vinçle yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Marina vinci ya da travelift bulunmayan koylarda, kooperatif çekek yerlerinde, iskelelerde ve teknenin bahçede veya kendi arazisinde kışlayacağı durumlarda tekne çekme vinçle yapılır. Güllük'ten Turgutreis'e, Yalıkavak'tan Ören'e kadar pek çok tekne sezonu denizde geçirir; sezon kapanınca önemli bir kısmı bakım ve kışlama için karaya alınır. Karada karina temizliği, zehirli boya, motor ve şaft bakımı yapılır; ilkbaharda tekne yeniden suya iner. İki operasyonun özü aynıdır: teknenin dengeli kaldırılıp güvenle taşınması."
+    },
+    {
+      "type": "p",
+      "text": "Marina vinci olan yerlerde bu iş marina içinde çözülür. Diğer yerlerde mobil vinç ya da araç üstü katlanır bomlu vinç çoğu zaman en pratik yoldur: Vinç rampanın, iskelenin ya da kıyının yanına konumlanır, tekneyi bulunduğu yerden alıp taşıyıcıya, römorka veya sehpasına yerleştirir. Hangi vincin geleceğini teknenin ağırlığı ve vincin tekneye ne kadar yanaşabildiği belirler."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç gelmeden önce neler hazırlanmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Doğru vincin ilk seferde gelmesi için teknenin ölçüleri ve ağırlığı, kayış noktaları ve vincin kurulacağı zemin önceden bilinmelidir. Aşağıdaki listeyi tekne sahibi ya da teknesini iyi bilen biri hazırlarsa operasyon günü sürpriz çıkmaz:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "<strong>Tekne bilgileri:</strong> Boy, en, tip (motorlu, yelkenli) ve yaklaşık ağırlık. Ağırlığı ruhsat, üretici belgesi veya kataloğundan bulun; yakıt, su ve ekipmanın da ağırlık eklediğini unutmayın.",
+        "<strong>Kayış noktaları:</strong> Gövdede sapan işareti varsa yerini söyleyin; şaft, pervane, iskandil ve kıç ayna sensörlerinin konumunu bilin.",
+        "<strong>Önceki kaldırmanın fotoğrafı:</strong> Tekne daha önce vinçle kaldırıldıysa kayışların yerini gösteren bir fotoğraf, doğru noktaları hemen bulmamızı sağlar.",
+        "<strong>Tankları boşaltın:</strong> Yakıt ve su tankları mümkün olduğunca boş olsun; hem hafifler hem ağırlık merkezi daha öngörülebilir olur.",
+        "<strong>Donanımı sabitleyin:</strong> Bumba, tente, bimini ve hareketli parçaları bağlayın ya da sökün.",
+        "<strong>Zemin ve erişim:</strong> Vincin duracağı yerin zemini, rampa genişliği, yakındaki ağaçlar ve enerji hatları.",
+        "<strong>Karşılama hazır olsun:</strong> Sehpa, çanak veya römork yerinde ve teknenin formuna uygun olmalı.",
+        "<strong>Hava:</strong> Rüzgârlı günlerde askıdaki tekne salınır; sabah erken saatler genellikle daha sakindir."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Vinçle tekne kaldırma nasıl yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Tekne geniş kaldırma kayışlarıyla ağırlık merkezinin iki yanından bağlanır, birkaç santim kaldırılıp denge kontrol edilir ve ancak ondan sonra taşınır. Bu sıranın her adımı hem gövdeyi hem de askıdaki yükün güvenliğini korumak içindir."
+    },
+    {
+      "type": "h3",
+      "text": "Sapan (kaldırma kayışı) yerleşimi"
+    },
+    {
+      "type": "p",
+      "text": "Tekne çıplak halat veya zincirle sarılarak kaldırılmaz; gövdeye zarar vermeyen geniş yüzeyli polyester kayışlar kullanılır. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> de kaldırma aksesuarlarının yüke, kavrama noktalarına ve hava koşullarına uygun seçilmesini ister. Kayışların tekne altındaki konumu operasyonun en kritik adımıdır: şaft, pervane, iskandil ve sensörlere denk gelmemelidir. Bazı teknelerde üretici kayış noktalarını gövdede işaretlemiştir; işaret yoksa teknenin formu ve ağırlık dağılımına göre doğru nokta belirlenir. İlk kaldırmada kayışların yerini fotoğraflamak, sonraki sezonlarda aynı noktaların hızla bulunmasını sağlar."
+    },
+    {
+      "type": "h3",
+      "text": "Ağırlık merkezi ve denge"
+    },
+    {
+      "type": "p",
+      "text": "Ağırlık merkezi motorun konumuna, tankların doluluğuna ve teknedeki ekipmana göre değişir. Kayışlar ağırlık merkezinin iki yanına dengeli dağıtılmazsa tekne askıda başa veya kıça doğru eğilir; bu hem tehlikelidir hem gövdeye noktasal yük bindirir. Bu yüzden önce birkaç santim kaldırılır, denge kontrol edilir, gerekirse kayışlar düzeltilir, tam kaldırmaya ancak ondan sonra geçilir."
+    },
+    {
+      "type": "h3",
+      "text": "Traves, salma ve şaft koruması"
+    },
+    {
+      "type": "p",
+      "text": "Kayışlar kanca altında birbirine doğru toplanırsa gövdeyi yandan sıkıştırır, küpeşteye ve borda donanımına baskı yapar. Bu yüzden kayışları güvertenin hemen üstünde açık tutan bir traves (ayırıcı kiriş) kullanılır; travessiz kaldırmada teknenin kayıştan kayma riski de artar. Yelkenlilerde salma, motorlu teknelerde şaft ve pervane en korunmasız bölgelerdir. Denize indirmede de aynı hassasiyet geçerlidir: Tekne, salma ve şaft yük almadan, kademeli olarak suya bırakılır."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne kaldırma günü hangi sırayla ilerler?"
+    },
+    {
+      "type": "p",
+      "text": "Sıra hep aynıdır: zemin ve erişim kontrolü, vincin kurulması, kayışların yerleştirilmesi, deneme kaldırması, taşıma ve kademeli indirme. Yönetmelik de her kaldırma işinin önceden planlanmasını ve gözetim altında yürütülmesini ister."
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Vinç, zemin ve erişim kontrol edildikten sonra konumlanır; destek ayakları altlıklarıyla açılır.",
+        "Kayışlar teknenin altına, işaretli ya da belirlenen noktalara yerleştirilir; traves takılır.",
+        "Tekne birkaç santim kaldırılır, denge ve kayış oturması kontrol edilir; gerekirse tekne indirilip kayışlar düzeltilir.",
+        "Tekne yavaşça taşınır; yönlendirme halatıyla salınım kontrol altında tutulur. Askıdaki teknenin altında ve içinde kimse bulunmaz.",
+        "Sehpaya, çanağa ya da suya kademeli olarak indirilir; destekler oturmadan kayışlar gevşetilmez."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Rüzgârlı havada tekne kaldırılır mı?"
+    },
+    {
+      "type": "p",
+      "text": "Rüzgâr askıdaki tekneyi salındırıp güvenli çalışmayı bozuyorsa kaldırma yapılmaz; yönetmelik de hava şartları bozulduğunda askıda serbest yük kaldıran ekipmanın açık havada kullanılmasının durdurulmasını ister. Tekne, ağırlığına göre geniş yüzeyli bir yüktür; özellikle yüksek üst yapılı motorlu tekneler rüzgârı yelken gibi karşılar. Kararı, vincin kılavuzundaki rüzgâr sınırına ve sahadaki duruma bakarak operatör verir. Sabah erken saatler genellikle daha sakindir; bu yüzden tekne işlerini mümkün olduğunca sabaha planlıyoruz. Yönlendirme halatı salınımı azaltır ama sert rüzgârı telafi etmez."
+    },
+    {
+      "type": "h2",
+      "text": "Karada tekne nasıl yerleştirilir: çanak mı, sehpa mı?"
+    },
+    {
+      "type": "p",
+      "text": "Motorlu tekneler genellikle çelik çanak veya teknenin formuna uygun sehpalara oturtulur; yelkenlilerde ağırlığı salma taşır, gövdeyi yanlardan payandalı sehpalar dengeler. Yelkenli önce salma üzerine bırakılır, ardından yavaşça gövde desteklerine indirilir; bu sıra gövdede ezik oluşmasını önler. Destek noktalarının gövdenin taşıyıcı bölgelerine denk gelmesi önemlidir; aksi hâlde aylar süren kışlamada gövdede kalıcı deformasyon oluşabilir. Direği dikili kışlayacak bir yelkenlide sehpa ve bağlama ayrıca güçlendirilmelidir. Tekne başka bir adrese taşınacaksa vinç operasyonu taşıma planıyla birlikte kurgulanır."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne çekme fiyatını ne belirler?"
+    },
+    {
+      "type": "p",
+      "text": "Fiyatı teknenin ağırlığı ve boyu, vincin kurulacağı yerle tekne arasındaki mesafe, karada taşıma olup olmadığı ve hazırlık için beklenen süre belirler. Kalemler genel vinç işlerindekiyle aynı mantıktadır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Teknenin ağırlığı ve boyu; buna göre gereken vinç sınıfı.",
+        "Vincin kurulabileceği nokta ile teknenin arasındaki mesafe: rampa, iskele veya kıyı ne kadar uzaksa daha büyük vinç gerekir.",
+        "Teknenin karada başka bir adrese taşınıp taşınmayacağı.",
+        "Sehpa veya çanağın hazır olup olmadığı, hazırlık için harcanan bekleme süresi.",
+        "Tarih ve saat esnekliği: sezon başı ve sonundaki yoğun haftalarda planlama daralır."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Genel fiyat kalemlerini <a href=\"/blog/vinc-kiralama-fiyatlari.html\">vinç kiralama fiyatları</a> yazımızda ayrıntılı anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne çekme için ne zaman yer ayırtılmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Karaya alma için sonbaharın, denize indirme için ilkbaharın yoğun haftalarından birkaç hafta önce tarih netleştirilmelidir. Bu dönemlerde talepler üst üste biner, gün ve saat seçeneği azalır. Tekne bilgilerini, konumu ve birkaç fotoğrafı baştan iletirseniz doğru vinç ilk seferde gelir; sehpa ya da çanağın hazır olup olmadığını da aynı görüşmede konuşuruz."
+    },
+    {
+      "type": "callout",
+      "text": "Teknenizin fotoğrafını, ölçülerini ve konumunu gönderin; uygun vinci ve günü birlikte planlayalım. Yabancı tekne sahipleri için İngilizce destek hattımız da var."
+    },
+    {
+      "type": "h2",
+      "text": "Bodrum ve Milas sahilinde operatörlü vinç"
+    },
+    {
+      "type": "p",
+      "text": "Bodrum yarımadası ve Milas sahil hattında, Güllük, Güvercinlik, Ören ve çevre koylar dahil, tekne çekme ve denize indirme için operatörlü vinç hizmeti veriyoruz. Atölyemiz Milas–Bodrum karayolu üzerinde; acil durumlarda 7/24 ulaşabilirsiniz. Bölgedeki diğer işler için <a href=\"/bolgeler/bodrum-vinc-kiralama.html\">Bodrum vinç kiralama</a>, genel bilgi için <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> sayfalarımıza bakabilirsiniz. Hangi vincin gerektiğini <a href=\"/blog/dogru-vinc-secimi.html\">doğru vinç seçimi</a> yazımızda anlattık."
+    },
+    {
+      "type": "p",
+      "text": "Teknenizin veya iş botunuzun üzerinde katlanır bomlu bir vinç varsa, o da bakım isteyen bir hidrolik vinçtir. Tuzlu suyun hortum, pim ve silindir üzerindeki etkisi karadakinden ağırdır; arıza ve revizyon için <a href=\"/hizmetler/hiyap-vinc-tamiri.html\">hiyap vinç tamiri</a> sayfamıza göz atın."
+    }
+  ],
+  "cikarimlar": [
+    "Teknenin ağırlığını yakıt, su ve ekipman dahil önceden bilin; vinç sınıfı buna göre seçilir.",
+    "Kayışlar şaft, pervane, iskandil ve sensörlere gelmemeli; gövdede sapan işareti varsa onu kullanın.",
+    "Traves kayışların gövdeyi yandan sıkıştırmasını önler; ilk kaldırma birkaç santimlik denge kontrolüdür.",
+    "Rüzgâr askıdaki tekneyi salındırıyorsa kaldırma ertelenir; sabah saatleri genellikle daha sakindir.",
+    "Sonbahar ve ilkbahar haftaları dolar; tarihi birkaç hafta önceden ayırtın."
+  ],
+  "faqs": [
+    {
+      "q": "Tekne vinçle kaldırılırken zarar görür mü?",
+      "a": "Doğru yapıldığında hayır. Zararın kaynağı genellikle yanlış kayış konumu, travessiz kaldırmada gövdeye yandan binen baskı, dengesiz bağlama veya rüzgârlı havada aceleyle yapılan kaldırmadır. Geniş kayış, doğru ağırlık bilgisi ve birkaç santimlik deneme kaldırması riski büyük ölçüde azaltır."
+    },
+    {
+      "q": "Teknemin ağırlığını bilmiyorum, ne yapmalıyım?",
+      "a": "Ruhsat, üretici belgesi veya model kataloğundaki değeri kullanın; bunun üzerine yakıt, su ve ekipmanı ekleyin. Emin değilseniz model bilgisini ve fotoğrafları gönderin, birlikte tahmin edip vinci ona göre seçelim."
+    },
+    {
+      "q": "Tekne kaldırmada neden traves kullanılır?",
+      "a": "Traves, kayışları güvertenin hemen üstünde birbirinden açık tutan çelik bir kiriştir. Kayışların gövdeyi yandan sıkıştırmasını, küpeşteye ve borda donanımına baskı yapmasını önler. Kanca altında toplanan kayışlarda teknenin kayıştan kayma riski de artar; bu yüzden traves tekne kaldırmanın standart parçasıdır."
+    },
+    {
+      "q": "Tekne iskeleden veya koydan vinçle çekilebilir mi?",
+      "a": "Vincin kurulabileceği sağlam bir zemin ve tekneye makul bir mesafe varsa evet. Belirleyici olan, vincin rampa, iskele ya da kıyı kenarına ne kadar yanaşabildiği ve oradan tekneye olan yatay mesafedir; mesafe uzadıkça daha büyük vinç gerekir. Konumu ve birkaç fotoğrafı gönderirseniz yerin uygun olup olmadığını önceden söyleriz."
+    },
+    {
+      "q": "Tekne çekme günü tekne sahibinin orada olması gerekir mi?",
+      "a": "Şart değil ama çok işe yarar. Tekne sahibi ya da teknesini iyi bilen biri; kayış noktaları, şaft ve sensör yerleri, teknedeki gevşek ekipman ve tankların durumu hakkında anında karar verebilir. Orada olamıyorsanız bu bilgileri ve önceki kaldırmaların fotoğraflarını önceden iletin."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "Correct cranage: Yachts hanging by a thread",
+      "publisher": "Pantaenius",
+      "url": "https://www.pantaenius.com/at-en/insights/journal/article/correct-cranage-yachts-hanging-by-a-thread-7/"
+    }
+  ],
+  "related": [
+    "/bolgeler/bodrum-vinc-kiralama.html",
+    "/hizmetler/vinc-kiralama.html",
+    "/blog/dogru-vinc-secimi.html",
+    "/blog/vincle-calisirken-is-guvenligi.html"
+  ]
+}

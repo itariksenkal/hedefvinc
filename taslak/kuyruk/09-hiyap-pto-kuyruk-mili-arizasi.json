@@ -1,0 +1,244 @@
+{
+  "slug": "hiyap-pto-kuyruk-mili-arizasi",
+  "_hedef": "hiyap PTO arızası / kuyruk mili arızası",
+  "title": "Hiyap PTO (Kuyruk Mili) Arızası: Belirtiler ve Çözüm",
+  "h1": "Hiyap PTO Arızası: Kuyruk Mili Neden Devreye Girmez, Neden Ses Yapar?",
+  "desc": "Hiyap PTO arızası nasıl anlaşılır? Devreye girmeyen kuyruk mili, diş sesi, yağ kaçağı ve zayıf pompa sorunlarının nedenleri, doğru kullanım ve Milas'ta tamir.",
+  "category": "Hidrolik",
+  "image": "real_ones/atolye-kamyon-sasesi-tadilat.jpg",
+  "imageAlt": "Atölye içinde üzerinde çalışılan bir kamyon şasesi, çevresinde tezgâhlar ve ekipman",
+  "kisaCevap": "Hiyap PTO (kuyruk mili) arızası; vincin hiç çalışmaması, PTO devreye girerken diş sesi ya da vuruntu, çalışırken devirle artan uğultu, şanzıman çevresinde yağ kaçağı veya pompanın zayıf basınç vermesiyle anlaşılır. Sebep çoğu zaman sigorta, solenoid valf ya da hava basıncı, aşınmış dişli, kardan veya kaplin bağlantısı ve debriyaja tam basmadan kavraştırmaktır. Teşhis, pompa milinin dönüp dönmediğine ve basınç-debi ölçümüne bakılarak yapılır.",
+  "cikarimlar": [
+    "PTO lambası yanmıyorsa önce sigorta, anahtar, solenoid valf ve araç hava basıncına bakılır.",
+    "Lamba yanıyor ama pompa dönmüyorsa sorun kavramada ya da kardan ve kaplin bağlantısındadır.",
+    "Debriyaja bağımlı PTO, debriyaj pedalı sonuna kadar basılıyken devreye alınır ve çıkarılır.",
+    "Yetersiz çaplı emiş hattı pompada kavitasyon, ses ve düşük verim yaratır.",
+    "Kaçakta önce şanzıman yağı mı hidrolik yağ mı olduğunu ayırın; çözüm ve aciliyet farklıdır."
+  ],
+  "intro": "Kamyon sahaya gelmiş, ayaklar açılacak, ama PTO lambası yanmıyor ya da kuyruktan diş sesi geliyor. Hiyap sahiplerinin ve operatörlerin sık yaşadığı bu durumda en pahalı hata, sorunu tahminle pompaya bağlayıp yanlış parçayı değiştirmektir. Aşağıda PTO'nun nasıl çalıştığını, belirtiye göre olası nedenleri, sahada ilk yarım saatte yapılacakları ve PTO'yu uzun ömürlü kullanmanın kurallarını bulacaksınız.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "PTO (kuyruk mili) nedir, hiyapta ne işe yarar?"
+    },
+    {
+      "type": "p",
+      "text": "PTO (power take-off, güç çıkışı), kamyonun motor gücünü şanzımandan ya da doğrudan motordan alıp hidrolik pompaya aktaran ünitedir. Sahada \"kuyruk mili\", \"priz\" ya da kısaca \"kuyruk\" diye de anılır. Hiyapta pompa genellikle PTO'ya doğrudan bağlanır ya da kısa bir kardanla çalıştırılır. PTO dönmezse pompa dönmez, pompa dönmezse vinç çalışmaz."
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://www.volvotrucks.us/media/vtna/files/shared/body-builder/manuals/2025/section-9-power-take-off-pto.pdf\">Volvo'nun üstyapı talimatı</a> gibi kamyon üreticisi dokümanlarına göre şanzımana bağlı, debriyaja bağımlı PTO'lar araç park halindeyken çalışmak üzere tasarlanır; damperli kamyonlar ve vinçler bu tipin en yaygın kullanıcılarıdır. Bu PTO'lar debriyaj pedalına basıldığında güç aktarmayı keser ve devreye alma ya da çıkarma işlemi debriyaj basılıyken yapılır. Kabinden anahtarla kumanda edilen sistemlerde anahtar bir solenoid valfi açar; basınçlı hava PTO'ya gider ve PTO dişlisini şanzımandaki dişliyle kavraştırır."
+    },
+    {
+      "type": "p",
+      "text": "Motordan doğrudan güç alan, debriyajdan bağımsız PTO tipleri de vardır; <a href=\"https://bodybuilder.scania.com/content/dam/bodybuilder/tbb-files/uk/quick-reference-guides/Bodybuilder_Quick_Reference_Guide_-_Mechanical.pdf\">Scania'nın üstyapı rehberine</a> göre bunlar ağırlıklı olarak araç hareket halindeyken ekipman çalıştırmak için kullanılır. Hiyaplarda yaygın olan ise şanzımana bağlı tiptir."
+    },
+    {
+      "type": "h2",
+      "text": "Hiyap PTO arızasının belirtileri neyi gösterir?"
+    },
+    {
+      "type": "p",
+      "text": "Lambanın yanıp yanmaması, pompanın dönüp dönmemesi ve sesin ne zaman geldiği arızanın yerini büyük ölçüde gösterir:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Belirti",
+        "Olası neden",
+        "İlk kontrol"
+      ],
+      "rows": [
+        [
+          "PTO lambası yanmıyor, vinç hiç çalışmıyor",
+          "Sigorta, anahtar, solenoid valf, kablo; yetersiz hava basıncı",
+          "Elektrik beslemesi, solenoidin çekip çekmediği, araç hava basıncı"
+        ],
+        [
+          "Lamba yanıyor ama pompa dönmüyor",
+          "PTO kavramıyor; kardan, kaplin ya da pompa bağlantısında kopma",
+          "Pompa milinin dönüp dönmediği, bağlantı elemanları"
+        ],
+        [
+          "Devreye alırken diş sesi, vuruntu",
+          "Debriyaj tam basılmadan kavraştırma, aşınmış PTO dişlisi, kavrama mekanizması arızası",
+          "Kullanım şekli, dişli ve kavrama parçaları"
+        ],
+        [
+          "Çalışırken uğultu, devirle artan ses",
+          "Rulman aşınması, dişli boşluğu, pompa emişinde kavitasyon",
+          "Emiş hattı, tank yağ seviyesi, rulmanlar"
+        ],
+        [
+          "Vinç yavaş, gücü düşük",
+          "Pompa aşınması, düşük çalışma devri, emiş tıkanıklığı ya da vincin valf ve silindirlerinde iç kaçak",
+          "Basınç ve debi ölçümü"
+        ],
+        [
+          "Şanzıman ya da PTO çevresinde yağ",
+          "Keçe, conta, pompa mil keçesi",
+          "Kaçan yağın şanzıman yağı mı, hidrolik yağ mı olduğu"
+        ],
+        [
+          "PTO kapatıldığı halde devreden çıkmıyor",
+          "Solenoid takılı kalmış, hava boşaltma sorunu, mekanik sıkışma",
+          "Solenoid ve hava hattı"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Kaçak varsa önce hangi yağ olduğuna bakın. Şanzıman yağı, PTO'nun şanzımana bağlandığı yüzeyden ya da PTO keçelerinden; hidrolik yağ ise pompa mil keçesinden veya rakorlardan geliyor demektir. İkisinin çözümü de, aciliyeti de farklıdır: şanzıman yağı eksilirse sorun kamyonun şanzımanına taşınır."
+    },
+    {
+      "type": "h2",
+      "text": "Sorun pompada mı, PTO'da mı, vinçte mi?"
+    },
+    {
+      "type": "p",
+      "text": "Bunu tahmin değil ölçüm ayırır: Pompa çıkışında basınç ve debi, motor ve PTO devri ile emiş tarafının durumu ölçülür. Vinç zayıf çalışıyorsa herkesin aklına önce pompa gelir. Ama düşük güç; PTO'nun yeterli devirde dönmemesinden, emiş hattının daralmasından, tank havalandırmasının tıkanmasından, filtre tıkanıklığından ya da vincin kendi valf ve silindirlerindeki iç kaçaklardan da gelebilir."
+    },
+    {
+      "type": "p",
+      "text": "Kamyon üreticilerinin talimatları da iki noktanın altını çizer: Emiş hattının çapı yetersizse pompada kavitasyon ve ses oluşur, pompa hasar görür; hidrolik pompa da sistemde yağ akışı olmadan çalıştırılmamalıdır. Pompaya özgü belirtileri <a href=\"/blog/vinc-hidrolik-pompa-arizasi-belirtileri.html\">vinç hidrolik pompa arızası belirtileri</a> yazımızda ayrıntılı anlattık."
+    },
+    {
+      "type": "callout",
+      "text": "PTO'dan gelen diş sesi kendiliğinden geçmez. Ses başladıktan sonra zorlanan bir PTO, kavraştığı şanzıman dişlisine de zarar verebilir; erken kontrol, şanzıman açmaktan her zaman daha ucuzdur."
+    },
+    {
+      "type": "h2",
+      "text": "PTO nasıl doğru kullanılır?"
+    },
+    {
+      "type": "p",
+      "text": "PTO, araç durmuşken ve debriyaj sonuna kadar basılıyken devreye alınır, iş biter bitmez kapatılır. Kamyonunuzun ve vincinizin kılavuzu aksini söylemiyorsa şu kurallar PTO'yu korur:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "PTO'yu araç durmuşken, el freni çekili ve motor rölantideyken devreye alın.",
+        "Debriyaja bağlı tiplerde pedala sonuna kadar basın, kısa bir süre bekleyip öyle kavraştırın; diş sesi duyuyorsanız zorlamayın.",
+        "Hidrolik tankında yeterli yağ olduğundan, emiş vanası varsa açık olduğundan emin olun; pompa yağsız çalışmamalı.",
+        "Motor devrini vinç üreticisinin önerdiği çalışma devrinde tutun; gereksiz yüksek devir pompayı ve PTO'yu yorar, yağı ısıtır.",
+        "Vinç işi biter bitmez PTO'yu kapatın ve göstergenin söndüğünü kontrol edin; PTO açık bırakılarak yola çıkılmamalıdır.",
+        "PTO bağlantı cıvatalarını, kardanı ve kaplini periyodik bakımda kontrol ettirin."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Vincin bakım listesinin geneli için <a href=\"/blog/hiyap-vinc-arizalari-ve-cozumleri.html\">hiyap vinç arızaları ve çözümleri</a> yazımız da işinize yarar."
+    },
+    {
+      "type": "h2",
+      "text": "Sahada PTO arızalanırsa ilk ne yapılmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Önce yükün altını boşaltın, PTO'yu kapatıp motoru durdurun; ardından göstergeleri ve kaçakları kontrol edin. PTO arızası çoğu zaman en kötü anda, vinç sahaya kurulmuşken ortaya çıkar. Paniğe kapılmadan şu sırayı izlemek hem güvenliği sağlar hem de servisin işini kolaylaştırır:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Vinç bir yük tutuyorsa ve hidrolik güç kesildiyse, yükün altını ve çevresini derhal boşaltın; yükü gözetimsiz bırakmayın.",
+        "PTO anahtarını kapatın, motoru durdurun, el frenini kontrol edin.",
+        "Kabindeki PTO göstergesinin durumunu, kamyonun hava basıncı göstergesini ve varsa uyarı ışıklarını not edin.",
+        "Şanzıman ve pompa çevresinde yağ kaçağı, kopmuş bir kardan ya da kaplin olup olmadığına motor kapalıyken bakın.",
+        "Hidrolik tank seviyesini kontrol edin; tank boşalmışsa sebebi bulunmadan pompayı yeniden çalıştırmayın.",
+        "Ses, koku ve belirtiyi, mümkünse kısa bir videoyla kaydedin; servise telefonda anlatırken en değerli bilgi budur."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Sigorta, kablo, solenoid ya da hava hattı kaynaklı arızaların bir kısmı yerinde giderilebilir. Dişli, kavrama ya da rulman arızasında ise PTO'yu zorlayarak çalıştırmaya çalışmak, şanzımanı da işin içine katar."
+    },
+    {
+      "type": "h2",
+      "text": "PTO bakımında nelere bakılır?"
+    },
+    {
+      "type": "p",
+      "text": "Periyodik bakımda PTO için şu altı noktaya bakılır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bağlantı cıvatalarının sıkılığı ve PTO gövdesinde çatlak",
+        "Şanzıman yağı seviyesi; PTO şanzıman yağıyla yağlanıyorsa yağın durumu",
+        "Keçe ve contalarda terleme",
+        "Hava hattı, solenoid valf ve konektörlerde hasar ya da oksitlenme",
+        "Kardan mafsalları ve kaplindeki boşluk",
+        "Pompa mil keçesi ve emiş hattı bağlantıları"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu kontroller periyodik bakımın birkaç dakikasını alır; ama ihmal edildiğinde sorun pompaya, kardana ya da şanzımana taşınır."
+    },
+    {
+      "type": "h2",
+      "text": "PTO değişirken en sık hangi hata yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "En sık hata, PTO'nun dönüş yönünün ve çıkış oranının pompayla uyumsuz seçilmesidir; bu hata çoğu zaman vinç bir kamyondan başka bir kamyona taşınırken ya da PTO değişirken yapılır. Yanlış oran pompayı ya gereğinden hızlı ya da gereğinden yavaş döndürür. İlkinde ısınma ve erken aşınma, ikincisinde güçsüz ve yavaş bir vinç ortaya çıkar. PTO seçiminde kamyonun şanzıman tipi, pompanın ihtiyaç duyduğu devir, dönüş yönü ve yük birlikte değerlendirilir."
+    },
+    {
+      "type": "p",
+      "text": "Montajda kardan açıları, kaplin hizası ve pompa bağlantı flanşı da önemlidir. Hizasız bağlanan bir pompa, mil keçesini ve rulmanlarını kısa sürede tüketir; sorun \"pompa arızası\" gibi görünür ama kaynağı montajdır."
+    },
+    {
+      "type": "p",
+      "text": "PTO değişimi ya da tamiri sırasında sökülen hortumlar için de fırsatı değerlendirin: yaşlanmış emiş ve basınç hortumlarını aynı anda yenilemek, kısa süre sonra aynı bölgeyi yeniden sökmekten daha ekonomiktir. Hortumları ölçüye göre <a href=\"/hizmetler/pres-hortum.html\">pres hortum</a> atölyemizde aynı gün hazırlayabiliyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "Hiyap PTO tamiri yerinde mi yapılır, atölyede mi?"
+    },
+    {
+      "type": "p",
+      "text": "Elektrik, solenoid ve hava hattı arızaları çoğu zaman yerinde giderilir; dişli, kavrama ya da rulman arızasında PTO sökülür ve iş atölyede yapılır. PTO ve pompa arızalarında sorunun hangi parçada olduğunu ölçüm yaparak tespit ediyoruz; kardan, kaplin ve burç gibi parçaları gerekirse torna atölyemizde üretiyor, hortumları aynı gün presliyoruz. Kamyonunuz yola çıkabiliyorsa Güllük–Güvercinlik arasındaki atölyemize getirebilir, çıkamıyorsa Milas, Bodrum ve Muğla çevresinde yerinde ilk teşhis için bizi çağırabilirsiniz. Ayrıntılar için <a href=\"/hizmetler/hiyap-vinc-tamiri.html\">hiyap vinç tamiri</a> ve <a href=\"/hizmetler/vinc-hidrolik-tamiri.html\">vinç hidrolik tamiri</a> sayfalarımıza bakabilirsiniz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Hiyap PTO devreye girmiyor, ilk neye bakmalıyım?",
+      "a": "Önce PTO lambasının yanıp yanmadığına bakın. Yanmıyorsa sigorta, anahtar, solenoid valf ve araç hava basıncı kontrol edilir. Lamba yanıyor ama pompa dönmüyorsa sorun PTO'nun kavramasında ya da PTO ile pompa arasındaki bağlantıdadır."
+    },
+    {
+      "q": "PTO kapatıldığı halde devreden çıkmıyorsa ne yapılmalı?",
+      "a": "Bu durum genellikle takılı kalmış bir solenoid valften, hava boşaltma sorunundan ya da mekanik sıkışmadan kaynaklanır. Motoru durdurun, solenoid ve hava hattını kontrol ettirin. Kamyonunuzun ve vincinizin kılavuzu izin vermiyorsa devrede kalmış bir PTO ile yola çıkmayın."
+    },
+    {
+      "q": "PTO'dan ses gelmesi normal mi?",
+      "a": "Hafif bir çalışma sesi olabilir, ancak devreye alırken diş sesi, vuruntu ya da devirle artan uğultu normal değildir. Debriyaj tam basılmadan kavraştırma, aşınmış dişli, rulman aşınması ya da pompa emişinde kavitasyon en sık sebeplerdir."
+    },
+    {
+      "q": "PTO çevresinden yağ kaçıyorsa ne yapmalıyım?",
+      "a": "Önce kaçan yağın şanzıman yağı mı hidrolik yağ mı olduğuna bakın. Şanzıman yağı PTO'nun bağlandığı yüzeyden ya da PTO keçelerinden, hidrolik yağ ise pompa mil keçesinden veya rakorlardan gelir. Şanzıman yağı eksiliyorsa seviyeyi kontrol etmeden ve kaçağı gidermeden çalışmaya devam etmeyin; sorun şanzımana taşınabilir."
+    },
+    {
+      "q": "PTO oranı yanlış seçilirse ne olur?",
+      "a": "Pompa ya gereğinden hızlı ya da gereğinden yavaş döner. Hızlı dönen pompa yağı ısıtır ve erken aşınır; yavaş dönen pompa ise vinci güçsüz ve yavaş bırakır. PTO seçiminde şanzıman tipi, pompanın istediği devir, dönüş yönü ve yük birlikte değerlendirilir."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Body Builder Instructions: Power Take-off (PTO)",
+      "publisher": "Volvo Trucks North America",
+      "url": "https://www.volvotrucks.us/media/vtna/files/shared/body-builder/manuals/2025/section-9-power-take-off-pto.pdf"
+    },
+    {
+      "title": "Bodybuilder Quick Reference Guide – Mechanical",
+      "publisher": "Scania",
+      "url": "https://bodybuilder.scania.com/content/dam/bodybuilder/tbb-files/uk/quick-reference-guides/Bodybuilder_Quick_Reference_Guide_-_Mechanical.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/hiyap-vinc-tamiri.html",
+    "/hizmetler/vinc-hidrolik-tamiri.html",
+    "/blog/vinc-hidrolik-pompa-arizasi-belirtileri.html",
+    "/blog/hiyap-vinc-arizalari-ve-cozumleri.html",
+    "/hizmetler/pres-hortum.html"
+  ]
+}

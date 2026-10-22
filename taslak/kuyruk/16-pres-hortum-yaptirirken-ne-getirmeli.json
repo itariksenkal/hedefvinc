@@ -1,0 +1,288 @@
+{
+  "slug": "pres-hortum-yaptirirken-ne-getirmeli",
+  "_hedef": "hidrolik hortum yaptırma",
+  "title": "Hidrolik Hortum Yaptırma: Atölyeye Ne Getirmelisiniz?",
+  "h1": "Hidrolik Hortum Yaptırırken Ne Getirmeli? Doğru Hortum İçin Kontrol Listesi",
+  "desc": "Hidrolik hortum yaptırma öncesi eski hortum, rekorlar, ölçü ve basınç bilgisi nasıl hazırlanır? Milas'taki atölyemizde pres hortum için pratik rehber.",
+  "category": "Hidrolik",
+  "image": "real_ones/atolye-kabinli-vinc-hidrolik-test.jpg",
+  "imageAlt": "Atölyede revizyonu tamamlanmış kabinli sarı katlanır bomlu vinç; hidrolik güç ünitesi bağlı, test aşamasında",
+  "kisaCevap": "Hidrolik hortum yaptırırken eski hortumu iki ucundaki rekorlarıyla birlikte getirin; boy, rekor tipi ve dirsek açısı buradan birebir çıkarılır. Hortum sökülemiyorsa iki ucun yakın fotoğrafı, uçtan uca boy ve kılıftaki yazının fotoğrafı (standart, iç çap, çalışma basıncı) çoğu işi çözer. Makinenin modelini ve hortumun hangi hatta çalıştığını da söyleyin: basınç sınıfı tahminle değil, bu bilgiyle seçilir.",
+  "intro": "Bu rehber; vinci, iş makinesi ya da kamyonu sahada hortum patlattığı için duran operatörler, makine sahipleri ve şantiye şefleri için. Hortum patladığında ilk refleks en yakın hortumcuya koşmaktır. Elinizde doğru numune ve bilgi yoksa sonuç çoğu zaman ikinci bir yolculuk, oturmayan bir rekor ya da birkaç hafta sonra aynı noktadan yeniden patlayan bir hortum olur. Aşağıda atölyeye gelmeden önce neleri hazırlamanız gerektiğini, en sık yapılan hataları ve hortumu güvenle sökmeyi sırasıyla anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Yanlış hortum seçilirse ne olur?"
+    },
+    {
+      "type": "p",
+      "text": "Yanlış seçilen hortum makineyi kısa sürede yeniden durdurur. Basınç sınıfı düşük bir hortum kısa sürede patlar; yanlış rekor sızdırır ya da hiç oturmaz; birkaç santim kısa bir hortum bom açıldığında gerilir, uzun bir hortum ise sarkıp sürtünür. Üstelik yüksek basınçla fışkıran yağ ciddi yaralanmalara yol açabilir. Hortumların neden patladığını <a href=\"/blog/hidrolik-hortum-neden-patlar.html\">hidrolik hortum neden patlar</a> yazımızda ayrıntılı anlattık. Bu yazıda ise atölyeye gelmeden önce hazırlamanız gerekenlere odaklanıyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "Eski hortumu atölyeye nasıl getirmeliyim?"
+    },
+    {
+      "type": "p",
+      "text": "Eski hortumu iki ucundaki rekorlarıyla birlikte, rekorları kesip ayırmadan getirin; en güvenilir numune makineden sökülen hortumun kendisidir. Patlamış ya da kopmuş olsa bile parçalarını atmayın, çünkü boy ve rekor açısı bu parçalardan çıkarılır. Hortumun içindeki yağı süzdürün, uçlarını tıkayın ya da bir poşete koyun; böylece hem aracınız kirlenmez hem de rekor ağızları darbe almaz."
+    },
+    {
+      "type": "h2",
+      "text": "Hortumun üzerindeki yazı ne anlatır?"
+    },
+    {
+      "type": "p",
+      "text": "Kılıftaki yazı, hortumun hangi standarda göre üretildiğini, iç çapını, en yüksek çalışma basıncını ve üretim tarihini gösterir. Bu yazı hortum boyunca tekrar eder; <a href=\"https://www.tubes-international.com/wp-content/uploads/catalogue-en-pdf/high_pressure/hydraulic_rubber_hoses.pdf\">hortum üreticilerinin katalogları</a> da standart simgesinin, çapın, çalışma basıncının ve üretim tarihinin hortumun üzerine basıldığını belirtir. Yazıda genellikle şunlar bulunur:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Üretici adı ya da markası",
+        "Uyduğu standart ve tipi; örneğin EN 853 2SN, EN 856 4SP ya da SAE 100R2",
+        "İç çap; DN (milimetre) ve inç olarak",
+        "En yüksek çalışma basıncı (WP)",
+        "Üretim tarihi ya da parti numarası"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Hortum yağlı ve kirliyse yazı okunmayabilir; temiz bir bezle silip fotoğrafını çekin. Yazı tamamen silinmişse sorun değil; iç çapı ve tel katmanını hortumun kesitinden atölyede tespit ederiz, basınç bilgisini ise makinenin teknik verilerinden tamamlarız."
+    },
+    {
+      "type": "h2",
+      "text": "Rekor tipini nasıl belirlerim?"
+    },
+    {
+      "type": "p",
+      "text": "Rekor tipi, dişin ölçüsü ve adımı ile oturma yüzeyinin şekline (konik, havşalı, O-ringli düz yüzey ya da flanş) bakılarak belirlenir. Hortumun iki ucu en çok hata yapılan noktadır; dışarıdan birbirine benzeyen rekorlar farklı diş ve oturma yüzeyine sahip olabilir. Sahada en sık karşılaşılan aileler şunlardır:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Rekor ailesi",
+        "Kabaca nasıl tanınır?",
+        "Not"
+      ],
+      "rows": [
+        [
+          "BSP (inç diş)",
+          "Whitworth inç diş; konik oturma yüzeyli tipleri yaygındır",
+          "Avrupa ve Asya makinelerinde sık görülür"
+        ],
+        [
+          "Metrik DIN (24° konik)",
+          "Metrik diş; hafif (L) ve ağır (S) seri olarak ayrılır",
+          "Boru dış çapı ve seri birlikte belirlenmelidir"
+        ],
+        [
+          "JIC (37° havşa)",
+          "UNF inç diş, 37° havşalı oturma",
+          "ABD kökenli makinelerde sık görülür"
+        ],
+        [
+          "ORFS (düz yüzey)",
+          "Alında O-ring bulunan düz oturma yüzeyi",
+          "Yüksek basınçta sızdırmazlık için tercih edilir"
+        ],
+        [
+          "SAE flanş",
+          "Dört cıvatalı flanş bağlantı",
+          "Büyük çaplı basınç hatlarında kullanılır"
+        ],
+        [
+          "NPT",
+          "Konik boru dişi",
+          "Daha çok bazı adaptör ve gövde bağlantılarında"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Kesin tespiti atölyede ölçerek yaparız; yine de rekorların net fotoğrafı ve diş kısmının yakından görünmesi işi hızlandırır. İki ucu da dirsekli rekorlarda bir şey daha önemlidir: iki dirseğin birbirine göre açısı. Hortumu düz bir zemine yatırıp, iki ucu aynı anda görünecek şekilde fotoğraflayın. Bu açı yanlış olursa hortum takıldığında burulur ve ömrü kısalır."
+    },
+    {
+      "type": "h2",
+      "text": "Hidrolik hortum boyu nasıl ölçülür?"
+    },
+    {
+      "type": "p",
+      "text": "Hortum boyu, rekor uçları dahil olmak üzere uçtan uca ölçülür. Eski hortum sağlam ama yıpranmışsa en doğrusu onun boyunu birebir kopyalamaktır. Hortum patlamış ya da daha önce yanlış boyda yapılmışsa, makinedeki güzergâhı bom ve silindirlerin tam açık ve tam kapalı konumlarında kontrol etmek gerekir. Çok kısa hortum hareket sırasında gerilir ve rekor dibinden zorlanır; çok uzun hortum ise sarkar, sürtünür ve başka parçalara takılır. Her hortumun bir de en küçük bükülme yarıçapı vardır; bunun altında kıvrılan hortum içten zarar görür."
+    },
+    {
+      "type": "h2",
+      "text": "Basınç sınıfı neye göre seçilir?"
+    },
+    {
+      "type": "p",
+      "text": "Basınç sınıfı, hortumun çalıştığı hattın en yüksek basıncına ve bu hatta oluşan basınç darbelerine göre seçilir. Bunu doğru yapabilmemiz için şu bilgileri verin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Makinenin markası, modeli ve mümkünse yılı",
+        "Hortumun hangi hatta çalıştığı: pompa çıkışı, silindir hattı, dönüş, drenaj ya da pilot hattı",
+        "Biliniyorsa sistemin çalışma basıncı",
+        "Hortumun çalıştığı ortam: motor yakınında sıcak bölge, güneş altı, tuzlu deniz ortamı",
+        "Hareketli bir bölgede mi (bom, teleskop, makara) yoksa sabit bir hatta mı olduğu"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu bilgiler, aynı çaptaki hortumlardan hangisinin seçileceğini belirler. Örneğin dönüş hattında yeterli olan bir hortum, pompa çıkışında kısa sürede patlar. Biz devrenin çalışma basıncına göre doğru kat sayısında ve sınıfta hortum öneririz."
+    },
+    {
+      "type": "h2",
+      "text": "Atölyeye neleri getirmelisiniz?"
+    },
+    {
+      "type": "p",
+      "text": "Kısaca: eski hortum, kılıf yazısının fotoğrafı, makine bilgisi ve hortumun çalıştığı hat. Tabloyu telefonunuza kaydedip gelmeden önce kontrol edebilirsiniz."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Getirin",
+        "Neden?"
+      ],
+      "rows": [
+        [
+          "Eski hortum, iki rekoruyla birlikte",
+          "Boy, açı ve rekor tipi birebir çıkar"
+        ],
+        [
+          "Hortum yazısının fotoğrafı",
+          "Standart, çap ve basınç sınıfı okunur"
+        ],
+        [
+          "Makinenin marka ve modeli",
+          "Basınç ve rekor sistemi doğrulanır"
+        ],
+        [
+          "Hortumun çalıştığı hat bilgisi",
+          "Basınç sınıfı doğru seçilir"
+        ],
+        [
+          "Varsa yedek rekor ya da adaptör",
+          "Uyum ve diş kontrolü yapılır"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Hortum yaptırırken en sık hangi hatalar yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "En sık hata, rekorları kesip yalnızca hortumu getirmektir; onu çapa bakıp basınç sınıfını atlamak izler. Atölyede gördüklerimiz:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Rekorları kesip yalnızca hortumu getirmek:</strong> Rekor tipi ve açısı kaybolur; doğru parçayı bulmak uzar.",
+        "<strong>“Aynı kalınlıkta olsun yeter” demek:</strong> Dış çapı benzer iki hortumun tel katmanı ve basınç sınıfı tamamen farklı olabilir.",
+        "<strong>Eski hortumun boyunu sorgusuz kopyalamak:</strong> Önceki hortum zaten yanlış boydaysa aynı sorun tekrar eder; sürtünme izleri bunun ipucudur.",
+        "<strong>Koruyucu kılıfı ve kelepçeleri unutmak:</strong> Eski hortumun üzerindeki spiral koruma, kelepçe ve tutucular yeniden takılmazsa yeni hortum aynı noktadan aşınır."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Hortumu sökemiyorsam ne göndermeliyim?"
+    },
+    {
+      "type": "p",
+      "text": "İki ucun yakın fotoğrafını, uçtan uca boyu ve hortum yazısının fotoğrafını gönderin. Hortumu sökmek her zaman mümkün olmaz: makine sahada kalmıştır, hortum ulaşılması zor bir yerdedir ya da sökülünce makine tamamen hareketsiz kalacaktır. Böyle durumlarda fotoğrafları gönderip telefonla arayın, en pratik çözümü birlikte planlayalım. İş makinası ve vinç tarafında sahada müdahale gereken durumlar için yerinde servis de veriyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "Hortumu sökmeden önce nelere dikkat etmeli?"
+    },
+    {
+      "type": "p",
+      "text": "Önce yükü indirip hattaki basıncı tahliye edin; basınç altındaki bir rekoru asla gevşetmeyin. Sırasıyla:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Yükü yere indirin; bom, kol ve kovayı desteklenmiş ya da yere oturmuş konuma getirin.",
+        "Motoru durdurun ve hattaki basıncı kılavuzda tarif edilen şekilde tahliye edin.",
+        "Sıcak yağa dikkat edin; makine uzun süre çalıştıysa soğumasını bekleyin.",
+        "Kaçak ararken elinizi hortumun üzerinde gezdirmeyin; ince bir kaçaktan çıkan basınçlı yağ deriyi delip geçebilir ve bu tür <a href=\"https://www.safequarry.com/toolbox/Highpressureinjectioninjuries.pdf\">yüksek basınçlı akışkan enjeksiyonu yaralanmaları</a> acil cerrahi müdahale gerektirir. Bunun yerine bir karton parçası kullanın.",
+        "Sökülen hortumun bağlı olduğu ağızları tıkayın; sisteme kir girmesin."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Hortum sahada patladıysa ilk dakikalarda yapılması gerekenleri <a href=\"/blog/hidrolik-hortum-patlamasi-sahada-ne-yapmali.html\">hidrolik hortum patladı, ne yapmalı</a> yazımızda adım adım anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Milas'ta hidrolik hortum nerede yaptırılır?"
+    },
+    {
+      "type": "p",
+      "text": "Güllük–Güvercinlik arasındaki, Tuzla Kavşağı'ndaki atölyemizde yaptırabilirsiniz. Hidrolik hortumu ölçüye göre kesip rekorunu takarak presliyoruz; farklı çap ve basınç sınıflarında hortum ile geniş bir rekor çeşidini stokta bulunduruyoruz ve çoğu işi aynı gün teslim ediyoruz. Hizmetin ayrıntıları için <a href=\"/hizmetler/pres-hortum.html\">pres hortum</a> sayfamıza, rekor, filtre ve diğer parçalar için <a href=\"/hizmetler/hidrolik-yedek-parca.html\">hidrolik yedek parça</a> sayfamıza bakabilirsiniz. Hortum sık sık aynı noktadan patlıyorsa sorun hortumda değil, devrenin kendisinde olabilir; o durumda <a href=\"/hizmetler/vinc-hidrolik-tamiri.html\">vinç hidrolik tamiri</a> tarafında arızanın kaynağına bakarız."
+    },
+    {
+      "type": "callout",
+      "text": "Eski hortumu getirin ya da iki ucun fotoğrafını ve toplam boyu gönderin; rekorunu takıp presleyelim. Acil durumlarda 7/24 ulaşabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Eski hortumu rekorlarını kesmeden, iki ucuyla birlikte getirin; en güvenilir ölçü numunenin kendisidir.",
+    "Kılıftaki yazıyı silip fotoğraflayın: standart, iç çap ve çalışma basıncı orada yazar.",
+    "Basınç sınıfını hortumun çalıştığı hat belirler; aynı çap her hatta aynı hortum demek değildir.",
+    "Dirsekli uçlarda iki rekorun birbirine göre açısını tek fotoğrafta belgeleyin.",
+    "Kaçak ararken elinizi değil karton kullanın; basınçlı yağ deriyi delebilir."
+  ],
+  "faqs": [
+    {
+      "q": "Rekorun BSP mi metrik mi olduğunu nasıl anlarım?",
+      "a": "Kesin ayrım, diş ölçüsü ve adımı ile oturma yüzeyine bakılarak yapılır. BSP rekorlar inç dişlidir; metrik DIN rekorlarda milimetrik diş ve 24° konik oturma bulunur. Emin değilseniz rekoru getirin ya da dişi yakından fotoğraflayın; atölyede ölçerek ayırırız."
+    },
+    {
+      "q": "Eski hortumun rekorları yeniden kullanılabilir mi?",
+      "a": "Preslenmiş kalıcı rekorlar yeniden kullanılmaz; yeni hortuma yeni rekor takılır. Eski rekorlar ise doğru tipi ve ölçüyü belirlemek için numune olarak çok işe yarar."
+    },
+    {
+      "q": "Hidrolik hortumun basınç sınıfını nereden anlarım?",
+      "a": "Hortumun dış kılıfındaki yazıda standart, tip ve çalışma basıncı yer alır. Yazı okunmuyorsa makinenin teknik bilgisi ve hortumun çalıştığı hat üzerinden belirleriz."
+    },
+    {
+      "q": "Sadece ölçü vererek hortum yaptırabilir miyim?",
+      "a": "Mümkündür, ancak rekor tipi ve açı konusunda hata riski artar. Ölçüyle birlikte iki ucun net fotoğrafını göndermeniz bu riski büyük ölçüde azaltır."
+    },
+    {
+      "q": "Yeni hortum neden eskisinden farklı boyda yapılabilir?",
+      "a": "Eski hortum zaten yanlış boydaysa ya da güzergâhı değiştiyse aynı boyu kopyalamak sorunu tekrarlar. Kılıfta sürtünme izi, gerilme ya da sarkma varsa boyu bom ve silindirlerin tam açık ve tam kapalı konumlarına göre yeniden belirleriz."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Hydraulic rubber hoses – katalog (hortum tipleri, işaretleme, çalışma basınçları)",
+      "publisher": "Tubes International",
+      "url": "https://www.tubes-international.com/wp-content/uploads/catalogue-en-pdf/high_pressure/hydraulic_rubber_hoses.pdf"
+    },
+    {
+      "title": "SS-EN 853:2026 Rubber hoses and hose assemblies – Wire braid reinforced hydraulic type",
+      "publisher": "SIS – İsveç Standardizasyon Enstitüsü",
+      "url": "https://www.sis.se/produkter/fluidsystem-och-delar/hydrauliska-system/rordragning-och-kopplingar/ss-en-8532026/"
+    },
+    {
+      "title": "SS-ISO 12151-2 Hose fittings with ISO 8434-1 24° cone connector ends with O-rings",
+      "publisher": "SIS – İsveç Standardizasyon Enstitüsü",
+      "url": "https://www.sis.se/en/produkter/fluid-systems-and-components-for-general-use/pipeline-components-and-pipelines/hoses-and-hose-assemblies/ssiso121512/"
+    },
+    {
+      "title": "Toolbox Talk: High-Pressure Fluid Injection Injuries",
+      "publisher": "SafeQuarry",
+      "url": "https://www.safequarry.com/toolbox/Highpressureinjectioninjuries.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/pres-hortum.html",
+    "/blog/hidrolik-hortum-neden-patlar.html",
+    "/blog/hidrolik-hortum-patlamasi-sahada-ne-yapmali.html",
+    "/hizmetler/vinc-hidrolik-tamiri.html",
+    "/hizmetler/hidrolik-yedek-parca.html"
+  ]
+}

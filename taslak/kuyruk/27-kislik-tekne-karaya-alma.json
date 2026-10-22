@@ -1,0 +1,232 @@
+{
+  "slug": "kislik-tekne-karaya-alma",
+  "_hedef": "tekneyi kışın karaya alma / tekne kışlatma",
+  "title": "Tekneyi Kışın Karaya Alma: Bodrum ve Milas Kışlatma Rehberi",
+  "h1": "Tekneyi Kışın Karaya Alma (Kışlatma): Vinç mi Travelift mi, Sehpa ve Hazırlık",
+  "desc": "Tekneyi kışın karaya alma nasıl yapılır? Kışlatma öncesi hazırlık, vinç ile travelift farkı, sehpa ve destekleme; Bodrum ve Milas'ta vinçle tekne çekme.",
+  "category": "Vinç Kiralama",
+  "image": "real_ones/retrofit-hedef-crane-tekne-uzeri-deniz-vinci.jpg",
+  "imageAlt": "Limanda bir teknenin güvertesine monte edilmiş, üzerinde Retrofit Hedef Crane etiketi olan sarı katlanır bomlu vinç; arkada yamaçtaki evler",
+  "kisaCevap": "Tekneyi kışın karaya almak (kışlatma), sezon kapanınca teknenin sudan çıkarılıp sehpaya ya da destek ayaklarına oturtulması, karina bakımının yapılması ve motor, su ve elektrik sistemlerinin kışa hazırlanmasıdır. Marinada çıkarma genellikle travelift ile; iskele, rampa, çekek yeri ya da özel arazide mobil vinçle yapılır. Karada ağırlık omurgaya binmeli, yan destekler yalnızca dengeyi sağlamalı ve zemin kış yağmurunda yumuşamamalıdır.",
+  "intro": "Bu rehber; Bodrum, Güllük ve Milas kıyısında teknesi olan ve sezon kapanırken teknesini nerede, nasıl kışlatacağına karar vermeye çalışan tekne sahipleri ve kaptanlar için. Sezon sonu kısa ve kalabalıktır: vinç, travelift ve çekek yerleri aynı haftalarda dolar. Aşağıda vinç ile travelift arasındaki farkı, karaya almadan önceki hazırlığı, sehpa ve destekleme kurallarını ve kış boyunca yapılacak kontrolleri sırasıyla anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Tekne kışın neden karaya alınır?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü karina bakımı, boya ve şaft-pervane kontrolü ancak karada yapılabilir; fırtınalı aylarda bağlama ve sintine takibi derdi de ortadan kalkar. Su altında kalan karina, sezon boyunca deniz canlılarıyla kaplanır; bu hem yakıt tüketimini artırır hem de hızı düşürür. Kışın karada karina temizlenir, gerekiyorsa zehirli boya yenilenir; şaft, pervane, anotlar ve deniz suyu valfleri kontrol edilir. Bu işlerin çoğu tekne sudayken yapılamaz."
+    },
+    {
+      "type": "p",
+      "text": "Karaya alınan tekne için fırtınalı kış aylarında bağlama halatlarını, usturmaçaları ve sintine pompasını sürekli takip etme ihtiyacı da ortadan kalkar. İç mekânın havalandırılması, döşemelerin ve elektrik tesisatının kontrolü karada çok daha rahat yapılır. Bölgede birçok teknenin sezon kapanınca karaya çekilmesinin sebebi budur."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç ile travelift arasındaki fark nedir?"
+    },
+    {
+      "type": "p",
+      "text": "Travelift marina ve tersanede, bunun için yapılmış havuzda ya da rampada çalışır; mobil vinç ise iskele, rampa, çekek yeri ya da özel arazi gibi vincin güvenle kurulabildiği her yerde iş görür. Karşılaştırma:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Konu",
+        "Travelift",
+        "Mobil vinç"
+      ],
+      "rows": [
+        [
+          "Nerede kullanılır",
+          "Marina ve tersanelerde, bunun için yapılmış havuz ya da rampa yapısı olan yerlerde",
+          "İskele, rampa, sahil yolu, çekek yeri, özel arazi; vincin güvenle kurulabildiği her yer"
+        ],
+        [
+          "Tekne karada nereye gider",
+          "Genellikle marina ya da tersane sahası içinde",
+          "Vincin erişimi içinde ya da taşıyıcı araçla başka bir noktaya"
+        ],
+        [
+          "Kaldırma şekli",
+          "Teknenin altından geçen geniş kayışlarla",
+          "Kayışlar (sapan) ve traves ile, vincin kancasından"
+        ],
+        [
+          "Ön koşul",
+          "Marinanın takvimi ve kuralları",
+          "Vincin kurulacağı sağlam zemin ve teknenin vince yaklaşabilmesi"
+        ],
+        [
+          "Öne çıkan yanı",
+          "Tekne tek makineyle kısa mesafede taşınır",
+          "Marina dışındaki noktalarda çoğu zaman tek pratik çözüm"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Marinada yer ayırttıysanız çıkarma işi büyük ihtimalle marinanın kendi ekipmanı ve kurallarıyla yapılır. Tekneyi kendi arazinizde, bir kooperatif çekek yerinde ya da marina dışındaki bir alanda kışlatacaksanız mobil vinç çoğu zaman tek pratik yoldur. Vinç; rampanın ya da iskelenin yanına kurulur, tekneyi bulunduğu yerden alıp doğrudan sehpasına ya da taşıyıcı araca bırakır."
+    },
+    {
+      "type": "h2",
+      "text": "Tekneyi karaya almadan önce neler hazırlanmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Tankları boşaltın, gevşek donanımı toplayın, sapan noktalarını belirleyin, sehpayı ve zemini hazırlayın, tarihi erkenden ayırtın:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Yakıt ve su tanklarını mümkün olduğunca boşaltın; tekne hafifler, ağırlık merkezi daha öngörülebilir olur.",
+        "Tenteleri, bumbayı ve gevşek eşyaları toplayın ya da sabitleyin.",
+        "Gövdedeki sapan işaretlerini belirleyin; şaft, pervane, iskandil ve sensörlerin yerini ekibe gösterin.",
+        "Sehpanızın ya da destek ayaklarınızın hazır ve teknenize uygun olduğundan emin olun.",
+        "Teknenin konacağı zeminin düz, sağlam ve kış yağmurlarında su toplamayacak bir yer olmasını sağlayın.",
+        "Tarihi erken ayarlayın; sezon kapanışında talep yoğunlaşır.",
+        "Teknenin ağırlığını, boyunu ve bulunduğu yeri fotoğraflarla birlikte vinç firmasına önceden iletin."
+      ]
+    },
+    {
+      "type": "callout",
+      "text": "Kaldırma sırasında teknenin içinde kimse bulunmamalıdır. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a>, olağanüstü ve acil istisnai durumlar dışında insanların kaldırılmasında yalnızca bu amaçla sağlanmış ekipmanın kullanılmasını ister; tekne kaldırılırken kaptan da dahil herkes karada ya da güvenli mesafede beklemelidir."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne karada nasıl desteklenir?"
+    },
+    {
+      "type": "p",
+      "text": "Tekne karada ya teknenin formuna uygun bir sehpada (beşik) ya da ayarlanabilir destek ayaklarıyla (payanda) durur. Yelkenlilerde ağırlığın büyük kısmı salma üzerinden zemindeki sağlam bir takoza ya da kirişe aktarılır; yan destekler tekneyi dik tutar. Motorlu teknelerde yük, omurga boyunca ve karinanın sağlam bölgelerine dağıtılır."
+    },
+    {
+      "type": "p",
+      "text": "Destekler yumuşak toprak üzerine değil, sağlam ve düz bir zemine ya da altına konan geniş tabanlara oturmalıdır. Kış yağmurlarında yumuşayan zemin, desteğin batmasına ve teknenin yana yatmasına yol açabilir. Yan destekler karşılıklı olarak ayarlanmalı ve birbirine bağlanmalı; tek bir payandaya fazla yük binmemelidir. <a href=\"https://www.practical-sailor.com/boat-maintenance/choosing-and-using-jackstands/\">Teknik tekne yayınları</a> da ağırlığın büyük kısmının omurga takozlarına binmesini, ayakların yalnızca denge için kullanılmasını, karşılıklı ayakların zincirle bağlanıp zincirin kurulum sırasında gerilmesini ve batmasınlar diye ayakların altına kontrplak taban konmasını önerir."
+    },
+    {
+      "type": "p",
+      "text": "Kendi arazinizde kışlatacaksanız, sehpanın yerini vincin erişimine göre seçin. Vinç, sehpaya ne kadar yakın kurulabilirse operasyon o kadar küçük bir vinçle ve o kadar güvenli yapılır. Bu konuda fiyatı ve vinç seçimini nelerin etkilediğini <a href=\"/blog/tekne-cekme-fiyatlari-neye-gore.html\">tekne çekme fiyatları neye göre belirlenir</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne kışa nasıl hazırlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Motor, tatlı su sistemi, aküler, havalandırma, örtü, karina ve güverte donanımı ayrı ayrı ele alınır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Motor: üreticinin kışlatma talimatına göre yağ ve filtre değişimi, soğutma ve deniz suyu devresinin korunması",
+        "Tatlı su sistemi: tankların ve hatların boşaltılması",
+        "Aküler: şarjlı tutulması ya da sökülüp uygun bir yerde saklanması",
+        "Havalandırma: nem ve küfü önlemek için iç mekânın havalandırılması",
+        "Örtü: rüzgârda dövmeyecek ve su toplamayacak şekilde gerilip sabitlenmesi",
+        "Karina: temizlik, anot kontrolü, gerekiyorsa boya",
+        "Güverte donanımı: yelkenlerin ve hareketli donanımın sökülüp kuru bir yerde saklanması"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu listedeki işlerin ayrıntısı teknenin tipine ve üreticisine göre değişir; motor ve sistemler için teknenizin kılavuzunu ve yetkili servisini esas alın."
+    },
+    {
+      "type": "h2",
+      "text": "Kışlatma hangi sırayla yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Karar, rezervasyon, çıkarma, temizlik, kış bakımı ve bahar hazırlığı sırasıyla ilerler; kışlatmayı tek bir gün değil, birbirini izleyen adımlar olarak düşünün:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Sezon bitmeden: Kışlatma yerine karar verin; marina, çekek yeri ya da kendi araziniz. Sehpa veya destek düzenini ayarlayın.",
+        "Çıkarmadan önce: Vinç ya da travelift tarihini ayırtın, tankları boşaltın, tenteleri ve gevşek eşyaları toplayın.",
+        "Çıkarma günü: Sapan yerleşimi, deneme kaldırması, sehpaya oturtma ve desteklerin sıkılması.",
+        "Çıkarmanın hemen ardından: Karinayı deniz canlıları kurumadan temizletin; kuruduktan sonra temizlik zorlaşır.",
+        "Kış boyunca: Motor ve sistemlerin kışa hazırlanması, karina bakımı, düzenli destek ve örtü kontrolü.",
+        "Bahardan önce: Boya, anot ve deniz suyu valflerinin son kontrolü; indirme tarihinin ayırtılması."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu sıranın her adımı bir öncekine bağlıdır. Sehpası hazır olmayan bir tekne için vinç günü ayırtmak ya da vinç tarihi belli olmadan tankları boşaltmamak, sezon sonu yoğunluğunda zaman kaybettirir."
+    },
+    {
+      "type": "h2",
+      "text": "Kış boyunca ve baharda neler kontrol edilmeli?"
+    },
+    {
+      "type": "p",
+      "text": "Kışın fırtınalardan sonra destekler, örtü ve zemin; baharda ise deniz suyu valfleri, şaft keçesi ve indirme tarihi kontrol edilir. Kışlatma, tekne karaya oturduğunda bitmez: gevşemiş bir payanda ya da batmış bir taban, baharda karinada değil, teknenin tamamında sorun çıkarabilir. Örtü altında su birikip birikmediğine, iç mekânda nem olup olmadığına da bakın."
+    },
+    {
+      "type": "p",
+      "text": "Baharda teknenin denize indirilmesi aynı dikkatle planlanır: tarih, vinç, sapan yerleşimi ve suya bırakma sırasında deniz suyu valflerinin ve şaft keçesinin kontrolü. Sezon açılışında da talep yoğunlaştığı için indirme tarihini kış bitmeden ayarlamak işinizi kolaylaştırır. Sapan yerleşimi ve dengeyle ilgili ayrıntılar için <a href=\"/blog/bodrumda-tekne-cekme.html\">Bodrum'da tekne çekme ve denize indirme</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Bodrum ve Milas'ta kışlatma için vinç nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Sezon sonunda Bodrum yarımadası, Güllük, Ören ve Milas sahillerinde operatörlü mobil vinçle tekne çekme ve sehpaya yerleştirme işlerini planlıyoruz. İşi telefonda konuşup fotoğrafları gördükten sonra uygun vinci ve tarihi belirliyoruz; erişimi zor yerlerde önce keşif yapıyoruz. Ayrıntılar için <a href=\"/bolgeler/bodrum-vinc-kiralama.html\">Bodrum vinç kiralama</a> ve <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> sayfalarımıza bakabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Marina dışındaki iskele, rampa ve özel arazide tekne çoğu zaman mobil vinçle çıkarılır.",
+    "Kaldırma sırasında teknede kimse bulunmamalı; kaptan dahil herkes güvenli mesafede beklemeli.",
+    "Karada ağırlık omurgaya binmeli; yan destekler yalnızca dengeyi sağlamalı.",
+    "Destek ayaklarının altına geniş taban koyun, karşılıklı ayakları zincirle bağlayın.",
+    "Karinayı, deniz canlıları kurumadan, çıkarmanın hemen ardından temizletin."
+  ],
+  "faqs": [
+    {
+      "q": "Tekne kışın karaya alınmalı mı?",
+      "a": "Zorunlu değildir, ancak karina bakımı, boya, şaft ve pervane kontrolü gibi işler için tekneyi karaya almak gerekir. Karada ve sağlam desteklenmiş bir tekne için kış boyunca bağlama halatlarını ve sintine pompasını sürekli takip etme ihtiyacı da ortadan kalkar."
+    },
+    {
+      "q": "Tekneyi vinçle mi travelift ile mi çıkarmak daha iyi?",
+      "a": "Tekne marinadaysa ve marinada kalacaksa çoğunlukla marinanın travelifti kullanılır. Tekne marina dışında, bir iskele, rampa ya da çekek yerindeyse veya kendi arazinize götürülecekse mobil vinç çoğu zaman tek pratik çözümdür."
+    },
+    {
+      "q": "Karadaki teknenin destekleri ne sıklıkla kontrol edilmeli?",
+      "a": "Fırtına ve sağanak yağmurlardan sonra mutlaka, bunun dışında düzenli aralıklarla kontrol edin. Destek ayaklarının gevşeyip gevşemediğine, altlarındaki tabanların batıp batmadığına, zincirlerin gergin olup olmadığına ve örtünün su toplayıp toplamadığına bakın."
+    },
+    {
+      "q": "Tekne karaya alınmadan önce tanklar boşaltılmalı mı?",
+      "a": "Mümkün olduğunca boşaltılması önerilir. Dolu tanklar teknenin ağırlığını artırır ve ağırlık merkezini değiştirir; bu da kaldırma sırasında dengeyi zorlaştırır ve daha büyük vinç gerektirebilir."
+    },
+    {
+      "q": "Tekne karaya alındıktan hemen sonra ne yapılmalı?",
+      "a": "Karinadaki deniz canlıları kurumadan temizlik yaptırın; kuruduktan sonra temizlik zorlaşır. Ardından desteklerin ve zincirlerin gerginliğini kontrol edin, deniz suyu valflerini ve şaftı inceleyin, motoru üreticinin kışlatma talimatına göre hazırlayın."
+    },
+    {
+      "q": "Kışlatılan teknenin örtüsü nasıl olmalı?",
+      "a": "Örtü rüzgârda dövmeyecek şekilde gerilip sabitlenmeli, üzerinde su toplamamalı ve iç mekânın havalanmasına izin vermelidir. Fırtınalardan sonra örtünün altında su birikip birikmediğine ve bağlantıların gevşeyip gevşemediğine bakın."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (EK-II: insanların kaldırılması)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "Choosing and Using Jackstands",
+      "publisher": "Practical Sailor",
+      "url": "https://www.practical-sailor.com/boat-maintenance/choosing-and-using-jackstands/"
+    }
+  ],
+  "related": [
+    "/bolgeler/bodrum-vinc-kiralama.html",
+    "/hizmetler/vinc-kiralama.html",
+    "/blog/bodrumda-tekne-cekme.html",
+    "/blog/tekne-cekme-fiyatlari-neye-gore.html",
+    "/blog/dogru-vinc-secimi.html"
+  ]
+}

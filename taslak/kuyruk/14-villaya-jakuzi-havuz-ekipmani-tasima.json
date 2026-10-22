@@ -1,0 +1,248 @@
+{
+  "slug": "villaya-jakuzi-havuz-ekipmani-tasima",
+  "_hedef": "jakuzi taşıma vinç",
+  "title": "Vinçle Jakuzi Taşıma: Villaya Havuz Ekipmanı Teslimi",
+  "h1": "Vinçle Jakuzi ve Havuz Ekipmanı Taşıma: Villaya Sorunsuz Teslim İçin Rehber",
+  "desc": "Jakuzi taşıma vinç ile nasıl yapılır? Ağırlık bilgisi, sapan ve travers, teras taşıma kapasitesi, erişim ve keşif adımları. Milas ve Bodrum'da hizmet.",
+  "category": "Vinç Kiralama",
+  "image": "saha-cati-montaj.jpg",
+  "imageAlt": "Sarı kamyon üstü vinç, inşaat hâlindeki betonarme binanın çatısına konstrüksiyon elemanı veriyor; önde paletli malzemeler",
+  "kisaCevap": "Jakuzi vinçle her zaman boşken taşınır: gövdeyi yandan sıkıştırmayan geniş polyester sapanlar ve gerekirse kaldırma traversiyle bağlanır, birkaç santim kaldırılıp dengesi kontrol edilir ve kılavuz iple yerine indirilir. Hangi vincin geleceğini jakuzinin boş ağırlığı ile vincin kurulacağı nokta ve iniş noktası arasındaki mesafe belirler. Teras ya da çatıya konacaksa dolu ağırlık için önce inşaat mühendisinin onayı alınmalıdır.",
+  "cikarimlar": [
+    "Jakuzinin boş ve ambalajlı ağırlığını üreticinin teknik belgesinden ya da satıcıdan yazılı alın.",
+    "Sapanların gövdeyi yandan sıkıştırmaması için kaldırma traversi ve geniş polyester sapan kullanılır.",
+    "Teras veya çatı için dolu jakuzi, su ve kullanıcıların toplam ağırlığını mühendis değerlendirmelidir.",
+    "Vincin kurulacağı nokta ile iniş noktası arasındaki mesafe, hangi vincin geleceğini belirler.",
+    "Bodrum'da teslimatı Mayıs ortasından önce planlamak, yaz kısıtlamasıyla ilgili belirsizliği ortadan kaldırır."
+  ],
+  "intro": "Jakuzi ya da spa küveti çoğu villaya bahçe kapısından, merdivenden ya da dar yan geçitten sığmaz; teslimat günü kamyon kapıda, jakuzinin yeri ise duvarın öbür tarafında kalır. Bu rehber jakuzi alan villa sahipleri, havuz firmaları ve şantiye ekipleri için; ağırlık bilgisinden sapan seçimine, terasın taşıma kapasitesinden teslim günü adımlarına kadar planlamayı anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Jakuzi neden vinçle taşınır?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü jakuzi ağırlığından çok ölçüsüyle sorun çıkarır ve vinç onu duvarların, basamakların üzerinden doğrudan yerine indirebilir. Forklift ya da transpalet düz zeminde işe yarasa da yokuşlu bahçelerde, basamaklı teraslarda ve üst katlarda çaresiz kalır. Elle taşımaya çalışmak ise hem gövdeye hem de taşıyanlara zarar verir. Jakuzi üreticileri de geçişin dar, merdivenin dik olduğu durumlarda vinci bir seçenek olarak anlatır; <a href=\"https://hotspring.com/wp-content/uploads/2025/02/hot-spring-spas-limelight-pre-delivery-instructions.pdf\">Hot Spring'in teslimat öncesi talimatı</a>, vincin spayı duvarların ve binaların üzerinden kurulum yerine olabildiğince yakın bırakacağını belirtir. Doğru planlandığında iş kısa sürede ve hasarsız biter."
+    },
+    {
+      "type": "p",
+      "text": "Aynı mantık havuz ekipmanları için de geçerlidir: ısı pompası, filtre tankı, prefabrik denge deposu, kaplama ve taş paletleri, büyük saksılar ve dış mekân mobilyaları. Bu yazıda jakuzi üzerinden anlatıyoruz, ancak adımların çoğu bu yüklerin tamamı için aynıdır."
+    },
+    {
+      "type": "h2",
+      "text": "Jakuzi taşımadan önce hangi bilgiler gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "Boş ağırlık, ölçü, üreticinin kaldırma önerisi, ayrı gelen parçalar ve gideceği nokta bilinmeden vinç seçilmez:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Boş ağırlık:</strong> Üreticinin teknik belgesinde ya da etiketinde yazar; satıcıdan isteyin. Ambalajlı ve paletli hâlinin ağırlığı daha fazla olabilir.",
+        "<strong>Ölçü:</strong> En, boy ve yükseklik; ambalajlı hâlinin ölçüsünü ayrıca not edin.",
+        "<strong>Kaldırma noktaları:</strong> Bazı modellerde üreticinin önerdiği kaldırma yöntemi ya da taşıma paleti vardır. Kılavuzda bir öneri varsa ona uyulur.",
+        "<strong>Ayrı parçalar:</strong> Kapak, basamak ve aksesuarların ayrı mı geldiğini öğrenin; bunlar ayrı kaldırılır.",
+        "<strong>Gideceği nokta:</strong> Bahçe, teras ya da çatı; tam yerini ve yönünü (bağlantıların hangi tarafa bakacağını) belirleyin."
+      ]
+    },
+    {
+      "type": "callout",
+      "text": "Jakuzi asla içinde su varken kaldırılmaz. Her metreküp su yaklaşık bir ton demektir; dolu bir jakuzi hem vincin hesabını hem de gövdenin dayanımını tamamen değiştirir. Taşımadan önce tamamen boşaltıldığından emin olun."
+    },
+    {
+      "type": "h2",
+      "text": "Jakuziyi kaldırırken gövde nasıl korunur?"
+    },
+    {
+      "type": "p",
+      "text": "Sapanların gövdeyi yandan sıkıştırması traversle önlenir, keskin kenarlar köşe koruyucuyla kapatılır. Jakuzi gövdeleri genellikle akrilik ya da kompozit kabuk ve onu çevreleyen bir dış kasadan oluşur. Sapanlar gövdenin altından geçip yukarıda tek noktada toplandığında, yanlardan içe doğru sıkıştırma kuvveti oluşur. Bu kuvvet dış kasayı ezebilir ya da kabukta çatlağa yol açabilir. Bunu önlemek için şu yöntemleri kullanırız:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Sapanların gövdeyi yandan sıkıştırmasını önlemek için kaldırma traversi (ayırıcı kiriş) kullanmak",
+        "Geniş yüzeyli, gövdeye zarar vermeyen polyester sapan tercih etmek",
+        "Keskin kenarlara ve köşelere köşe koruyucu yerleştirmek",
+        "Yükü birkaç santim kaldırıp dengesini kontrol etmek, gerekirse sapan yerini düzeltmek",
+        "Yükü havada yönlendirmek için kılavuz ip kullanmak; kimsenin gövdeyi elle itmeye çalışmaması"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Sapan seçimini ve kaldırma planını operatörümüz yapar; bu konudaki sorumluluk bizdedir. Sizden beklediğimiz, üreticinin kaldırma önerisi varsa bunu bizimle paylaşmanızdır."
+    },
+    {
+      "type": "h2",
+      "text": "Nereye konacak: bahçe, teras ya da çatı?"
+    },
+    {
+      "type": "p",
+      "text": "Bahçede zeminin düz ve sağlam olması yeter; teras ve çatıda ise önce yapının dolu jakuziyi taşıyıp taşımayacağı netleşmelidir:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Konum",
+        "Kontrol edilecek",
+        "Not"
+      ],
+      "rows": [
+        [
+          "Bahçe zemini",
+          "Düz ve sıkıştırılmış zemin; beton döşemeyse kürünün tamamlanmış olması",
+          "Elektrik ve su bağlantı noktaları önceden hazırlanmalı"
+        ],
+        [
+          "Teras ya da balkon",
+          "Dolu jakuzi, su ve kullanıcıların toplam ağırlığını taşıyıp taşımayacağı",
+          "İnşaat mühendisinin onayı gerekir"
+        ],
+        [
+          "Çatı",
+          "Taşıma kapasitesi, su yalıtımının korunması, erişim",
+          "Mühendis onayı ve yalıtım koruması şart"
+        ],
+        [
+          "Havuz kenarı",
+          "Vincin havuz duvarına çok yakın kurulmaması",
+          "Kurulum noktası havuzdan uzak seçilir"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Teras ya da çatı için taşıma kapasitesi kararı bizim değil, yapının statik hesabını bilen inşaat mühendisinin işidir. Jakuzi üreticileri de bu konuda nettir: <a href=\"https://www.sundancespas.com/blog-articles/installing-a-hot-tub-on-deck-what-to-know\">Sundance Spas</a>, dolu bir jakuzinin konacağı yükseltilmiş zeminin kurulumdan önce bir yapı mühendisi ya da yetkin bir yüklenici tarafından incelenmesini şart sayar. Biz jakuziyi güvenle kaldırıp yerine koyarız; yapının onu yıllarca taşıyıp taşımayacağını mühendis söyler. Bu onayı almadan terasa jakuzi koymanızı önermeyiz."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç villaya ne kadar yaklaşabilmeli?"
+    },
+    {
+      "type": "p",
+      "text": "Vinç, jakuzinin ineceği noktaya, o mesafede jakuzinin ağırlığını kapasite tablosu içinde kaldırabileceği kadar yaklaşmalıdır; mesafe arttıkça vincin kaldırabileceği yük azalır. Bodrum ve Milas sahilindeki villaların önemli bir kısmı yamaçtadır; site içi yollar dar, bahçeler basamaklıdır. Bu yüzden “yoldan uzanırız” planı her zaman yetmez. Yokuş ve dar yol planlamasını <a href=\"/blog/bodrum-villa-insaatinda-vinc.html\">Bodrum villa inşaatında vinç</a> ve <a href=\"/blog/dar-sokakta-vinc-calismasi.html\">dar sokakta vinç çalışması</a> yazılarımızda ayrıntılı anlattık. Keşif için şu bilgileri hazırlayın:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Vincin kurulacağı yerin fotoğrafı ve zeminin türü",
+        "Jakuzinin ineceği noktanın fotoğrafı",
+        "İki nokta arasındaki yaklaşık mesafe ve aradaki engeller (duvar, ağaç, pergole, tente)",
+        "Havai elektrik ve telefon hatları",
+        "Site içindeyse yönetim izni ve çalışma saatleri"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Teslim günü nasıl ilerler?"
+    },
+    {
+      "type": "p",
+      "text": "Vinç kurulur, jakuzi bağlanıp dengelenir ve hazırlanan zemine yönü doğru şekilde indirilir; sıra şöyledir:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Jakuzi tedarikçinin aracıyla ya da bizim araç üstü vincimizle sahaya gelir.",
+        "Vinç, keşifte belirlenen noktaya kurulur; ayaklar plakalarıyla birlikte tam açılır.",
+        "Ambalajın durumu kontrol edilir; gerekiyorsa koruma kalır, kaldırma noktaları açılır.",
+        "Travers ve sapanlar bağlanır, yük birkaç santim kaldırılıp dengesi kontrol edilir.",
+        "Jakuzi, kimsenin altında bulunmadığı rotadan ve kılavuz iple yönlendirilerek taşınır.",
+        "Hazırlanan zemine, bağlantıları doğru yöne bakacak şekilde indirilir.",
+        "Sapanlar çözülür, ayrı gelen parçalar varsa onlar da yerine bırakılır."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Montaj, elektrik ve su bağlantıları jakuzi tedarikçisinin ya da yetkili ustanın işidir; bunları vinç günüyle aynı güne planlarsanız jakuzi yerine indikten sonra kurulum hemen başlayabilir."
+    },
+    {
+      "type": "h2",
+      "text": "Isı pompası, filtre tankı ve taş paletleri nasıl kaldırılır?"
+    },
+    {
+      "type": "p",
+      "text": "Her ekipmanın kendine özgü bir riski vardır: ısı pompası yan yatırılmaya, filtre tankı doluluğa, hafif depolar rüzgâra, paletler dağılmaya hassastır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Isı pompası ve klima dış ünitesi:</strong> Ambalajın üzerindeki taşıma yönü işaretlerine uyulur; üretici dik taşınmasını istiyorsa yan yatırılmaz. Sapanlar kasaya değil, üreticinin gösterdiği noktalara ya da palete bağlanır.",
+        "<strong>Filtre tankı:</strong> Boş taşınır; içinde kum ya da filtre malzemesi varsa ağırlığı ciddi biçimde artar. Bağlantı ağızları darbeye karşı korunur.",
+        "<strong>Prefabrik denge deposu ve su tankı:</strong> Hafif ama hacimlidir; rüzgârda kolayca döner. Kılavuz ip kullanmadan kaldırılmaz.",
+        "<strong>Kaplama ve doğal taş paletleri:</strong> Paletin sağlam ve ambalaj çemberlerinin yerinde olduğu kontrol edilir. Kırık bir palet havadayken dağılabilir; gerekiyorsa yük yeniden paletlenir.",
+        "<strong>Büyük saksı ve bitkiler:</strong> Toprak ıslaksa ağırlık beklenenden fazladır; saksının kulpu değil gövdesi sapanla sarılır."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bodrum'da jakuzi teslimatı hangi aylarda planlanmalı?"
+    },
+    {
+      "type": "p",
+      "text": "En güvenli dönem Mayıs ortasından öncesidir. Jakuzi ve havuz ekipmanı çoğu zaman sezon başlamadan, ilkbaharda teslim edilmek istenir. Bodrum'da 15 Mayıs–15 Ekim arasında turistik yörelerdeki ağır nakliyat, hafriyat ve harçlı inşaat işleri <a href=\"https://yigm.ktb.gov.tr/TR-94692/turistik-yorelerdeki-insaat-yasagi.html\">Kültür ve Turizm Bakanlığı genelgesiyle</a> kısıtlanır. Tek seferlik bir jakuzi yerleştirmenin bu kapsama girip girmediği yerel uygulamaya bağlıdır; ayrıntıları <a href=\"/blog/bodrum-yaz-insaat-yasagi-ve-vinc.html\">Bodrum inşaat yasağı</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Milas ve Bodrum'da jakuzi ve havuz ekipmanı taşıma"
+    },
+    {
+      "type": "p",
+      "text": "Hedef Vinç olarak 2005'ten beri Milas merkezli çalışıyoruz; atölyemiz Güllük–Güvercinlik arasında, Tuzla Kavşağı'nda. Klima, havuz, jakuzi, cam ve mobilya gibi yüklerin taşınması ve yüksek kat teslimatları, vinç kiralama hizmetimizin bir parçası. Vinçlerimiz operatörleriyle gelir, işten önce ücretsiz keşif yapar ve fiyatı baştan netleştiririz. Yabancı villa sahipleri için İngilizce destek hattımız da var. Ayrıntılar için <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "callout",
+      "text": "Jakuzinin modelini ya da ölçü ve ağırlık bilgisini, vincin kurulacağı yer ile iniş noktasının fotoğraflarını gönderin; uygun vinci ve teslim gününü birlikte planlayalım."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Jakuzi vinçle nasıl taşınır?",
+      "a": "Jakuzi boşken, gövdeyi yandan sıkıştırmayan geniş sapanlar ve gerektiğinde kaldırma traversiyle bağlanır. Birkaç santim kaldırılıp dengesi kontrol edildikten sonra kılavuz iple yönlendirilerek hazırlanan zemine indirilir."
+    },
+    {
+      "q": "Jakuzi içinde su varken taşınabilir mi?",
+      "a": "Hayır. Su, jakuzinin ağırlığını kat kat artırır ve gövdeye zarar verebilir. Taşımadan önce tamamen boşaltılması gerekir."
+    },
+    {
+      "q": "Terasa ya da çatıya jakuzi koymak güvenli mi?",
+      "a": "Bunu yapının statik durumunu bilen bir inşaat mühendisi söyleyebilir. Dolu jakuzi, su ve kullanıcıların toplam ağırlığı için mühendis onayı alınmadan teras ya da çatı tercih edilmemelidir."
+    },
+    {
+      "q": "Jakuzinin ağırlığını nereden öğrenirim?",
+      "a": "Üreticinin teknik belgesinde ya da gövdedeki etikette yazar; satıcıdan da isteyebilirsiniz. Ambalajlı ve paletli hâlinin daha ağır olabileceğini unutmayın."
+    },
+    {
+      "q": "Jakuzi taşımak için hangi vinç gelir?",
+      "a": "Jakuzinin ağırlığına ve vincin kurulacağı nokta ile iniş noktası arasındaki mesafeye göre seçilir. Kısa mesafeli işlerde araç üstü katlanır bomlu vinç çoğu zaman yeterlidir; jakuzi bahçenin arka tarafına ya da üst terasa gidecekse daha uzun erişimli bir vinç gerekebilir."
+    },
+    {
+      "q": "Vinçle jakuzi taşıma ne kadar sürer?",
+      "a": "Kaldırmanın kendisi genellikle kısa sürer; asıl zaman vincin kurulması, bağlama ve toplama aşamalarına gider. Keşiften sonra size gerçekçi bir süre söyleriz."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Hot Spring Spa Pre-Delivery Instructions",
+      "publisher": "Hot Spring Spas",
+      "url": "https://hotspring.com/wp-content/uploads/2025/02/hot-spring-spas-limelight-pre-delivery-instructions.pdf"
+    },
+    {
+      "title": "Installing a Hot Tub on Deck: What to Know",
+      "publisher": "Sundance Spas",
+      "url": "https://www.sundancespas.com/blog-articles/installing-a-hot-tub-on-deck-what-to-know"
+    },
+    {
+      "title": "Turistik Yörelerdeki İnşaat Yasağı (2025/3 sayılı Genelge)",
+      "publisher": "Kültür ve Turizm Bakanlığı Yatırım ve İşletmeler Genel Müdürlüğü",
+      "url": "https://yigm.ktb.gov.tr/TR-94692/turistik-yorelerdeki-insaat-yasagi.html"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-kiralama.html",
+    "/bolgeler/bodrum-vinc-kiralama.html",
+    "/blog/bodrum-villa-insaatinda-vinc.html",
+    "/blog/dar-sokakta-vinc-calismasi.html"
+  ]
+}

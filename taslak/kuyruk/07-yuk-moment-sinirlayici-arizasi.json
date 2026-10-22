@@ -1,0 +1,227 @@
+{
+  "slug": "yuk-moment-sinirlayici-arizasi",
+  "_hedef": "yük moment sınırlayıcı arızası / LMI arızası",
+  "title": "Yük Moment Sınırlayıcı (LMI) Arızası: Neden Bypass Edilmez?",
+  "h1": "Yük Moment Sınırlayıcı (LMI) Arızası: Belirtiler, Nedenler ve Neden Asla Devre Dışı Bırakılmaz",
+  "desc": "Yük moment sınırlayıcı arızası neden olur? Sensör, kablo, kalibrasyon ve ayar hataları; LMI'yi bypass etmenin hukuki ve güvenlik sonuçları ve Milas'ta servis.",
+  "category": "Vinç Tamiri",
+  "image": "real_ones/kabin-konteyner-yerlestirme-vinc.jpg",
+  "imageAlt": "Kırmızı teleskopik vinç bomu, taş duvarlı kırsal bir arsaya prefabrik bir kabin indiriyor",
+  "kisaCevap": "Yük moment sınırlayıcı (LMI) arızası çoğunlukla basınç, açı ya da uzunluk sensöründen, kablo ve soket bağlantısından, kalibrasyon kaybından veya sisteme yanlış ayak açıklığı, karşı ağırlık ya da çalışma modu girilmesinden kaynaklanır. Çözüm, arızayı bulup sistemi bilinen yüklerle yeniden doğrulamaktır; sınırlayıcı köprülenmez. Arıza giderilene kadar vinçle yük kaldırılmaz, vinç yalnızca kılavuzdaki prosedürle güvenli konuma toplanır.",
+  "cikarimlar": [
+    "Servis çağırmadan önce seçili ayak, karşı ağırlık ve mod ayarının sahadaki durumla aynı olduğunu kontrol edin.",
+    "Sensör, kablo makarası veya kontrol ünitesi değiştiğinde sistem bilinen yüklerle yeniden doğrulanmalıdır.",
+    "1000 kg ve üzeri azami çalışma yükündeki makinelerde aşırı yük uyarı ve engelleme tertibatı zorunludur.",
+    "Kıyıda çalışan vinçlerde sınırlayıcı arızaları sıklıkla oksitlenmiş soket ve konnektörlerden başlar.",
+    "Köprülenmiş bir sınırlayıcı, sonraki operatörün bilmediği gizli bir risk olarak vinçte kalır."
+  ],
+  "intro": "Ekranda bir hata kodu, kilitlenen hareketler ya da yük yokken gelen \"aşırı yük\" uyarısı: Sınırlayıcı arızası çoğu zaman en acele işin ortasında çıkar ve sahadaki en tehlikeli kısa yol, sistemi köprüleyip işe devam etmektir. Bu rehber operatörler ve vinç sahipleri için; sınırlayıcının ne yaptığını, mevzuatın ne istediğini, arızanın sık kaynaklarını ve servis gelmeden yapılabilecek kontrolleri anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Yük moment sınırlayıcı ne yapar?"
+    },
+    {
+      "type": "p",
+      "text": "Yük moment sınırlayıcı, vincin taşıdığı yükü bom açısı ve uzunluğuyla birlikte yük tablosuyla karşılaştıran ve sınır aşılmadan hareketi kesen emniyet sistemidir. Bir vincin kaldırabileceği yük sabit değildir: Bom uzadıkça ve yük vinçten uzaklaştıkça kapasite düşer. Sistem yükü genellikle kaldırma silindirindeki basınçtan ya da bir yük hücresinden, bom açısını ve uzunluğunu ise sensörlerden okur. Sınıra yaklaşıldığında operatörü uyarır; sınır aşılacaksa momenti artıran hareketleri (bomu indirme, uzatma, yükü kaldırma) keser, momenti azaltan hareketlere ise izin verir."
+    },
+    {
+      "type": "p",
+      "text": "Katlanır bomlu hiyaplarda aynı görevi çoğu zaman ana silindir basıncını izleyen bir aşırı yük sistemi üstlenir. Yeni nesil vinçlerde buna ayakların açıklığını ve vincin dönüş açısını izleyen denge kontrolü eklenir; vinç, ayakların izin verdiği bölgeye göre farklı kapasiteyle çalışır."
+    },
+    {
+      "type": "p",
+      "text": "Bu sistemler operatörün tecrübesinin yerine geçmez; ama tecrübeli operatörün de göremediği şeyi görür: yükün gerçek ağırlığı tahmin edilenden fazla olduğunda, zemin bir tarafa çöktüğünde ya da bom farkında olmadan biraz fazla açıldığında devreye girer."
+    },
+    {
+      "type": "h2",
+      "text": "Yük moment sınırlayıcı yasal olarak zorunlu mu?"
+    },
+    {
+      "type": "p",
+      "text": "Evet; azami çalışma yükü 1000 kg ya da devrilme momenti 40.000 Nm ve üzeri makinelerde bu koruma zorunludur. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12907&MevzuatTur=7&MevzuatTertip=5\">Makina Emniyeti Yönetmeliği (2006/42/AT)</a>, bu makinelerin aşırı yükleme veya devrilme momentinin aşılması durumunda sürücüyü uyaran ve tehlikeli hareketleri engelleyen tertibatlarla donatılmasını şart koşar. Sektör yayını <a href=\"https://www.khl.com/news/meeting-standards-for-articulating-loader-cranes/1086046.article\">KHL'nin aktardığına göre</a>, yükleyici vinç standardı EN 12999'a yapılan bir değişiklik de azami çalışma yükü 1 ton ve üzeri yükleyici vinçlerde destek ayaklarının izlenmesini ve ayaklar doğru açılmadığında yük kaldırmayı engelleyen kilitleri istemiştir. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a> ise vinçlerin periyodik kontrollerinin mobil vinçlerde TS EN 13000, yükleyici vinçlerde TS EN 12999 gibi standartlardaki kriterlere göre yapılmasını ister."
+    },
+    {
+      "type": "p",
+      "text": "Aynı yönetmelik, işverenin iş ekipmanını kullanım süresi boyunca gerekli bakımı ve periyodik kontrolleri yaptırarak güvenli durumda tutmasını şart koşar. Emniyet donanımı devre dışı bırakılmış bir vinç bu yükümlülükle bağdaşmaz. Bir kaza olduğunda emniyet sistemlerinin durumu mutlaka sorgulanır; köprülenmiş bir sınırlayıcının ne hukuki ne de sigorta açısından savunulacak bir tarafı yoktur. Bedelini ödeyen ise çoğu zaman yükün altındaki kişi olur."
+    },
+    {
+      "type": "callout",
+      "text": "Sınırlayıcı arızalıyken \"dikkatli kaldırırız\" diye çalışmak, sistemin tam da sizi korumak için tasarlandığı anı göze almak demektir. Arıza giderilene kadar vinçle yük kaldırmayın; vinci güvenli konuma toplamak için kılavuzdaki prosedürü izleyin."
+    },
+    {
+      "type": "h2",
+      "text": "Yük moment sınırlayıcı neden arıza verir?"
+    },
+    {
+      "type": "p",
+      "text": "En sık nedenler sensör arızası, kablo ve soket sorunları, kalibrasyon kaybı ve yanlış girilen çalışma ayarıdır. Belirtiye göre ayrım şöyle yapılır:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Belirti",
+        "Olası neden",
+        "Ne yapılır"
+      ],
+      "rows": [
+        [
+          "Ekranda sürekli hata kodu, hareketler kilitli",
+          "Kablo kopukluğu, soket korozyonu, sensör beslemesinin kesilmesi",
+          "Tesisat ve soket kontrolü, hata kodunun kılavuzdan okunması"
+        ],
+        [
+          "Yük yokken sistem yük ya da aşırı yük gösteriyor",
+          "Basınç sensörü arızası, sıfır noktası kayması, silindirde sıkışma",
+          "Sensör testi, sıfırlama ve kalibrasyon kontrolü"
+        ],
+        [
+          "Bom uzunluğu yanlış okunuyor",
+          "Uzunluk ölçer kablo makarası, kablo ya da sensör arızası",
+          "Kablo makarası, kablo ve sensör kontrolü"
+        ],
+        [
+          "Bom açısı yanlış okunuyor",
+          "Açı sensörü arızası ya da yerinden oynamış montaj",
+          "Sensör montajı ve kalibrasyon"
+        ],
+        [
+          "Kapasite beklenenden düşük",
+          "Yanlış ayar: ayak açıklığı, karşı ağırlık, çalışma modu",
+          "Operatör girişlerinin kontrolü"
+        ],
+        [
+          "Aralıklı kesilme, kendiliğinden düzelen hata",
+          "Gevşek bağlantı, nem, titreşim, kolektör (slip ring) sorunu",
+          "Bağlantıların ve kolektörün kontrolü"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ayar hatası sanıldığından çok daha yaygındır. Ayaklar tam açılmadığı halde sisteme tam açık bilgisi girilirse sınırlayıcı yanlış tabloya bakar ve vinç gerçekte taşıyamayacağı yüke izin verir. Tersi durumda ise vinç gereksiz yere kısıtlanır ve operatör bunu \"arıza\" sanır. Bu yüzden servis çağırmadan önce seçili ayarın sahadaki gerçek durumla aynı olduğunu kontrol edin."
+    },
+    {
+      "type": "p",
+      "text": "Deniz kenarında ve yağışlı dönemde çalışan vinçlerde arızaların önemli bir kısmı soket ve konnektörlerdeki oksitlenmeden başlar. Sensör kabloları bom üzerinde hareket eden bölgelerden geçtiği için sürtünme ve ezilme de sık görülen bir sebeptir."
+    },
+    {
+      "type": "h2",
+      "text": "Sınırlayıcı onarıldıktan sonra ne yapılmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Sistem bilinen yüklerle yeniden doğrulanmalıdır: Sensör, kablo makarası ya da kontrol ünitesi değiştiğinde, silindir veya bomda onarım yapıldığında kalibrasyon yenilenir. Kalibrasyonu yapılmamış bir sınırlayıcı, hiç olmayan bir sınırlayıcı kadar tehlikelidir; çünkü operatöre yanlış bir güven verir. Bu çalışmayı üreticinin prosedürüne ve tarif ettiği test yöntemlerine göre yapıyoruz."
+    },
+    {
+      "type": "p",
+      "text": "Bom ya da kolonda kaynaklı bir onarım yapıldıysa bu, yönetmeliğe göre önemli bakım ve onarım sayılır ve sonrasında periyodik kontrolün yeniden yapılması gerekir. Muayene öncesi hazırlık için <a href=\"/blog/vinc-periyodik-kontrol-oncesi-bakim.html\">vinç periyodik kontrol öncesi bakım</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Operatör sınırlayıcıyı her gün nasıl kontrol eder?"
+    },
+    {
+      "type": "p",
+      "text": "Kontak açıldığında sistemin kendi testini, seçili ayarı ve sensör değerlerini kontrol etmek birkaç dakika sürer:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Kontak açıldığında sistem kendi testini tamamlıyor mu, ekranda hata kodu var mı?",
+        "Seçili ayar (ayak açıklığı, karşı ağırlık, çalışma modu) sahadaki gerçek durumla aynı mı?",
+        "Yüksüz bomda gösterilen yük sıfıra yakın mı; açı ve uzunluk değerleri bomun gerçek durumuyla uyumlu mu?",
+        "Uyarı ve kesme fonksiyonu, üreticinin tarif ettiği şekilde test edildi mi?",
+        "Sensör kabloları, soketler ve kablo makarasında ezilme, kopma ya da oksitlenme var mı?",
+        "Bir önceki vardiyada görülen uyarı veya hata kayda geçirildi mi?"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu kontroller birkaç dakika sürer ve çoğu arızayı, vinç bir yükün altındayken değil, işe başlamadan önce ortaya çıkarır. Sahadaki diğer güvenlik kuralları için <a href=\"/blog/vincle-calisirken-is-guvenligi.html\">vinçle çalışırken iş güvenliği</a> yazımızı öneririz."
+    },
+    {
+      "type": "h2",
+      "text": "Sınırlayıcı hakkında sahada hangi yanlışlar dolaşıyor?"
+    },
+    {
+      "type": "p",
+      "text": "En tehlikelisi, yük tablosundaki payın bilerek aşılabileceği düşüncesidir; ama tek yanlış bu değil. En yaygın olanları ve gerçekleri şöyle:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "\"Tablo zaten güvenlik payıyla hazırlanmış, biraz aşmak bir şey olmaz.\" Yük tablosundaki değerler, vincin hem yapısal dayanımı hem de devrilmeye karşı dengesi düşünülerek belirlenir. Paylar, operatörün bilinçli olarak aşması için değil; rüzgâr, zemin, dinamik etkiler gibi öngörülemeyen durumlar içindir.",
+        "\"Sınırlayıcı hep gereksiz yere kesiyor.\" Çoğu zaman sorun sınırlayıcıda değil, yanlış girilen ayardadır: ayak açıklığı, karşı ağırlık ya da çalışma modu. Gerçekten gereksiz kesiyorsa bu bir arızadır ve onarılır; köprülenmez.",
+        "\"Bir kerelik iş, anahtarla geçeriz.\" Kısa bir iş için devre dışı bırakılan koruma, çoğu zaman o kısa işten sonra da devre dışı kalır. Bir sonraki operatör vincin korumasız olduğunu bilmeyebilir.",
+        "\"Tecrübeli operatör yükü hisseder.\" Tecrübe değerlidir, ama yükün gerçek ağırlığı beyan edilenden fazla olduğunda ya da zemin yavaşça çöktüğünde bunu hissettiren şey çoğu zaman sınırlayıcının uyarısıdır."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu yanlışların ortak noktası, korumanın ancak ihtiyaç duyulduğu anda değerini göstermesidir. O ana kadar sistemi rahatsız edici bulan operatör, o anda sistemin orada olmasına şükreder."
+    },
+    {
+      "type": "h2",
+      "text": "Sınırlayıcısı olmayan eski bir vinç için ne yapılmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Uygun bir sınırlayıcı eklenmelidir; hiç aşırı yük koruması olmayan ya da sistemi artık parça bulunamayacak kadar eskimiş vinçlerde bu bir modernizasyon işidir. Sensörlerin doğru yerlere montajı, vincin yük tablosunun sisteme işlenmesi ve bilinen yüklerle doğrulama bu işin parçasıdır. Konunun genelini <a href=\"/blog/vinc-retrofit-modernizasyon-nedir.html\">vinç retrofit ve modernizasyon</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Sınırlayıcı arızası sahada giderilebilir mi?"
+    },
+    {
+      "type": "p",
+      "text": "Çoğu durumda evet: Sınırlayıcı arızalarının önemli bir kısmı tesisat ve sensör kaynaklıdır ve doğru teşhisle yerinde çözülebilir. Kontrol ünitesi ya da özel sensör gerektiren durumlarda parçayı tedarik edip montaj ve kalibrasyonu atölyemizde ya da sahada yapıyoruz. Milas, Bodrum, Muğla, Aydın ve İzmir çevresinde 7/24 ulaşabilirsiniz. Ayrıntılar için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a>, araç üstü vinçler için <a href=\"/hizmetler/hiyap-vinc-tamiri.html\">hiyap vinç tamiri</a> sayfalarımıza bakabilirsiniz. Vinciniz serviste kaldığı sürece işiniz aksamasın diye operatörlü vinç kiralama seçeneğimiz de var."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Yük moment sınırlayıcı arızalıyken vinç kullanılabilir mi?",
+      "a": "Hayır. Sınırlayıcı arızalıyken vinçle yük kaldırılmamalı, vinç yalnızca kılavuzdaki prosedüre göre güvenli konuma toplanmalıdır. Arıza giderilip sistem doğrulanmadan vinç işe dönmemelidir."
+    },
+    {
+      "q": "LMI neden yük yokken aşırı yük gösterir?",
+      "a": "En sık sebepler basınç sensörü arızası, sensörün sıfır noktasının kayması, kablo ve soket sorunları ya da silindirde mekanik sıkışmadır. Yanlış ayar seçimi de benzer bir tablo oluşturabilir. Sensör ve tesisat ölçülerek kontrol edilir, gerekiyorsa kalibrasyon yenilenir."
+    },
+    {
+      "q": "Yük moment sınırlayıcı kalibrasyonu ne zaman yapılır?",
+      "a": "Sensör, kablo makarası ya da kontrol ünitesi değiştiğinde, bom veya silindirde onarım yapıldığında ve sistemin gösterdiği değerlerden şüphe edildiğinde. Kalibrasyon, üreticinin prosedürüne göre bilinen yüklerle yapılır."
+    },
+    {
+      "q": "Sınırlayıcıyı bypass etmenin sonucu nedir?",
+      "a": "Vinç, yük tablosunun dışına çıkarak devrilme ve bom hasarı riskine açık kalır. Mevzuat bu korumayı zorunlu tutar ve işverenden ekipmanı güvenli durumda tutmasını ister; bir kaza halinde devre dışı bırakılmış bir emniyet sistemi ağır bir kusur olarak karşınıza çıkar. Sabit bir ceza rakamı vermek doğru olmaz; asıl bedel, önlenebilecek bir kazadır."
+    },
+    {
+      "q": "Eski bir vince yük moment sınırlayıcı takılabilir mi?",
+      "a": "Çoğu durumda evet. Sensörlerin montajı, vincin yük tablosunun sisteme işlenmesi ve bilinen yüklerle doğrulama gerekir. Uygunluk, vincin hidrolik ve kumanda yapısı incelendikten sonra belirlenir."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Makina Emniyeti Yönetmeliği (2006/42/AT)",
+      "publisher": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12907&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "Meeting standards for articulating loader cranes",
+      "publisher": "KHL Group",
+      "url": "https://www.khl.com/news/meeting-standards-for-articulating-loader-cranes/1086046.article"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/hizmetler/hiyap-vinc-tamiri.html",
+    "/blog/vincle-calisirken-is-guvenligi.html",
+    "/blog/vinc-retrofit-modernizasyon-nedir.html",
+    "/blog/vinc-periyodik-kontrol-oncesi-bakim.html"
+  ]
+}

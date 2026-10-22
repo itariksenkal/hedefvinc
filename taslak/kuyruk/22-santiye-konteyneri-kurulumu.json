@@ -1,0 +1,249 @@
+{
+  "slug": "santiye-konteyneri-kurulumu",
+  "_hedef": "şantiye konteyneri",
+  "title": "Şantiye Konteyneri: Seçim, Zemin ve Vinçle Yerleştirme",
+  "h1": "Şantiye Konteyneri: Doğru Tip, Zemin Hazırlığı ve Vinçle Yerleştirme",
+  "desc": "Şantiye konteyneri seçerken ofis, depo ve yatakhane ihtiyacı; zemin hazırlığı, bağlantılar ve vinçle yerleştirme adımları. Milas ve Bodrum'da teslim.",
+  "category": "Rehber",
+  "image": "real_ones/kabin-konteyner-yerlestirme-vinc.jpg",
+  "imageAlt": "Kırmızı vinç bomundan sapanlarla asılı prefabrik kabin, taş duvarlı arsaya indiriliyor; iki kişi yerleşimi yönlendiriyor, arkada tepeler ve minare",
+  "kisaCevap": "Şantiye konteyneri kurulumunda üç şey işi belirler: konteynerin amacı (ofis, depo, yatakhane ya da güvenlik kulübesi), konacağı zeminin düz, sıkıştırılmış ve drenajlı hazırlanması ve teslim günü vincin sahaya yanaşabilmesi. Yer; vinç yük rotası, iş makinesi güzergâhı ve havai hatlardan uzak seçilir. Elektrik ve su güzergâhı önceden planlanırsa konteyner aynı gün indirilip bağlanabilir.",
+  "intro": "Bu rehber; yeni bir şantiye açan müteahhitler, şantiye şefleri ve villa inşaatı başlatan mal sahipleri için. Şantiyenin ilk haftasında konteyner çoğu zaman aceleyle, \"şimdilik buraya koyalım\" diye yerleştirilir; birkaç ay sonra aynı konteyner kule vincin, mikserin ya da hafriyat kamyonunun yolunda kalır. Aşağıda doğru tipi seçmekten zemin hazırlığına, teslim günü vinçle yerleştirmeden yönetmelikteki barınma şartlarına kadar adımları sırasıyla veriyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Şantiyede konteyner ne işe yarar?"
+    },
+    {
+      "type": "p",
+      "text": "Şantiyede konteyner ofis, depo, güvenlik kulübesi, soyunma ve dinlenme alanı olarak kullanılır. İlk günlerde kurulan konteyner, işin sonuna kadar sahanın merkezi olur. Proje müdürünün ve şefin ofisi, el aletlerinin ve değerli malzemenin deposu, güvenlik görevlisinin kulübesi, çalışanların soyunma ve dinlenme alanı çoğu zaman konteynerlerde çözülür. Doğru seçilmiş ve doğru yere konmuş bir konteyner yıllarca sorun çıkarmaz; yanlış yere konmuş bir konteyner ise şantiye ilerledikçe ikinci, üçüncü kez taşınmak zorunda kalır."
+    },
+    {
+      "type": "h2",
+      "text": "Hangi iş için hangi konteyner seçilir?"
+    },
+    {
+      "type": "p",
+      "text": "Depo için sağlam bir deniz konteyneri, ofis ve yatakhane için yalıtımlı ve tesisatı hazır bir kabin genellikle doğru seçimdir:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Kullanım",
+        "Dikkat edilecekler",
+        "Not"
+      ],
+      "rows": [
+        [
+          "Şantiye ofisi",
+          "Isı yalıtımı, pencere, elektrik tesisatı, klima yeri",
+          "Uzun projelerde konfor verimliliği etkiler"
+        ],
+        [
+          "Malzeme ve alet deposu",
+          "Kapı sızdırmazlığı, sağlam kilit, taban dayanımı",
+          "Sağlam bir deniz konteyneri bu iş için idealdir"
+        ],
+        [
+          "Yatakhane ve yaşam alanı",
+          "Yalıtım, ıslak hacim, havalandırma, yangın güvenliği",
+          "Sıfır konteyner çoğu zaman daha mantıklıdır"
+        ],
+        [
+          "Güvenlik kulübesi",
+          "Görüş açısı, giriş noktasına yakınlık",
+          "Küçük ölçüler yeterlidir"
+        ],
+        [
+          "Soyunma ve yemekhane",
+          "Havalandırma, temizlik kolaylığı, su bağlantısı",
+          "Çalışan sayısına göre boyutlandırılır"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Sıfır ya da ikinci el kararı için <a href=\"/blog/sifir-mi-ikinci-el-mi-konteyner.html\">sıfır mı, ikinci el mi konteyner</a> yazımızdaki kontrol listesine, ölçüler için ise <a href=\"/blog/konteyner-olculeri-20-40-lik.html\">konteyner ölçüleri</a> yazımıza bakabilirsiniz. Yatakhane ve dinlenme alanı için ayrıca yönetmelik şartları vardır: <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18928&MevzuatTur=7&MevzuatTertip=5\">Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği</a>, dinlenme ve barınma yerlerinin korunaklı bir yere, zemini düzeltilerek ve drenajı sağlanarak kurulmasını, yanıcı olmayan ve kolay tutuşmayan malzemeden yapılmasını ister; barınma için çadır ve branda kullanılamaz. Ayrıntıları işyerinizin iş güvenliği uzmanıyla birlikte belirleyin."
+    },
+    {
+      "type": "h2",
+      "text": "Şantiyede konteyner nereye konmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Konteyner; vinç yük rotasının, iş makinesi güzergâhının ve havai hatların dışında, girişi görebilen ve teslim günü vincin yanaşabileceği bir yere konmalıdır. Yer, şantiyenin ilerleyen aylarını da düşünerek seçilmelidir. En sık yaptığımız uyarı şudur: bugün boş görünen bir alan, iki ay sonra kule vincin, beton mikserinin ya da hafriyat kamyonunun güzergâhı olabilir. Şu noktalara dikkat edin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Konteyner, vinç yüklerinin geçtiği rotanın altında olmamalıdır; ofisin üzerinden yük geçmesi kabul edilemez bir risktir. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> de çalışanların bulunabileceği korunmasız yerlerin üzerinden yük geçirilmemesini ister.",
+        "Ağır araçların ve iş makinelerinin güzergâhı üzerinde kalmamalıdır.",
+        "Yağmur sularının toplandığı çukur noktalardan uzak tutulmalıdır.",
+        "Havai elektrik hatlarının altına konmamalıdır; hem teslimat hem de kullanım sırasında risk yaratır.",
+        "Teslim günü vincin yanaşabileceği ve ileride gerekirse yeniden alınabileceği bir yerde olmalıdır.",
+        "Ofis ve güvenlik kulübesi, şantiye girişini görecek şekilde konumlandırılmalıdır."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Şantiye konteyneri için zemin hazırlığı nasıl yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Alan tesviye edilip sıkıştırılır, köşe noktalarına aynı seviyede sağlam destekler konur ve suyun akacağı bir eğim bırakılır. Adımlar:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Konteynerin konacağı alanı tesviye edin; büyük taşları ve bitki örtüsünü temizleyin.",
+        "Toprağı sıkıştırın; yeni doldurulmuş zemin zamanla oturur ve konteyneri eğer.",
+        "Köşe noktalarına ve gerekiyorsa ara noktalara beton blok ya da sağlam takoz yerleştirin.",
+        "Destek noktalarının aynı seviyede olduğunu su terazisi ya da lazerle kontrol edin.",
+        "Yağmur suyunun konteynerin altından akıp gidebileceği bir eğim ya da drenaj bırakın.",
+        "Kapı tarafında basamak ya da rampa ihtiyacını önceden düşünün."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu hazırlığın amacı basittir: konteyner dört köşesinden eşit taşınmalıdır. Eğik ya da çökmüş bir zeminde kapılar sıkışır, pencere ve paneller zorlanır, yağmur suyu bir köşede birikir. Uzun süre kalacak bir konteyner için beton taban ya da kalıcı beton kaideler daha uygundur."
+    },
+    {
+      "type": "h2",
+      "text": "Elektrik, su ve gider bağlantıları ne zaman planlanmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Bağlantılar, konteyner gelmeden önce planlanmalıdır. Şantiye elektrik panosundan konteynere gidecek hattın güzergâhı, su ve gider bağlantısının yeri ve uzunluğu önceden belirlenirse, konteyner indirildiği gün bağlantılar da yapılabilir. Elektrik tesisatı ve topraklama, yetkili bir elektrikçi tarafından yapılmalı ve kontrol edilmelidir. Islak hacimli konteynerlerde gider hattının eğimi ve donma riskine karşı korunması da unutulmamalıdır. Barınma amaçlı konteynerlerde yönetmelik, ısıtma, soğutma, havalandırma ve elektrik tesisatının yangına neden olmayacak şekilde kurulmasını ister; ısınmak için mangal, maltız gibi açık ateş kullanılmaz."
+    },
+    {
+      "type": "h2",
+      "text": "Teslim günü konteyner vinçle nasıl yerleştirilir?"
+    },
+    {
+      "type": "p",
+      "text": "Vinç keşifte belirlenen noktaya kurulur, konteyner kaldırma noktalarından bağlanır, birkaç santim kaldırılıp dengesi kontrol edilir ve kılavuz iple hazırlanan zemine indirilir. Sırasıyla:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Araç, önceden kontrol edilmiş güzergâhtan sahaya girer.",
+        "Vinç, keşifte belirlenen noktaya kurulur; destek ayakları plakalarıyla birlikte tam açılır.",
+        "Konteyner, deniz konteynerlerinde köşe bağlantı parçalarından, prefabrik kabinlerde ise üreticinin gösterdiği kaldırma noktalarından bağlanır.",
+        "Yük birkaç santim kaldırılır, dengesi ve sapanların açısı kontrol edilir.",
+        "Konteyner, kılavuz iple yönlendirilerek hazırlanan zemine indirilir; kimse altında ya da arasında durmaz.",
+        "Seviye kontrol edilir; gerekiyorsa konteyner hafifçe kaldırılıp destek noktaları düzeltilir.",
+        "Sapanlar çözülür; kapının açıldığı ve kapandığı kontrol edilir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Seviye kontrolünü vinç sahadayken yapmak önemlidir. Vinç gittikten sonra eğik oturmuş bir konteyneri düzeltmek, çoğu zaman vinci yeniden çağırmak anlamına gelir."
+    },
+    {
+      "type": "h2",
+      "text": "Konteyner şantiye içinde nasıl taşınır?"
+    },
+    {
+      "type": "p",
+      "text": "İçi boşaltılıp bağlantıları söküldükten sonra vinçle, önceden hazırlanmış yeni yerine taşınır. Uzun projelerde bu ihtiyaç sık doğar: yeni bir blok başlar, kazı alanı genişler ya da giriş yeri değişir. Taşıma öncesinde konteynerin içi boşaltılmalı ya da içindeki eşyalar sabitlenmeli, elektrik, su ve gider bağlantıları sökülmelidir. Yeni yer için de aynı zemin hazırlığı yapılır. Planlama aşamasında konteyneri en az taşınacak yere koymak, proje boyunca hem zaman hem maliyet kazandırır."
+    },
+    {
+      "type": "h2",
+      "text": "Şantiye konteynerinde hangi güvenlik ayrıntıları atlanmamalı?"
+    },
+    {
+      "type": "p",
+      "text": "Yangın söndürücü, ilk yardım dolabı, topraklama, sağlam kilit, rüzgâra karşı sabitleme ve her zaman açık bir çıkış:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Ofis ve yatakhane konteynerlerine yangın söndürücü ve ilk yardım dolabı için yer ayırın.",
+        "Elektrik tesisatının topraklamasını ve kaçak akım korumasını kontrol ettirin.",
+        "Depo konteynerinde sağlam bir kilit ve gerekiyorsa kilit koruma kutusu kullanın.",
+        "Hafif prefabrik kabinleri açık ve rüzgârlı alanlarda zemine sabitlemeyi değerlendirin.",
+        "Konteyner kapılarının önünü malzeme istifiyle kapatmayın; acil çıkış her zaman açık kalmalıdır.",
+        "Kablo ve hortumları yürüme yollarından geçirmeyin ya da üzerlerini koruyun."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Muğla'nın yazı ve kışı konteyneri nasıl etkiler?"
+    },
+    {
+      "type": "p",
+      "text": "Yazın yalıtımsız sac konteyner aşırı ısınır, kışın drenajı olmayan zeminde altında su birikir. Muğla kıyılarında yaz ayları sıcak, kış ayları ise yağışlı geçer. Güneş altında duran yalıtımsız bir sac konteyner yazın içinde çalışılamayacak kadar ısınabilir; ofis ve dinlenme konteynerlerinde yalıtım, gölgelik ve klima bu yüzden lüks değil ihtiyaçtır. Kışın ise sorun sudur: drenajı düşünülmemiş bir zeminde konteynerin altında su birikir, taban ve köşeler korozyona uğrar. Konteyneri zeminden hafifçe yükseltmek ve suyun akıp gideceği bir eğim bırakmak, ömrünü belirgin biçimde uzatır."
+    },
+    {
+      "type": "h2",
+      "text": "Konteyner kalıcı kalacaksa ne değişir?"
+    },
+    {
+      "type": "p",
+      "text": "Şantiye dışında ya da kalıcı kullanılacak bir konteynerde imar mevzuatı devreye girebilir. Ruhsatlı bir inşaatın şantiye alanına geçici olarak konan konteyner ile ruhsatı olmayan bir arsaya kalıcı olarak konan konteyner aynı şey değildir. Konteyneri şantiye dışında, uzun süreli ya da kalıcı kullanmayı düşünüyorsanız, kurmadan önce ilgili belediyenin imar birimine danışın."
+    },
+    {
+      "type": "h2",
+      "text": "Şantiye konteynerini kim getirip kurar?"
+    },
+    {
+      "type": "p",
+      "text": "Konteynerinizi vinçli araçlarımızla adresinize getiriyor, istediğiniz noktaya indirip yerleştiriyoruz. Sıfır ve ikinci el konteyner satışı ile kiralamayı da yaptığımız için satış, taşıma ve kurulum tek muhatapla tamamlanır. Ayrıntılar için <a href=\"/hizmetler/konteyner-satis-kiralama.html\">konteyner satış ve kiralama</a> sayfamıza, mevcut konteynerinizi şantiye içinde taşımak için <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "callout",
+      "text": "Şantiyenizin konumunu, konteyneri ne amaçla kullanacağınızı ve konacağı yerin fotoğrafını gönderin; uygun konteyneri, teslim gününü ve fiyatı birlikte netleştirelim."
+    }
+  ],
+  "cikarimlar": [
+    "Konteynerin yerini bugüne göre değil, şantiyenin ilerleyen aylarına göre seçin.",
+    "Konteyner vinç yük rotasının, iş makinesi yolunun ve havai hatların altında kalmamalı.",
+    "Dört köşe aynı seviyede, sağlam desteklere oturmalı; drenaj için eğim bırakın.",
+    "Seviyeyi vinç sahadayken kontrol edin; sonradan düzeltmek vinci yeniden çağırmak demektir.",
+    "Barınma amaçlı konteynerler yanıcı olmayan malzemeden olmalı; çadır ve branda kullanılamaz."
+  ],
+  "faqs": [
+    {
+      "q": "Şantiye konteyneri ne kadar sürede teslim edilir?",
+      "a": "Konteynerin hazır olup olmadığına, istenen donanıma ve sahanın erişimine göre değişir. Tarihi sipariş sırasında netleştiriyor, teslim gününü vinç programına göre sabitliyoruz."
+    },
+    {
+      "q": "Konteyner için beton zemin şart mı?",
+      "a": "Şart değildir; düz, sıkıştırılmış bir zemin ve köşe noktalarına yerleştirilmiş sağlam beton bloklar çoğu şantiye kullanımı için yeterlidir. Uzun süreli ya da kalıcı kullanımda beton taban daha uygundur."
+    },
+    {
+      "q": "Şantiye ofisi için hangi konteyner uygun?",
+      "a": "Uzun süreli projelerde yalıtımlı, pencereli ve elektrik tesisatı hazır bir ofis kabini daha rahattır; kısa işlerde ve depo ihtiyacında deniz konteyneri yeterli olabilir. Klima yerini, priz sayısını ve pencere yönünü sipariş öncesinde belirleyin."
+    },
+    {
+      "q": "Şantiye konteynerine yangın söndürücü konmalı mı?",
+      "a": "Evet. Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği, yangın söndürme ekipmanının görünür ve kolay erişilebilir yerlere konmasını ve önünde engel bulundurulmamasını ister. Sayısını ve tipini işyerinizin iş güvenliği uzmanıyla netleştirin."
+    },
+    {
+      "q": "Şantiye konteyneri koymak için izin gerekir mi?",
+      "a": "Ruhsatlı bir inşaatın şantiye alanında geçici kullanım ile ruhsatsız bir arsaya kalıcı konteyner koymak farklı değerlendirilir. Şantiye dışında ya da uzun süreli kullanım düşünüyorsanız, kurmadan önce belediyenin imar birimine danışmanızı öneririz."
+    },
+    {
+      "q": "Rüzgârlı alanda konteyner sabitlenmeli mi?",
+      "a": "Hafif prefabrik kabinler açık ve rüzgârlı alanlarda zemine sabitlenmeyi gerektirebilir; ağır bir deniz konteynerinde bu ihtiyaç daha azdır. Sabitleme yöntemini kabin üreticisinin talimatına ve sahanın koşullarına göre belirleyin."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği (dinlenme ve barınma yerleri, yangınla mücadele)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18928&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (EK-II: yük kaldırma)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/konteyner-satis-kiralama.html",
+    "/blog/konteyner-olculeri-20-40-lik.html",
+    "/blog/sifir-mi-ikinci-el-mi-konteyner.html",
+    "/hizmetler/vinc-kiralama.html"
+  ]
+}

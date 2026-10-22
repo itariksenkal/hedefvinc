@@ -1,0 +1,251 @@
+{
+  "slug": "tekne-cekme-fiyatlari-neye-gore",
+  "_hedef": "tekne çekme fiyatları",
+  "title": "Bodrum'da Tekne Çekme Fiyatları Neye Göre Belirlenir?",
+  "h1": "Tekne Çekme Fiyatları Neye Göre Belirlenir? Bodrum ve Milas İçin Fiyat Etkenleri",
+  "desc": "Tekne çekme fiyatları neye göre belirlenir? Tekne ağırlığı ve boyu, vinç erişimi, mesafe, sehpa, karayolu taşıması ve sezon; Bodrum ve Milas için rehber.",
+  "category": "Vinç Kiralama",
+  "image": "real_ones/tekne-kaldirma-katlanir-bom-vinc.jpg",
+  "imageAlt": "Sarı katlanır bomlu vinç, sarı kaldırma kayışlarıyla beyaz bir motorbotu kaldırıyor; arka planda ağaçlar",
+  "kisaCevap": "Tekne çekme fiyatı; teknenin ağırlığı ve boyu, vincin tekneye ne kadar yaklaşabildiği, operasyon yerinin zemini ve erişimi, teknenin karada nereye götürüleceği, sehpa ihtiyacı, işin süresi ve dönemine göre belirlenir. En büyük farkı vinçle tekne arasındaki mesafe yaratır: tekne uzaktaysa daha büyük vinç gerekir. Bodrum ve Milas'taki çoğu iş için teknenin bilgileri ve birkaç fotoğrafla net fiyat verilebilir.",
+  "intro": "Bu yazı; teknesini sezon başında denize indirmek, sezon sonunda karaya almak ya da başka bir yere taşımak isteyen tekne sahipleri, kaptanlar ve kooperatif çekek yeri yöneticileri için. Telefonda en sık duyduğumuz soru \"On metrelik tekne ne kadar?\" olur; dürüst cevap ise işin nerede ve nasıl yapılacağına bağlıdır. Aşağıda fiyatı hangi etkenlerin belirlediğini, teklif isterken hangi bilgileri vermeniz gerektiğini ve maliyeti düşürmek için neler yapabileceğinizi anlatıyoruz.",
+  "body": [
+    {
+      "type": "p",
+      "text": "Net fiyat için çoğu zaman teknenin bilgileri ve operasyon yerinin birkaç fotoğrafı yeterlidir; erişimi zor yerlerde önce keşif yapılır."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne çekme fiyatını en çok ne belirler?"
+    },
+    {
+      "type": "p",
+      "text": "En çok, vincin tekneyi ne kadar uzaktan alacağı belirler. Vinç kapasitesi tek bir sayı değildir: bir vinç, yükü kendine yakınken çok daha fazlasını, uzaktayken çok daha azını kaldırır. Tekne iskeleye, rampaya ya da çekek yerine ne kadar yakın yanaşabiliyorsa ve vinç teknenin ne kadar yakınına kurulabiliyorsa, iş o kadar küçük bir vinçle yapılabilir."
+    },
+    {
+      "type": "p",
+      "text": "Yükü uzağa uzanarak almak zorunda kalınan bir yerde, aynı tekne için çok daha büyük kapasiteli bir vinç gerekir. Fiyat farkının önemli bir kısmı buradan gelir. Bu yüzden telefonda \"on metrelik tekne ne kadar\" sorusuna doğru cevap, \"tekne nerede, vinç nereye kurulacak\" sorusunun cevabına bağlıdır. Vinç seçiminin mantığını <a href=\"/blog/dogru-vinc-secimi.html\">doğru vinç seçimi</a> yazımızda daha ayrıntılı anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne çekme fiyatını hangi etkenler değiştirir?"
+    },
+    {
+      "type": "p",
+      "text": "Ağırlık, boy ve tip, vinç ile tekne arasındaki mesafe, zemin ve erişim, karada taşıma, sehpa, süre ve dönem fiyatı değiştirir. Her birinin etkisi ve sizin yapabileceğiniz:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Etken",
+        "Fiyata etkisi",
+        "Sizin yapabileceğiniz"
+      ],
+      "rows": [
+        [
+          "Tekne ağırlığı",
+          "Gerekli vinç kapasitesini belirler",
+          "Üreticinin ya da belgelerin verdiği ağırlığı, ekipman ve tank doluluğuyla birlikte bildirin"
+        ],
+        [
+          "Tekne boyu ve tipi (motorlu, yelkenli, salmalı)",
+          "Sapan düzenini, traves ihtiyacını ve kaldırma şeklini belirler",
+          "Boyu, eni, salma derinliğini ve gövdedeki sapan işaretlerini bildirin"
+        ],
+        [
+          "Vinç ile tekne arası mesafe",
+          "Mesafe arttıkça daha büyük vinç gerekir",
+          "İskele, rampa ve vincin durabileceği yerin fotoğraflarını gönderin"
+        ],
+        [
+          "Zemin ve erişim",
+          "Dar yol, yumuşak zemin, eğim ve engeller ek hazırlık ister",
+          "Yolun genişliği, zemin ve havai hatlar hakkında bilgi verin"
+        ],
+        [
+          "Karada taşıma",
+          "Teknenin başka bir yere götürülmesi ek araç ve süre ister",
+          "Teknenin nereye gideceğini baştan söyleyin"
+        ],
+        [
+          "Sehpa ya da destek",
+          "Hazır sehpa yoksa temini ya da ayarı gerekir",
+          "Sehpanız olup olmadığını ve teknenize uyup uymadığını bildirin"
+        ],
+        [
+          "Süre ve bekleme",
+          "Hazır olmayan tekne, ekip ve vinç için bekleme doğurur",
+          "Tekneyi önceden hazırlayın, tankları boşaltın"
+        ],
+        [
+          "Dönem ve saat",
+          "Sezon açılış ve kapanışında talep yoğunlaşır",
+          "Tarihi erken planlayın"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu etkenlerin her biri tek başına küçük görünebilir; ama birlikte, aynı tekne için iki farklı yerde bambaşka iki operasyon ortaya çıkarır. Teklif karşılaştırırken bu yüzden yalnızca rakama değil, teklifin neyi kapsadığına bakmak gerekir."
+    },
+    {
+      "type": "h2",
+      "text": "Aynı tekne neden iki farklı fiyat alır?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü fiyatı yalnızca tekne değil, operasyonun yapılacağı yer de belirler. Bir örnekle düşünelim. Aynı motorlu tekne, birinci senaryoda geniş ve sağlam zeminli bir çekek yerinde, vincin hemen yanına yanaşabiliyor; sehpası hazır ve vincin erişimi içinde duruyor. Operasyon kısa sürer, vinç tekneyi yakından alır ve aynı noktada sehpasına bırakır."
+    },
+    {
+      "type": "p",
+      "text": "İkinci senaryoda aynı tekne, dar ve eğimli bir yoldan ulaşılan küçük bir iskelede bekliyor. Vinç iskeleye yaklaşamıyor, tekneyi uzaktan almak zorunda; sehpa yok ve tekne karada başka bir arsaya götürülecek. Bu ikinci iş, daha büyük bir vinç, ek bir taşıma aracı, sehpa çözümü ve daha uzun bir süre gerektirir."
+    },
+    {
+      "type": "p",
+      "text": "Tekne aynı, iş tamamen farklı. Bu yüzden teklif isterken teknenin yanında, bulunduğu yeri ve gideceği yeri de anlatmak gerekir."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne çekme fiyatı iş başı mı, saatlik mi?"
+    },
+    {
+      "type": "p",
+      "text": "Tekne çekme işleri genellikle iş bazında fiyatlandırılır: teknenin sudan alınıp sehpasına konması ya da sehpasından alınıp denize indirilmesi tek bir operasyon olarak konuşulur. Birden fazla teknenin aynı gün, aynı noktada çekilmesi ya da daha uzun süren işler için saatlik, günlük veya proje bazlı kiralama seçenekleri de değerlendirilebilir. Hangisinin sizin için daha uygun olduğunu, işi dinledikten sonra birlikte belirleriz."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne karayoluyla taşınacaksa ne gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "Ayrı bir nakliye planı gerekir; ölçüleri yasal sınırları aşan teknelerde Karayolları Genel Müdürlüğü'nden izin de alınır. Tekne çekek yerine değil de bir depoya ya da kendi arazinize gidecekse bu bir nakliye işidir. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8182&MevzuatTur=7&MevzuatTertip=5\">Karayolları Trafik Yönetmeliği</a>'nde araçların azami genişliği 2,55 metre, azami yüksekliği 4,00 metredir. Bu ölçülerden en az birini aşan bölünemez yüklerin taşınması, Karayolları Genel Müdürlüğü'nden özel yük taşıma izin belgesi alınmasına bağlıdır; yüklü taşımada belge her çıkış için ayrı alınır ve güzergâh ile taşıma zamanı belgede belirtilir. Geniş bir tekne için bu, güzergâh ve izin planlaması demektir; hem fiyatı hem de takvimi doğrudan etkiler."
+    },
+    {
+      "type": "p",
+      "text": "Kısa mesafeli işlerde bile teknenin geçeceği yolun genişliği, keskin dönüşler, köprü ve geçit yükseklikleri ile havai hatlar önceden kontrol edilmelidir. Bodrum yarımadasının dar ve eğimli yollarında bu kontrol, operasyonun kendisi kadar önemlidir."
+    },
+    {
+      "type": "h2",
+      "text": "Teklif isterken hangi bilgileri vermelisiniz?"
+    },
+    {
+      "type": "p",
+      "text": "Teknenin ölçüleri ve ağırlığı, tipi, bulunduğu ve gideceği yer, vincin kurulacağı yerin fotoğrafları, sehpa durumu ve tarih:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Teknenin markası ve modeli, boyu, eni ve yaklaşık ağırlığı",
+        "Teknenin tipi: motorlu, yelkenli (salma derinliğiyle birlikte), katamaran",
+        "Teknenin şu an nerede olduğu ve nereye gideceği",
+        "Vincin kurulacağı yerin fotoğrafları: iskele, rampa, sahil yolu ya da arazi",
+        "Sehpanızın olup olmadığı, varsa fotoğrafı",
+        "Tercih ettiğiniz tarih ve saat aralığı"
+      ]
+    },
+    {
+      "type": "callout",
+      "text": "Bu bilgileri ve birkaç fotoğrafı gönderdiğinizde çoğu iş için telefonda net fiyat verebiliyoruz. Erişimi zor ya da karmaşık işlerde önce yerinde keşif yapıyor, fiyatı keşiften sonra netleştiriyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne çekme maliyeti nasıl düşürülür?"
+    },
+    {
+      "type": "p",
+      "text": "Tekneyi hafifletin, operasyon saatinde hazır tutun, vince yaklaştırın, sehpayı önceden kontrol ettirin ve sezonun en yoğun günlerinden kaçının:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Yakıt ve su tanklarını mümkün olduğunca boşaltın; tekne hafifler, ağırlık merkezi daha öngörülebilir olur.",
+        "Tekneyi operasyon saatinde hazır tutun: tenteler toplanmış, gevşek eşyalar sabitlenmiş, bağlar çözülmeye hazır olsun.",
+        "Teknenin vince yanaşacağı noktayı önceden belirleyin; tekne ne kadar yakına gelirse iş o kadar küçük vinçle yapılır.",
+        "Sehpanızı önceden kontrol ettirin; sahada sehpa ayarıyla geçen zaman da operasyon süresine eklenir.",
+        "Mümkünse sezonun en yoğun günlerinden birkaç gün önce ya da sonra planlayın."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Ucuz tekne çekme teklifinde nelere dikkat edilmeli?"
+    },
+    {
+      "type": "p",
+      "text": "Vincin kapasitesine, sapanların durumuna, ekibe ve teklifin kapsamına bakın; fiyat farkı bazen ekipmandan ve hazırlıktan gelir. Teklifleri karşılaştırırken şu sorulara açık cevap alın:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Vinç, teknenin ağırlığına ve çalışma mesafesine uygun mu, yoksa sınırında mı çalışacak?",
+        "Sapanlar ve traves teknenin boyuna ve tipine uygun, kontrollü ekipman mı? <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a>, kaldırma aksesuarlarının güvenli kullanım özelliklerini gösterecek şekilde işaretlenmesini ister.",
+        "Operatör vincin başında, işaretçi tekne yanında olacak mı?",
+        "Sehpaya yerleştirme ve destekleme fiyata dahil mi?",
+        "Bekleme süresi ve ek işler nasıl ücretlendiriliyor?"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Sınırında çalışan bir vinç ya da yıpranmış bir sapan, teknenin değerinin yanında küçük kalan bir tasarruf için büyük bir risk almak demektir. Sapan yerleşimi ve kaldırma güvenliği için <a href=\"/blog/bodrumda-tekne-cekme.html\">Bodrum'da tekne çekme ve denize indirme</a> yazımıza bakabilirsiniz. Genel vinç kiralama fiyatlarının mantığını ise <a href=\"/blog/vinc-kiralama-fiyatlari.html\">vinç kiralama fiyatları</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Bodrum ve Milas'ta tekne çekme nasıl planlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Güllük–Güvercinlik arasındaki üssümüzden Bodrum yarımadasına, Güllük, Ören ve Milas sahillerine kısa sürede ulaşıyoruz. Operatörlü mobil vinçlerimizle tekne çekme, denize indirme ve sehpaya yerleştirme işlerini planlıyoruz; kaldırma planı ve sapan seçimi bizim sorumluluğumuzda. Bölgeye özel bilgiler için <a href=\"/bolgeler/bodrum-vinc-kiralama.html\">Bodrum vinç kiralama</a>, genel hizmet için <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Fiyatı en çok vincin tekneyi ne kadar uzaktan alacağı belirler.",
+    "Teklif isterken tekne bilgileriyle birlikte vincin kurulacağı yerin fotoğraflarını gönderin.",
+    "Tankları boşaltıp tekneyi hazır tutmak, süreyi ve gereken vinci küçültebilir.",
+    "2,55 metreyi aşan geniş teknelerin karayolu taşıması KGM'nin özel iznine bağlıdır.",
+    "Teklifleri rakama göre değil; sapan, ekip ve sehpa dahil kapsamına göre karşılaştırın."
+  ],
+  "faqs": [
+    {
+      "q": "Tekne çekme fiyatı neden tekneden tekneye değişir?",
+      "a": "Fiyatı yalnızca teknenin boyu değil; ağırlığı, tipi, vincin tekneye ne kadar yaklaşabildiği, zemin ve erişim, karada taşıma ihtiyacı, sehpa ve operasyon süresi birlikte belirler. Aynı boydaki iki tekne, bulundukları yere göre farklı vinç ve farklı hazırlık gerektirebilir."
+    },
+    {
+      "q": "Tekne çekmek için ne kadar büyük vinç gerekir?",
+      "a": "Gerekli vinç, teknenin ağırlığına ve vincin tekneyi ne kadar uzaktan alacağına göre seçilir. Tekne vince yaklaştıkça daha küçük bir vinç yeterli olur. Doğru seçim için teknenin ağırlığı ve operasyon yerinin fotoğrafları gerekir."
+    },
+    {
+      "q": "Tekne çekme fiyatına sehpa dahil mi?",
+      "a": "Bu, işin kapsamına göre değişir. Sehpanız varsa teknenin sehpaya yerleştirilmesi operasyonun parçası olarak planlanır; sehpa yoksa nasıl çözüleceği teklif aşamasında konuşulmalıdır. Teklifte sehpaya yerleştirme ve destekleme işinin dahil olup olmadığını mutlaka sorun."
+    },
+    {
+      "q": "Tekneyi karada başka bir yere taşımak fiyatı nasıl etkiler?",
+      "a": "Karada taşıma ayrı bir nakliye işidir; ek araç, süre ve güzergâh planlaması gerektirir. Yasal genişlik ve ağırlık sınırlarını aşan teknelerde Karayolları Genel Müdürlüğü'nden özel yük taşıma izni gerekir; bu da fiyatı ve takvimi etkiler."
+    },
+    {
+      "q": "Birkaç teknenin aynı gün çekilmesi fiyatı etkiler mi?",
+      "a": "Aynı noktada, aynı gün birden fazla teknenin çekilmesi vincin kurulum ve yol süresini teknelere bölüştürür; bu çoğu zaman tekne başına maliyeti olumlu etkiler. Kooperatif çekek yerlerinde ve komşu teknelerde ortak planlama yapmak bu yüzden avantajlıdır."
+    },
+    {
+      "q": "Tankları boşaltmak tekne çekme fiyatını düşürür mü?",
+      "a": "Çoğu zaman dolaylı olarak düşürür. Boş tanklar teknenin ağırlığını azaltır ve ağırlık merkezini daha öngörülebilir kılar; sınırda kalan bir işte bu, daha küçük bir vinçle çalışmayı mümkün kılabilir ve hazırlık süresini kısaltır."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Karayolları Trafik Yönetmeliği (Madde 128: araçların boyutları ve özel yük taşıma izin belgesi)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8182&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (EK-II: kaldırma aksesuarları ve hava koşulları)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/bolgeler/bodrum-vinc-kiralama.html",
+    "/hizmetler/vinc-kiralama.html",
+    "/blog/bodrumda-tekne-cekme.html",
+    "/blog/vinc-kiralama-fiyatlari.html",
+    "/blog/dogru-vinc-secimi.html"
+  ]
+}

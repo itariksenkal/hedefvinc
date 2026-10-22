@@ -1,0 +1,238 @@
+{
+  "slug": "vinc-uzaktan-kumanda-ve-elektrik-arizasi",
+  "_hedef": "vinç uzaktan kumanda arızası / vinç elektrik arızası",
+  "title": "Vinç Uzaktan Kumanda Arızası: Nedenleri ve Çözümü",
+  "h1": "Vinç Uzaktan Kumanda ve Elektrik Arızası: Kumanda Neden Çalışmaz?",
+  "desc": "Vinç uzaktan kumanda arızası: batarya, acil stop, eşleştirme, anten, soket ve valf bobini kontrolleri, güvenli arıza tespiti ve Milas'ta elektrik servisi.",
+  "category": "Vinç Tamiri",
+  "image": "real_ones/atolye-sokulmus-vinc-govdesi-ve-ayaklar.jpg",
+  "imageAlt": "Atölye önündeki sahada sökülmüş kırmızı vinç gövdesi; kumanda valfleri ve ayaklar görünüyor, yanında turuncu vinçli bir kamyon",
+  "kisaCevap": "Vinç uzaktan kumandası çalışmıyorsa en sık sebepler; zayıf batarya, basılı kalmış ya da arızalı acil stop, açılış sırasının atlanması, verici ile alıcı arasındaki eşleşmenin bozulması, hasarlı anten kablosu, alıcıya gelmeyen besleme ve valf bobinine giden tesisattaki kopukluktur. Telsiz sistemler menzil dışında, parazitte ve düşük bataryada vinci güvenli moda alıp durdurur; aralıklı kesilmenin bir nedeni vardır ve bulunmalıdır.",
+  "cikarimlar": [
+    "Arıza aramaya yedek bataryayla başlayın; ardından iki acil stop butonunu ve açılış sırasını kontrol edin.",
+    "Kabloyla çalışıp telsizle çalışmıyorsa sorun telsiz bağlantısı, anten ya da eşleştirmededir.",
+    "Tek hareket çalışmıyorsa sorun kumandada değil, o harekete ait bobin, soket veya valftedir.",
+    "Acil stop basılıyken herhangi bir hareket çalışıyorsa vinç onarılmadan kullanılmamalıdır.",
+    "Kumanda kullanılmadığında acil stop basılı tutulmalı ve batarya çıkarılmalıdır."
+  ],
+  "intro": "Kumanda bir sabah hiç açılmıyor ya da gün içinde arada bir kesiliyor; operatör bataryayı değiştiriyor, düzelmeyince servis çağırıyor. Vinç sahipleri ve operatörler için hazırladığımız bu rehber, telsiz kumandanın nasıl çalıştığını, sahada ölçü aletiyle izlenecek arıza tespit sırasını, elektrik tarafının sık kaynaklarını ve tesisatın ne zaman komple yenilenmesi gerektiğini anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Telsiz kumanda nasıl çalışır?"
+    },
+    {
+      "type": "p",
+      "text": "Operatörün elindeki verici, hareket komutlarını ve acil stop durumunu sürekli olarak vinç üzerindeki alıcıya gönderir. Alıcı bu komutları valf bloğundaki elektrikli bobinlere, oransal ya da aç-kapa sinyal olarak iletir. Acil stop butonuna basıldığında alıcı ana kontak çıkışını açar ve bütün hareketler durur; acil stop bırakılmadan sistem başka hiçbir komuta cevap vermez."
+    },
+    {
+      "type": "p",
+      "text": "Pek çok sistemde vericinin menzil dışına çıkması, sinyal parazitlenmesi, acil stop devresinde bir hata ya da düşük batarya, sistemi güvenli moda alır ve hareketleri durdurur; örneğin <a href=\"https://hetronic.com/wp-content/uploads/2024/01/OperatingManualHHMFSHL.pdf\">Hetronic'in kullanım kılavuzu</a> radyo paraziti ile vericinin menzil dışına çıkmasını alıcıyı güvenli moda alan durumlar arasında sayar, düşük bataryanın da belirli bir süre sonra acil stop sinyali gönderdiğini belirtir. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a> de uzaktan kumandalı iş ekipmanının, kontrol sınırlarının dışına çıktığında otomatik olarak hemen duracak şekilde olmasını ister."
+    },
+    {
+      "type": "p",
+      "text": "Bu yüzden \"kumanda arada bir kesiliyor\" şikâyeti küçümsenmemelidir. Sistem doğru davranıyor olabilir; ama kesilmenin bir nedeni vardır ve o neden, bir gün yük havadayken de ortaya çıkabilir."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç kumandası çalışmıyorsa adım adım neye bakılır?"
+    },
+    {
+      "type": "p",
+      "text": "Sırasıyla batarya, acil stop, açılış sırası, alıcı beslemesi, anten, kablolu kullanım, eşleştirme ve valf tarafına bakılır. Bu sıra, arızaların önemli bir kısmını sahada, ölçü aletiyle ve gereksiz parça değiştirmeden bulmayı hedefler:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Batarya: Tam dolu yedek bataryayı takın, batarya kontaklarını temizleyin. Zayıf batarya en sık sebeplerden biridir.",
+        "Acil stop: Hem vericideki hem vinç üzerindeki acil stop butonlarının tamamen bırakıldığını kontrol edin; bazı butonlar çevrilerek bırakılır.",
+        "Başlatma sırası: Kumandanın üreticinin tarif ettiği sırayla açıldığından emin olun; birçok sistem açıldıktan sonra ayrıca bir başlatma onayı ister.",
+        "Alıcı beslemesi ve ışıkları: Alıcıdaki gösterge ışıkları ne söylüyor? Besleme gelmiyorsa sigorta, röle, ana kontak ve şasi bağlantısı kontrol edilir.",
+        "Anten ve anten kablosu: Anten kırık mı, kablosu ezik mi? Anten kablosu güç ve kumanda kablolarıyla birlikte döşenmişse aralıklı sinyal kaybı yaşanabilir.",
+        "Kablolu kumanda: Sistemde kablolu kullanım seçeneği varsa kabloyla deneyin. Kabloyla çalışıp telsizle çalışmıyorsa sorun telsiz bağlantısındadır.",
+        "Eşleştirme: Alıcı ya da verici değiştiyse veya eşleşme kaybolduysa, eşleştirme üreticinin dokümanına göre baştan yapılır.",
+        "Valf tarafı: Kumanda sinyal veriyor ama tek bir hareket çalışmıyorsa o harekete ait bobin, soket ve valf kontrol edilir."
+      ]
+    },
+    {
+      "type": "callout",
+      "text": "Acil stop basılıyken herhangi bir hareket çalışıyorsa vinci kullanmayın. Bu, en kritik güvenlik fonksiyonunun arızalı olduğunu gösterir; onarılmadan vinç işe çıkmamalıdır."
+    },
+    {
+      "type": "h2",
+      "text": "Vinçte elektrik arızası en çok nereden çıkar?"
+    },
+    {
+      "type": "p",
+      "text": "Belirtinin şekli arızanın kaynağını büyük ölçüde gösterir:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Belirti",
+        "Olası kaynak"
+      ],
+      "rows": [
+        [
+          "Tek hareket çalışmıyor, diğerleri normal",
+          "O harekete ait bobin, soket, kablo ya da valf sürgüsü"
+        ],
+        [
+          "Hareketler yavaş, oransal kontrol kayboldu",
+          "Oransal valf ayarı, bobin, düşük besleme gerilimi"
+        ],
+        [
+          "Kumanda tamamen ölü, alıcı ışığı yok",
+          "Sigorta, röle, ana besleme, şasi bağlantısı"
+        ],
+        [
+          "Aralıklı kesilme",
+          "Batarya, anten, gevşek soket, nemli konnektör, parazit"
+        ],
+        [
+          "Acil stop basılı değil ama sistem stop konumunda",
+          "Acil stop devresinde kopukluk ya da buton arızası"
+        ],
+        [
+          "Yağmur ya da yıkamadan sonra arıza artıyor",
+          "Soket ve konnektörlere su girişi, oksitlenme"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Deniz kenarında çalışan vinçlerde tuzlu nem konnektörleri ve soket pinlerini oksitler; elektrik arızalarının büyük bir kısmı burada başlar. Soketlerin düzenli temizlenmesi, contalarının kontrolü ve uygun bir koruyucuyla korunması kumanda arızalarını azaltır. Bom üzerinde hareket eden bölgelerden geçen kablolarda ise sürtünme ve ezilme, aralıklı arızaların tipik sebebidir."
+    },
+    {
+      "type": "p",
+      "text": "Valf bobinleri de ihmal edilmemelidir. Isınan, sargısı zayıflayan bir bobin sıcak havada hareketi yavaşlatabilir ya da tamamen kesebilir; soğuyunca yeniden çalışması, teşhisi zorlaştırır. Bobin direncini ölçmek, bu tür \"bazen çalışan\" arızalarda ilk adımlardan biridir. Valfin hidrolik tarafındaki sorunlar için <a href=\"/blog/vinc-kumanda-valfi-arizasi.html\">vinç kumanda valfi arızası</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Kumanda arızası ararken hangi güvenlik kurallarına uyulmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Önce yükü ve bomu indirip vinci güvenli konuma alın; ardından şu kurallara uyun:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Arıza aramaya başlamadan önce yükü ve bomu indirin, vinci güvenli konuma alın.",
+        "Kumandayı kullanmadığınız zaman acil stop'a basın ve bataryayı çıkarın; kimse vinci istemeden hareket ettiremesin.",
+        "Soket ve konnektörleri sökerken sistemi enerjisiz bırakın.",
+        "Bir sensörü ya da emniyet devresini \"denemek için\" köprülemeyin. Unutulan bir köprü, vinci korumasız bırakır; aşırı yük korumasıyla ilgili riskleri <a href=\"/blog/yuk-moment-sinirlayici-arizasi.html\">yük moment sınırlayıcı arızası</a> yazımızda anlattık.",
+        "Kumanda arızalıyken vinci yük altında kullanmaya çalışmayın; hareketler beklenmedik şekilde başlayabilir ya da duramayabilir."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Kumanda her gün nasıl kontrol edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Batarya, kumanda gövdesi, iki acil stop butonu ve soketler her gün işe başlamadan kontrol edilir; bu iki dakikalık bir alışkanlıktır:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Bataryanın dolu olduğunu ve yedek bataryanın şarjda beklediğini kontrol edin.",
+        "Vinci çalıştırmadan önce kumandanın kasasında, butonlarında ve kollarında hasar olup olmadığına bakın.",
+        "İlk harekette acil stop'a basarak bütün hareketlerin durduğunu doğrulayın.",
+        "Vinç üzerindeki acil stop butonunu da aynı şekilde deneyin.",
+        "Soket ve kablolarda ezilme, çatlak ya da oksitlenme olup olmadığına göz atın."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Tesisat ne zaman komple yenilenmeli?"
+    },
+    {
+      "type": "p",
+      "text": "Arızalar farklı noktalarda sıklaşmaya ve tesisat yamalarla şemasız hale gelmeye başladığında. Tek tek soket ve kablo onarımı belirli bir noktaya kadar ekonomiktir. Şu durumlarda vincin elektrik tesisatını parça parça değil, bir bütün olarak ele almak daha doğru olur:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Aynı ay içinde farklı noktalarda birden fazla elektrik arızası çıkıyorsa",
+        "Soketlerin çoğunda yeşillenme, pin korozyonu ve gevşeme varsa",
+        "Kabloların dış kılıfı güneşten sertleşmiş, çatlamış ya da bom üzerindeki geçişlerde aşınmışsa",
+        "Tesisat yıllar içinde farklı ustalarca eklenmiş, ek kablolar bantla birleştirilmiş, şeması olmayan bir hale gelmişse",
+        "Kumanda ya da valf sistemi yenilenecekse; yeni sistemi eski tesisata bağlamak, eski arızaları yeni sisteme taşımaktır"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Komple yenilemede kabloların güzergâhı, kelepçeleme ve sürtünme noktaları yeniden düzenlenir, soketler uygun koruma sınıfında seçilir ve tesisat etiketlenir. Bir sonraki arızada ustanın neyi nerede arayacağını bilmesi, arıza süresini ciddi şekilde kısaltır."
+    },
+    {
+      "type": "h2",
+      "text": "Servise hangi bilgilerle gelmeli?"
+    },
+    {
+      "type": "p",
+      "text": "Kumanda arızasında teşhisi hızlandıran bilgiler şunlardır: arızanın ne zaman başladığı, sürekli mi aralıklı mı olduğu, yağmur ya da yıkamayla ilişkisi, alıcı ve vericideki ışıkların durumu, varsa ekrandaki hata kodu ve kumandanın marka ve model etiketi. Bunların fotoğrafını ya da kısa bir videosunu çekmeniz, telefonda yapılacak ilk değerlendirmeyi çok daha isabetli hale getirir."
+    },
+    {
+      "type": "h2",
+      "text": "Kumanda sistemi ne zaman yenilenmeli?"
+    },
+    {
+      "type": "p",
+      "text": "Arızalar sıklaştığında ve parçası artık bulunmayan bir kumandayla uğraşılıyorsa, tamir etmeye çalışmak yerine kumanda sistemini yenilemek daha mantıklı olabilir. Kollu valften elektro-hidrolik oransal valfe ve telsiz kumandaya geçiş, <a href=\"/blog/vinc-retrofit-modernizasyon-nedir.html\">vinç retrofit ve modernizasyon</a> yazımızda anlattığımız işlerin başında gelir. Yeni sistemde tesisatın, soketlerin ve acil stop devresinin de baştan yapılması, eski arızaların yeni kumandaya taşınmasını önler."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç elektrik arızası sahada giderilebilir mi?"
+    },
+    {
+      "type": "p",
+      "text": "Çoğu zaman evet. Kumanda ve elektrik arızalarında önce ölçüyor, sonra parça değiştiriyoruz. Tesisat yenileme, soket ve konnektör değişimi, valf bobini ve kumanda ayarlarını atölyemizde ya da sahada yapıyoruz. Milas, Bodrum, Muğla, Aydın ve İzmir çevresinde 7/24 ulaşabilirsiniz. Ayrıntılar için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> ile <a href=\"/hizmetler/hiyap-vinc-tamiri.html\">hiyap vinç tamiri</a> sayfalarımıza bakabilirsiniz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Vinç kumandası neden aralıklı kesiliyor?",
+      "a": "En sık sebepler zayıf batarya, hasarlı anten ya da anten kablosu, gevşek veya oksitlenmiş soketler, parazit ve vericinin menzil dışına çıkmasıdır. Telsiz sistemler bu durumlarda vinci güvenli şekilde durdurur; kesilmenin nedeni bulunup giderilmelidir."
+    },
+    {
+      "q": "Kumanda bataryası ne zaman değiştirilmeli?",
+      "a": "Batarya tam şarja rağmen kısa sürede bitiyor ya da düşük batarya uyarısı sık geliyorsa değiştirilmelidir. Değişimde kumanda üreticisinin önerdiği batarya kullanılmalı, yedek batarya her zaman şarjda tutulmalıdır."
+    },
+    {
+      "q": "Yeni kumanda alırsam vinçle eşleştirmek gerekir mi?",
+      "a": "Evet. Verici ve alıcı birbirine tanıtılmış çalışır; verici ya da alıcı değiştiğinde eşleştirme üreticinin dokümanındaki prosedürle yeniden yapılır. Eşleştirme sırasında sahada başka telsiz sistemlerin çalışmaması işi kolaylaştırır."
+    },
+    {
+      "q": "Kumanda çalışıyor ama bir hareket yok, neden?",
+      "a": "Sorun büyük ihtimalle o harekete ait bobin, soket, kablo ya da valf tarafındadır. Aşırı yük sınırlayıcının o hareketi kesmesi de benzer bir tablo oluşturur; ekranda uyarı olup olmadığına bakılmalıdır."
+    },
+    {
+      "q": "Arızalı uzaktan kumanda tamir edilir mi, yenisi mi alınmalı?",
+      "a": "Batarya, buton, kol, anten ve soket arızaları çoğu zaman onarılabilir. Verici ya da alıcının elektronik kartı arızalıysa ve parçası artık bulunmuyorsa, kumanda sisteminin yenilenmesi daha mantıklı olabilir. Yenilemede tesisat ve acil stop devresinin de birlikte ele alınması önerilir."
+    },
+    {
+      "q": "Telsiz kumanda arızalıysa vinç kablolu kullanılabilir mi?",
+      "a": "Sistemde kablolu kullanım seçeneği varsa ve üretici buna izin veriyorsa, kablo ile çalışmak telsiz arızasını ayırmak için de iyi bir yöntemdir. Kablolu kumandada da acil stop'un çalıştığı mutlaka doğrulanmalıdır."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Operator Manual – MFS Hand Held Systems",
+      "publisher": "Hetronic",
+      "url": "https://hetronic.com/wp-content/uploads/2024/01/OperatingManualHHMFSHL.pdf"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/hizmetler/hiyap-vinc-tamiri.html",
+    "/blog/vinc-kumanda-valfi-arizasi.html",
+    "/blog/yuk-moment-sinirlayici-arizasi.html",
+    "/blog/vinc-retrofit-modernizasyon-nedir.html"
+  ]
+}

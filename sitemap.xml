@@ -1,307 +1,408 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <!-- Türkçe sayfalar -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://hedefvinc.com/</loc>
-    <priority>1.0</priority>
-    <changefreq>weekly</changefreq>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/"/>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/hizmetler/vinc-kiralama.html</loc>
-    <priority>0.9</priority>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/crane-rental.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/vinc-kiralama.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/hizmetler/vinc-revizyon-tamir-bakim.html</loc>
-    <priority>0.8</priority>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/crane-repair-maintenance.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/vinc-revizyon-tamir-bakim.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/hizmetler/is-makinasi-tamir-bakim.html</loc>
-    <priority>0.8</priority>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/heavy-equipment-repair.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/is-makinasi-tamir-bakim.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/hizmetler/pres-hortum.html</loc>
-    <priority>0.8</priority>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/hydraulic-hose-pressing.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/pres-hortum.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/hizmetler/hidrolik-yedek-parca.html</loc>
-    <priority>0.8</priority>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/hydraulic-spare-parts.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/hidrolik-yedek-parca.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/hizmetler/torna-isleri.html</loc>
-    <priority>0.8</priority>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/custom-machining.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/torna-isleri.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/hizmetler/kaynak-isleri.html</loc>
-    <priority>0.8</priority>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/welding-services.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/kaynak-isleri.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/hizmetler/kamyon-sase-giydirme.html</loc>
-    <priority>0.8</priority>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/truck-chassis-works.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/kamyon-sase-giydirme.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/hizmetler/konteyner-satis-kiralama.html</loc>
-    <priority>0.9</priority>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/container-sales-rental.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/konteyner-satis-kiralama.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/hakkimizda.html</loc>
-    <priority>0.6</priority>
-    <changefreq>yearly</changefreq>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/about.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hakkimizda.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/iletisim.html</loc>
-    <priority>0.7</priority>
-    <changefreq>yearly</changefreq>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/contact.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/iletisim.html"/>
-  </url>
-
-  <!-- Türkçe blog -->
-  <url>
-    <loc>https://hedefvinc.com/blog/index.html</loc>
-    <priority>0.7</priority>
-    <changefreq>weekly</changefreq>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/index.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/index.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/blog/vinc-kiralama-fiyatlari.html</loc>
-    <lastmod>2026-08-08</lastmod>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/crane-rental-prices.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/vinc-kiralama-fiyatlari.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/blog/dogru-vinc-secimi.html</loc>
-    <lastmod>2026-07-16</lastmod>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/choosing-the-right-crane.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/dogru-vinc-secimi.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/blog/vincle-calisirken-is-guvenligi.html</loc>
-    <lastmod>2026-06-24</lastmod>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/crane-safety-basics.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/vincle-calisirken-is-guvenligi.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/blog/hidrolik-hortum-neden-patlar.html</loc>
-    <lastmod>2026-06-05</lastmod>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/why-hydraulic-hoses-fail.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/hidrolik-hortum-neden-patlar.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/blog/is-makinasi-bakim-rehberi.html</loc>
-    <lastmod>2026-05-19</lastmod>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/heavy-equipment-maintenance-guide.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/is-makinasi-bakim-rehberi.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/blog/sifir-mi-ikinci-el-mi-konteyner.html</loc>
-    <lastmod>2026-04-28</lastmod>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/new-vs-used-containers.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/sifir-mi-ikinci-el-mi-konteyner.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/blog/vinc-revizyonu-ne-zaman.html</loc>
-    <lastmod>2026-04-09</lastmod>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/when-crane-overhaul.html"/>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/vinc-revizyonu-ne-zaman.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-revizyonu-biten-katlanir-bom-vinc-1600.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://hedefvinc.com/blog/bodrumda-tekne-cekme.html</loc>
-    <lastmod>2026-03-14</lastmod>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/boat-lifting-bodrum.html"/>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/bodrumda-tekne-cekme.html"/>
-  </url>
-
-  <!-- English pages -->
-  <url>
-    <loc>https://hedefvinc.com/en/</loc>
-    <priority>0.9</priority>
-    <changefreq>weekly</changefreq>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/boat-lifting-bodrum.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/bodrumda-tekne-cekme.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/tekne-kaldirma-katlanir-bom-vinc-1600.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://hedefvinc.com/en/services/crane-rental.html</loc>
-    <priority>0.8</priority>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/vinc-kiralama.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/crane-rental.html"/>
+    <loc>https://hedefvinc.com/blog/dogru-vinc-secimi.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/dogru-vinc-secimi.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/choosing-the-right-crane.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/dogru-vinc-secimi.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/hedef-vinc-kamyon-1600.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://hedefvinc.com/en/services/crane-repair-maintenance.html</loc>
-    <priority>0.7</priority>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/vinc-revizyon-tamir-bakim.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/crane-repair-maintenance.html"/>
+    <loc>https://hedefvinc.com/blog/hidrolik-hortum-neden-patlar.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/hidrolik-hortum-neden-patlar.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/why-hydraulic-hoses-fail.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/hidrolik-hortum-neden-patlar.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-kabinli-vinc-hidrolik-test-1600.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://hedefvinc.com/en/services/heavy-equipment-repair.html</loc>
-    <priority>0.7</priority>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/is-makinasi-tamir-bakim.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/heavy-equipment-repair.html"/>
+    <loc>https://hedefvinc.com/blog/hiyap-vinc-arizalari-ve-cozumleri.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/revizyonu-biten-vinc-kamyonla-teslimat-1600.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://hedefvinc.com/en/services/hydraulic-hose-pressing.html</loc>
-    <priority>0.7</priority>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/pres-hortum.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/hydraulic-hose-pressing.html"/>
+    <loc>https://hedefvinc.com/blog/hiyap-vinc-bakimi-kontrol-listesi.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-vinc-kolonu-doner-tabla-rulmani-1600.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://hedefvinc.com/en/services/hydraulic-spare-parts.html</loc>
-    <priority>0.7</priority>
-    <changefreq>monthly</changefreq>
+    <loc>https://hedefvinc.com/blog/index.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/index.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-revizyonu-biten-katlanir-bom-vinc-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/blog/is-makinasi-bakim-rehberi.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/is-makinasi-bakim-rehberi.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/heavy-equipment-maintenance-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/is-makinasi-bakim-rehberi.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/atolye-torna-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/blog/sifir-mi-ikinci-el-mi-konteyner.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/sifir-mi-ikinci-el-mi-konteyner.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/new-vs-used-containers.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/sifir-mi-ikinci-el-mi-konteyner.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/kabin-konteyner-yerlestirme-vinc-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/blog/vinc-ayaklari-outrigger-arizasi.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/saha-uzun-bom-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/blog/vinc-bom-catlagi-kaynakla-onarilir-mi.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-boyanmis-vinc-kolonu-revizyon-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/blog/vinc-hidrolik-pompa-arizasi-belirtileri.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/vincli-kamyonun-tasinmasi-atolye-onu-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/blog/vinc-hidrolik-silindir-kece-degisimi.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-revizyonu-biten-katlanir-bom-vinc-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/blog/vinc-hidrolik-yag-degisimi-ne-zaman.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-kabinli-vinc-hidrolik-test-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/blog/vinc-kiralama-fiyatlari.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/vinc-kiralama-fiyatlari.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/crane-rental-prices.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/vinc-kiralama-fiyatlari.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/saha-mobil-vinc-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/blog/vinc-kumanda-valfi-arizasi.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-sokulmus-vinc-govdesi-ve-ayaklar-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/blog/vinc-periyodik-kontrol-oncesi-bakim.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-boyanmis-vinc-kolonu-revizyon-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/blog/vinc-revizyonu-ne-zaman.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/vinc-revizyonu-ne-zaman.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/when-crane-overhaul.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/vinc-revizyonu-ne-zaman.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-sokulmus-vinc-govdesi-ve-ayaklar-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/blog/vinc-tamiri-mi-yenisi-mi.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-revizyonu-biten-katlanir-bom-vinc-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/blog/vincle-calisirken-is-guvenligi.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/vincle-calisirken-is-guvenligi.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/crane-safety-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/vincle-calisirken-is-guvenligi.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/saha-celik-konstruksiyon-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/bolgeler/bodrum-vinc-kiralama.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/kabin-konteyner-yerlestirme-vinc-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/hakkimizda.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hakkimizda.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hakkimizda.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/revizyonu-biten-vinc-kamyonla-teslimat-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/hizmetler/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/revizyonu-biten-vinc-kamyonla-teslimat-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/hizmetler/hidrolik-yedek-parca.html</loc>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/hidrolik-yedek-parca.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/hydraulic-spare-parts.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/hidrolik-yedek-parca.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-sokulmus-vinc-govdesi-ve-ayaklar-1600.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://hedefvinc.com/en/services/custom-machining.html</loc>
-    <priority>0.7</priority>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/torna-isleri.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/custom-machining.html"/>
+    <loc>https://hedefvinc.com/hizmetler/hiyap-vinc-tamiri.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-sokulmus-vinc-govdesi-ve-ayaklar-1600.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://hedefvinc.com/en/services/welding-services.html</loc>
-    <priority>0.7</priority>
-    <changefreq>monthly</changefreq>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/kaynak-isleri.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/welding-services.html"/>
+    <loc>https://hedefvinc.com/hizmetler/is-makinasi-tamir-bakim.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/is-makinasi-tamir-bakim.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/heavy-equipment-repair.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/is-makinasi-tamir-bakim.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/stok/stok-ekskavator-1600.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://hedefvinc.com/en/services/truck-chassis-works.html</loc>
-    <priority>0.7</priority>
-    <changefreq>monthly</changefreq>
+    <loc>https://hedefvinc.com/hizmetler/kamyon-sase-giydirme.html</loc>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/kamyon-sase-giydirme.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/truck-chassis-works.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/kamyon-sase-giydirme.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-kamyon-sasesi-tadilat-1600.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://hedefvinc.com/en/services/container-sales-rental.html</loc>
-    <priority>0.8</priority>
-    <changefreq>monthly</changefreq>
+    <loc>https://hedefvinc.com/hizmetler/kaynak-isleri.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/kaynak-isleri.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/welding-services.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/kaynak-isleri.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-boyanmis-vinc-kolonu-revizyon-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/hizmetler/konteyner-satis-kiralama.html</loc>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/konteyner-satis-kiralama.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/container-sales-rental.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/konteyner-satis-kiralama.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/kabin-konteyner-yerlestirme-vinc-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/hizmetler/pres-hortum.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/pres-hortum.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/hydraulic-hose-pressing.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/pres-hortum.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/retrofit-hedef-crane-tekne-uzeri-deniz-vinci-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/hizmetler/torna-isleri.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/torna-isleri.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/custom-machining.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/torna-isleri.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/atolye-torna-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/hizmetler/vinc-hidrolik-tamiri.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-kabinli-vinc-hidrolik-test-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/hizmetler/vinc-kiralama.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/vinc-kiralama.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/crane-rental.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/vinc-kiralama.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/saha-mobil-vinc-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/hizmetler/vinc-revizyon-tamir-bakim.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/vinc-revizyon-tamir-bakim.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/crane-repair-maintenance.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/vinc-revizyon-tamir-bakim.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-revizyonu-biten-katlanir-bom-vinc-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/iletisim.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/iletisim.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/iletisim.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-kamyon-sasesi-tadilat-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/en/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-revizyonu-biten-katlanir-bom-vinc-1600.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://hedefvinc.com/en/about.html</loc>
-    <priority>0.5</priority>
-    <changefreq>yearly</changefreq>
+    <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hakkimizda.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/about.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/en/contact.html</loc>
-    <priority>0.6</priority>
-    <changefreq>yearly</changefreq>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/iletisim.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/contact.html"/>
-  </url>
-
-  <!-- English blog -->
-  <url>
-    <loc>https://hedefvinc.com/en/blog/index.html</loc>
-    <priority>0.6</priority>
-    <changefreq>weekly</changefreq>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/index.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/index.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/en/blog/crane-rental-prices.html</loc>
-    <lastmod>2026-08-08</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/vinc-kiralama-fiyatlari.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/crane-rental-prices.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/en/blog/choosing-the-right-crane.html</loc>
-    <lastmod>2026-07-16</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/dogru-vinc-secimi.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/choosing-the-right-crane.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/en/blog/crane-safety-basics.html</loc>
-    <lastmod>2026-06-24</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/vincle-calisirken-is-guvenligi.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/crane-safety-basics.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/en/blog/why-hydraulic-hoses-fail.html</loc>
-    <lastmod>2026-06-05</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/hidrolik-hortum-neden-patlar.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/why-hydraulic-hoses-fail.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/en/blog/heavy-equipment-maintenance-guide.html</loc>
-    <lastmod>2026-05-19</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/is-makinasi-bakim-rehberi.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/heavy-equipment-maintenance-guide.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/en/blog/new-vs-used-containers.html</loc>
-    <lastmod>2026-04-28</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/sifir-mi-ikinci-el-mi-konteyner.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/new-vs-used-containers.html"/>
-  </url>
-  <url>
-    <loc>https://hedefvinc.com/en/blog/when-crane-overhaul.html</loc>
-    <lastmod>2026-04-09</lastmod>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/vinc-revizyonu-ne-zaman.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/when-crane-overhaul.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hakkimizda.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/revizyonu-biten-vinc-kamyonla-teslimat-1600.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://hedefvinc.com/en/blog/boat-lifting-bodrum.html</loc>
     <lastmod>2026-03-14</lastmod>
-    <priority>0.5</priority>
     <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/bodrumda-tekne-cekme.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/boat-lifting-bodrum.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/bodrumda-tekne-cekme.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/tekne-kaldirma-katlanir-bom-vinc-1600.jpg</image:loc></image:image>
   </url>
-
+  <url>
+    <loc>https://hedefvinc.com/en/blog/choosing-the-right-crane.html</loc>
+    <lastmod>2026-07-16</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/dogru-vinc-secimi.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/choosing-the-right-crane.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/dogru-vinc-secimi.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/hedef-vinc-kamyon-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/en/blog/crane-rental-prices.html</loc>
+    <lastmod>2026-08-08</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/vinc-kiralama-fiyatlari.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/crane-rental-prices.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/vinc-kiralama-fiyatlari.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/saha-mobil-vinc-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/en/blog/crane-safety-basics.html</loc>
+    <lastmod>2026-06-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/vincle-calisirken-is-guvenligi.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/crane-safety-basics.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/vincle-calisirken-is-guvenligi.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/saha-celik-konstruksiyon-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/en/blog/heavy-equipment-maintenance-guide.html</loc>
+    <lastmod>2026-05-19</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/is-makinasi-bakim-rehberi.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/heavy-equipment-maintenance-guide.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/is-makinasi-bakim-rehberi.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/atolye-torna-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/en/blog/index.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/index.html"/>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/en/blog/new-vs-used-containers.html</loc>
+    <lastmod>2026-04-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/sifir-mi-ikinci-el-mi-konteyner.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/new-vs-used-containers.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/sifir-mi-ikinci-el-mi-konteyner.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/kabin-konteyner-yerlestirme-vinc-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/en/blog/when-crane-overhaul.html</loc>
+    <lastmod>2026-04-09</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/vinc-revizyonu-ne-zaman.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/when-crane-overhaul.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/vinc-revizyonu-ne-zaman.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-sokulmus-vinc-govdesi-ve-ayaklar-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/en/blog/why-hydraulic-hoses-fail.html</loc>
+    <lastmod>2026-06-05</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/hidrolik-hortum-neden-patlar.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/why-hydraulic-hoses-fail.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/hidrolik-hortum-neden-patlar.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-kabinli-vinc-hidrolik-test-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/en/contact.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/iletisim.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/iletisim.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-kamyon-sasesi-tadilat-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/en/services/container-sales-rental.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/konteyner-satis-kiralama.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/container-sales-rental.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/konteyner-satis-kiralama.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/kabin-konteyner-yerlestirme-vinc-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/en/services/crane-rental.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/vinc-kiralama.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/crane-rental.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/vinc-kiralama.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/tekne-kaldirma-katlanir-bom-vinc-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/en/services/crane-repair-maintenance.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/vinc-revizyon-tamir-bakim.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/crane-repair-maintenance.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/vinc-revizyon-tamir-bakim.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-revizyonu-biten-katlanir-bom-vinc-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/en/services/custom-machining.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/torna-isleri.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/custom-machining.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/torna-isleri.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/atolye-torna-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/en/services/heavy-equipment-repair.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/is-makinasi-tamir-bakim.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/heavy-equipment-repair.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/is-makinasi-tamir-bakim.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/stok/stok-ekskavator-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/en/services/hydraulic-hose-pressing.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/pres-hortum.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/hydraulic-hose-pressing.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/pres-hortum.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/retrofit-hedef-crane-tekne-uzeri-deniz-vinci-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/en/services/hydraulic-spare-parts.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/hidrolik-yedek-parca.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/hydraulic-spare-parts.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/hidrolik-yedek-parca.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-sokulmus-vinc-govdesi-ve-ayaklar-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/en/services/truck-chassis-works.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/kamyon-sase-giydirme.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/truck-chassis-works.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/kamyon-sase-giydirme.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-kamyon-sasesi-tadilat-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://hedefvinc.com/en/services/welding-services.html</loc>
+    <lastmod>2026-10-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/kaynak-isleri.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/welding-services.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/kaynak-isleri.html"/>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-boyanmis-vinc-kolonu-revizyon-1600.jpg</image:loc></image:image>
+  </url>
 </urlset>

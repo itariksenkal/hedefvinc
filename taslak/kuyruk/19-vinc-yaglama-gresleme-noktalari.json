@@ -1,0 +1,249 @@
+{
+  "slug": "vinc-yaglama-gresleme-noktalari",
+  "_hedef": "vinç gresleme / vinç yağlama noktaları",
+  "title": "Vinç Gresleme: Yağlama Noktaları ve Doğru Aralıklar",
+  "h1": "Vinç Gresleme Rehberi: Hangi Noktalar, Ne Sıklıkla, Hangi Gresle?",
+  "desc": "Vinç gresleme nasıl yapılır? Döner tabla, pim ve burçlar, teleskop kızakları, ayaklar ve irgat için yağlama noktaları, aralıklar ve sık yapılan hatalar.",
+  "category": "Vinç Tamiri",
+  "image": "real_ones/atolye-boyanmis-vinc-kolonu-revizyon.jpg",
+  "imageAlt": "Atölyede askıda duran, yeni boyanmış sarı vinç kolonu ve taban parçaları",
+  "kisaCevap": "Vinç gresleme; döner tabla rulmanı ve dişlisi, bom ve silindir pimleri, teleskop kızakları, ayaklar ve kanca bloğu gibi hareketli noktaların kılavuzdaki yağlama şemasına göre yağlanmasıdır. Aralığı kılavuz belirler; örneğin bir döner tabla rulmanı üreticisi bilyeli tiplerde yaklaşık 100, makaralı tiplerde 50 çalışma saatinde bir yağlama önerir. Toz, nem ve tuzlu ortamda aralık kısalır. Gres, temiz gresörlükten taze gres keçeden çıkana kadar basılır.",
+  "intro": "Bu yazı, kendi vincinin günlük ve haftalık bakımını yapan operatörler ve vinç sahipleri için. Atölyeye gelen pim, burç ve döner tabla arızalarında sık gördüğümüz ortak nokta, gres tabancasının hiç girmediği ya da yanlış kullanıldığı noktalardır. Aşağıda hangi noktaların, ne sıklıkla ve nasıl greslenmesi gerektiğini, Ege kıyısının toz, nem ve tuz koşullarını da hesaba katarak anlatıyoruz.",
+  "body": [
+    {
+      "type": "p",
+      "text": "Eski gres yeni gresle dışarı itilene kadar basmak ve gresi temiz bir gresörlükten uygulamak, ne kadar sık greslediğiniz kadar önemlidir."
+    },
+    {
+      "type": "h2",
+      "text": "Vinçte gresleme neden önemlidir?"
+    },
+    {
+      "type": "p",
+      "text": "Gres, yük altında birbirine sürtünen yüzeyleri ayırır; vinçte aşınan parçaların büyük bölümü de bu yüzeylerdir: pim ve burç, rulman yolu, dişli, kızak. Bu yüzeyler arasındaki gres tabakası incelir ya da kirlenirse aşınma hızlanır; pim yuvası ovalleşir, burç boşluk yapar, bom sallanmaya başlar. Boşluk bir kez başladığında her hareket darbeli hale gelir ve aşınma kendi kendini hızlandırır."
+    },
+    {
+      "type": "p",
+      "text": "Pim ve burç değişimi, yuva ovalleşmeden yapılırsa küçük bir iştir; yuva ovalleştikten sonra kaynak dolgusu ve işleme gerektirir. Gres tabancası, bu zincirin en ucuz ve en etkili önleyicisidir."
+    },
+    {
+      "type": "p",
+      "text": "Gresin bir görevi daha vardır: yatağın içine su ve kir girmesini engellemek. Yatağın içinden dışarı doğru taşan taze gres, aynı zamanda bir conta gibi çalışır; rulman üreticileri de gres doldurmanın sürtünmeyi azalttığını, korozyona karşı koruduğunu ve sızdırmazlığın bir parçası olduğunu belirtir. Bu yüzden deniz kenarında ve tozlu şantiyede gresleme sıklığı daha da önem kazanır."
+    },
+    {
+      "type": "h2",
+      "text": "Vinçte hangi noktalar greslenir?"
+    },
+    {
+      "type": "p",
+      "text": "Hareket eden ve yük taşıyan her nokta greslenir: döner tabla rulmanı ve dişlisi, bom, kol ve silindir pimleri, teleskop kızakları, ayaklar, irgat ve kanca bloğu. Redüktörler ise gresle değil, dişli yağıyla çalışır. Noktalar ve dikkat edilecekler:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Nokta",
+        "Ne yağlanır",
+        "Dikkat"
+      ],
+      "rows": [
+        [
+          "Döner tabla rulmanı",
+          "Yuvarlanma yolu, gresörlüklerden",
+          "Vinç döndürülerek, taze gres keçeden çevre boyunca çıkana kadar"
+        ],
+        [
+          "Döner tabla dişlisi ve pinyon",
+          "Diş yüzeyleri",
+          "Dişlerde her zaman gres tabakası olmalı; kumlu eski gres temizlenmeli"
+        ],
+        [
+          "Bom ve kol pimleri",
+          "Pim ve burçlar",
+          "Gres karşı taraftan çıkana kadar; çıkmıyorsa gresörlük ya da kanal tıkalı"
+        ],
+        [
+          "Silindir pimleri, iki uç",
+          "Mafsal yatakları",
+          "Silindirin gövde ve mil tarafı ayrı ayrı greslenir"
+        ],
+        [
+          "Teleskopik bom kademeleri",
+          "Kayma yüzeyleri ve pabuçlar",
+          "Üreticinin önerdiği yağlayıcı; kum ve tuz önce temizlenir"
+        ],
+        [
+          "Ayak kutuları ve ayak silindiri pimleri",
+          "Kayma yüzeyleri, pimler",
+          "Ayaklar açılıp kapatılarak"
+        ],
+        [
+          "İrgat, varsa",
+          "Tambur yatakları; gerekiyorsa halat",
+          "Halat yağı halat üreticisinin yağıyla uyumlu olmalı"
+        ],
+        [
+          "Kanca bloğu ve makaralar",
+          "Makara yatakları, kanca döner yatağı",
+          "Makara ve kanca serbestçe dönmeli"
+        ],
+        [
+          "Dönüş ve irgat redüktörü",
+          "Dişli yağı, gres değil",
+          "Seviye kontrolü ve değişim kılavuza göre"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu tablo genel bir çerçevedir. Her vinç modelinin kendi yağlama şeması vardır; gresörlüklerin sayısı ve yeri, kullanılacak yağlayıcı ve aralıklar o şemada yazar. Şemayı kabinde ya da vincin üzerinde görünür bir yerde tutmak, hiçbir noktanın unutulmamasını sağlar."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç gresleme aralığı nasıl belirlenir?"
+    },
+    {
+      "type": "p",
+      "text": "Tek bir doğru aralık yoktur; doğru aralık vincinizin kılavuzunda yazandır. Fikir vermesi açısından: <a href=\"https://www.thyssenkrupp-rotheerde.com/en/products/rothe-erde-slewing-bearings/technical-basics/installation-lubrication-maintenance\">Bir büyük rulman üreticisi</a>, döner tabla rulmanları için genel kural olarak bilyeli tiplerde kabaca her 100 çalışma saatinde, makaralı tiplerde her 50 saatte bir yağlama önerir; tropik iklim, yüksek nem, yoğun toz ve kir, büyük sıcaklık farkları ve sürekli dönme hareketi olan uygulamalarda ise daha kısa aralık ister. Aynı üretici keçelerin en az altı ayda bir kontrol edilmesini ve makine uzun süre çalışmayacaksa, özellikle kış duruşlarında, duruştan önce ve sonra yağlama yapılmasını ister. Ege kıyısında, tozlu şantiyede ya da deniz kenarında çalışan bir vinç bu \"zor koşullar\" tanımına girer."
+    },
+    {
+      "type": "p",
+      "text": "Pratikte şu düzeni öneriyoruz: Kılavuzdaki aralığı temel alın; yoğun çalışılan dönemde, yağmurdan ve basınçlı suyla yıkamadan sonra ve tuzlu suya maruz kalmanın ardından ekstra gresleme yapın. Her greslemeyi tarih ve çalışma saatiyle bir deftere yazın; <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> de ekipmanda yapılan tüm bakım ve onarımların kayıt altına alınmasını ve ekipmanın ömrü boyunca saklanmasını ister. Uzun süre çalışmadan bekleyen bir vinci işe çıkarmadan önce greslemek de iyi bir alışkanlıktır."
+    },
+    {
+      "type": "h2",
+      "text": "Vinçte hangi gres kullanılır?"
+    },
+    {
+      "type": "p",
+      "text": "Kılavuzda belirtilen gres tipini ve sınıfını kullanın. Rulman yolu, açık dişli ve teleskop kızakları farklı yağlayıcılar isteyebilir; tek bir \"her işe uyan\" gresle bütün vinci greslemek her zaman doğru değildir."
+    },
+    {
+      "type": "p",
+      "text": "Rulman üreticileri, yuvarlanma yolu için onayladıkları gresleri listeler ve karıştırılabilecek olanları ayrıca belirtir. Farklı kıvamlaştırıcılarla yapılmış gresler her zaman birbiriyle uyumlu değildir; uyumsuz iki gres karıştığında yağlama özelliği bozulabilir. Gres tipini değiştirecekseniz eski gresi yeni gresle mümkün olduğunca dışarı itin ve bu değişikliği kayda geçirin. Deniz kenarında çalışan vinçlerde suya dayanıklılığı yüksek gresler tercih edilir."
+    },
+    {
+      "type": "h2",
+      "text": "Greslemede en sık hangi hatalar yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "En sık hata, kirli gresörlüğe gres basmak ve gres çıkmayan noktayı atlamaktır. Atölyede gördüklerimizin tamamı:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Kirli gresörlüğe gres basmak:</strong> Gresörlüğün üzerindeki kum, doğrudan yatağa gider. Basmadan önce gresörlüğü silin.",
+        "<strong>Gres çıkmayan noktayı atlamak:</strong> Tıkalı bir gresörlük ya da kanal, o pimin hiç yağ almadığı anlamına gelir. Gresörlük değiştirilir, kanal açılır.",
+        "<strong>Rulmanı vinç dururken greslemek:</strong> Gres yalnızca bir bölgeye dolar; döner tabla, vinç döndürülerek greslenmelidir.",
+        "<strong>Keçeyi zorlayacak kadar hızlı basmak:</strong> Keçe dudakları yerinden çıkarsa yatak artık dışarıya açıktır.",
+        "<strong>Teleskop kızaklarını kumla birlikte greslemek:</strong> Kum ve gres birleşince aşındırıcı bir macun oluşur.",
+        "<strong>Redüktörlere gres basmak:</strong> Redüktörler genellikle dişli yağıyla çalışır; seviye tapası ve yağ tipi kılavuzdan kontrol edilir.",
+        "<strong>Taşan gresi silmemek:</strong> Dışarıda kalan gres toz ve kum toplar; bir sonraki greslemede bu kir gresörlüğün ağzında bekler."
+      ]
+    },
+    {
+      "type": "callout",
+      "text": "Pimden gres çıkmıyorsa ya da bir noktaya gres basılamıyorsa bunu not edin ve servise söyleyin. O nokta, bir sonraki pim-burç değişiminin adayıdır."
+    },
+    {
+      "type": "h2",
+      "text": "Yazın ve kışın greslemede ne değişir?"
+    },
+    {
+      "type": "p",
+      "text": "Yazın sıcak ve toz, kışın yağmur, nem ve tuz öne çıkar; iki mevsimde de aralık kısalır. Yaz aylarında yüksek sıcaklık ve yoğun çalışma temposu gresi inceltir; açık dişlilerde ve kızaklarda gres daha çabuk akar ya da kurur, toz ise yüzeye daha kolay yapışır. Bu dönemde kızakların ve açık dişlilerin daha sık kontrol edilmesi gerekir."
+    },
+    {
+      "type": "p",
+      "text": "Kış aylarında ise yağmur, nem ve deniz kenarında tuz öne çıkar. Su, keçesi zayıflamış yataklara girer; içeride kalan su korozyona ve gresin bozulmasına yol açar. Yağışlı bir dönemin ardından, özellikle pim ve rulman gibi kapalı noktalarda taze gresle eski gresi ve içerideki suyu dışarı itmek iyi bir alışkanlıktır. Uzun süre çalışmadan bekleyecek bir vinci de bekletmeden önce greslemek, korozyona karşı koruma sağlar."
+    },
+    {
+      "type": "h2",
+      "text": "Gresleme sırasında başka neye bakılmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Pim emniyetlerine, burç boşluğuna, döner tabla cıvatalarına, hortumlara ve silindir millerine bakın; gresleme, vincin her noktasına yakından bakmak için iyi bir fırsattır:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Pimlerin emniyet segmanları ve kilit cıvataları yerinde mi?",
+        "Burçlarda boşluk var mı? Pim yuvası çevresinde parlak bir metal halkası ya da pas tozu, hareketin başladığını gösterir.",
+        "Döner tabla bağlantı cıvatalarında gevşeme izi, cıvata başı çevresinde pas çizgisi var mı?",
+        "Hortumlar bir yere sürtüyor mu, kelepçeler yerinde mi?",
+        "Silindir millerinde çizik, pas ya da yağ filmi var mı?",
+        "Teleskop kademelerinde ve ayak kutularında olağandışı sürtünme izi var mı?"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu kontrollerin daha kapsamlı bir listesini <a href=\"/blog/hiyap-vinc-bakimi-kontrol-listesi.html\">hiyap vinç bakımı kontrol listesi</a> yazımızda bulabilirsiniz. Döner tablanın nasıl ve ne sıklıkla greslendiğini ve gres dışındaki bakımını <a href=\"/blog/vinc-doner-tabla-rulman-arizasi.html\">vinç döner tabla rulman arızası</a>, teleskop kızaklarının ayrıntısını <a href=\"/blog/teleskopik-bom-kayar-pabuc-asinmasi.html\">teleskopik bom kayar pabuç aşınması</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Milas'ta vinç bakımı ve pim-burç yenileme nerede yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Güllük–Güvercinlik arasındaki atölyemizde periyodik bakımda yağ, filtre ve gres uygulamalarını pim, burç ve gresörlük kontrolleriyle birlikte yapıyoruz. Boşluk yapmış pim ve burçları <a href=\"/hizmetler/torna-isleri.html\">torna tezgâhımızda</a> ölçüsüne göre üretiyor, ovalleşmiş yuvalar için kaynak ve işleme seçeneklerini yuvanın durumuna göre değerlendiriyoruz. Atölyemiz Tuzla Kavşağı'nda; Milas, Bodrum, Muğla, Aydın ve İzmir çevresinde yerinde bakım için de geliyoruz. Ayrıntılar için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Gresleme aralığını kılavuz belirler; toz, nem ve tuzlu ortamda aralığı kısaltın.",
+    "Döner tablayı vinci döndürerek, taze gres keçeden çevre boyunca çıkana kadar gresleyin.",
+    "Gres basılamayan pim yağ almıyordur; gresörlüğü değiştirip kanalı açtırın.",
+    "Basmadan önce gresörlüğü silin; üzerindeki kum gresle birlikte yatağa gider.",
+    "Uzun duruştan önce ve sonra gresleyin, her uygulamayı tarih ve saatle kaydedin."
+  ],
+  "faqs": [
+    {
+      "q": "Vinç kaç saatte bir greslenmeli?",
+      "a": "Esas olan vincinizin kılavuzundaki yağlama şemasıdır. Fikir vermesi için: bir döner tabla rulmanı üreticisi bilyeli tiplerde yaklaşık 100, makaralı tiplerde 50 çalışma saatinde bir yağlama önerir. Tozlu, nemli ve tuzlu ortamda ve yoğun çalışma döneminde aralık kısaltılmalıdır."
+    },
+    {
+      "q": "Deniz kenarında çalışan vinçte gres aralığı kısalır mı?",
+      "a": "Evet. Rulman üreticileri yüksek nem, toz ve kir ile büyük sıcaklık farklarının olduğu koşullarda daha sık yağlama ister; tuzlu deniz havası da bu koşullara eklenir. Yıkamadan, yağmurdan ve tuzlu suya maruz kalmadan sonra ek gresleme yapın."
+    },
+    {
+      "q": "Vinç halatı greslenir mi?",
+      "a": "Halat gresle değil, halat üreticisinin önerdiği halat yağıyla yağlanır ve kullanılan yağ halatın fabrikadaki yağıyla uyumlu olmalıdır. Kumlu ve kirli halat yağlanmadan önce temizlenir; halatın ne zaman değişeceğini ise yağlama değil, muayene belirler."
+    },
+    {
+      "q": "Gres basılamayan pim ne anlama gelir?",
+      "a": "Gresörlüğün ya da pimdeki yağ kanalının tıkalı olduğu ve o noktanın yağ almadığı anlamına gelir. Gresörlük değiştirilmeli, kanal açılmalı ve pimle burçta aşınma olup olmadığı kontrol edilmelidir."
+    },
+    {
+      "q": "Gresleme operatörün mü, servisin mi işidir?",
+      "a": "Günlük ve haftalık gresleme genellikle operatörün ya da vinç sahibinin rutinidir; kılavuzdaki şemaya göre yapılır. Gres basılamayan noktalar, boşluk yapmış pimler ve burçlar, redüktör yağı değişimi ve döner tabla kontrolleri ise periyodik bakımda servisle birlikte ele alınmalıdır."
+    },
+    {
+      "q": "Fazla gres zarar verir mi?",
+      "a": "Gresi çok hızlı ya da yüksek basınçla basmak keçeleri zorlayabilir. Dışarı taşan ve silinmeyen gres de toz ve kum toplar. Doğru yöntem, temiz gresörlükten, taze gres dışarı çıkana kadar sakin basmak ve taşanı silmektir."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "rothe erde® slewing bearings – Installation, lubrication, maintenance",
+      "publisher": "thyssenkrupp rothe erde",
+      "url": "https://www.thyssenkrupp-rotheerde.com/en/products/rothe-erde-slewing-bearings/technical-basics/installation-lubrication-maintenance"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (EK-III: bakım ve kayıt)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "Braden BG6A & BG6B Hydraulic Winch – Installation, Maintenance and Service Manual (dişli yağı bakımı)",
+      "publisher": "Braden / Pacific Marine & Industrial",
+      "url": "https://www.pacificmarine.net/library-of-documents/braden-winch-hydraulic/braden-winch-bg-series-hydraulic-winch/braden-winch-BG6A-BG6B-hydraulic-install-maintenance-service-manual.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/blog/hiyap-vinc-bakimi-kontrol-listesi.html",
+    "/blog/vinc-doner-tabla-rulman-arizasi.html",
+    "/blog/teleskopik-bom-kayar-pabuc-asinmasi.html",
+    "/hizmetler/torna-isleri.html"
+  ]
+}

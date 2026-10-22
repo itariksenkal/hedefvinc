@@ -1,0 +1,244 @@
+{
+  "slug": "vinc-irgat-vinc-motoru-arizasi",
+  "_hedef": "vinç irgat arızası / vinç halat sarmıyor",
+  "title": "Vinç İrgat Arızası: Halat Sarmıyor, Yük Kayıyorsa Ne Yapmalı?",
+  "h1": "Vinç İrgat ve Vinç Motoru Arızası: Halat Sarmıyor, Yük Kayıyorsa Ne Yapmalı?",
+  "desc": "Vinç irgat arızası: halat sarmıyor, yük kayıyor ya da irgat ses yapıyorsa olası nedenler; hidrolik motor, fren, redüktör ve fren valfi kontrolü, Milas'ta tamir.",
+  "category": "Hidrolik",
+  "image": "saha-mobil-vinc.jpg",
+  "imageAlt": "Yüksek apartmanların yanındaki şantiyede sarı bir mobil vinç ve Hedef Vinç yazılı kamyona monte vinç, kırmızı çelik çatı konstrüksiyonunun yanında çalışıyor; önde bir işçi",
+  "kisaCevap": "Vinç irgatı halat sarmıyorsa, yük askıda kayıyorsa ya da irgat sarsıntılı çalışıyorsa sorun çoğunlukla dört parçanın birindedir: irgatı döndüren hidrolik motor, yükü tutan yaylı çok diskli fren, motoru tambura bağlayan redüktör ya da indirmeyi kontrol eden fren (denge) valfi. Yük kayıyorsa vinç yük kaldırmada kullanılmaz; yük kontrollü indirilir, arıza basınç ölçülerek bulunur.",
+  "intro": "İrgat arızası, operatörün en çok tedirgin olduğu arızalardan biridir: yük havadayken kendiliğinden inmeye başlayan ya da kaldırma komutuna cevap vermeyen bir irgat, işi durdurmanın ötesinde ciddi risk taşır. Bu yazı, halatlı vinç kullanan operatörler ve vinç sahipleri için irgatın nasıl çalıştığını, belirtilerin hangi parçayı işaret ettiğini, yük kaydığında ilk dakikalarda ne yapılacağını ve servise hangi bilgilerle gidileceğini anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Hidrolik irgat nasıl çalışır?"
+    },
+    {
+      "type": "p",
+      "text": "Hidrolik irgatlarda pompa basınçlı yağı bir valf üzerinden hidrolik motora gönderir; motor çoğunlukla bir planet redüktör üzerinden tamburu döndürür. Yükü tutmak için birçok irgatta yay ile kapanan, hidrolik basınçla açılan çok diskli bir fren bulunur: Basınç yokken fren kapalıdır ve yük tutulur, irgat çalıştırıldığında fren açma basıncı freni açar."
+    },
+    {
+      "type": "p",
+      "text": "Motorun indirme tarafına bağlı fren valfi, indirme sırasında yağın motordan çıkışını kontrol eder. Kaldırırken yağ motordan serbestçe geçer. İndirirken fren valfi, iç fren açılana kadar akışı tutar; ardından indirme hızını yüke ve motora gelen yağ miktarına göre ayarlar. Böylece yük, motoru kendi ağırlığıyla sürükleyip serbest düşemez. <a href=\"https://www.pacificmarine.net/library-of-documents/braden-winch-hydraulic/braden-winch-bg-series-hydraulic-winch/braden-winch-BG6A-BG6B-hydraulic-install-maintenance-service-manual.pdf\">Bir irgat üreticisinin servis kılavuzu</a> fren valfini ölçümlü bir denge (counterbalance) valfi olarak tanımlar ve statik frenin, fren valfini açan basınçtan daha düşük bir basınçla açıldığını belirtir; böylece indirmedeki frenlemeyi valf yapar, sürtünmeli fren pek ısınmaz."
+    },
+    {
+      "type": "p",
+      "text": "Bu düzenin herhangi bir halkası bozulduğunda belirtiler birbirine benzer. Yük kayması fren diskinden de, fren valfinden de gelebilir; halatın sarmaması motordan da, frenin açılmamasından da gelebilir. Bu yüzden parça değiştirmeden önce ölçüm yapmak gerekir."
+    },
+    {
+      "type": "h2",
+      "text": "İrgat arızasının belirtileri neyi gösterir?"
+    },
+    {
+      "type": "p",
+      "text": "Belirti çoğu zaman arızalı parçayı işaret eder: hiç dönmeme fren ya da kumandayı, yükte durma motor ya da basıncı, askıda inme fren ya da fren valfini, metalik ses redüktörü gösterir:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Belirti",
+        "Olası neden",
+        "İlk kontrol"
+      ],
+      "rows": [
+        [
+          "Halat hiç sarmıyor, irgat dönmüyor",
+          "Fren açılmıyor, valf ya da bobin arızası, motor arızası",
+          "Fren açma hattındaki basınç, valf ve kumanda sinyali"
+        ],
+        [
+          "İrgat boşta dönüyor ama yükte duruyor",
+          "Motor iç kaçağı, düşük pompa basıncı, emniyet valfi ayarı",
+          "Basınç ölçümü, motor kaçak hattı kontrolü"
+        ],
+        [
+          "Yük askıda yavaş yavaş iniyor",
+          "Aşınmış fren diskleri, fren açma hattında karşı basınç, fren valfinde iç kaçak",
+          "Fren testi, fren valfi kontrolü"
+        ],
+        [
+          "İndirirken kesik kesik, titreyerek iniyor",
+          "Fren valfi ayarı ya da arızası, fren silindiri keçesi, devrede hava, kumanda kolunun ani kullanımı",
+          "Fren valfi, yağ seviyesi ve hava alma"
+        ],
+        [
+          "İrgattan vuruntu, metalik ses",
+          "Redüktörde dişli ya da rulman hasarı, yağsız redüktör",
+          "Redüktör yağ seviyesi, yağda metal parçacık"
+        ],
+        [
+          "Halat tamburda düzensiz sarılıyor",
+          "Gevşek sarım, yüksüz sarım, makara hizası",
+          "Sarım düzeni, halat gerginliği"
+        ],
+        [
+          "Fren ısınıyor, yanık kokusu geliyor",
+          "Fren tam açılmadan çalışma, sürtünen diskler",
+          "Fren açma basıncı"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Fren açma basıncının yetersiz kalması, hem \"sarmıyor\" hem de \"ısınıyor\" şikâyetinin ortak sebebi olabilir: Fren yarım açık kaldığında irgat ya hiç dönmez ya da diskleri sürterek döner. Basınç ölçümü bu yüzden ilk adımlardan biridir."
+    },
+    {
+      "type": "h2",
+      "text": "Yük kayıyorsa ne yapmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Yükü hemen ve kontrollü şekilde indirin, altını boşaltın ve arıza giderilene kadar vinci yük kaldırmada kullanmayın. Adım adım:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Yükü mümkün olan en kısa sürede, kontrollü şekilde yere indirin.",
+        "Yükün altını ve düşme alanını boşaltın; askıdaki yükü gözetimsiz bırakmayın. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> de tehlikeli bölgeye giriş engellenmedikçe askıdaki yükün gözetimsiz bırakılmamasını ister.",
+        "Vinci yük kaldırma işinde kullanmayı bırakın; \"hafif yükte sorun yok\" diye devam etmeyin.",
+        "Kaymanın ne zaman başladığını not edin: soğukken mi, yağ ısınınca mı, belirli bir yükte mi, belirli bir hareketten sonra mı?",
+        "Halatı ve tamburu kontrol edin; kayma sırasında halatta ezilme ya da düzensiz sarım oluşmuş olabilir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu notlar teşhisi ciddi şekilde hızlandırır. Örneğin yalnızca yağ ısındıktan sonra başlayan bir kayma, iç kaçağı düşündürür; soğukken de olan bir kayma daha çok mekanik fren tarafını işaret eder."
+    },
+    {
+      "type": "callout",
+      "text": "İrgat freni ve fren valfi, yükü havada tutan son halkadır. Bu parçalarda \"ayarla idare etmek\" yerine nedeni bulup onarmak gerekir. Fren valfinin ayarını, üreticinin değerini bilmeden kurcalamayın."
+    },
+    {
+      "type": "h2",
+      "text": "Halat sarmıyorsa sorun her zaman irgatta mı?"
+    },
+    {
+      "type": "p",
+      "text": "Hayır; şikâyetin bir kısmı kumandadan, sınırlayıcıdan ya da pompadan gelir. \"Halat sarmıyor\" denildiğinde kumanda tarafında şunlara bakılır: kumanda valfindeki bobin, uzaktan kumandanın ilgili fonksiyonu, aşırı yük sınırlayıcının o hareketi kesmesi ya da kanca bloğu bom ucuna yaklaştığında devreye giren sınır anahtarı. Sınırlayıcı ya da sınır anahtarı bir hareketi kesiyorsa bu bir arıza değil, korumanın çalıştığını gösterebilir. Bu ihtimaller elenmeden irgatı sökmek zaman kaybıdır. Kumanda ve elektrik tarafı için <a href=\"/blog/vinc-uzaktan-kumanda-ve-elektrik-arizasi.html\">vinç uzaktan kumanda ve elektrik arızası</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "p",
+      "text": "Pompa tarafı da hesaba katılmalıdır. İrgatla birlikte diğer hareketler de yavaşladıysa sorun irgatta değil, pompa ya da ortak devrededir; bu belirtileri <a href=\"/blog/vinc-hidrolik-pompa-arizasi-belirtileri.html\">vinç hidrolik pompa arızası belirtileri</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "İrgat revizyonunda neler yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Fren, hidrolik motor, redüktör ve fren valfi ayrı ayrı açılıp ölçülür; halat ve tambur da aynı işin parçasıdır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Fren disklerinin, yaylarının ve fren açma keçelerinin kontrolü, gerekiyorsa değişimi",
+        "Hidrolik motorun kaçak ve verim kontrolü; gerekiyorsa revizyonu ya da değişimi",
+        "Redüktör yağının değişimi, yağda metal parçacık kontrolü, rulman ve dişli muayenesi",
+        "Fren valfinin temizlenmesi, kontrolü ve üreticinin değerlerine göre ayarı",
+        "Tambur, tambur yatakları ve halat bağlantısının kontrolü",
+        "Halatın <a href=\"https://www.sis.se/en/produkter/maskinsakerhet-357f77b1/cranes/ss-iso-43092017/\">ISO 4309</a> kriterlerine göre değerlendirilmesi, gerekiyorsa değişimi",
+        "İrgata giden hortumların ve kumanda tesisatının kontrolü"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Halatın durumu irgatla birlikte değerlendirilmelidir: Düzensiz sarım ve ezilmiş halat, irgat arızasının hem sonucu hem nedeni olabilir. Halatın ne zaman değişmesi gerektiğini <a href=\"/blog/vinc-halat-degisimi-ne-zaman.html\">vinç halatı ne zaman değişir</a> yazımızda ayrıntılı anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "İrgatın ömrü nasıl uzatılır?"
+    },
+    {
+      "type": "p",
+      "text": "Halatı gergin ve düzgün sarın, ani kumanda hareketlerinden kaçının ve redüktör yağını zamanında değiştirin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Halatı tambura her zaman hafif bir gerginlikle, düzgün sarın; yüksüz ve gevşek sarım alt katlarda ezilmeye yol açar.",
+        "Yükü ani kumanda hareketleriyle kaldırıp indirmeyin; ani duruşlar freni ve redüktörü darbeli yükler.",
+        "Redüktör yağını kılavuzdaki aralıkla değiştirin ve değişimde yağda metal parçacık olup olmadığına bakın. İrgat üreticileri, değiştirilmeyen yağdaki aşınma parçacıklarının fren kavramasının çalışmasını bozabileceği ve aralıklı fren kaymasına katkıda bulunabileceği uyarısını yapar.",
+        "Yük kaldırmadan önce irgatın frenini kısa bir kaldırma-durdurma ile deneyin; yük havada tutulmalı, kayma olmamalıdır.",
+        "İrgatta alışılmadık bir ses, koku ya da ısınma fark ettiğinizde işi durdurun ve not alın."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Servisi ararken hangi bilgileri hazırlamalı?"
+    },
+    {
+      "type": "p",
+      "text": "İrgat arızasında teşhisi hızlandıran bilgiler şunlardır: vincin modeli ve irgatın etiketi, arızanın ne zamandan beri sürdüğü, yük kayması varsa hangi yükte ve hangi koşulda başladığı, sesin kaldırırken mi indirirken mi geldiği ve son bakımda redüktör yağının ne zaman değiştiği. Sesin ve hareketin kısa bir videosu, telefonda yapılacak ilk değerlendirmeyi çok daha isabetli kılar ve servisin doğru parçayla gelmesini sağlar."
+    },
+    {
+      "type": "p",
+      "text": "Arıza sırasında yaptığınız müdahaleleri de mutlaka söyleyin. Fren valfinin ayarıyla oynandıysa ya da bir hortum yer değiştirdiyse bu bilgi, teşhiste yanlış yola sapmayı önler."
+    },
+    {
+      "type": "h2",
+      "text": "Milas'ta irgat tamiri nasıl yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "İrgat arızalarında önce hidrolik ölçümle sorunun motorda, frende, fren valfinde ya da redüktörde olup olmadığını ayırıyoruz. Fren ve motor revizyonu, redüktör bakımı, halat değişimi ve hortum yenilemeyi atölyemizde yapıyor; gereken burç ve pimleri torna tezgâhımızda üretiyoruz. Vinç şantiyeden ayrılamıyorsa Milas, Bodrum, Muğla, Aydın ve İzmir çevresinde yerinde teşhis için geliyoruz. Ayrıntılar için <a href=\"/hizmetler/vinc-hidrolik-tamiri.html\">vinç hidrolik tamiri</a> ve <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> sayfalarımıza bakabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Askıda kayan yükü hemen kontrollü indirin; arıza giderilene kadar vinçle yük kaldırmayın.",
+    "Parça değiştirmeden önce fren açma basıncı ve kumanda sinyali ölçülmelidir.",
+    "Fren valfi ayarını, üreticinin verdiği değeri bilmeden kurcalamayın.",
+    "Redüktör yağını zamanında değiştirin; yağdaki aşınma parçacıkları fren kaymasına katkıda bulunabilir.",
+    "Kaymanın soğukta mı, yağ ısınınca mı başladığını not etmek teşhisi hızlandırır."
+  ],
+  "faqs": [
+    {
+      "q": "Vinç irgatı neden halat sarmaz?",
+      "a": "En sık sebepler frenin açılmaması, kumanda valfi ya da bobin arızası, hidrolik motor arızası ve pompa basıncının yetersiz kalmasıdır. Aşırı yük sınırlayıcı ya da kanca bloğu sınır anahtarının hareketi kesmesi de aynı şikâyete yol açar. Teşhis, fren açma basıncı ve kumanda sinyali ölçülerek yapılır."
+    },
+    {
+      "q": "Askıdaki yük neden kendiliğinden iner?",
+      "a": "Genellikle aşınmış fren diskleri, fren açma hattında oluşan karşı basınç ya da fren valfindeki iç kaçak sebep olur. Yük kayan bir vinç yük kaldırmada kullanılmamalı, yük kontrollü indirilip fren ve fren valfi kontrol edilmelidir."
+    },
+    {
+      "q": "İrgat freni ayarlanabilir mi?",
+      "a": "Yay ile kapanan çok diskli frenlerde sorun çoğu zaman ayarla değil, aşınmış disk, yorulmuş yay ya da kaçak yapan keçenin değişimiyle çözülür. Fren valfi ise üreticinin verdiği değere göre ayarlanır; değeri bilmeden yapılan ayar riski büyütür."
+    },
+    {
+      "q": "İrgat redüktör yağı ne zaman değişir?",
+      "a": "Vincin ya da irgatın kılavuzundaki aralıkla değişmelidir. Örneğin bir irgat üreticisi, alışma döneminden sonraki ilk değişimin ardından her 1.000 çalışma saatinde ya da altı ayda bir, hangisi önce gelirse, değişim öneriyor. Çıkan yağda metal parçacık, su ya da yanık koku olup olmadığına bakmak redüktörün içi hakkında bilgi verir."
+    },
+    {
+      "q": "İrgat tamiri yerinde yapılabilir mi?",
+      "a": "Fren açma hattı, kumanda, hortum ve fren valfi kaynaklı arızaların bir kısmı yerinde giderilebilir. Fren disklerinin, hidrolik motorun ya da redüktörün açılması gerekiyorsa iş genellikle atölyede yapılır. Hangisinin gerektiği, yerinde yapılan ölçüm ve kontrolden sonra belli olur."
+    },
+    {
+      "q": "İrgattan gelen ses neden artar?",
+      "a": "Redüktörde dişli veya rulman aşınması, düşük redüktör yağı, motor arızası ya da tamburda düzensiz sarılmış halat sesi artırabilir. Ses yükle birlikte artıyorsa iş durdurulmalı ve irgat kontrol ettirilmelidir."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Braden BG6A & BG6B Hydraulic Winch – Installation, Maintenance and Service Manual",
+      "publisher": "Braden / Pacific Marine & Industrial",
+      "url": "https://www.pacificmarine.net/library-of-documents/braden-winch-hydraulic/braden-winch-bg-series-hydraulic-winch/braden-winch-BG6A-BG6B-hydraulic-install-maintenance-service-manual.pdf"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (EK-II: askıdaki yükler)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "SS-ISO 4309:2017 Cranes – Wire ropes – Care and maintenance, inspection and discard",
+      "publisher": "SIS – İsveç Standardizasyon Enstitüsü",
+      "url": "https://www.sis.se/en/produkter/maskinsakerhet-357f77b1/cranes/ss-iso-43092017/"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-hidrolik-tamiri.html",
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/blog/vinc-halat-degisimi-ne-zaman.html",
+    "/blog/vinc-hidrolik-pompa-arizasi-belirtileri.html",
+    "/blog/vinc-uzaktan-kumanda-ve-elektrik-arizasi.html"
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "slug": "hidrolik-hortum-neden-patlar",
+  "_hedef": "hidrolik hortum neden patlar",
+  "title": "Hidrolik Hortum Neden Patlar? 5 Neden ve Önleme Yolları",
+  "h1": "Hidrolik Hortum Neden Patlar? En Sık 5 Neden ve Nasıl Önlenir?",
+  "desc": "Hidrolik hortum neden patlar? Yaşlanma, yanlış basınç sınıfı, sürtünme, bükülme ve ısı. Erken uyarı işaretleri, kontrol tablosu ve Milas'ta pres hortum.",
+  "category": "Hidrolik",
+  "datePublished": "2026-08-22",
+  "dateModified": "2026-10-22",
+  "image": "real_ones/atolye-kabinli-vinc-hidrolik-test.jpg",
+  "imageAlt": "Atölyede hidrolik güç ünitesine bağlanarak test edilen, kabinli ve sarıya boyanmış katlanır bomlu vinç",
+  "kisaCevap": "Hidrolik hortum en çok beş nedenle patlar: kauçuğun güneş, ozon ve ısıyla yaşlanması, devrenin basınç darbelerine uymayan basınç sınıfı, metal kenarlara sürtünme, montajda fazla bükülme, kısa boy veya burulma ve aşırı sıcaklık. Çoğu hortum patlamadan önce terleme, kabarma ya da kılıf çatlağıyla haber verir. Bu işaretlerde hortumu planlı değiştirmek, güzergâhı düzeltmek ve devreye uygun sınıfı seçmek tekrarı önler.",
+  "intro": "Bu yazı vinç, hiyap, ekskavatör ve damperli kamyon kullanan operatörler ve makine sahipleri için. Hortum çoğu zaman en kötü anda patlar: yük havadayken, hafriyatın ortasında, damper kalkmışken. Makine durur, yere yağ akar, iş bekler; basınçla fışkıran yağ ayrıca ciddi bir yaralanma riskidir. Pres hortum atölyemize gelen patlamış hortumlarda en sık gördüğümüz nedenleri, patlamadan önceki işaretleri ve tekrarı önlemenin yollarını aşağıda topladık.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Hidrolik hortum neden patlar? En sık 5 neden"
+    },
+    {
+      "type": "p",
+      "text": "Hortumların çoğu yaşlandığı, devreye yanlış seçildiği ya da yanlış takıldığı için patlar. Hortum üreticisi <a href=\"https://www.gates.com/content/dam/documents-library/operating-manuals/safe-hydraulics-pocket-guide.pdf\">Gates</a>, akışkan gücü üreticilerinin çalışmalarına dayanarak en sık üç nedeni kötü kullanım, yanlış uygulama ve hatalı montaj olarak sayar; sahada bunlar aşağıdaki beş biçimde karşımıza çıkar."
+    },
+    {
+      "type": "h3",
+      "text": "1. Yaşlanma ve çatlama"
+    },
+    {
+      "type": "p",
+      "text": "Hortumun dış kılıfı kauçuk esaslıdır; güneş, ozon ve ısı zamanla malzemeyi sertleştirir. Sertleşen kılıfta önce kılcal çatlaklar oluşur, ardından nem ve kir çelik örgüye ulaşıp korozyon başlatır. Kauçuk, makinede çalışmasa da rafta beklese de yaşlanır. Türkiye'de hortum için yasal bir kullanım süresi yok; referans olarak Almanya'daki <a href=\"https://www.dguv.de/medien/fb-holzundmetall/publikationen/documents/113-020.pdf\">DGUV 113-020</a> kuralı, normal koşullarda hortum hattının depolama dahil 6 yıl içinde değiştirilmesini, bunun en fazla 2 yılının depoda geçmesini öneriyor. Çok vardiyalı çalışma, kısa çevrimler veya ağır dış etkiler gibi yüksek zorlanmada aynı kural 2 yıllık kullanım süresi öngörüyor. Ağır koşullarda çalışan makinede hortumu bu yüzden takvimden çok durumuna göre izlemek gerekir."
+    },
+    {
+      "type": "h3",
+      "text": "2. Yanlış basınç sınıfı"
+    },
+    {
+      "type": "p",
+      "text": "Her hortumun bir çalışma basıncı sınıfı vardır. Gates'in seçim rehberine göre hortumun yayımlanan çalışma basıncı, devrenin normal basıncına ve karşılaşacağı basınç darbelerine eşit ya da onlardan yüksek olmalıdır. Devrenin gerektirdiğinden düşük sınıfta bir hortum takılırsa hortum sürekli sınırında çalışır; asıl yıpratan da sabit basınç değil, valf açılıp kapanırken oluşan ani basınç darbeleridir. Yeni takılmış bir hortumun kısa sürede patlamasının en yaygın nedenlerinden biri, “çapı aynı olsun yeter” diye seçilmiş hortumdur."
+    },
+    {
+      "type": "h3",
+      "text": "3. Sürtünme ve aşınma"
+    },
+    {
+      "type": "p",
+      "text": "Bom hareket ettikçe, silindir açılıp kapandıkça hortumlar da hareket eder. Güzergâhı kötü seçilmiş bir hortum her çevrimde şaseye, sac kenarına ya da komşu hortuma sürter. Dış kılıf incelir, örgü açığa çıkar ve hortum en zayıf noktasından delinir. Patlayan hortumda arıza noktası çoğu zaman tam bir metal kenarın değdiği yerdedir."
+    },
+    {
+      "type": "h3",
+      "text": "4. Yanlış montaj: bükülme yarıçapı, boy ve burulma"
+    },
+    {
+      "type": "p",
+      "text": "Her hortumun üreticisinin belirlediği bir minimum bükülme yarıçapı vardır. Hortum bu yarıçapın altında kıvrılırsa iç katmanlar ezilir, örgü yorulur ve rekor dibinde kırılma başlar; DGUV kuralı bu hatanın en çok rekorun hemen arkasında yapıldığını belirtir. Hortum basınç altında boyca bir miktar kısalır; tam ölçüsünde gergin kesilmiş hortum bu yüzden rekordan zorlanır, fazla uzun hortum ise sarkıp sürter. Hortumun kendi ekseni etrafında burularak takılması da ömrünü ciddi biçimde kısaltır; hortum, bağlandığı parçanın hareket ettiği düzlemde bükülecek şekilde yerleştirilmelidir."
+    },
+    {
+      "type": "h3",
+      "text": "5. Sıcaklık"
+    },
+    {
+      "type": "p",
+      "text": "Yüksek yağ sıcaklığı kauçuğu içeriden yaşlandırır; hortum sertleşir, iç katmanı çatlar. Soğutucusu kirli, yağ seviyesi düşük veya sürekli tam yükte çalışan makinelerde hortum ömrü belirgin şekilde kısalır. Egzoz ve motor bloğu gibi sıcak yüzeylere yakın geçen hortumlar da dıştan aynı hasarı görür; kılıfta çatlak gördüğünüz hortumda önce yakındaki ısı kaynağını arayın ve hortumu ondan uzaklaştırın."
+    },
+    {
+      "type": "h2",
+      "text": "Hortumun patlamak üzere olduğu nasıl anlaşılır?"
+    },
+    {
+      "type": "p",
+      "text": "Patlamaya yaklaşan hortum genellikle rekor dibinde terleme, yerel şişlik, kılıf çatlağı ya da parlak bir sürtünme izi gösterir. Aşağıdaki tabloyu günlük turda kullanabilirsiniz:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Gördüğünüz belirti",
+        "Ne anlama gelir?",
+        "Ne yapmalı?"
+      ],
+      "rows": [
+        [
+          "Hortum yüzeyinde nem, rekor dibinde yağ filmi",
+          "İç katman veya rekor sızdırıyor",
+          "Basıncı alıp kontrol ettirin, büyük ihtimalle değişim"
+        ],
+        [
+          "Yerel şişlik, balonlaşma",
+          "Örgü o noktada kopmuş; basıncı kılıf tutuyor",
+          "Makineyi durdurun, hemen değiştirin"
+        ],
+        [
+          "Kılıfta çatlak, örgünün görünmesi",
+          "Koruma kalmamış, korozyon başlamış",
+          "Planlı değişim; beklemeyin"
+        ],
+        [
+          "Kılıfta parlak, aşınmış bölge",
+          "Bir yere sürtüyor",
+          "Güzergâhı düzeltin, koruma spirali takın"
+        ],
+        [
+          "Rekor dibinde kırılma, ezilme",
+          "Bükülme yarıçapı veya burulma sorunu",
+          "Doğru boy ve açıda yeni hortum"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "text": "Sızıntı ararken elinizi hortum üzerinde asla gezdirmeyin; kalın eldiven de korumaz. Basınçlı ince yağ jeti deriyi delip dokuya girebilir; <a href=\"https://www.tigercat.com/safety/a-dangerous-bite/\">Tigercat</a> gibi makine üreticileri bu yüzden kaçağın karton ya da tahta gibi bir parçayı yağın yoluna tutarak aranmasını ister. Yağ deriye girdiyse yara küçük görünse bile vakit kaybetmeden hastaneye gidin ve hekime bunun hidrolik yağ yaralanması olduğunu söyleyin."
+    },
+    {
+      "type": "h2",
+      "text": "Hidrolik hortum patlaması nasıl önlenir?"
+    },
+    {
+      "type": "p",
+      "text": "Patlamayı önlemenin yolu düzenli göz kontrolü, doğru güzergâh, devreye uygun basınç sınıfı ve doğru preslemedir:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Düzenli göz kontrolü:</strong> Makine üreticisinin önerdiği aralığa uyun; öneri yoksa Gates, mobil makinelerde 400–600 çalışma saatinde ya da üç ayda bir, hangisi önce gelirse, hortum kontrolü öneriyor. Ağır çalışan makinede haftalık bir bakış iyi bir alışkanlıktır; rekor diplerine, bükülme noktalarına ve metale değen bölgelere özellikle bakın.",
+        "<strong>Doğru güzergâh ve koruma:</strong> Hortumu keskin kenarlardan ve sıcak yüzeylerden uzak tutun, hareketli bölgelerde yeterli boşluk bırakın. Sürtünmenin kaçınılmaz olduğu yerlerde koruma spirali veya kılıf kullanın.",
+        "<strong>Basınç sınıfına uygun hortum:</strong> Yenilerken hortumu çapına göre değil, devrenin çalışma basıncına ve darbe yüküne göre seçin. Çoğu hortumun üzerindeki yazıda standardı, ölçüsü ve basınç değeri bulunur; okuyamıyorsanız eski hortumu getirin.",
+        "<strong>Doğru presleme ve uyumlu parça:</strong> Hortum ne kadar iyi olursa olsun rekor doğru ölçüde preslenmemişse arıza rekordan başlar. Gates, farklı üreticilerin hortum, rekor ve pres makinelerinin birbirine karıştırılmamasını ister; hortum ve rekor aynı sistemin parçası olmalıdır."
+      ]
+    },
+    {
+      "type": "h3",
+      "text": "Kritik makinede yedek hortum bulundurun"
+    },
+    {
+      "type": "p",
+      "text": "Uzak bir şantiyede ya da sezonun en yoğun haftasında çalışan bir makinede, en sık hareket eden ve en çok patlayan hortumların birer yedeğini hazır tutmak işi kurtarır. Bom ve kol silindirlerine giden hortumlar genellikle bu listenin başındadır. Yedek hortumu da güneş görmeyen, serin bir yerde ve uçları kapalı saklayın; rafta bekleyen hortum da yaşlanır."
+    },
+    {
+      "type": "h2",
+      "text": "Hortum patlarsa ne yapmalısınız?"
+    },
+    {
+      "type": "p",
+      "text": "Önce makineyi durdurun, yükü indirin ve kumandaları boşa alarak devredeki basıncı alın; makine durduktan sonra da hatlarda basınç kalabileceğini unutmayın. Sıcak yağa temastan kaçının, yere akan yağı emici malzemeyle toplayın. Sonra patlayan hortumu söküp getirin ya da makine hareket edemiyorsa bizi arayın. Milas'taki atölyemizde <a href=\"/hizmetler/pres-hortum.html\">pres hortum</a> hizmetiyle hortumu ölçüsüne göre kesip presliyoruz; yaygın ölçülerde çoğu iş aynı gün biter. Rekor, keçe ve diğer parçalar için <a href=\"/hizmetler/hidrolik-yedek-parca.html\">hidrolik yedek parça</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Hortum sık patlıyorsa sorun nerede olabilir?"
+    },
+    {
+      "type": "p",
+      "text": "Aynı makinede kısa aralıklarla hortum patlıyorsa sebep çoğu zaman hortum değil sistemin kendisidir: yüksek ayarlanmış emniyet valfi, aşırı ısınan yağ, darbe yapan bir valf. Bu durumda hortumu değiştirmek yalnızca belirtiyi giderir. Vinçlerde devrenin tamamını kontrol ettirmek için <a href=\"/hizmetler/vinc-hidrolik-tamiri.html\">vinç hidrolik tamiri</a> sayfamıza, belirtilerin revizyona işaret edip etmediğini anlamak için <a href=\"/blog/vinc-revizyonu-ne-zaman.html\">vinç revizyonu ne zaman gerekir</a> yazımıza göz atın. İş makinalarındaki bakım düzeni için de <a href=\"/blog/is-makinasi-bakim-rehberi.html\">iş makinası periyodik bakım rehberimiz</a> var."
+    }
+  ],
+  "cikarimlar": [
+    "Hortumu çapına göre değil, devrenin çalışma basıncına ve basınç darbelerine göre seçin.",
+    "Yerel şişlik ya da örgünün göründüğü kılıf çatlağı varsa makineyi durdurup hortumu değiştirin.",
+    "Sürtünen veya sıcak yüzeye değen hortumda güzergâhı düzeltin, koruma spirali takın.",
+    "Kaçağı asla elle aramayın; karton ya da tahta parçası kullanın.",
+    "Aynı makinede sık patlama varsa emniyet valfini, yağ sıcaklığını ve valf darbelerini kontrol ettirin."
+  ],
+  "faqs": [
+    {
+      "q": "Hidrolik hortum kaç yılda bir değiştirilmeli?",
+      "a": "Türkiye'de yasal bir süre yoktur; önce makine üreticisinin talimatına bakın. Yaygın bir referans olan Almanya'daki DGUV 113-020 kuralı normal koşullarda depolama dahil 6 yılı, çok vardiyalı ve ağır koşullu kullanımda 2 yılı önerir. Çatlak, kabarma veya sızıntı varsa süreyi beklemeden değiştirin."
+    },
+    {
+      "q": "Hortumdaki sızıntı nasıl güvenle bulunur?",
+      "a": "Basınç altındaki hortum üzerinde asla elle, eldivenle bile aramayın. Bir karton veya tahta parçasını hortum boyunca tutun; sızıntı varsa iz kartonda belli olur. Yaklaşırken göz koruması kullanın."
+    },
+    {
+      "q": "Hortum kılıfındaki küçük çatlak tehlikeli mi?",
+      "a": "Kılıf, çelik örgüyü nemden ve aşınmadan korur. Çatlak varsa örgü korozyona açık demektir; hortum bir süre daha çalışabilir ama değişimi planlanmalıdır."
+    },
+    {
+      "q": "Yeni takılan hortum neden kısa sürede patlar?",
+      "a": "En sık sebep, devreye göre düşük basınç sınıfında hortum seçilmesi, fazla kısa kesilip gergin takılması ya da burularak monte edilmesidir. Rekor ile hortumun uyumsuz olması veya eksik presleme de arızayı rekordan başlatır. Hortumu değiştirirken eskisinin nereden ve neden patladığına bakmak tekrarı önler."
+    },
+    {
+      "q": "Hidrolik hortum neden rekor dibinden patlar?",
+      "a": "Rekor dibi, bükülmenin ve çekmenin en çok zorladığı yerdir. Hortum rekorun hemen arkasında minimum bükülme yarıçapının altında kıvrılırsa, basınç altında boyca kısalmaya pay bırakılmadan kesilirse ya da presleme ölçüsü tutmazsa arıza buradan başlar. Doğru boy, gerekirse açılı rekor ve doğru pres ölçüsü bunu önler."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "DGUV Regel 113-020: Hydraulik-Schlauchleitungen und Hydraulik-Flüssigkeiten – Regeln für den sicheren Einsatz",
+      "publisher": "Deutsche Gesetzliche Unfallversicherung (DGUV)",
+      "url": "https://www.dguv.de/medien/fb-holzundmetall/publikationen/documents/113-020.pdf"
+    },
+    {
+      "title": "Safe Hydraulics Pocket Guide: Hydraulic Maintenance & Safety Tips",
+      "publisher": "Gates",
+      "url": "https://www.gates.com/content/dam/documents-library/operating-manuals/safe-hydraulics-pocket-guide.pdf"
+    },
+    {
+      "title": "Fluid Injection Injury Prevention",
+      "publisher": "Tigercat",
+      "url": "https://www.tigercat.com/safety/a-dangerous-bite/"
+    }
+  ],
+  "related": [
+    "/hizmetler/pres-hortum.html",
+    "/hizmetler/vinc-hidrolik-tamiri.html",
+    "/hizmetler/hidrolik-yedek-parca.html",
+    "/blog/vinc-revizyonu-ne-zaman.html"
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "slug": "operatorlu-vinc-kiralama",
+  "_hedef": "operatörlü vinç kiralama",
+  "title": "Operatörlü Vinç Kiralama: Kim Neyden Sorumlu?",
+  "h1": "Operatörlü Vinç Kiralama: Neden Tercih Edilir, Kim Neyden Sorumludur?",
+  "desc": "Operatörlü vinç kiralama nedir, kiralayan firma ve iş sahibi neyden sorumludur, operatörde hangi belge aranır? MYK belge zorunluluğu ve sahada iş bölümü.",
+  "category": "Vinç Kiralama",
+  "image": "saha-uzun-bom.jpg",
+  "imageAlt": "Hedef yazılı kamyon üstü katlanır bomlu vinç; operatör kumanda yerinde, bom uzatılmış hâlde şantiyede yük indiriyor",
+  "kisaCevap": "Operatörlü vinç kiralamada vinç, onu her gün kullanan operatörle birlikte gelir; kurulum, kaldırma planı, sapan seçimi ve makinenin kullanımı kiralayan firmanın, doğru yük bilgisi, sahanın hazırlanması ve alanın boşaltılması iş sahibinin sorumluluğundadır. Vincin güncel periyodik kontrol raporunu ve operatörün belgesini isteyin: Mobil vinç operatörü için MYK belgesi 23 Mart 2027'den itibaren zorunludur. Sorumluluk paylaşımını yazılı netleştirin.",
+  "cikarimlar": [
+    "Operatörlü kiralamada makineyi tanıyan kişi kullanır; arıza ve sorumluluk tek firmada toplanır.",
+    "İş sahibi doğru yük bilgisini vermek, zemin risklerini bildirmek ve alanı boşaltmakla yükümlüdür.",
+    "Mobil vinç operatörlüğü 2026/1 sayılı tebliğle MYK belge zorunluluğu kapsamına alındı.",
+    "Kiralık vincin son periyodik kontrol raporu sahada vinçle birlikte bulundurulmalıdır.",
+    "Zemin, rüzgâr ya da yük bilgisi güvenli değilse işi durduran operatör kazayı önler."
+  ],
+  "intro": "Şantiyede vinç gerektiğinde ilk karar, makineyi tek başına mı yoksa operatörüyle mi kiralayacağınızdır. Bu karar fiyattan çok, sahada bir şey ters gittiğinde kimin neyden sorumlu olacağını belirler. Müteahhitler, şantiye şefleri ve tek seferlik bir kaldırma için vinç arayan iş sahipleri için iş bölümünü, operatörde aranacak belgeyi ve uzun projelerde baştan konuşulması gerekenleri derledik.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Operatörlü ve operatörsüz vinç kiralama arasındaki fark nedir?"
+    },
+    {
+      "type": "p",
+      "text": "Operatörsüz kiralamada (sektörde “kuru kiralama” da denir) makineyi siz alır, kendi operatörünüzle kullanırsınız. Operatörlü kiralamada ise makine ile onu kullanacak kişi birlikte gelir. Fark ilk bakışta yalnızca bir personel kalemi gibi görünse de sorumlulukların dağılımını baştan sona değiştirir."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Konu",
+        "Operatörlü kiralama",
+        "Operatörsüz kiralama"
+      ],
+      "rows": [
+        [
+          "Makineyi kim kullanır?",
+          "Kiralayan firmanın operatörü",
+          "Sizin operatörünüz"
+        ],
+        [
+          "Makineyi tanıma",
+          "Operatör o vinci her gün kullanır",
+          "Operatör makineye yabancı olabilir"
+        ],
+        [
+          "Kurulum ve destek ayakları",
+          "Operatör yapar ve kontrol eder",
+          "Sizin ekibiniz yapar"
+        ],
+        [
+          "Arıza anında",
+          "Firma doğrudan müdahale eder",
+          "Siz bildirir, müdahaleyi beklersiniz"
+        ],
+        [
+          "Operatörün işvereni",
+          "Kiralayan firma",
+          "Siz; belge ve eğitim yükümlülükleri size düşer"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Operatörsüz kiralama koşulları firmadan firmaya değişir. Biz vinçlerimizi deneyimli operatörlerimizle birlikte gönderiyoruz; kaldırma planı, sapan seçimi ve saha güvenliği bizim sorumluluğumuzda kalıyor."
+    },
+    {
+      "type": "h2",
+      "text": "Neden çoğu iş için operatörlü kiralama mantıklı?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü makineyi her gün kullanan kişi o vincin sınırlarını ve bakım geçmişini bilir; bu da hem süreyi hem riski azaltır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Makineyi tanıyan kişi:</strong> Her vincin kapasite tablosu, kumanda hassasiyeti ve sınırları farklıdır. Aynı vinci her gün kullanan operatör, makinenin neye izin verip neye vermediğini bilir.",
+        "<strong>Bakım geçmişini bilen kişi:</strong> Operatör, makinenin son bakımında ne yapıldığını ve hangi sesin normal olmadığını bilir; küçük bir sorunu büyümeden fark eder.",
+        "<strong>Tek muhatap:</strong> Bir aksaklıkta sorumluluk dağılmaz; makine ve kullanım aynı firmadadır.",
+        "<strong>Zaman:</strong> Kurulum, ayak açma, kaldırma ve toplama işlerini her gün yapan biri, sahada işi daha kısa sürede ve daha az riskle bitirir."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Kim neyden sorumludur?"
+    },
+    {
+      "type": "p",
+      "text": "Makine, operatör, kaldırma planı ve sapan seçimi kiralayan firmanın; doğru yük bilgisi, sahanın hazırlanması, alanın boşaltılması ve izinler iş sahibinin sorumluluğundadır. Vinç sahaya geldiğinde aynı alanda en az iki işveren bulunur: vinci ve operatörü gönderen firma ile işi yaptıran taraf. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6331&MevzuatTur=1&MevzuatTertip=5\">6331 sayılı İş Sağlığı ve Güvenliği Kanunu</a>, aynı çalışma alanını paylaşan işverenlerin iş sağlığı ve güvenliği önlemlerinde iş birliği yapmasını, risklerin önlenmesini koordinasyon içinde yürütmesini ve birbirlerini bu riskler konusunda bilgilendirmesini ister. Sahada bu genel kural, aşağıdaki gibi bir iş bölümüne dönüşür:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Konu",
+        "Kiralayan firma",
+        "İş sahibi / şantiye"
+      ],
+      "rows": [
+        [
+          "Vincin bakımı ve periyodik kontrol raporu",
+          "Sağlar ve istendiğinde gösterir",
+          "Sorar ve dosyasına alır"
+        ],
+        [
+          "Operatörün yetkinliği ve belgesi",
+          "Sağlar",
+          "Sorar ve kayda alır"
+        ],
+        [
+          "Yük bilgisi (ağırlık, ölçü, askı noktası)",
+          "Bilgiye göre vinç ve sapan seçer",
+          "Doğru ve eksiksiz bilgiyi verir"
+        ],
+        [
+          "Zemin ve saha erişimi",
+          "Kurulumdan önce kontrol eder, uygun değilse durdurur",
+          "Rögar, dolgu, yer altı hattı gibi bilinen riskleri bildirir"
+        ],
+        [
+          "Kaldırma planı ve sapan seçimi",
+          "Hazırlar ve uygular",
+          "Planı onaylar, sahadaki ekibi bilgilendirir"
+        ],
+        [
+          "Alanın boşaltılması",
+          "Operatör uyarır ve gerekirse durdurur",
+          "Alanı boşaltır, bir saha yetkilisi belirler"
+        ],
+        [
+          "Yol ve kaldırım izni",
+          "Alan ve süre bilgisini verir",
+          "Başvuru sürecini yürütür"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu tablo sahadaki yaygın uygulamayı yansıtır; sözleşmede farklı bir paylaşım yazıyorsa o geçerlidir. Bu yüzden sorumlulukları işin başında yazılı olarak netleştirmenizi öneririz. Hukuki bir uyuşmazlıkta neyin kime ait olduğuna olayın koşullarına göre yetkili mercilerin karar vereceğini de unutmayın."
+    },
+    {
+      "type": "h2",
+      "text": "Operatörde hangi belge aranır?"
+    },
+    {
+      "type": "p",
+      "text": "Mobil vinç operatöründe Mesleki Yeterlilik Kurumu (MYK) Mesleki Yeterlilik Belgesi aranır; 23 Mart 2027'den itibaren belgesiz operatör çalıştırılamaz. 23 Mart 2026 tarihli Resmî Gazete'de yayımlanan <a href=\"https://www.resmigazete.gov.tr/eskiler/2026/03/20260323-7.htm\">Meslekî Yeterlilik Belgesi Zorunluluğu Getirilen Mesleklere İlişkin Tebliğ (Sıra No: 2026/1)</a> ile \"Mobil Vinç Operatörü (Seviye 3)\" yeterliliği belge zorunluluğu kapsamına alındı. Tebliğe göre bu kapsamdaki işlerde belgesi olmayan kişiler, tebliğin yayımından on iki ay sonra çalıştırılamaz. Ustalık belgesi olanlar ile ilgili alanda meslekî ve teknik eğitim veren okullardan mezun olanlar için, belgelerinde belirtilen alanda çalışmaları kaydıyla bu şart aranmaz."
+    },
+    {
+      "type": "p",
+      "text": "Operatörden belgesini istediğinizde belgenin adına, kapsadığı vinç türüne ve geçerlilik durumuna bakın. Araç üstü vinçlerde operatör aynı zamanda aracı trafikte kullanıyorsa uygun sürücü belgesi de gerekir. Belge önemli bir başlangıçtır ama tek başına yetmez; operatörün o makineyi tanıması ve sahadaki tavrı en az belge kadar önemlidir."
+    },
+    {
+      "type": "h2",
+      "text": "Kiralık vincin hangi evrakı olmalı?"
+    },
+    {
+      "type": "p",
+      "text": "En önemli evrak, son bir yıl içinde yapılmış ve gelen vinçle eşleşen periyodik kontrol raporudur. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a>, mobil ve yükleyici vinçler dahil krenlerin, ilgili standartta daha kısa bir süre öngörülmemişse en geç yılda bir periyodik kontrolden geçmesini ister. Kontrol kriterleri mobil vinçlerde TS EN 13000, araç üstü yükleyici vinçlerde TS EN 12999 gibi standartlara dayanır. Yönetmelik ayrıca seyyar bir iş ekipmanı işletme dışında kullanıldığında son periyodik kontrol raporunun ekipmanla birlikte bulundurulmasını ve önemli bakım ve onarımdan sonra kontrolün yenilenmesini öngörür. Kontrol öncesinde vincin nasıl hazırlanması gerektiğini <a href=\"/blog/vinc-periyodik-kontrol-oncesi-bakim.html\">periyodik kontrol öncesi bakım</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "İyi bir operatörü sahada nasıl tanırsınız?"
+    },
+    {
+      "type": "p",
+      "text": "İyi operatör kaldırmadan önce sorar, bakar ve gerekirse \"hayır\" der; sahada şu davranışlardan tanınır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Kuruluma başlamadan önce sahayı yürür, zemini ve havai hatları kontrol eder.",
+        "Destek ayaklarını tam açar ve altlarına yük dağıtma plakası koyar.",
+        "Yükün ağırlığını sorar ve vincin kapasite tablosuyla karşılaştırır.",
+        "Sahada tek bir işaretçiyle çalışır; aynı anda birden fazla kişiden talimat almaz.",
+        "Yük altında insan varsa kaldırmayı durdurur.",
+        "Yük moment sınırlayıcı gibi emniyet sistemlerini hiçbir koşulda devre dışı bırakmaz; sistem arıza veriyorsa kaldırmayı durdurur ve arızanın giderilmesini ister.",
+        "Rüzgâr, zemin ya da yük bilgisi güvenli değilse “hayır” demekten çekinmez."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Son madde en önemlisidir. İşi durduran operatör, işi geciktiren değil, kazayı önleyen kişidir. Sahada uyguladığımız kuralların tamamı için <a href=\"/blog/vincle-calisirken-is-guvenligi.html\">vinçle çalışırken iş güvenliği</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Uzun süreli projelerde operatörlü kiralama nasıl planlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Çalışma saatleri, işaretçi ve sapancı, günlük kontrol ve bakım günleri baştan konuşularak planlanır. Tek seferlik bir kaldırma ile haftalarca sürecek bir şantiye işi aynı şekilde planlanmaz. Proje bazlı kiralamada operatör sahanın bir parçası hâline gelir; bu yüzden şu konular ilk günden netleşmelidir:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Çalışma saatleri:</strong> Günlük başlama ve bitiş saati, molalar ve gerekirse fazla mesai baştan belirlenir. Yorgun operatörle çalışmak, kazaların en bilinen nedenlerinden biridir.",
+        "<strong>İşaretçi ve sapancı:</strong> Yükü bağlayan ve operatöre işaret veren kişinin kim olacağı netleşir. Bu kişi sizin ekibinizdense işaretleşme yöntemi ilk gün birlikte gözden geçirilir.",
+        "<strong>Günlük kontrol:</strong> Operatör her sabah makinenin günlük kontrolünü yapar; sizden beklenen, bu kontrol için kısa bir zaman tanımaktır.",
+        "<strong>Bakım günleri:</strong> Uzun projelerde planlı bakım, sahanın en sakin gününe denk getirilir; böylece iş akışı bozulmaz."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Proje bazlı çalışmada fiyatın nasıl oluştuğunu <a href=\"/blog/vinc-kiralama-fiyatlari.html\">vinç kiralama fiyatları</a> yazımızda ayrıntılı olarak anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "İş sahibi olarak neleri hazırlamalısınız?"
+    },
+    {
+      "type": "p",
+      "text": "Beş hazırlık, iş gününün sahada plan değiştirmeden geçmesini sağlar:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Yükün ağırlığını, ölçüsünü ve askı noktalarını yazılı olarak iletin.",
+        "Vincin kurulacağı alanı ve yükün ineceği noktayı boş ve hazır tutun.",
+        "Bildiğiniz yer altı tesisatlarını, foseptik ve rögarları önceden gösterin.",
+        "Sahada karar verebilecek bir yetkili belirleyin.",
+        "Gerekiyorsa yol ve kaldırım izinlerini iş gününden önce alın."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Milas ve Bodrum'da operatörlü vinç nasıl kiralanır?"
+    },
+    {
+      "type": "p",
+      "text": "İşi telefonda ya da WhatsApp'tan anlatıp birkaç fotoğraf göndermeniz yeterli; uygun vinci ve günü birlikte belirleriz. 2005'ten beri Milas merkezli çalışıyoruz. Vinçlerimiz operatörleriyle gelir; kaldırma planı, sapan seçimi ve saha güvenliği bizim sorumluluğumuzdadır. Saatlik, günlük ya da proje bazlı çalışabilir, işten önce ücretsiz keşif yapabiliriz. Kiralama seçenekleri için <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> sayfamıza bakın. Vinçlerimizin revizyonu ve periyodik bakımı kendi atölyemizde yapıldığı için sahaya bakımlı makine göndeririz; aynı atölyede başka firmaların vinçlerine de <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri ve revizyonu</a> hizmeti veriyoruz."
+    },
+    {
+      "type": "callout",
+      "text": "İşinizi anlatın; uygun vinci, operatörü ve günü birlikte planlayalım. Periyodik kontrol raporunu ve operatör belgesini sormanızı her zaman memnuniyetle karşılarız."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Operatörlü kiralamada yükü kim bağlar?",
+      "a": "Sapan ve bağlama yöntemini operatör belirler; yükü bağlayan ve işaret veren kişinin kim olacağı ise işin başında konuşulur. Bu kişi sizin ekibinizdense işaretleşme yöntemi ilk kaldırmadan önce birlikte gözden geçirilir ve operatör sahada yalnızca bir işaretçiden talimat alır."
+    },
+    {
+      "q": "Vinç operatörü için MYK belgesi zorunlu mu?",
+      "a": "Evet. 2026/1 sayılı tebliğ ile mobil vinç operatörlüğü belge zorunluluğu kapsamına alındı; tebliğe göre belgesi olmayan kişiler 23 Mart 2027'den sonra bu işte çalıştırılamaz. Ustalık belgesi ya da ilgili alanda meslekî ve teknik eğitim diploması olanlar, belgelerindeki alanda çalışmaları kaydıyla muaftır."
+    },
+    {
+      "q": "Kaldırma sırasında hasar olursa kim sorumlu olur?",
+      "a": "Bu, olayın koşullarına ve sözleşmeye göre belirlenir. Sorumluluk paylaşımını ve sigorta kapsamını işin başında yazılı olarak netleştirmenizi öneririz."
+    },
+    {
+      "q": "Kendi operatörümle vinç kiralayabilir miyim?",
+      "a": "Biz vinçlerimizi kendi operatörlerimizle gönderiyoruz. Bunun nedeni makineyi tanıyan kişinin kullanmasının hem güvenlik hem de süre açısından daha doğru olmasıdır."
+    },
+    {
+      "q": "Operatörlü vinç kiralarken hangi belgeleri istemeliyim?",
+      "a": "En azından vincin güncel periyodik kontrol raporunu ve operatörün mesleki yeterlilik belgesini isteyin. Uzun süreli işlerde sigorta kapsamını ve sorumluluk paylaşımını da yazılı olarak netleştirin."
+    },
+    {
+      "q": "Operatör sahada işi reddedebilir mi?",
+      "a": "Evet. Zemin, rüzgâr, yük bilgisi ya da çevre güvenli değilse kaldırmayı durdurmak operatörün görevidir. Böyle bir durumda birlikte yeni bir plan yaparız."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu",
+      "publisher": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6331&MevzuatTur=1&MevzuatTertip=5"
+    },
+    {
+      "title": "Meslekî Yeterlilik Belgesi Zorunluluğu Getirilen Mesleklere İlişkin Tebliğ (Sıra No: 2026/1)",
+      "publisher": "Resmî Gazete (23 Mart 2026, sayı 33202)",
+      "url": "https://www.resmigazete.gov.tr/eskiler/2026/03/20260323-7.htm"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-kiralama.html",
+    "/blog/vincle-calisirken-is-guvenligi.html",
+    "/blog/milas-vinc-kiralama-rehberi.html",
+    "/blog/vinc-periyodik-kontrol-oncesi-bakim.html"
+  ]
+}

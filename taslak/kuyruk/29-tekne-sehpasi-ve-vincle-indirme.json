@@ -1,0 +1,253 @@
+{
+  "slug": "tekne-sehpasi-ve-vincle-indirme",
+  "_hedef": "tekne sehpası / tekne indirme vinç",
+  "title": "Tekne Sehpası ve Vinçle Denize İndirme | Bodrum, Milas",
+  "h1": "Tekne Sehpası ve Vinçle Tekne İndirme: Sehpa Seçimi, Sapan ve Adım Adım Operasyon",
+  "desc": "Tekne sehpası nasıl seçilir, tekne vinçle sehpadan denize nasıl indirilir? Sapan yerleşimi, denge, sehpa kontrolü ve Bodrum, Milas'ta vinçle tekne indirme.",
+  "category": "Vinç Kiralama",
+  "image": "real_ones/tekne-kaldirma-katlanir-bom-vinc.jpg",
+  "imageAlt": "Sarı katlanır bomlu vinç, sarı kaldırma kayışlarıyla beyaz bir motorbotu kaldırıyor; arka planda ağaçlar",
+  "kisaCevap": "Tekne sehpası (beşik), tekneyi karada omurgası ve karinasının sağlam noktalarından taşıyan, teknenin formuna uygun çelik ya da ahşap taşıyıcıdır; ağırlık omurgaya biner, yan pedler dengeyi sağlar. Vinçle denize indirmede tekne, gövde işaretlerine yerleştirilen kayışlarla birkaç santim kaldırılıp dengesi kontrol edilir, kılavuz halatlarla suyun üzerine taşınır ve kademeli olarak bırakılır. Kaldırma sırasında teknede kimse bulunmaz.",
+  "intro": "Bu rehber; teknesini kendi arazisinde, bir çekek yerinde ya da marina dışında sehpada tutan ve sezon başında vinçle denize indirmeyi planlayan tekne sahipleri için. Sehpa ile vinç operasyonu birbirine bağlıdır: kayışların geçemeyeceği bir sehpa ya da kilidi çözülmemiş bir kol, iyi planlanmış bir indirmeyi bile durdurabilir. Aşağıda sehpanın nasıl olması gerektiğini, sehpa ile destek ayağı arasındaki farkı ve indirme operasyonunu adım adım anlatıyoruz.",
+  "body": [
+    {
+      "type": "p",
+      "text": "İki işin ortak kuralı aynıdır: Yük doğru noktalara binmeli ve tekne hiçbir anda tek bir noktaya yüklenmemelidir."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne sehpası nedir, nasıl olmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Sehpa, teknenin ağırlığını omurga boyunca ve karinanın yük taşıyabilecek bölgelerine dağıtır. Ayarlanabilir kollu sehpalar farklı teknelere uyarlanabilir; sabit sehpalar ise tek bir tekne formuna göre yapılır. Hangisi olursa olsun, sehpanın asıl işi teknenin ağırlığını omurgaya, yan pedlerin ise yalnızca dengeyi taşımasıdır; <a href=\"https://www.practical-sailor.com/boat-maintenance/choosing-and-using-jackstands/\">teknik tekne yayınları</a> da ağırlığın büyük kısmının omurga desteklerine bindirilmesini, yan desteklerin denge için kullanılmasını önerir."
+    },
+    {
+      "type": "p",
+      "text": "Sehpayı kullanmadan önce şu sorulara cevap verin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Taşıma kapasitesi teknenin ağırlığına uygun mu?",
+        "Omurga ya da salma altındaki destek, teknenin boyu boyunca yeterli mi?",
+        "Yan pedler karinanın sağlam bölgelerine, gövdeyi ezmeden temas ediyor mu? Pedlerin kaplaması yerinde mi?",
+        "Kaynak dikişlerinde çatlak, profillerde pas ve incelme var mı?",
+        "Ayar vidaları ve kilit pimleri rahat çalışıyor mu, paslanıp kilitlenmiş mi?",
+        "Sehpa, vincin kayışlarını teknenin altından geçirebileceği şekilde mi? Kayışın geçeceği yerde sehpa elemanı olmamalı."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Sehpada kaynak, pas ya da güçlendirme ihtiyacı varsa bunu sezon başına bırakmayın. Tekne üzerindeyken sehpaya müdahale etmek hem zor hem risklidir. <a href=\"/hizmetler/kaynak-isleri.html\">Kaynak atölyemizde</a> çelik sehpaların çatlak onarımı ve güçlendirmesini yapabiliyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "Sehpa mı, destek ayağı mı daha uygun?"
+    },
+    {
+      "type": "p",
+      "text": "Uzun süre karada kalacak ve kendi arazisinde kışlatılacak tekne için sehpa, çekek yerlerinde ve kısa bakımlarda ayarlanabilir destek ayakları öne çıkar:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Konu",
+        "Sehpa (beşik)",
+        "Ayarlanabilir destek ayakları"
+      ],
+      "rows": [
+        [
+          "Taşınabilirlik",
+          "Tekne sehpasıyla birlikte taşınabilir",
+          "Ayaklar yerinde kurulur; tekne taşınırken sökülür"
+        ],
+        [
+          "Uyum",
+          "Sabit sehpa tek tekneye, ayarlı sehpa birkaç tipe uyar",
+          "Farklı teknelere uyarlanabilir"
+        ],
+        [
+          "Kurulum",
+          "Tekne doğrudan sehpaya indirilir",
+          "Tekne indirildikten sonra ayaklar tek tek ayarlanır"
+        ],
+        [
+          "Uygun olduğu durum",
+          "Uzun süreli karada kalma, kendi arazisinde kışlatma",
+          "Çekek yerleri, kısa süreli bakım"
+        ],
+        [
+          "Dikkat edilecek nokta",
+          "Sehpanın kendi bakımı ve teknenin formuna uyumu",
+          "Zemin sağlamlığı, ayakların karşılıklı ayarı ve bağlanması"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Her iki çözümde de zemin belirleyicidir. Yumuşak toprak üzerine kurulan bir sehpa ya da destek ayağı, kış yağmurlarında batabilir. Kışlatma tarafındaki ayrıntıları <a href=\"/blog/kislik-tekne-karaya-alma.html\">tekneyi kışın karaya alma</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne vinçle denize nasıl indirilir?"
+    },
+    {
+      "type": "p",
+      "text": "Kayışlar gövde işaretlerine yerleştirilir, tekne birkaç santim kaldırılıp dengesi kontrol edilir, kılavuz halatlarla suyun üzerine getirilir ve kademeli olarak bırakılır. Adımlar:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "<strong>Hazırlık:</strong> Vincin kurulacağı yer, zemin, iskele ya da rampaya mesafe ve teknenin ağırlığı önceden belirlenir; tankların doluluğu bilinir.",
+        "<strong>Sapan yerleşimi:</strong> Kayışlar gövdedeki işaretlere, işaret yoksa teknenin formuna göre yerleştirilir; şaft, pervane, iskandil ve sensörlerin üzerine gelmemeleri sağlanır. Kayışların kaymaması için birbirine bağlanır.",
+        "<strong>Traves:</strong> Kayışların gövdeyi ve vardavelayı sıkıştırmaması için yayıcı kiriş (traves) kullanılır.",
+        "<strong>Deneme kaldırması:</strong> Tekne sehpadan birkaç santim kaldırılır, denge kontrol edilir. Tekne öne ya da kıça eğiliyorsa geri indirilir, kayışlar düzeltilir.",
+        "<strong>Taşıma:</strong> Tekne kılavuz halatlarıyla kontrol edilerek yavaşça suyun üzerine getirilir. Kimse teknenin ve yükün altında bulunmaz.",
+        "<strong>Suya bırakma:</strong> Tekne kademeli olarak indirilir. Kayışlardan tamamen kurtarılmadan önce kısa bir süre beklenir; bu sırada deniz suyu valfleri ve şaft keçesi su alma açısından kontrol edilir.",
+        "<strong>Kayışların çıkarılması:</strong> Tekne kendi yüzerliğiyle durduktan sonra kayışlar pervane ve şafta takılmadan dikkatle çıkarılır."
+      ]
+    },
+    {
+      "type": "callout",
+      "text": "Sehpadan kaldırmadan önce teknenin sehpaya bağlı olduğu bütün bağları ve sehpa kilitlerini çözdüğünüzden emin olun. Sehpanın bir kolu teknenin altında takılı kalırsa bu deneme kaldırmasında fark edilir; bu adım bu yüzden atlanmaz."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne kaldırmada sapan ve traves nasıl kontrol edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Her operasyondan önce kayışın etiketi okunur, gövdesi hasara karşı gözden geçirilir; traves ve bağlantı elemanları da aynı kontrolden geçer. Tekneyi taşıyan şey vinç kadar kayışlardır. Kaldırma aksesuarları, güvenli kullanım için gereken özelliklerini gösterecek şekilde işaretlenmelidir; <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a> de bunu ister. Dokuma kayış sapanların güvenlik gerekleri <a href=\"https://www.sis.se/en/produkter/maskinsakerhet-357f77b1/chains-ropes-webbing-slings-and-accessories/ssen14921a12008/\">EN 1492-1</a> standardında tanımlanır; standart, insan kaldırmayı kapsamaz. Etiketi okunmayan, kapasitesi bilinmeyen bir kayışla tekne kaldırılmaz."
+    },
+    {
+      "type": "p",
+      "text": "Gözden geçirmede kayışlarda kesik, yırtık, sürtünme izi, dikiş açılması, ısı ya da kimyasal hasarı olup olmadığına bakılır. Keskin kenarlara temas edecek noktalarda koruyucu kılıf kullanılır. Traves ve bağlantı elemanlarında da çatlak, eğilme ve aşınma kontrol edilir. Yıpranmış bir kayışı \"bu seferlik\" kullanmak, teknenin değerinin yanında hiç de küçük olmayan bir risktir."
+    },
+    {
+      "type": "h2",
+      "text": "Rüzgârlı havada tekne kaldırmak neden risklidir?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü askıdaki tekne, geniş yüzeyi nedeniyle rüzgârdan kolay etkilenir ve salınımı kılavuz halatla bile zor kontrol edilir. Yönetmelik, hava koşullarının güvenli kullanımı engelleyecek şekilde bozulması halinde askıdaki yüklerin kaldırılmasının durdurulmasını ister. Rüzgârlı havada kılavuz halatlarıyla bile tekneyi kontrol etmek zorlaşır; böyle günlerde operasyonu ertelemek, tekneyi ve ekibi korumanın en basit yoludur. Tarihi planlarken hava tahminine bakmak ve yedek bir gün belirlemek, son anda yaşanacak sıkışmayı önler."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne sudan sehpaya nasıl alınır?"
+    },
+    {
+      "type": "p",
+      "text": "Tekne, önceden ayarlanmış sehpanın üzerine getirilip önce omurgadan, sonra yan pedlerden oturtulur; ters yöndeki iş aynı mantıkla yürür. Sehpa önceden teknenin boyuna ve omurga çizgisine göre ayarlanır ve vincin erişebileceği yere konur. Tekne sudan kaldırılıp sehpanın üzerine getirildikten sonra önce omurga desteğe oturtulur, ardından yan pedler kontrollü şekilde gövdeye yaklaştırılır. Vinç yükü ancak tekne sehpaya tam oturduktan ve yan pedler sıkıldıktan sonra bırakır."
+    },
+    {
+      "type": "p",
+      "text": "Bu sırada acele edilmemelidir. Omurga desteğe tam oturmadan yan pedleri sıkmak, teknenin ağırlığını yan pedlere bindirir ve karinada iz ya da hasar bırakabilir."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne suya indikten sonra ne kontrol edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Sintine, deniz suyu valfleri, hortum kelepçeleri, şaft keçesi ve soğutma suyu girişi kontrol edilir; tekne yüzmeye başladığı anda iş bitmiş sayılmaz. Kayışlar çıkarılmadan önce ve hemen sonrasında şu kontroller yapılmalıdır: Sintinede su birikiyor mu, deniz suyu valfleri ve hortum kelepçeleri sızdırıyor mu, şaft keçesinden beklenenin üzerinde su geliyor mu? Motor çalıştırılmadan önce soğutma suyu girişinin açık olduğu doğrulanmalıdır. Bir sorun fark edilirse tekne, kayışlar hâlâ altındayken yeniden kaldırılabilir; bu yüzden ekip ve vinç, tekne sahibi bu kontrolleri tamamlayana kadar yerinde bekler."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne indirmede kim neyi yapar?"
+    },
+    {
+      "type": "p",
+      "text": "Operatör vinçten, işaretçi kaldırma ve indirme komutlarından, tekne sahibi ya da kaptan teknenin bilgilerinden sorumludur; bu iş bölümü baştan konuşulmalıdır. Tekne sahibinden beklenen, teknenin ağırlığı, hassas noktaları ve sapan işaretleri hakkında doğru bilgidir. Komut tek bir kişiden gelmeli; herkesin aynı anda yön göstermesi en sık görülen karışıklık sebebidir."
+    },
+    {
+      "type": "p",
+      "text": "Kaldırma sırasında teknenin içinde kimse bulunmamalıdır. İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği, olağanüstü ve acil istisnai durumlar dışında insanların kaldırılmasında yalnızca bu amaçla sağlanmış ekipmanın kullanılmasını ister. Yönetmelik ayrıca kaldırılan yükün altında insan bulunmaması için gerekli tedbirlerin alınmasını şart koşar."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne indirmede en sık hangi hatalar yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "En sık hatalar, kayışları göz kararı yerleştirmek ve deneme kaldırmasını atlamaktır. Tam liste:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Kayışları gövde işaretlerine bakmadan, \"göz kararı\" yerleştirmek",
+        "Deneme kaldırmasını atlayıp tekneyi doğrudan yükseğe almak",
+        "Dolu tanklarla kaldırmak; ağırlık ve denge beklenenden farklı çıkar",
+        "Sehpanın kilitlerini çözmeyi unutmak",
+        "Rüzgârlı havada kılavuz halatı kullanmadan çalışmak",
+        "Teknenin suya indiği anda kayışları aceleyle çekip pervaneye takmak"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bodrum ve Milas'ta vinçle tekne indirme nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Operatörlü mobil vinçlerimizle sezon başında denize indirme, sezon sonunda karaya alma ve sehpaya yerleştirme işlerini Bodrum yarımadası, Güllük ve Milas sahillerinde planlıyoruz; kaldırma planı ve sapan seçimi bizim sorumluluğumuzda. Fiyatın nelere göre değiştiğini <a href=\"/blog/tekne-cekme-fiyatlari-neye-gore.html\">tekne çekme fiyatları</a> yazımızda anlattık. Bölgeye özel bilgi için <a href=\"/bolgeler/bodrum-vinc-kiralama.html\">Bodrum vinç kiralama</a>, genel hizmet için <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Sehpada ağırlık omurgaya binmeli; yan pedler yalnızca dengeyi sağlamalı.",
+    "Kaldırmadan önce sehpaya bağlı bütün bağları ve kilit pimlerini çözün.",
+    "Deneme kaldırmasını atlamayın; tekne birkaç santimde dengelenmeden yükseltilmez.",
+    "Etiketi okunmayan ya da hasarlı kayışla tekne kaldırılmaz.",
+    "Kayışları çıkarmadan önce deniz suyu valflerini ve şaft keçesini kontrol edin."
+  ],
+  "faqs": [
+    {
+      "q": "Tekne sehpası nasıl seçilir?",
+      "a": "Sehpanın taşıma kapasitesi teknenin ağırlığına, omurga desteği teknenin boyuna, yan pedleri de karinanın formuna uygun olmalıdır. Ayarlanabilir sehpalar farklı teknelere uyarlanabilir. Kaynak dikişleri, pas durumu ve ayar vidaları da kullanmadan önce kontrol edilmelidir."
+    },
+    {
+      "q": "Tekne vinçle kaldırılırken kayışlar nereye konur?",
+      "a": "Kayışlar varsa gövdedeki işaretlere, yoksa teknenin formuna ve ağırlık merkezine göre yerleştirilir. Şaft, pervane, iskandil ve sensörlerin üzerine gelmemeleri gerekir. Deneme kaldırmasıyla denge kontrol edilir, gerekirse kayışlar düzeltilir."
+    },
+    {
+      "q": "Tekne indirilirken içinde biri kalabilir mi?",
+      "a": "Hayır. Kaldırma sırasında teknenin içinde kimse bulunmamalıdır. Yönetmelik, istisnai acil durumlar dışında insanların yalnızca bu amaçla sağlanmış ekipmanla kaldırılmasına izin verir."
+    },
+    {
+      "q": "Sehpası olmayan tekne karada nasıl durur?",
+      "a": "Ayarlanabilir destek ayaklarıyla durabilir. Bu durumda teknenin omurgası sağlam bir takoz ya da kirişe oturtulur, yan destekler karşılıklı ayarlanıp birbirine bağlanır. Zeminin sağlam ve düz olması şarttır."
+    },
+    {
+      "q": "Tekne indirme için vinci ne kadar önceden ayarlamalıyım?",
+      "a": "Sezon açılışında vinç ve çekek talepleri aynı haftalara yığıldığı için tarihi erkenden konuşmak işinizi kolaylaştırır. Tarihle birlikte hava tahminine göre yedek bir gün belirleyin; sehpanın ve teknenin o güne hazır olduğundan emin olun."
+    },
+    {
+      "q": "Sehpamda pas ve çatlak var, kullanabilir miyim?",
+      "a": "Çatlak ya da ileri pas, sehpanın taşıma kapasitesini düşürür. Tekneyi koymadan önce sehpanın kontrol edilmesi, gerekiyorsa kaynakla onarılıp güçlendirilmesi gerekir. Bu işi tekne üzerindeyken değil, sehpa boşken yapmak çok daha güvenlidir."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (EK-II: kaldırma aksesuarları, hava şartları, insanların kaldırılması)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "SS-EN 1492-1+A1:2008 Textile slings – Flat woven webbing slings for general purpose use",
+      "publisher": "SIS – İsveç Standardizasyon Enstitüsü",
+      "url": "https://www.sis.se/en/produkter/maskinsakerhet-357f77b1/chains-ropes-webbing-slings-and-accessories/ssen14921a12008/"
+    },
+    {
+      "title": "Choosing and Using Jackstands",
+      "publisher": "Practical Sailor",
+      "url": "https://www.practical-sailor.com/boat-maintenance/choosing-and-using-jackstands/"
+    }
+  ],
+  "related": [
+    "/bolgeler/bodrum-vinc-kiralama.html",
+    "/hizmetler/vinc-kiralama.html",
+    "/blog/kislik-tekne-karaya-alma.html",
+    "/blog/tekne-cekme-fiyatlari-neye-gore.html",
+    "/blog/bodrumda-tekne-cekme.html",
+    "/hizmetler/kaynak-isleri.html"
+  ]
+}

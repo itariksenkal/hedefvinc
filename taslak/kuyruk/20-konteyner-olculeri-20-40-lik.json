@@ -1,0 +1,289 @@
+{
+  "slug": "konteyner-olculeri-20-40-lik",
+  "_hedef": "konteyner ölçüleri",
+  "title": "Konteyner Ölçüleri: 20'lik ve 40'lık İç ve Dış Boyutlar",
+  "h1": "Konteyner Ölçüleri: 20'lik, 40'lık ve High Cube Konteynerin İç ve Dış Boyutları",
+  "desc": "Konteyner ölçüleri: 20'lik ve 40'lık konteynerin ISO 668'e göre dış boyutları, yaklaşık iç ölçüleri, boş ağırlığı ve teslimatta vinç için gereken alan.",
+  "category": "Rehber",
+  "image": "stok/stok-konteyner.jpg",
+  "imageAlt": "Açık bir sahada üst üste istiflenmiş farklı renklerde deniz konteynerleri (stok fotoğraf)",
+  "kisaCevap": "ISO 668'e göre 20'lik standart konteynerin dış ölçüsü 6,058 m boy × 2,438 m en × 2,591 m yükseklik, 40'lığınki 12,192 × 2,438 × 2,591 m'dir; 40'lık High Cube'un yüksekliği 2,896 m'dir. İç ölçüler üreticiye göre birkaç santim değişir: 20'likte yaklaşık 5,90 × 2,35 × 2,39 m, 40'lıkta yaklaşık 12,03 × 2,35 × 2,39 m. Yer ve teslimatı dış ölçüye, eşya yerleşimini konteynerin kendi iç ölçüsüne göre planlayın.",
+  "intro": "Konteyner almadan ya da kiralamadan önce iki soru sorulur: arsaya sığar mı, içine koyacağım şey sığar mı? Bu yazı; şantiye deposu, bahçe deposu ya da ofis dönüşümü için konteyner düşünen inşaatçılar, villa sahipleri ve işletmeler için standart ölçüleri, ağırlıkları, kapı açıklığını ve teslim günü vincin ihtiyaç duyduğu alanı bir arada veriyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Konteyner ölçüleri neden standarttır?"
+    },
+    {
+      "type": "p",
+      "text": "Konteynerler gemide, kamyonda ve trende aynı bağlantı noktalarıyla taşınabilsin diye dış ölçüleri uluslararası bir standartla sabitlenmiştir. Bu ölçüleri <a href=\"https://www.sis.se/en/produkter/packaging-and-distribution-of-goods/freight-distribution/general-purpose-containers/ss-iso-6682020/\">ISO 668</a> belirler; standart dış boyutları, değerleri (rating) ve bazı tipler için asgari iç ve kapı ölçülerini tanımlar. Günlük dilde kullanılan “20'lik” ve “40'lık” ifadeleri de konteynerin ayak (feet) cinsinden yaklaşık boyundan gelir. Konteynerin dört köşesindeki köşe bağlantı parçaları da bu sistemin parçasıdır; vinçle kaldırma ve taşıma araçlarına sabitleme bu noktalardan yapılır."
+    },
+    {
+      "type": "h2",
+      "text": "20'lik ve 40'lık konteynerin dış ölçüleri nedir?"
+    },
+    {
+      "type": "p",
+      "text": "Seri 1 konteynerlerin hepsinin eni 2,438 m'dir; 20'lik 6,058 m, 40'lık 12,192 m boyundadır. Standart yükseklik 2,591 m, High Cube yüksekliği 2,896 m'dir:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Tip",
+        "ISO kodu",
+        "Boy",
+        "En",
+        "Yükseklik"
+      ],
+      "rows": [
+        [
+          "20'lik standart",
+          "1CC",
+          "6,058 m",
+          "2,438 m",
+          "2,591 m"
+        ],
+        [
+          "40'lık standart",
+          "1AA",
+          "12,192 m",
+          "2,438 m",
+          "2,591 m"
+        ],
+        [
+          "40'lık High Cube",
+          "1AAA",
+          "12,192 m",
+          "2,438 m",
+          "2,896 m"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Standartta aynı boylarda daha alçak (2,438 m yükseklikte) 1C ve 1A tipleri de tanımlıdır, ancak bugün piyasada en sık karşılaşılan tipler tablodaki üç tiptir. ISO 668'in güncel baskısında 2,896 m yüksekliğinde 20'lik tip (1CCC) de tanımlıdır. Genişlik tüm bu tiplerde aynıdır; farkı boy ve yükseklik yaratır."
+    },
+    {
+      "type": "h2",
+      "text": "Konteynerin iç ölçüleri ve hacmi ne kadar?"
+    },
+    {
+      "type": "p",
+      "text": "20'lik standart konteynerin içi yaklaşık 5,90 × 2,35 × 2,39 m ve hacmi 33 m³ civarındadır; 40'lık yaklaşık 12,03 m iç boyla 67–68 m³ alır. İç ölçüler duvar, taban ve çatı kalınlığına ve üreticiye göre değişir. Aşağıdaki değerler <a href=\"https://www.hapag-lloyd.com/content/dam/website/downloads/press_and_media/publications/15211_Container_Specification_engl_Gesamt_web.pdf\">bir büyük taşıyıcının yayımladığı konteyner spesifikasyonu</a> ile uyumlu yaklaşık değerlerdir; kesin ölçü için alacağınız ya da kiralayacağınız konteynerin kendi ölçüsünü isteyin."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Tip",
+        "İç boy",
+        "İç en",
+        "İç yükseklik",
+        "Yaklaşık hacim"
+      ],
+      "rows": [
+        [
+          "20'lik standart",
+          "yaklaşık 5,90 m",
+          "yaklaşık 2,35 m",
+          "yaklaşık 2,39 m",
+          "yaklaşık 33 m³"
+        ],
+        [
+          "40'lık standart",
+          "yaklaşık 12,03 m",
+          "yaklaşık 2,35 m",
+          "yaklaşık 2,39 m",
+          "yaklaşık 67–68 m³"
+        ],
+        [
+          "40'lık High Cube",
+          "yaklaşık 12,03 m",
+          "yaklaşık 2,35 m",
+          "yaklaşık 2,70 m",
+          "yaklaşık 76 m³"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "ISO 668 iç ölçüler için asgari değer verir: 20'likte en az 5,867 m, 40'lıkta en az 11,998 m iç boy ve 2,330 m iç en; iç yükseklik ise dış yükseklikten en fazla 241 mm az olabilir. Kapı açıklığı iç ölçüden biraz daha küçüktür; standart konteynerde yaklaşık 2,34 m genişlik ve 2,28–2,29 m yükseklik, High Cube'da yaklaşık 2,60 m yüksekliktedir. İçeri forklift ya da büyük bir makine sokacaksanız asıl sınır iç ölçü değil, kapı açıklığıdır."
+    },
+    {
+      "type": "h2",
+      "text": "Boş konteyner kaç ton gelir, ne kadar yük alır?"
+    },
+    {
+      "type": "p",
+      "text": "Boş 20'lik standart konteyner yaklaşık 2,25–2,6 ton, 40'lık yaklaşık 3,7–3,8 ton, 40'lık High Cube yaklaşık 3,8–4,3 ton gelir; aralık, aynı taşıyıcının farklı üretim serilerindeki değerleri yansıtır. ISO 668 bu tipler için standart değeri (rating) 30.480 kg olarak verir, belirli koşullarda daha yüksek değerlere izin verir ve ISO konteyneri sayılması için azami brüt kütlenin 36.000 kg'ı aşmamasını şart koşar; örneğin Hapag-Lloyd kendi genel amaçlı konteynerlerini 32.500 kg'a kadar brüt ağırlıkla kullanır. Her konteynerin kendi azami brüt ağırlığı ve darası kapısındaki işaretlerde yazar. Konteyneri yüklü taşıyacak ya da kaldıracaksanız bu değerleri esas alın."
+    },
+    {
+      "type": "callout",
+      "text": "Vinçle kaldırma planında konteynerin yalnızca boş ağırlığı değil, içindeki eşyanın ağırlığı da hesaba katılır. Taşıma öncesinde konteynerin boş mu, dolu mu olduğunu mutlaka belirtin."
+    },
+    {
+      "type": "h2",
+      "text": "Konteyner ofise dönüştürülünce iç ölçü ne kadar küçülür?"
+    },
+    {
+      "type": "p",
+      "text": "Her duvardan yalıtım ve kaplama kalınlığı, tabandan da döşeme kalınlığı kadar küçülür. Deniz konteynerini ofise, atölyeye ya da depoya dönüştürürken bu kayıp hesaba katılmalıdır. Duvarlara yalıtım paneli ya da kaplama eklendiğinde her duvardan panel kalınlığı kadar, tabana döşeme yapıldığında da döşeme kalınlığı kadar yer kaybedilir. Kâğıt üzerinde rahat sığan bir masa düzeni ya da raf sistemi, yalıtımdan sonra sığmayabilir. Dönüşüm planını, yalıtım ve kaplama kalınlıklarını düştükten sonra kalan net ölçüye göre yapın."
+    },
+    {
+      "type": "h2",
+      "text": "Konteyner almadan önce hangi ölçüler kontrol edilmeli?"
+    },
+    {
+      "type": "p",
+      "text": "Konteynerin tipi, kapı açıklığı, net iç ölçü, konacağı alan ve teslimat yolu kontrol edilmelidir. Sırasıyla:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Konteynerin dış ölçüsünü ve tipini (20'lik, 40'lık, High Cube) teyit edin.",
+        "İçine koyacağınız en büyük eşyanın ölçüsünü kapı açıklığıyla karşılaştırın.",
+        "Dönüşüm yapacaksanız yalıtım ve kaplama sonrası kalan net iç ölçüyü hesaplayın.",
+        "Konacağı alanı, kapı açılma payıyla birlikte ölçün.",
+        "Teslimat yolunu ve vincin kurulacağı noktayı kontrol edin."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Ofis ve yaşam konteynerlerinin ölçüleri standart mı?"
+    },
+    {
+      "type": "p",
+      "text": "Çoğu zaman değildir. Şantiye ofisi, güvenlik kulübesi ya da yaşam alanı olarak kullanılan konteynerlerin önemli bir kısmı ISO deniz konteyneri değil, panel ya da kabin tipi prefabrik yapılardır; ölçüleri üreticiye göre değişir ve yukarıdaki tablolar onlar için geçerli değildir. Bu tip bir konteyner alacaksanız ölçüsünü, ağırlığını ve kaldırma noktalarını satıcıdan yazılı olarak isteyin. Sıfır mı ikinci el mi sorusunu ise <a href=\"/blog/sifir-mi-ikinci-el-mi-konteyner.html\">sıfır mı, ikinci el mi konteyner</a> yazımızda ele aldık."
+    },
+    {
+      "type": "h2",
+      "text": "Konteyner teslimatında vinç için ne kadar alan gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "Kesin alan sahaya göre değişir: aracın yanaşabileceği düz bir yer, vincin ayaklarını tam açabileceği genişlik ve konteynerin ineceği noktada yeterli boşluk gerekir. Konteyner ölçüsü kadar önemli olan, onu taşıyacak aracın ve indirecek vincin sahaya ulaşabilmesidir. 40'lık bir konteyner, uzun bir taşıyıcı araç ve geniş bir dönüş alanı gerektirir; dar köy yollarında ve site içlerinde bu zorlaşabilir. 20'lik konteyner ise çoğu zaman araç üstü vinçle tek seferde getirilip indirilebilir. Teslimat öncesi şunları kontrol edin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Sahaya giden yolun en dar noktası ve virajlar",
+        "Vincin kurulacağı nokta ile konteynerin ineceği yer arasındaki mesafe",
+        "Arada duvar, ağaç, elektrik ya da telefon hattı olup olmadığı",
+        "İniş noktasında konteynerin boyutundan geniş, düz ve sağlam bir alan bulunması",
+        "Kapının açılacağı tarafta yeterli boşluk kalıp kalmadığı"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Yol dar ve dönemeçliyse <a href=\"/blog/dar-sokakta-vinc-calismasi.html\">dar sokakta vinç çalışması</a> yazımızdaki kontrol listesi işinize yarar."
+    },
+    {
+      "type": "h2",
+      "text": "Konteyner için zemin nasıl hazırlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Konteyner, dört köşesi aynı seviyede olacak şekilde düz ve sağlam bir zemine konmalıdır. Kalıcı kullanımda beton taban ya da köşe noktalarına yerleştirilmiş beton bloklar tercih edilir. Eğik zemine konan konteynerde kapılar sıkışır, gövde zamanla zorlanır ve yağmur suyu bir tarafta birikir. Konteyneri zemin seviyesinin biraz üzerine oturtmak, tabanın nemden korunmasına yardımcı olur."
+    },
+    {
+      "type": "h2",
+      "text": "20'lik mi, 40'lık mı seçmeli?"
+    },
+    {
+      "type": "p",
+      "text": "Dar arsa ve küçük depo ihtiyacında 20'lik, uzun malzeme ve geniş depoda 40'lık, yüksek eşya ve raf sisteminde High Cube öne çıkar:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "İhtiyaç",
+        "Öneri",
+        "Neden?"
+      ],
+      "rows": [
+        [
+          "Küçük depo, alet ve malzeme saklama",
+          "20'lik",
+          "Teslimatı ve yerleştirmesi kolaydır"
+        ],
+        [
+          "Şantiye deposu, uzun malzeme",
+          "40'lık",
+          "Boy avantajı sağlar"
+        ],
+        [
+          "Yüksek eşya, raf sistemi",
+          "40'lık High Cube",
+          "Ek iç yükseklik sunar"
+        ],
+        [
+          "Dar arsa ya da dar yol",
+          "20'lik",
+          "Araç ve vinç erişimi daha kolaydır"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Milas ve Bodrum'da konteyner nasıl teslim edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Konteynerinizi vinçli araçlarımızla adresinize getiriyor, istediğiniz noktaya indirip yerleştiriyoruz. Sıfır ve ikinci el konteyner satışı ile kiralamayı da yaptığımız için ayrıca bir nakliye ya da vinç firması aramanıza gerek kalmaz. Güllük–Güvercinlik arasındaki atölyemizden Milas, Bodrum ve Muğla geneline teslimat yapıyoruz. İkinci el konteynerlerimizi satışa sunmadan önce kontrol ediyor, kullanıma hazır şekilde teslim ediyoruz. Geçici bir ihtiyacınız varsa satın almak yerine kiralamak da mümkün. Ayrıntılar için <a href=\"/hizmetler/konteyner-satis-kiralama.html\">konteyner satış ve kiralama</a> sayfamıza, yalnızca indirme ya da yer değiştirme işi için <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "callout",
+      "text": "Konteyneri nerede ve ne amaçla kullanacağınızı anlatın; uygun ölçüyü, teslimat yöntemini ve fiyatı birlikte netleştirelim."
+    }
+  ],
+  "cikarimlar": [
+    "Dış ölçüler ISO 668 ile sabittir; tüm seri 1 konteynerlerin eni 2,438 m'dir.",
+    "İç ölçü üreticiye göre değişir; eşya planını konteynerin kendi iç ölçüsüyle yapın.",
+    "Büyük eşya ya da forklift sokacaksanız asıl sınır kapı açıklığıdır.",
+    "Kaldırma planı dara ile değil, içindekilerle birlikte toplam ağırlıkla yapılır.",
+    "Yalıtım ve kaplama, her duvardan kendi kalınlığı kadar iç ölçü götürür."
+  ],
+  "faqs": [
+    {
+      "q": "20'lik konteyner kaç metre?",
+      "a": "ISO 668'e göre 20'lik standart konteynerin dış ölçüsü 6,058 m boy, 2,438 m en ve 2,591 m yüksekliktir. İç boyu ise yaklaşık 5,9 m'dir."
+    },
+    {
+      "q": "40'lık konteyner kaç metre?",
+      "a": "40'lık standart konteynerin dış ölçüsü 12,192 m boy, 2,438 m en ve 2,591 m yüksekliktir. High Cube tipinde yükseklik 2,896 m'dir."
+    },
+    {
+      "q": "High Cube konteyner ne demek?",
+      "a": "Standart konteynerle aynı boy ve ende olup daha yüksek olan konteynerdir. 40'lık High Cube'un dış yüksekliği 2,896 m'dir; bu, standart tipe göre yaklaşık 30 cm ek yükseklik demektir."
+    },
+    {
+      "q": "Dolu konteyner vinçle kaldırılabilir mi?",
+      "a": "Kaldırılabilir; ama plan boş ağırlığa değil, içindeki eşyayla birlikte toplam ağırlığa göre yapılır. Toplam ağırlık bilinmiyorsa eşya listesi çıkarılır ya da konteyner boşaltılır. Deniz konteyneri köşe bağlantı parçalarından, uygun sapan düzeniyle kaldırılır."
+    },
+    {
+      "q": "Konteynerin iç ölçüsü neden farklı yazıyor?",
+      "a": "İç ölçü duvar, taban ve çatı kalınlığına ve üreticinin yapısına göre değişir. Dış ölçüler standarttır; iç ölçüyü her zaman konteynerin kendisi üzerinden teyit edin."
+    },
+    {
+      "q": "20'lik konteyner için ne kadar alan gerekir?",
+      "a": "Konteynerin kendi alanına ek olarak kapı açılma payı ve teslimat sırasında vincin kurulacağı alan gerekir. Kesin ihtiyacı sahanın fotoğraflarına ya da keşfe göre söyleriz."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "SS-ISO 668:2020 Series 1 freight containers – Classification, dimensions and ratings",
+      "publisher": "SIS – İsveç Standardizasyon Enstitüsü",
+      "url": "https://www.sis.se/en/produkter/packaging-and-distribution-of-goods/freight-distribution/general-purpose-containers/ss-iso-6682020/"
+    },
+    {
+      "title": "Container Specification (20', 40' ve 40' High Cube iç ölçü, kapı ve ağırlık değerleri)",
+      "publisher": "Hapag-Lloyd",
+      "url": "https://www.hapag-lloyd.com/content/dam/website/downloads/press_and_media/publications/15211_Container_Specification_engl_Gesamt_web.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/konteyner-satis-kiralama.html",
+    "/blog/sifir-mi-ikinci-el-mi-konteyner.html",
+    "/hizmetler/vinc-kiralama.html",
+    "/blog/dar-sokakta-vinc-calismasi.html"
+  ]
+}

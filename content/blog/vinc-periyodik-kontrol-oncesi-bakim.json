@@ -1,0 +1,215 @@
+{
+  "slug": "vinc-periyodik-kontrol-oncesi-bakim",
+  "_hedef": "vinç periyodik kontrol",
+  "title": "Vinç Periyodik Kontrolü: Kim Yapar, Ne Sıklıkla Yapılır?",
+  "h1": "Vinç Periyodik Kontrolü: Yönetmelik, Sık Çıkan Eksikler ve Kontrol Öncesi Bakım",
+  "desc": "Vinç periyodik kontrol: İş Ekipmanları Yönetmeliği Ek-III'e göre en geç yılda bir, yetkili kişilerce. 2025 değişikliği, sık eksikler ve kontrol öncesi bakım.",
+  "category": "Vinç Tamiri",
+  "datePublished": "2026-10-22",
+  "dateModified": "2026-10-22",
+  "image": "real_ones/atolye-boyanmis-vinc-kolonu-revizyon.jpg",
+  "imageAlt": "Atölyede sapanla asılı, yeni boyanmış sarı vinç kolonu; zeminde aynı vincin boyanmış taban parçası",
+  "kisaCevap": "Vinç periyodik kontrolü, İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği'ne göre zorunludur. Mobil vinçler ve araç üstü katlanır bomlu (hiyap) vinçler dahil krenler, standartlarda ayrı bir süre yoksa en geç yılda bir ve her önemli bakım ya da onarımdan sonra kontrol edilir. Kontrolü EKİPNET'e kayıtlı yetkili mühendis veya teknikerler ya da ekipman muayene kuruluşları yapar; sözleşme en geç bir gün önce İSG-KATİP'te onaylanır.",
+  "intro": "Bu yazı; kendi vinci olan müteahhitler, nakliyeciler ve vinç operatörleri için. Kontrol tarihi yaklaşınca akla gelen sorular hep aynıdır: Kontrol ne sıklıkla yapılır, kim yapar, kontrolde ne aranır ve rapor “uygun değil” çıkarsa ne olur? Aşağıda yönetmeliğin 23 Aralık 2025 değişikliğiyle güncel hâlini, atölyemize gelen vinçlerde kontrolde en sık çıkan eksikleri ve vinci kontrole hazırlarken izlediğimiz sırayı anlatıyoruz. Vinci kontrole hazırlamak, raporda “uygun değil” çıkmasını ve vincin işten çekilmesini önlemenin en kısa yoludur.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Vinç periyodik kontrolü kaç yılda bir yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Krenler için azami süre, ilgili standartlarda ayrı bir süre belirtilmemişse 1 yıldır. Dayanak, 25 Nisan 2013 tarihli <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a> ve onun Ek-III'üdür. Bu bir üst sınırdır: Ortam koşulları, kullanım sıklığı, ekipmanın yaşı, bakım geçmişi, revizyon veya kaza geçirmiş olması ve önceki kontrol sonuçları gibi etkenlere göre risk değerlendirmesiyle test ve muayene sıklığı artırılabilir."
+    },
+    {
+      "type": "p",
+      "text": "Yıllık kontrolün dışında vinç şu durumlarda da kontrol edilir:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Önemli bakım ve onarımdan sonra:</strong> Yönetmelik, kaldırma ekipmanlarında konstrüksiyon ve yük kolu (bom) gibi kısımlarda yapılan kaynak, kesme, taşlama ve benzeri onarımları ve halat, zincir gibi askı tertibatı dışındaki parça değişimlerini önemli bakım ve onarım sayar.",
+        "<strong>Güvenliği bozabilecek durumlardan sonra:</strong> Çalışma şeklinde değişiklik, kaza, doğal olay veya ekipmanın uzun süre kullanılmaması.",
+        "<strong>Günlük kontrolde kusur bulunursa:</strong> Çatlak, aşırı aşınma ve benzeri bir kusur görülen ekipman kullanım dışı bırakılır ve derhal periyodik kontrole sokulur."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Hangi vinçler periyodik kontrole tabidir?"
+    },
+    {
+      "type": "p",
+      "text": "Yalnızca Ek-III tablolarında yer alan ekipmanlar periyodik kontrole tabidir ve Tablo-2'deki “Krenler (köprülü, portal, mobil, yükleyici, kule, kıyı ötesi, döner kollu ve benzeri)” satırı mobil vinçleri ve araç üstü yükleyici vinçleri kapsar. Kontrol, tabloda sayılan TS EN 13000+A1 (mobil vinçler), TS EN 12999 (yükleyici vinçler), TS EN 13001 serisi ve TS ISO 9927-1 gibi standartlardaki kriterlere göre yapılır; Bakanlığın o ekipman için yayımladığı periyodik kontrol rapor ve kriter dokümanı varsa o esas alınır. Sapanlar, kıskaçlar ve benzeri kaldırma aksesuarları ayrı bir satırda yer alır; onlar da standartlarda süre belirtilmemişse yılda bir kontrol edilir."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç periyodik kontrolünü kim yapar?"
+    },
+    {
+      "type": "p",
+      "text": "Kaldırma ekipmanlarında kontrolü EKİPNET'e kayıtlı makine, mekatronik, metalürji ve malzeme ya da imalat mühendisleri, makine veya metal eğitimi bölümü mezunu teknik öğretmenler ile makine teknikeri veya yüksek teknikerleri yapar. Bakanlıkça yetkilendirilen ekipman muayene kuruluşları da periyodik kontrol yapabilir; kule krenlerde ise kontrol yalnızca bu kuruluşlarda çalışan yetkili kişilerce yapılır. Kontrolle ilgili birkaç usul kuralı:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "İşveren ile yetkili kişi arasında, hizmetten en geç 1 gün önce İSG-KATİP'teki örneğine uygun sözleşme düzenlenir ve karşılıklı onaylanır. Sözleşme olmadan düzenlenen periyodik kontrol raporu geçersizdir.",
+        "Raporda kontrolü yapan kişinin EKİPNET kayıt numarası bulunur.",
+        "Sonuçlar ıslak imzalı ya da güvenli elektronik imzalı olarak kayıt altına alınır ve istendiğinde gösterilmek üzere saklanır.",
+        "İşveren, yetkili kişinin belirttiği ön hazırlıkları yapar veya yaptırır; yetkili kişi isterse ekipmanın yetkili servisinin kontrole nezaret etmesini sağlar."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "23 Aralık 2025 değişikliğiyle ne değişti?"
+    },
+    {
+      "type": "p",
+      "text": "Değişiklik, 23 Aralık 2025 tarihli ve 33116 sayılı <a href=\"https://www.resmigazete.gov.tr/eskiler/2025/12/20251223-1.htm\">Resmî Gazete'de</a> yayımlandı; Çalışma ve Sosyal Güvenlik Bakanlığı da temel düzenlemeleri bir <a href=\"https://www.csgb.gov.tr/isggm/tr/duyurular/24122025/\">duyuruyla</a> özetledi. Vinç sahibini ilgilendiren başlıklar:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "“Akredite muayene kuruluşu” yerine “ekipman muayene kuruluşu” tanımı geldi. Yeni bir düzenleme yapılıncaya kadar TÜRKAK'tan TS EN ISO/IEC 17020 kapsamında akredite kuruluşlar ekipman muayene kuruluşu sayılıyor.",
+        "EKİPNET, İSG-KATİP içindeki periyodik kontrol modülü olarak tanımlandı.",
+        "Yalnızca Ek-III tablolarındaki ekipmanların periyodik kontrole tabi olduğu açıkça yazıldı; Bakanlığın yayımladığı ekipmana özgü rapor ve kriter dokümanları varsa kontrol bunlara göre yapılıyor.",
+        "2024'ten beri zorunlu olan İSG-KATİP sözleşmesi artık karşılıklı “onaylanıyor”. Sözleşmesiz rapor düzenleyen yetkili kişinin yetkisinin askıya alınma süresi 6 aydan 1 aya indirildi ve yaptırımlar denetim başına uygulanıyor.",
+        "Ek-III, yani bakım, onarım ve periyodik kontrol kuralları baştan yeniden düzenlendi."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Periyodik kontrolde hangi testler yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Standartlarda aksi belirtilmedikçe her periyodik kontrolde muayene yapılır ve en geç yılda bir, işletme kapasitesiyle (belirlenmemişse kaldırma kapasitesiyle) yük testi uygulanır. En geç üç yılda bir ve <strong>her önemli bakım ve onarımdan sonra</strong> ise kaldırma kapasitesi katsayıyla artırılarak test edilir. Genel kural olarak bu katsayı, elle işletilmeyen ekipmanda statik test için 1,25, dinamik test için 1,1'dir. Muayene ve testlere ek olarak tahribatsız muayene de uygulanabilir; bu raporlar periyodik kontrol raporunun ekinde saklanır. Bu yüzden revizyondan çıkan bir vinç, kontrole yalnızca evrakla değil, test yüküyle de hazırlanmalıdır."
+    },
+    {
+      "type": "h2",
+      "text": "Rapor “uygun değil” çıkarsa ne olur?"
+    },
+    {
+      "type": "p",
+      "text": "Raporda eksikler belirtilmiş ve bu eksikler giderilmeden kullanılmasının uygun olmadığı yazılmışsa vinç, eksikler giderilene kadar kullanılmaz. İşveren, uygunsuz rapor alan ekipmanın kullanılamayacağını kolayca görülecek şekilde işaretler. Eksikler giderildikten sonra ikinci kontrol yapılır ve vincin kullanılabileceğini belirten ikinci bir rapor düzenlenir. Bakanlığın rapor ve kriter dokümanı olan ekipmanlarda kusurlar hafif ve ağır diye ayrılır: Ağır kusurlu ekipman kusur giderilmeden çalıştırılamaz; hafif kusurlar bir sonraki kontrole kadar giderilmezse ağır kusur sayılır."
+    },
+    {
+      "type": "p",
+      "text": "İşyeri dışında kullanılan seyyar ekipmanda son periyodik kontrol raporu ekipmanla birlikte bulundurulur. Kiraladığınız vincin raporunu görmek istemeniz bu yüzden yerindedir."
+    },
+    {
+      "type": "h2",
+      "text": "Kontrolde en sık hangi eksikler çıkıyor?"
+    },
+    {
+      "type": "p",
+      "text": "Kontrol öncesinde ya da elinde raporla atölyemize gelen vinçlerde en sık karşılaştığımız eksikler şunlar:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Silindir milinde, valf bloğunda veya hortum başlıklarında yağ kaçağı; kılıfı çatlamış ya da terleyen hortumlar.",
+        "Yük altında bomun veya ayakların kendiliğinden inmesi: silindirde iç kaçak ya da yük tutma valfinde arıza.",
+        "Aşırı yük sınırlayıcı, acil stop veya limit anahtarlarının çalışmaması, hatta devre dışı bırakılmış olması.",
+        "Pim ve burçlarda boşluk, eksik emniyet pimi veya segman.",
+        "Kancada emniyet mandalının olmaması ya da ağız açılması; halatlı vinçlerde kopuk tel ve ezilme.",
+        "Döner tablada boşluk, gevşek bağlantı cıvataları.",
+        "Destek ayaklarında kaçak, çalışmayan ayak kilitleri, hasarlı ayak tabanları.",
+        "Taşıyıcı yapıda çatlak, deformasyon, ilerlemiş korozyon ya da usulsüz kaynak izleri.",
+        "Okunmayan veya kayıp yük tablosu ve uyarı etiketleri, yön işaretleri silinmiş kumanda kolları."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Vinç periyodik kontrole nasıl hazırlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Belgeler toplanır, vinç temizlenir, kaçaklar ve boşluklar giderilir, emniyet düzenekleri denenir, test yükü planlanır ve sözleşme zamanında yapılır. Bizim kontrol öncesi bakımda izlediğimiz sıra şöyle:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "<strong>Belgeleri toplayın:</strong> Kullanım kılavuzu, yük tablosu, bir önceki periyodik kontrol raporu, bakım-onarım kayıtları ve operatörün günlük kontrol kayıtları. Yönetmelik bakım ve onarım kayıtlarının ekipmanın kullanım ömrü boyunca saklanmasını ister.",
+        "<strong>Vinci temizleyin:</strong> Yağlı ve çamurlu bir yüzeyde çatlak görülmez; kontrolör de göremediğini uygun yazamaz.",
+        "<strong>Kaçakları giderin:</strong> Hortumlar, keçeler ve rekorlar; gerekiyorsa hortum yenileme.",
+        "<strong>Mafsalları kontrol edin:</strong> Gresleme, pim ve burç boşlukları, emniyet pimleri.",
+        "<strong>Emniyet düzeneklerini deneyin:</strong> Aşırı yük sınırlayıcı, acil stop, limit anahtarları, ayak kilitleri.",
+        "<strong>Kanca, halat ve sapanlar:</strong> Mandal, kanca ağzı, halat durumu; sapanların kendi kontrolünü unutmayın.",
+        "<strong>Etiketleri yenileyin:</strong> Yük tablosu ve uyarılar okunur olmalı.",
+        "<strong>Test yükünü ve alanı planlayın:</strong> Yük testi için uygun ağırlığı ve güvenli bir alanı kontrolü yapacak kişiyle önceden konuşun.",
+        "<strong>Sözleşmeyi yapın:</strong> Kontrolden en geç bir gün önce İSG-KATİP üzerinden."
+      ]
+    },
+    {
+      "type": "callout",
+      "text": "Periyodik kontrolü yetkili kişi veya ekipman muayene kuruluşu yapar; atölyenin işi vinci kontrole hazırlamak ve raporda çıkan eksikleri gidermektir. Raporunuzu getirin, maddeleri birlikte okuyup iş listesine çevirelim."
+    },
+    {
+      "type": "h2",
+      "text": "Rapordaki eksikler nasıl giderilir?"
+    },
+    {
+      "type": "p",
+      "text": "Eksikler tek tek giderilir, yapılan iş yazılı hâle getirilir ve vinç ikinci kontrole sunulur. Raporda çıkan eksikleri gideriyor, hangi işin yapıldığını yazılı olarak veriyoruz; yeniden kontrolde bu döküm işinizi kolaylaştırır. Yapılan iş önemli bir onarım niteliğindeyse, örneğin taşıyıcı yapıda kaynak, silindir veya döner tabla değişimi, vinç yönetmelik gereği yeniden periyodik kontrolden ve katsayılı yük testinden geçmelidir. Hidrolik kaynaklı eksikler için <a href=\"/hizmetler/vinc-hidrolik-tamiri.html\">vinç hidrolik tamiri</a>, araç üstü vinçler için <a href=\"/hizmetler/hiyap-vinc-tamiri.html\">hiyap vinç tamiri</a> sayfalarımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Milas ve Muğla'da kontrol öncesi bakım"
+    },
+    {
+      "type": "p",
+      "text": "Atölyemiz Milas'ta, Güllük–Güvercinlik arasında. Kontrol tarihiniz belliyse bakımı ona göre planlıyoruz; vinç yola çıkamıyorsa Milas, Bodrum ve Muğla çevresinde yerinde çalışıyoruz. Kapsamlı işler için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> sayfamıza, eksiklerin nereden kaynaklandığını anlamak için <a href=\"/blog/vinc-revizyonu-ne-zaman.html\">vinç revizyonu ne zaman gerekir</a> yazımıza göz atabilirsiniz. Sahadaki günlük kontroller için de <a href=\"/blog/vincle-calisirken-is-guvenligi.html\">vinçle çalışırken iş güvenliği</a> yazımız iyi bir başlangıç."
+    }
+  ],
+  "cikarimlar": [
+    "Mobil ve araç üstü vinçler en geç yılda bir periyodik kontrolden geçmelidir.",
+    "Kontrol sözleşmesi en geç bir gün önce İSG-KATİP'te karşılıklı onaylanmalıdır.",
+    "Bomda kaynak, kesme veya taşıyıcı parça değişiminden sonra vinç yeniden kontrol edilir.",
+    "“Uygun değil” raporlu vinç, eksikler giderilip ikinci kontrol yapılana kadar kullanılmaz.",
+    "Kontrolden önce kaçakları, emniyet düzeneklerini ve etiketleri elden geçirmek raporu kolaylaştırır."
+  ],
+  "faqs": [
+    {
+      "q": "Periyodik kontrol sözleşmesi ne zaman yapılmalı?",
+      "a": "Kontrol hizmetinden en geç 1 gün önce, İSG-KATİP'teki örneğine uygun olarak düzenlenmeli ve işveren ile yetkili kişi tarafından karşılıklı onaylanmalıdır. Sözleşme olmadan düzenlenen periyodik kontrol raporu geçersizdir; bu yüzden kontrol tarihini sözleşmeyle birlikte planlayın."
+    },
+    {
+      "q": "Hiyap (araç üstü vinç) periyodik kontrole tabi mi?",
+      "a": "Evet. Ek-III Tablo-2'deki “Krenler” satırı mobil ve yükleyici vinçleri sayar; araç üstü katlanır bomlu vinçler yükleyici vinç sınıfındadır ve kontrolde TS EN 12999 kriterleri esas alınır."
+    },
+    {
+      "q": "Vinç periyodik kontrol raporu ne kadar süre geçerlidir?",
+      "a": "Raporda, normal şartlarda yapılması gereken bir sonraki kontrolün tarihi yazar; krenlerde bu tarih, standartlarda ayrı bir süre yoksa en fazla 1 yıl sonrasıdır. Arada önemli bir bakım veya onarım, kaza ya da uzun süre kullanılmama olursa kontrol tarihi beklenmeden yenilenir."
+    },
+    {
+      "q": "Periyodik kontrol raporu olmadan vinç çalıştırılabilir mi?",
+      "a": "Yönetmelik, krenlerin süresi içinde kontrol edilmesini ve işyeri dışında kullanılan seyyar ekipmanda son raporun ekipmanla birlikte bulundurulmasını ister. Raporda kullanıma uygun olmadığı belirtilen vinç, eksikler giderilene kadar kullanılmaz."
+    },
+    {
+      "q": "Vinç periyodik kontrolünde hangi standartlar esas alınır?",
+      "a": "Ek-III Tablo-2 krenler için TS EN 13000+A1 (mobil vinçler), TS EN 12999 (yükleyici vinçler), TS EN 13001 serisi ve TS ISO 9927-1 gibi standartları sayar. Bakanlığın o ekipman için yayımladığı rapor ve kriter dokümanı varsa kontrol ona göre yapılır; ekipman kural olarak imal yılında yürürlükteki standarda göre değerlendirilir."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (güncel metin)",
+      "publisher": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik (23.12.2025, Sayı 33116)",
+      "publisher": "T.C. Resmî Gazete",
+      "url": "https://www.resmigazete.gov.tr/eskiler/2025/12/20251223-1.htm"
+    },
+    {
+      "title": "İş Ekipmanları Yönetmeliği değişikliğinin temel düzenlemeleri (24.12.2025 duyurusu)",
+      "publisher": "Çalışma ve Sosyal Güvenlik Bakanlığı, İSG Genel Müdürlüğü",
+      "url": "https://www.csgb.gov.tr/isggm/tr/duyurular/24122025/"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/hizmetler/hiyap-vinc-tamiri.html",
+    "/blog/vinc-tamiri-mi-yenisi-mi.html",
+    "/blog/vinc-revizyonu-ne-zaman.html"
+  ]
+}

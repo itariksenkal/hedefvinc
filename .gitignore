@@ -4,3 +4,10 @@ _private/
 # Sistem dosyaları
 Thumbs.db
 .DS_Store
+
+# Python önbelleği
+__pycache__/
+
+# Sahibin orijinal fotoğrafları (14 MB). Sitede yalnızca assets/img/r/ altındaki küçültülmüş kopyalar kullanılır;
+# yeni fotoğraf eklerken önce "python tools/foto.py" çalıştırın.
+assets/img/real_ones/

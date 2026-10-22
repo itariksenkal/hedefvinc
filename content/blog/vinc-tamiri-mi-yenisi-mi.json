@@ -1,0 +1,214 @@
+{
+  "slug": "vinc-tamiri-mi-yenisi-mi",
+  "_hedef": "vinç tamiri mi yeni vinç mi",
+  "title": "Vinç Tamiri mi, Yeni Vinç mi? 4 Soruluk Karar Kuralı",
+  "h1": "Vinç Tamiri mi, Yeni Vinç mi? Revizyonla Yenileme Arasında Karar Vermek",
+  "desc": "Vinç tamiri mi yeni vinç mi? Yaş, taşıyıcı yapı, parça bulunabilirliği ve duruş maliyetine göre karar kuralı ve retrofit revizyonun kapsamı. Milas atölyesi.",
+  "category": "Vinç Tamiri",
+  "datePublished": "2026-10-22",
+  "dateModified": "2026-10-22",
+  "image": "real_ones/atolye-revizyonu-biten-katlanir-bom-vinc.jpg",
+  "imageAlt": "Atölyede revizyonu tamamlanıp sarıya boyanmış, katlı durumdaki büyük katlanır bomlu vinç; üzerinde Retrofit Hedef Crane etiketi",
+  "kisaCevap": "Vincin taşıyıcı yapısı (bom, kolon, şase, ayak kutuları) sağlamsa ve kritik parçaları bulunabiliyorsa kapsamlı revizyon çoğu durumda yeni vinçten daha mantıklıdır. Taşıyıcı yapıda yaygın yorulma çatlağı veya ciddi korozyon varsa, kritik parçalar için orijinal, muadil ya da onarım seçeneği kalmadıysa ya da iş daha büyük kapasite istiyorsa yeni vinç doğru seçimdir. Yaş tek başına karar verdirmez; bakım geçmişi ve duruş süresi de hesaba katılır.",
+  "intro": "Bu yazı, arızaları sıklaşan bir vinç için büyük bir onarım teklifiyle yeni vinç fiyatı arasında kalan vinç sahipleri için. Karar yalnızca iki rakamı yan yana koymakla verilmez: vincin iskeletinin durumu, parça bulunabilirliği, bakım geçmişi ve iki seçenekte işinizin kaç gün duracağı da hesaba girer. Aşağıda atölyede kullandığımız dört soruluk karar kuralını, karar tablosunu, retrofit revizyonun neleri kapsadığını ve revizyondan sonra mevzuatın ne istediğini anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Vinç neden yetmiyor: yıprandı mı, işe küçük mü geliyor?"
+    },
+    {
+      "type": "p",
+      "text": "Önce sorunun türünü ayırın: Vinç yıprandıysa çoğu zaman revizyonla düzelir; işinize küçük geliyorsa hiçbir tamir bunu çözmez. Sahada “bu vinç artık yetmiyor” cümlesi bu iki farklı anlama gelir. Birincisi <strong>vinç yıprandı</strong>: sık arıza yapıyor, güç kaybediyor, kaçak veriyor. Bu bir bakım ve onarım sorunudur. İkincisi <strong>vinç işe küçük geliyor</strong>: daha ağır yük, daha uzun erişim gerekiyor."
+    },
+    {
+      "type": "p",
+      "text": "İkinci durumda en sık duyduğumuz istek, bomu uzatarak ya da hidrolik basıncı artırarak kapasiteyi büyütmektir. Bu bir onarım değildir: vincin yük tablosu üreticinin tasarımına göre hesaplanmıştır ve tasarımın dışına çıkan her değişiklik bu tabloyu geçersiz kılar. İş gerçekten büyüdüyse doğru cevap, uygun kapasitede başka bir vinçtir."
+    },
+    {
+      "type": "h2",
+      "text": "Tamir mi yeni vinç mi? Dört soruluk karar kuralı"
+    },
+    {
+      "type": "p",
+      "text": "Dört soru sorun: Taşıyıcı yapı sağlam mı, parça bulunuyor mu, yaşı ve çalışma geçmişi ne, duruş size neye mal oluyor? İlk ikisi “olmaz” diyorsa revizyon parası boşa gider; son ikisi seçenekler arasındaki farkı belirler."
+    },
+    {
+      "type": "h3",
+      "text": "1. Taşıyıcı yapı sağlam mı?"
+    },
+    {
+      "type": "p",
+      "text": "Bom, kolon, şase, destek ayağı kutuları ve döner tabla bağlantısı vincin iskeletidir. Bu parçalar temizlenip gözle, gerektiğinde penetrant gibi tahribatsız muayene yöntemleriyle kontrol edilir. Tek noktada, nedeni belli bir çatlak veya darbe hasarı doğru yöntemle onarılabilir. Birçok noktada yorulma çatlağı, korozyonla incelmiş sac ya da kalıcı eğilme varsa, hidroliği ne kadar yenilerseniz yenileyin vinç zayıf bir iskelet üzerinde çalışır. Bu durumda yeni vinç daha doğru yatırımdır. Taşıyıcı yapıda yapılan kaynak onarımının ayrıca bir periyodik kontrol ve yük testi gerektirdiğini de hesaba katın."
+    },
+    {
+      "type": "h3",
+      "text": "2. Parça bulunabiliyor mu?"
+    },
+    {
+      "type": "p",
+      "text": "Keçe takımları, hortumlar, standart valfler ve rekorlar çoğu vinç için bulunur; pim ve burç gibi parçalar tornada ölçüsüne göre imal edilebilir. Asıl soru kritik ve vince özel parçalardır: kumanda valf bloğu, döner tabla rulmanı, teleskop silindiri, aşırı yük sınırlayıcı gibi emniyet düzenekleri. Bunlar için orijinal, muadil ya da onarım seçeneği varsa revizyon mümkündür. Hiçbiri yoksa en iyi revizyon bile bir sonraki arızada vinci uzun süre bekletebilir."
+    },
+    {
+      "type": "h3",
+      "text": "3. Yaşı ve çalışma geçmişi ne?"
+    },
+    {
+      "type": "p",
+      "text": "Yaş tek başına karar verdirmez. Az çalışmış, düzenli bakım görmüş yaşlı bir vinç, ağır işte hırpalanmış daha genç bir vinçten sağlam çıkabilir. Bakım kayıtları, önceki periyodik kontrol raporları ve operatörün anlattıkları bu yüzden değerlidir. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> de iş ekipmanında yapılan bütün bakım ve onarımların kayıt altına alınmasını ve bu kayıtların ekipmanın kullanım ömrü boyunca saklanmasını ister. Kayıt yoksa ön muayeneyi daha kapsamlı tutarız."
+    },
+    {
+      "type": "h3",
+      "text": "4. Duruşun size maliyeti ne?"
+    },
+    {
+      "type": "p",
+      "text": "Revizyon süresince vinç atölyededir. Yeni vincin de bir teslim süresi, araç üstü vinçlerde ayrıca kamyona montaj süreci vardır. Karşılaştırırken yalnızca fiyatlara değil, iki seçenekte de işinizin kaç gün duracağına bakın. Duruşu kısaltmanın pratik yolu, revizyonu yoğun sezonun dışına planlamak ve gerekirse bu sürede <a href=\"/hizmetler/vinc-kiralama.html\">operatörlü vinç kiralamaktır</a>."
+    },
+    {
+      "type": "h2",
+      "text": "Hangi durumda revizyon, hangi durumda yeni vinç?"
+    },
+    {
+      "type": "p",
+      "text": "Kısaca: Sağlam yapı ve bulunabilen parça revizyonu, yaygın yorulma, parça yokluğu veya kapasite ihtiyacı yeni vinci gösterir. Ayrıntılı karar tablosu:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Durum",
+        "Önerimiz"
+      ],
+      "rows": [
+        [
+          "Taşıyıcı yapı sağlam, parça var, arızalar hidrolik ve elektrikte",
+          "Revizyon (retrofit)"
+        ],
+        [
+          "Tek noktada çatlak veya darbe hasarı, yapının geri kalanı sağlam",
+          "Kaynak onarımı ve revizyon, ardından periyodik kontrol"
+        ],
+        [
+          "Taşıyıcı yapıda yaygın yorulma çatlağı veya ciddi korozyon",
+          "Yeni vinç"
+        ],
+        [
+          "Kritik parçalar için orijinal, muadil veya onarım seçeneği yok",
+          "Yeni vinç"
+        ],
+        [
+          "İş daha büyük kapasite veya erişim istiyor",
+          "Uygun kapasitede vinç; tadilatla kapasite artırılmaz"
+        ],
+        [
+          "Ek kapasite yalnızca yılın belli dönemlerinde gerekiyor",
+          "Mevcut vinci revize edin, yoğun dönemde vinç kiralayın"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Retrofit revizyon neleri kapsar?"
+    },
+    {
+      "type": "p",
+      "text": "Retrofit dediğimiz iş, vincin tasarımını değiştirmeden onu ilk günkü çalışma düzenine yaklaştırmaktır. Kapsam vince göre değişir; tipik bir retrofitte şunlar elden geçer:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Hidrolik:</strong> Pompanın kontrolü veya yenilenmesi, silindirlerin sökülüp keçe takımlarının değişmesi, mil yüzeyinin kontrolü, kumanda valf bloğunun bakımı ve hortumların yenilenmesi. Ayrıntılar: <a href=\"/hizmetler/vinc-hidrolik-tamiri.html\">vinç hidrolik tamiri</a>.",
+        "<strong>Mekanik:</strong> Pim ve burçların değişimi, kızak takozları, döner tabla rulmanında boşluk ölçümü ve bağlantı cıvataları, dönüş dişlileri.",
+        "<strong>Taşıyıcı yapı:</strong> Temizlik, çatlak kontrolü, gerekirse üreticinin onarım talimatına uygun kaynak onarımı ve boya.",
+        "<strong>Elektrik ve kumanda:</strong> Kablo tesisatı, soketler, kumanda kolları ve emniyet düzeneklerinin çalışır hâle getirilmesi.",
+        "<strong>Test ve teslim:</strong> Sızdırmazlık ve fonksiyon testleri; ardından vinç periyodik kontrole hazır teslim edilir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Araç üstü katlanır bomlu vinçlerde bu işin nasıl yürüdüğünü <a href=\"/hizmetler/hiyap-vinc-tamiri.html\">hiyap vinç tamiri</a> sayfamızda anlattık. Belirtilere göre revizyon zamanını kestirmek için de <a href=\"/blog/vinc-revizyonu-ne-zaman.html\">vinç revizyonu ne zaman gerekir</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Yeni vinç alırsanız nelere dikkat etmelisiniz?"
+    },
+    {
+      "type": "p",
+      "text": "Kapasiteyi bugünkü değil önümüzdeki yılların işine göre seçin, kamyona montajı ve teslim süresini planlayın ve garanti şartlarını okuyun. Garanti şartları bakım düzeninizi de belirler; örneğin bir araç üstü vinç üreticisinin <a href=\"https://cms.hiab.com/contentassets/176458ce1b3c4d0e82a446779079d6b8/hiab---435k-hipro---operators-manual.pdf\">kullanım kılavuzu</a> garantiyi bakım ve servis talimatlarına uyulması, orijinal parça kullanılması ve valflerdeki mühür tellerinin sağlam kalması şartına bağlar. Yeni vincin bakım planını ilk günden kurmak, birkaç yıl sonra aynı “tamir mi yenisi mi” sorusuyla karşılaşmamanın en ucuz yoludur."
+    },
+    {
+      "type": "h2",
+      "text": "İkinci el vinç alırken de aynı dört soru sorulur mu?"
+    },
+    {
+      "type": "p",
+      "text": "Evet; revizyon ile yeni vinç arasındaki üçüncü seçenek olan ikinci el vinçte aynı dört soru, başkasının vinci için sorulur: taşıyıcı yapı sağlam mı, kritik parçalar bulunuyor mu, bakım ve periyodik kontrol geçmişi belgeli mi, araç üstü vinçse kamyonunuza montajı ne gerektiriyor? Satın almadan önce vinci çalışırken görmek, son periyodik kontrol raporunu istemek ve taşıyıcı yapıyı temizlenmiş hâlde incelemek, sonradan çıkacak masrafların çoğunu önceden gösterir."
+    },
+    {
+      "type": "h2",
+      "text": "Revizyondan sonra periyodik kontrol gerekir mi?"
+    },
+    {
+      "type": "p",
+      "text": "Evet; önemli bakım ve onarımdan sonra periyodik kontrol yönetmelik gereğidir. İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği, kaldırma ekipmanlarında taşıyıcı konstrüksiyon ve bom gibi kısımlardaki kaynak, kesme ve taşlama onarımlarını ve halat, zincir gibi askı tertibatı dışındaki parça değişimlerini önemli bakım ve onarım sayar. Yönetmeliğin Ek-III'üne göre bu durumda, kaldırma kapasitesi yönetmelikte belirtilen katsayılarla artırılarak yük testi de yapılır. Revizyonu biten vinç bu kontrolden geçmeden işe çıkmamalıdır. Kontrolün kimin tarafından, nasıl yapıldığını <a href=\"/blog/vinc-periyodik-kontrol-oncesi-bakim.html\">vinç periyodik kontrolü</a> yazımızda topladık."
+    },
+    {
+      "type": "h2",
+      "text": "Milas'ta vinç revizyonu: nasıl ilerliyoruz?"
+    },
+    {
+      "type": "p",
+      "text": "Önce vinci görüyoruz: sahada ya da Güllük–Güvercinlik arasındaki atölyemizde çalıştırıp dinliyor, taşıyıcı yapıyı temizletip bakıyoruz. Revizyon mantıklıysa kapsamı ve parça listesini çıkarıyoruz. Mantıklı değilse bunu açıkça söylemek de işimizin parçası; parası boşa gidecek bir revizyon kimsenin işine yaramaz. Pres hortum, torna ve kaynak aynı tesiste olduğu için çoğu parçada dışarıyı beklemiyoruz. Ayrıntılar için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> sayfamıza göz atın."
+    },
+    {
+      "type": "callout",
+      "text": "Vincinizin birkaç fotoğrafını, plakasını ya da model bilgisini ve şikâyetleri gönderin. Ön değerlendirmeyi yapalım; gerekirse Milas, Bodrum ve Muğla çevresinde vinci yerinde görelim."
+    }
+  ],
+  "cikarimlar": [
+    "Karar vincin yaşına değil, taşıyıcı yapının durumuna ve parça bulunabilirliğine göre verilir.",
+    "Bom uzatmak veya basıncı artırmak kapasite artırmaz, yük tablosunu geçersiz kılar.",
+    "Karşılaştırmada fiyat kadar iki seçenekteki duruş süresini de hesaba katın.",
+    "Bakım ve periyodik kontrol kayıtları revizyon kararını kolaylaştırır.",
+    "Revizyonu yoğun sezon dışına alıp bu dönemde vinç kiralamak işi durdurmaz."
+  ],
+  "faqs": [
+    {
+      "q": "Eski bir vinç revizyondan sonra ne kadar daha kullanılır?",
+      "a": "Tek bir süre vermek doğru olmaz. Taşıyıcı yapı sağlamsa ve revizyondan sonra bakım düzenli yapılırsa vinç uzun süre güvenle çalışabilir. Belirleyici olan, yapının durumu ve sonraki bakım disiplinidir."
+    },
+    {
+      "q": "Kaza geçirmiş vinç tamir edilir mi?",
+      "a": "Hasar taşıyıcı yapıda değilse ya da tek noktada ve onarılabilir durumdaysa evet. Bom, kolon veya şasede yaygın deformasyon varsa onarım ekonomik olmayabilir. Her iki durumda da yönetmelik, kazadan sonra vincin yeniden kullanılmadan önce periyodik kontrolden geçmesini ister."
+    },
+    {
+      "q": "Bom uzatarak vincin kapasitesi artırılabilir mi?",
+      "a": "Hayır. Revizyon vinci tasarım değerlerine döndürür; kapasiteyi veya bom boyunu tasarımın dışına çıkaran değişiklikler yük tablosunu geçersiz kılar. Daha büyük kapasite veya erişim gerekiyorsa uygun kapasitede bir vinç gerekir."
+    },
+    {
+      "q": "Vincin parçası bulunamıyorsa ne yapılır?",
+      "a": "Önce muadil parça ve onarım seçeneği araştırılır; pim, burç ve benzeri parçalar tornada ölçüsüne göre imal edilebilir. Kumanda valf bloğu, döner tabla rulmanı veya emniyet düzenekleri gibi kritik parçalar için güvenilir bir seçenek yoksa, vinci revize etmek yerine yenisini düşünmek daha doğrudur."
+    },
+    {
+      "q": "Vincim revizyondayken işimi nasıl sürdürürüm?",
+      "a": "Revizyonu mümkünse yoğun sezonun dışına planlayın. Bu sürede işiniz durmasın diye Milas, Bodrum ve Muğla çevresinde operatörlü vinç kiralama hizmeti de veriyoruz."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (güncel metin)",
+      "publisher": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "HIAB 435K HiPro Operator's Manual (bakım, güvenlik ve arıza giderme bölümleri)",
+      "publisher": "HIAB",
+      "url": "https://cms.hiab.com/contentassets/176458ce1b3c4d0e82a446779079d6b8/hiab---435k-hipro---operators-manual.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/blog/vinc-revizyonu-ne-zaman.html",
+    "/blog/vinc-periyodik-kontrol-oncesi-bakim.html",
+    "/hizmetler/vinc-kiralama.html"
+  ]
+}

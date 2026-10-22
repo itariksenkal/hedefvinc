@@ -1,0 +1,324 @@
+{
+  "slug": "vinc-kiralarken-sorulacak-sorular",
+  "_hedef": "vinç kiralarken nelere dikkat edilmeli",
+  "title": "Vinç Kiralarken Nelere Dikkat Edilmeli? Soru Listesi",
+  "h1": "Vinç Kiralarken Nelere Dikkat Edilmeli? Firmaya Sormanız Gereken Sorular",
+  "desc": "Vinç kiralarken nelere dikkat edilmeli? Fiyat kapsamı, belge, sigorta, operatör, saha ve iptal koşulları için firmaya sorulacak soruların kontrol listesi.",
+  "category": "Rehber",
+  "image": "saha-mobil-vinc.jpg",
+  "imageAlt": "Hedef Vinç yazılı kamyon üstü vinç ve büyük sarı mobil vinç, yüksek binaların önünde çelik çatı konstrüksiyonunu birlikte yerleştiriyor",
+  "kisaCevap": "Vinç kiralarken fiyatın neyi kapsadığını, gelecek vincin bu yükü bu mesafede kaldırıp kaldıramayacağını, güncel periyodik kontrol raporunu, operatörün belgesini, sigortayı ve erteleme koşullarını sorun. Yol, bekleme, aparat ve KDV'nin dahil olup olmadığı yazılı netleşmeli; kapasite cevabı vincin yük tablosuna dayanmalıdır. Sahayı, zemini ve mesafeyi hiç sormadan fiyat veren firmaya karşı dikkatli olun.",
+  "cikarimlar": [
+    "Teklifleri rakama göre değil; yol, bekleme, aparat ve KDV dahil kapsamına göre karşılaştırın.",
+    "\"Kaldırırız\" cevabı yetmez; yükün ağırlığı ve mesafesi vincin yük tablosuna göre kontrol edilmelidir.",
+    "Periyodik kontrol raporu güncel olmalı ve sahaya gelen vinçle eşleşmelidir.",
+    "Mobil vinç operatörleri için MYK belgesi 23 Mart 2027'den itibaren zorunludur.",
+    "Kısa bir WhatsApp mesajı da olsa işin tanımını, fiyat esasını ve tarihi yazılı alın."
+  ],
+  "intro": "İki firmadan iki teklif aldınız, rakamlar birbirine yakın; ama hangisinin sahada sürpriz çıkarmayacağını telefonda anlamak zor. Bu liste vinç kiralayan müteahhitler, villa sahipleri ve işletmeler için hazırlandı: Firmaya soracağınız soruları gruplar hâlinde, her birinin neden önemli olduğunu ve iyi bir cevabın nasıl duyulduğunu aşağıda bulacaksınız.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Vinç kiralarken neden soru sormak gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "Vinç kiralamada en sık yaşanan sorunlar makineden değil, konuşulmamış ayrıntılardan çıkar: fiyata dahil sanılan ama dahil olmayan bir yol ücreti, sahaya gelip ayaklarını açamayan bir vinç, kapasitesi yetmediği için boşa dönen bir sefer. Bunların hepsi, kiralamadan önce birkaç dakikalık bir konuşmayla önlenebilir. Üstelik iyi bir firma bu sorulardan rahatsız olmaz; tersine, işin doğru planlanmasını kolaylaştırdığı için memnun olur."
+    },
+    {
+      "type": "h2",
+      "text": "Fiyat ve kapsam için neler sorulmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Fiyatın hangi esasla verildiğini ve hangi kalemleri kapsadığını sorun; aynı rakam iki firmada çok farklı işleri anlatabilir:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Fiyat saatlik mi, günlük mü, iş başı mı?</strong> Kısa işlerle uzun projeler farklı fiyatlanır.",
+        "<strong>Vincin gidiş-dönüş yol ücreti fiyata dahil mi?</strong> Mesafe arttıkça bu kalem büyür.",
+        "<strong>Asgari çalışma süresi var mı?</strong> Yarım saatlik bir iş için kaç saat ödeneceğini bilin.",
+        "<strong>Sahada bekleme olursa nasıl hesaplanır?</strong> Yük hazır değilse geçen süre de bir maliyettir.",
+        "<strong>Sapan, zincir, travers gibi aparatlar dahil mi?</strong> Özel aparat gereken işlerde bunu ayrıca sorun.",
+        "<strong>Gece, hafta sonu ya da bayram çalışması farklı mı?</strong> Takviminiz esnekse avantaj sağlayabilir.",
+        "<strong>Fiyat KDV dahil mi, hariç mi?</strong> Teklifleri karşılaştırırken aynı esasa göre bakın."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Fiyatın hangi etkenlere göre oluştuğunu ayrıntılı merak ediyorsanız <a href=\"/blog/vinc-kiralama-fiyatlari.html\">vinç kiralama fiyatları</a> yazımıza göz atabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç ve belgeleri hakkında neler sorulmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Vincin periyodik kontrol raporunu, bu iş için kapasitesini, emniyet sistemlerini, bakımını ve sigortasını sorun:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Vincin güncel periyodik kontrol raporu var mı?</strong> <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a>'ne göre mobil ve yükleyici vinçler dahil krenler, ilgili standartta daha kısa bir süre yoksa en geç yılda bir periyodik kontrolden geçmelidir.",
+        "<strong>Gelecek vinç bu yükü bu mesafede kaldırabiliyor mu?</strong> Kapasite yalnızca tonajla değil, bom uzunluğu ve yarıçapla birlikte okunur. Firmanın işi kapasite tablosuna göre kontrol edip etmediğini sorun.",
+        "<strong>Vincin yük moment sınırlayıcısı çalışıyor mu?</strong> Bu sistem vincin kapasitesini aşmasını önler; devre dışı bırakılmış bir sınırlayıcı kabul edilemez. Ayrıntılar <a href=\"/blog/yuk-moment-sinirlayici-arizasi.html\">yük moment sınırlayıcı arızası</a> yazımızda.",
+        "<strong>Vincin bakımını kim yapıyor?</strong> Sahada arıza çıkarsa nasıl bir çözüm sunulacağını öğrenin.",
+        "<strong>Sigorta neyi kapsıyor?</strong> Makinenin, yükün ve üçüncü kişilerin nasıl güvence altında olduğunu sorun; cevabı yazılı isteyin."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Operatör hakkında neler sorulmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Operatörün kim olduğunu, belgesini, yükü kimin bağlayacağını ve işi hangi durumlarda durduracağını sorun:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Vinç operatörüyle mi geliyor?</strong> Operatörlü kiralamada makineyi tanıyan kişi kullanır; sorumluluk dağılımı da buna göre değişir.",
+        "<strong>Operatörün belgesi var mı?</strong> <a href=\"https://www.resmigazete.gov.tr/eskiler/2026/03/20260323-7.htm\">2026/1 sayılı tebliğ</a> ile mobil vinç operatörlüğü MYK belge zorunluluğu kapsamına alındı; tebliğe göre 23 Mart 2027'den itibaren belgesiz operatör çalıştırılamaz.",
+        "<strong>Yükü kim bağlayacak, işareti kim verecek?</strong> Sapancı ve işaretçinin kim olduğu baştan belli olmalıdır.",
+        "<strong>Operatör hangi durumlarda işi durdurur?</strong> Rüzgâr, zemin ve görüş konusunda firmanın kuralını öğrenin."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Operatörlü kiralamada kimin neden sorumlu olduğunu <a href=\"/blog/operatorlu-vinc-kiralama.html\">operatörlü vinç kiralama</a> yazımızda tablo hâlinde anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "İyi bir vinç firması size hangi soruları sorar?"
+    },
+    {
+      "type": "p",
+      "text": "İyi firma kurulum noktasını, zemini, yükün ineceği yeri, havai hatları, yolu ve izin durumunu sorar. Bu sorular sizin firmaya değil, firmanın size sorması gereken sorulardır. Fiyat verilmeden önce bunların hiçbiri sorulmadıysa, iş günü sahada planın değişme ihtimali yüksektir:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Vinç tam olarak nereye kurulacak, zemin asfalt mı, toprak mı, dolgu mu?",
+        "Yük nereye inecek, arada bina, ağaç ya da duvar gibi engeller var mı?",
+        "Yakında elektrik ya da telefon hattı var mı?",
+        "Yol dar mı, eğimli mi, aracın girişini zorlaştıran bir nokta var mı?",
+        "Yol ya da kaldırım kapanacak mı, bunun için izin gerekiyor mu?",
+        "Keşif gerekiyor mu, yoksa fotoğraflar yeterli mi?"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Takvim, iptal ve hava koşulu için ne sorulmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Vincin sahada olacağı saati, hava nedeniyle ertelemede ne olacağını ve iptal koşullarını sorun:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Vinç saat kaçta sahada olacak?</strong> Ekibinizi ve malzemeyi buna göre hazırlarsınız.",
+        "<strong>Rüzgâr ya da yağmur nedeniyle iş ertelenirse ne olur?</strong> Yeni tarih ve ücret koşulunu sorun.",
+        "<strong>İptal ya da tarih değişikliği koşulları neler?</strong> Son dakika değişikliklerinin nasıl karşılandığını öğrenin."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Takvim sorusu özellikle sezonluk işlerde önem kazanır. Turistik bölgelerde inşaat faaliyetlerinin kısıtlandığı dönemler, tekne kışlama ve denize indirme haftaları ya da bayram öncesi yoğunluk, vinç programlarını doldurur. Bu dönemlerde tarihinizi erken kesinleştirmek, istediğiniz günü almanın en kolay yoludur."
+    },
+    {
+      "type": "h2",
+      "text": "Tek sayfalık kontrol tablosu"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Konu",
+        "Sorulacak soru",
+        "Dikkat edilecek nokta"
+      ],
+      "rows": [
+        [
+          "Fiyat",
+          "Neler dahil, neler hariç?",
+          "Yol, bekleme, aparat ve KDV ayrı ayrı netleşmeli"
+        ],
+        [
+          "Kapasite",
+          "Bu yük bu mesafede kalkıyor mu?",
+          "Cevap kapasite tablosuna dayanmalı"
+        ],
+        [
+          "Belge",
+          "Periyodik kontrol raporu var mı?",
+          "Rapor güncel olmalı ve gelecek vinçle eşleşmeli"
+        ],
+        [
+          "Operatör",
+          "Belgesi ve deneyimi nedir?",
+          "Makineyi tanıyan operatör tercih edilmeli"
+        ],
+        [
+          "Sigorta",
+          "Neyi kapsıyor?",
+          "Cevap yazılı olmalı"
+        ],
+        [
+          "Saha",
+          "Keşif gerekiyor mu?",
+          "Karmaşık işlerde keşifsiz fiyat risklidir"
+        ],
+        [
+          "İzin",
+          "Yol veya kaldırım kapanacak mı?",
+          "İzin iş gününden önce alınmalı"
+        ],
+        [
+          "Takvim",
+          "Hava bozarsa ne olur?",
+          "Erteleme koşulu baştan bilinmeli"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "İyi cevap ile zayıf cevap nasıl ayırt edilir?"
+    },
+    {
+      "type": "p",
+      "text": "İyi cevap somuttur ve bir ölçüme, belgeye ya da yazılı bir kurala dayanır; zayıf cevap \"merak etmeyin\" der. Soruyu sormak işin yarısıdır, asıl önemli olan gelen cevabı değerlendirmektir. Aşağıda sık sorulan birkaç soruya verilen güven veren ve şüphe uyandıran cevap örneklerini yan yana koyduk:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Soru",
+        "Güven veren cevap",
+        "Şüphe uyandıran cevap"
+      ],
+      "rows": [
+        [
+          "Bu yük bu mesafede kalkar mı?",
+          "Ağırlığı ve mesafeyi aldım, kapasite tablosuna göre kontrol ettim",
+          "Kaldırırız, merak etmeyin"
+        ],
+        [
+          "Periyodik kontrol raporu var mı?",
+          "Var, iş günü sahada da gösteririz",
+          "Var ama yanımızda değil"
+        ],
+        [
+          "Fiyata neler dahil?",
+          "Yol, operatör ve aparat dahil; bekleme şu şekilde hesaplanır",
+          "Sahada konuşuruz"
+        ],
+        [
+          "Keşif gerekir mi?",
+          "Fotoğraflara baktım, şu noktayı görmem gerekiyor",
+          "Gerek yok, her yere gireriz"
+        ],
+        [
+          "Rüzgâr çıkarsa ne olur?",
+          "Operatör güvenli değilse durdurur, yeni gün planlarız",
+          "Biraz rüzgârda sorun olmaz"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Vinç kiralama teklifinde neler yazılı olmalı?"
+    },
+    {
+      "type": "p",
+      "text": "İşin tanımı, vincin tipi, fiyat esası, dahil olan kalemler, tarih ve sizden beklenen hazırlıklar yazılı olmalıdır. Telefonda konuşulan her şey iş günü hatırlanmayabilir; kısa da olsa yazılı bir teklif iki tarafı da korur. WhatsApp mesajı bile olsa teklifte şunların yer almasını isteyin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "İşin tanımı: ne kaldırılacak, nereden nereye",
+        "Gelecek vincin tipi ve operatörlü olup olmadığı",
+        "Fiyat esası: saatlik, günlük ya da iş başı; dahil olan ve olmayan kalemler",
+        "Tarih, saat ve erteleme koşulu",
+        "İş sahibinden beklenen hazırlıklar: zemin, izin, alanın boşaltılması"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Hangi teklif şüphe uyandırmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Sahayı sormadan verilen düşük fiyat ve belge göstermekten kaçınmak en belirgin işaretlerdir:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Sahayı, yükü ve mesafeyi hiç sormadan verilen çok düşük fiyat",
+        "Periyodik kontrol raporunu ya da operatör belgesini göstermekten kaçınmak",
+        "“Nasılsa kaldırırız” rahatlığı; kapasite hesabı yerine tahminle konuşmak",
+        "Fiyatın neyi kapsadığını yazılı olarak vermemek",
+        "Sahada ayakları tam açmadan ya da plaka koymadan kaldırmaya başlamak"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu işaretlerden biri varsa en ucuz teklif sahada en pahalı teklife dönüşebilir: boşa giden bir gün, ikinci bir vinç ya da daha kötüsü bir hasar. Teklifleri yalnızca rakama göre değil, kapsamına ve verdiği güvene göre karşılaştırın."
+    },
+    {
+      "type": "h2",
+      "text": "Bu soruları bize de sorun"
+    },
+    {
+      "type": "p",
+      "text": "Hedef Vinç olarak 2005'ten beri Milas merkezli çalışıyoruz ve yukarıdaki soruların her birine açık cevap vermeyi işin bir parçası sayıyoruz. Vinçlerimiz operatörleriyle gelir; kaldırma planı, sapan seçimi ve saha güvenliği bizim sorumluluğumuzdadır. Vinçlerimizin bakımı kendi atölyemizde yapılır, işten önce ücretsiz keşif yapar ve fiyatı baştan netleştiririz. Ayrıntılar için <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> sayfamıza, Milas'taki süreç için <a href=\"/blog/milas-vinc-kiralama-rehberi.html\">Milas vinç kiralama rehberimize</a> bakabilirsiniz."
+    },
+    {
+      "type": "callout",
+      "text": "Listeyi elinize alın ve bizi arayın: fiyatın neleri kapsadığını, hangi vincin geleceğini ve belgelerini tek görüşmede netleştirelim. Acil işlerde 7/24 ulaşabilirsiniz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Kiralık vincin periyodik kontrol raporu sahada bulunmalı mı?",
+      "a": "Evet. İş Ekipmanları Yönetmeliği, kurulum ve montaj şartlarına tabi olmayan seyyar bir iş ekipmanı işletme dışında kullanıldığında son periyodik kontrol raporunun ekipmanla birlikte bulundurulmasını ister. Raporun tarihine ve rapordaki vincin sahaya gelen vinçle aynı olduğuna bakın."
+    },
+    {
+      "q": "En ucuz vinç teklifi neden sorun çıkarabilir?",
+      "a": "Kapsamı belirsiz teklifler sahada ek ücrete, kapasitesi yetmeyen vinç de ikinci bir sefere dönüşebilir. Teklifleri neyi kapsadıklarına göre karşılaştırmak gerekir."
+    },
+    {
+      "q": "Vincin kapasitesinin yeterli olduğunu nasıl anlarım?",
+      "a": "Yükün ağırlığını, kaldırma yüksekliğini ve vincin yüke olan yatay mesafesini firmaya verin; firma bu değerleri vincin kapasite tablosuyla karşılaştırmalıdır."
+    },
+    {
+      "q": "Vinç kiralamada sigorta neyi kapsamalı?",
+      "a": "Makinenin, taşınan yükün ve üçüncü kişilere verilebilecek zararın nasıl güvence altında olduğu sorulmalıdır. Kapsam firmadan firmaya ve poliçeden poliçeye değiştiği için cevabı yazılı isteyin; değerli ya da hassas yüklerde yükün ayrıca sigortalanması gerekip gerekmediğini işin başında konuşun."
+    },
+    {
+      "q": "Vinç kiralarken sözleşme yapmak gerekir mi?",
+      "a": "Kısa işlerde ayrıntılı bir sözleşme şart olmayabilir, ancak işin tanımı, fiyat esası, dahil olan kalemler ve tarih mutlaka yazılı olarak netleşmelidir. Uzun süreli projelerde sorumluluk ve sigorta konularını içeren yazılı bir anlaşma yapmak iki taraf için de daha sağlıklıdır."
+    },
+    {
+      "q": "Hava kötü olursa vinç kiralaması ne olur?",
+      "a": "Rüzgâr ya da görüş güvenli değilse operatör kaldırma yapmaz ve yeni bir tarih planlanır. Erteleme koşullarını kiralamadan önce konuşmak en doğrusudur."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "Meslekî Yeterlilik Belgesi Zorunluluğu Getirilen Mesleklere İlişkin Tebliğ (Sıra No: 2026/1)",
+      "publisher": "Resmî Gazete (23 Mart 2026, sayı 33202)",
+      "url": "https://www.resmigazete.gov.tr/eskiler/2026/03/20260323-7.htm"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-kiralama.html",
+    "/blog/vinc-kiralama-fiyatlari.html",
+    "/blog/operatorlu-vinc-kiralama.html",
+    "/blog/dogru-vinc-secimi.html"
+  ]
+}

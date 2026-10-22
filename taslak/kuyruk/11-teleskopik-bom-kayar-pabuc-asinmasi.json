@@ -1,0 +1,244 @@
+{
+  "slug": "teleskopik-bom-kayar-pabuc-asinmasi",
+  "_hedef": "bom pabuçları / kayar pabuç değişimi",
+  "title": "Teleskopik Bom Kayar Pabuç Aşınması ve Pabuç Değişimi",
+  "h1": "Teleskopik Bom Kayar Pabuçları: Aşınma Belirtileri, Ayar ve Değişim",
+  "desc": "Bom pabuçları ve kayar pabuç değişimi ne zaman gerekir? Teleskopik bomda boşluk, ses ve titreme belirtileri, şim ayarı, yağlama ve Milas'ta bom tamiri.",
+  "category": "Vinç Tamiri",
+  "image": "saha-uzun-bom.jpg",
+  "imageAlt": "Beyaz kamyona monte vinç, mavi kademeli teleskopik bomunu yatay olarak uzatmış; sahada sarı kafes çelik parçalar ve kereste yığını",
+  "kisaCevap": "Teleskopik bomda kayar pabuçlar, iç içe geçen kademelerin birbirine sürtmeden kaymasını sağlayan ve aradaki boşluğu belirleyen aşınma parçalarıdır. Bom kesik kesik açılıyor, gıcırdıyor, ucu alışılmışın dışında sarkıyor ya da kademe ağzında plastik talaş birikiyorsa pabuçlar aşınmış veya yağsız kalmıştır. Pabuç kalınlığı ölçülür; üretici sınırının üzerindeyse şimle ayarlanır, sınıra yakın ya da hasarlıysa değiştirilir.",
+  "cikarimlar": [
+    "Pabuç kalınlığı birden fazla noktada ölçülür ve üreticinin verdiği en düşük kalınlıkla karşılaştırılır.",
+    "Sökümde her pabucun şimleri etiketlenip birlikte saklanmalı; doğru şim doğru yere dönmelidir.",
+    "Pabuç tamamen biterse çelik çeliğe sürtünür ve hasar bom kademesine geçer.",
+    "Kirli kayma yüzeyine gres sürmek pabucu zımparalamak gibidir; önce temizlik, sonra yağlama.",
+    "Kademe ağzındaki pabuçlar çoğu zaman sahada, iç uçtakiler genellikle atölyede değiştirilir."
+  ],
+  "intro": "Teleskopik bom her açılıp kapandığında kademeler pabuçların üzerinde kayar; pabuç sessizce aşınır ve sorun çoğu zaman bom ucu sarkmaya ya da kesik kesik gitmeye başladığında fark edilir. Bu rehber mobil vinç ve teleskopik bomlu araç üstü vinç sahipleri ile operatörler için; belirtileri, ayar ile değişim arasındaki kararı, yağlamayı ve sahada yapılabilecek basit kontrolü anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Kayar pabuç ne işe yarar?"
+    },
+    {
+      "type": "p",
+      "text": "Kayar pabuç, bom kademelerinin çelik çeliğe sürtmeden kaymasını sağlar ve kademeler arasındaki boşluğu belirler. Teleskopik bomun her kademesi bir öncekinin içinde kayar; çelik kademelerin doğrudan birbirine sürtmemesi için aralarına, genellikle mühendislik plastiğinden yapılmış aşınma pabuçları yerleştirilir. Bazı tasarımlarda pabuçlar yerine ya da onlarla birlikte makaralar kullanılır. Bom uzadığında yükün oluşturduğu kuvvetler, kademelerin alt, üst ve yan yüzeylerindeki pabuçlar üzerinden bir kademeden ötekine aktarılır."
+    },
+    {
+      "type": "p",
+      "text": "Pabucun arkasına konan ince ayar plakaları (şimler), pabuç aşındıkça boşluğu almak için kullanılır. Ayarlanabilir pabuç sistemlerinde boşluk dışarıdan bir cıvatayla da ayarlanabilir. Kademe ağzındaki pabuçlara çoğu zaman bom sökülmeden ulaşılır; kademenin iç ucundaki pabuçlar ise ancak kademe dışarı çekildiğinde görülür."
+    },
+    {
+      "type": "h2",
+      "text": "Bom pabucunun aşındığı nasıl anlaşılır?"
+    },
+    {
+      "type": "p",
+      "text": "Takılma, vuruntu, gıcırtı, bom ucunun sarkması ve kademe ağzında biriken plastik talaş en belirgin işaretlerdir:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bom açılıp kapanırken takılma, sarsıntı ya da tık tık vuruntu",
+        "Gıcırtı, metal metale sürtünme sesi",
+        "Bom ucunun yana ya da aşağı alışılmışın üzerinde sarkması",
+        "Kademe yüzeylerinde parlak sürtünme izleri, kalkmış boya, derin çizikler",
+        "Pabuç kenarlarında taşma, ezilme ya da parça kopması",
+        "Kademe ağızlarında ve bom içinde plastik talaş birikmesi"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu belirtilerin hepsi yalnızca pabuçtan gelmeyebilir. Teleskop silindiri, kademeleri birlikte hareket ettiren zincir ya da halat sistemi ve kademe kilitleme mekanizması da sarsıntı yapabilir. Ayırmak için bomu yüksüz olarak yavaşça açıp kapatır, sesin ve takılmanın hangi kademe ağzından geldiğine bakarız."
+    },
+    {
+      "type": "h2",
+      "text": "Pabuç neden ihmal edilmemeli?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü aşınan pabuç önce boşluğu büyütür, sonunda kademeyi çelik çeliğe sürtünmeye bırakır. Büyüyen boşluk, yükün bir kademeden ötekine darbeli aktarılmasına, bom ucunun salınmasına ve kademe yüzeylerinde lokal ezilmelere yol açar. Hassas montaj işlerinde salınım yapan bir bom hem operatörü hem sahadaki ekibi zorlar."
+    },
+    {
+      "type": "p",
+      "text": "Pabuç tamamen biterse çelik çeliğe sürtünür. Kademe yüzeyi aşınır, çizilir ve ezilir; bu artık yalnızca pabuç değişimiyle düzelmeyen, bomun kendisini ilgilendiren bir hasardır. Kademe yüzeyinde yapılacak kaynaklı bir onarım, <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a>'nde önemli bakım ve onarım sayılır ve sonrasında periyodik kontrolün yenilenmesini gerektirir. Kademe yüzeyindeki hasarın kaynakla onarılıp onarılamayacağını <a href=\"/blog/vinc-bom-catlagi-kaynakla-onarilir-mi.html\">vinç bom çatlağı kaynakla onarılır mı</a> yazımızda anlattık."
+    },
+    {
+      "type": "callout",
+      "text": "Pabuç değişimi, bom kademesi hasar görmeden yapıldığında küçük bir iştir. Aynı iş kademe yüzeyi bozulduktan sonra yapılırsa, yüzeyin onarımı da işe eklenir."
+    },
+    {
+      "type": "h2",
+      "text": "Pabuç ayarlanmalı mı, değiştirilmeli mi?"
+    },
+    {
+      "type": "p",
+      "text": "Pabuç hâlâ üretici sınırının üzerindeyse şimle ayarlanır; sınıra yakın ya da hasarlıysa değiştirilir. Karar şu tabloya göre verilir:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Durum",
+        "Yapılacak iş"
+      ],
+      "rows": [
+        [
+          "Pabuç kalınlığı üretici sınırının üzerinde, boşluk fazla",
+          "Şim ilavesi ya da ayarla boşluğun alınması"
+        ],
+        [
+          "Pabuç kalınlığı sınıra yakın ya da altında",
+          "Pabuç değişimi; aynı kademedeki karşılıklı pabuçlar birlikte ele alınır"
+        ],
+        [
+          "Pabuçta ezilme, kopma, yanık izi",
+          "Değişim ve nedenin araştırılması: yağsızlık, aşırı yük, hizasızlık"
+        ],
+        [
+          "Kademe yüzeyinde çizik, ezik",
+          "Pabuçla birlikte kademe yüzeyinin değerlendirilmesi"
+        ],
+        [
+          "Yeni pabuç kısa sürede aşınıyor",
+          "Kademe düzlemselliği, bom doğrusallığı, yağlama ve kullanım şeklinin kontrolü"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Pabuç kalınlığı birden fazla noktada ölçülür ve üreticinin verdiği en düşük kalınlıkla karşılaştırılır. Sınır değerler ve şim kalınlıkları vincin modeline özeldir; herkes için geçerli tek bir rakam yoktur. Toleranslar üst üste bindiği için aynı bomda farklı noktalara farklı kalınlıkta şim gerekebilir. Şim, boşluğu alıp kademelerin rahat kaymasına izin verecek kadar konur; fazla sıkı ayarlanmış pabuç da kademeyi zorlar. Üretici servis kılavuzları, örneğin <a href=\"https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf\">National Crane'in NBT30H-2 servis kılavuzu</a>, sökülen her pabucun şim ve plakalarının etiketlenip birlikte saklanmasını, takılırken aynı yere dönmesini ve pabuçların aşınma, oyuk ve anormal izler açısından tek tek incelenmesini ister."
+    },
+    {
+      "type": "h2",
+      "text": "Bom pabucu nasıl değiştirilir?"
+    },
+    {
+      "type": "p",
+      "text": "Ağız pabuçları bom yatay ve yüksüzken sökülür; iç uçtakiler için kademe dışarı çekilir. Atölyede izlediğimiz sıra şöyledir:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Bom yatay konuma alınır, yüksüz hale getirilir ve emniyete alınır.",
+        "Kademe ağızlarındaki pabuçlar ve şimler sökülür, kalınlıklar ölçülür.",
+        "İç uçtaki pabuçlar için kademe çekilir; bu, teleskop silindiri ve bağlantılarının sökülmesini gerektirebilir ve atölye işidir.",
+        "Kademe yüzeyleri temizlenir, çizik, ezik ve çatlak açısından kontrol edilir.",
+        "Yeni pabuçlar ve gerekli şimler takılır, boşluk ölçülür.",
+        "Kayma yüzeyleri üreticinin önerdiği yağlayıcıyla yağlanır; bom yüksüz olarak birkaç kez tam açılıp kapatılır, ardından kontrollü yükle denenir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Değişimde orijinal ya da ölçü ve malzeme bakımından eşdeğer pabuç kullanılmalıdır. Farklı malzemeden, gözle uygun görünen bir pabuç, farklı sürtünme ve aşınma davranışı gösterebilir."
+    },
+    {
+      "type": "p",
+      "text": "Pabuç değişimi, kademenin iç kısmını görmek için de bir fırsattır. Kademe çekildiğinde teleskop silindirinin bağlantıları, varsa kademeleri birlikte hareket ettiren zincir ya da halatlar ve makaraları, kademe içindeki hortum ve kablo güzergâhı da kontrol edilir. Bom bir kez açılmışken bu kontrolleri yapmamak, kısa süre sonra aynı sökümü tekrarlamak anlamına gelebilir."
+    },
+    {
+      "type": "h2",
+      "text": "Kayar pabuçlar nasıl yağlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Kayma yüzeyleri temizlendikten sonra, vincin kılavuzunda belirtilen aralıkta ve yağlayıcıyla yağlanır. Bu, bom bakımının en önemli adımlarından biridir: Yağsız çalışan pabuç hem hızlı aşınır hem de ısınarak şekil değiştirebilir. Bazı pabuç malzemeleri belirli yağlayıcılarla çalışacak şekilde tasarlanır; bu yüzden elde ne gres varsa onu sürmek doğru değildir."
+    },
+    {
+      "type": "p",
+      "text": "Tozlu şantiyelerde ve deniz kenarında kayma yüzeyleri daha sık temizlenip yağlanmalıdır. Yüzeye yapışan kum ve tuz, gresi aşındırıcı bir macuna çevirir; kirli yüzeyin üzerine gres sürmek, pabucu zımparalamak gibidir. Yağlamayla birlikte bakılacak diğer noktalar için <a href=\"/blog/vinc-revizyonu-ne-zaman.html\">vinç revizyonu ne zaman gerekir</a> yazımıza göz atabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Operatör pabuçları sahada nasıl kontrol eder?"
+    },
+    {
+      "type": "p",
+      "text": "Operatör vinci düz zemine kurar, bomu yatay konumda tam açıp kademe ağızlarına ve yüzeylerine bakar, ardından bomu yavaşça kapatıp açarak sesin ve takılmanın yerini dinler. Bu kontrol ölçümün yerini tutmaz, ama ne zaman ölçüm gerektiğini gösterir:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Vinci düz zemine kurun, ayakları açın, bomu yatay konuma getirin ve kademeleri tam açın.",
+        "Kademe ağızlarına bakın: Pabuçlar yerinde mi, kenarlarında taşma, kopma ya da yanık izi var mı?",
+        "Kademe yüzeylerini kontrol edin: Pabuçların temas ettiği bölgede parlak, düzgün bir iz normaldir; derin çizik, ezik ve kalkmış boya değildir.",
+        "Bomu yavaşça kapatın ve açın; sesin ve takılmanın hangi kademe ağzında olduğunu not edin.",
+        "Bom ucunun yüksüzken ve hafif bir yükle ne kadar sarktığını önceki gözlemlerinizle karşılaştırın; belirgin bir artış, boşluğun büyüdüğünü gösterir.",
+        "Kademe ağızlarında biriken plastik talaşı temizleyin ve bir sonraki kontrolde yeniden birikip birikmediğine bakın."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu gözlemleri tarihleriyle not etmek, pabuç değişiminin zamanını tahmin etmeyi kolaylaştırır ve bomun aniden \"boşluk yaptı\" diye işten kalmasını önler."
+    },
+    {
+      "type": "h2",
+      "text": "Hangi kullanım alışkanlıkları pabucu hızlı aşındırır?"
+    },
+    {
+      "type": "p",
+      "text": "Sınırların dışında yük altında teleskop hareketi, yükü yana çekmek ve bomu yolda emniyetsiz taşımak pabucu en çok yoran alışkanlıklardır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bomu yük altında uzatıp kısaltmak, üreticinin izin verdiği sınırlar içinde yapılmalıdır; bazı vinçlerde teleskop hareketi yük altında kısıtlıdır.",
+        "Yükü yana çekmek ya da bomla itmek, yan pabuçlara tasarlanmadığı bir yük bindirir.",
+        "Bomu tam kapalı olarak taşımak ve kademeleri yolda sarsıntıya karşı emniyetli tutmak, pabuçların yol boyunca dövülmesini önler."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Pabuç değişimiyle birlikte hangi onarımlar yapılabilir?"
+    },
+    {
+      "type": "p",
+      "text": "Kademe yüzeyi, bağlantı pimleri ve burçlar gerekiyorsa aynı söküm sırasında onarılır. Atölyemizde pabuç ölçümü, şim ayarı ve değişimi yapıyor; gerekirse kademe yüzeyi ve bağlantı pimleri için kaynak ve torna işlerini aynı çatı altında tamamlıyoruz. Ağız pabuçları gibi bom sökülmeden yapılabilen işler için Milas, Bodrum ve Muğla çevresinde yerinde de çalışıyoruz. Ayrıntılar için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> sayfamıza, araç üstü vinçler için <a href=\"/hizmetler/hiyap-vinc-tamiri.html\">hiyap vinç tamiri</a> sayfamıza bakabilirsiniz. Bom, kapsamlı bir yenilemenin parçasıysa <a href=\"/blog/vinc-retrofit-modernizasyon-nedir.html\">vinç retrofit</a> yazımız da yol gösterir."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Bom pabuçları ne sıklıkla değişir?",
+      "a": "Sabit bir süre yoktur; pabuç, kalınlığı üreticinin verdiği en düşük değere yaklaştığında ya da ezilme, kopma gibi hasar gördüğünde değişir. Yoğun kullanılan, tozlu ortamda ya da deniz kenarında çalışan vinçlerde aşınma daha hızlıdır; pabuçlar periyodik bakımda ölçülmelidir."
+    },
+    {
+      "q": "Pabuç yerine şim koymak yeterli mi?",
+      "a": "Pabuç hâlâ yeterli kalınlıktaysa şim ilavesi boşluğu almak için doğru yöntemdir. Pabuç sınıra yaklaşmış ya da hasarlıysa şimle idare etmek sorunu erteler; pabuç değişmelidir."
+    },
+    {
+      "q": "Teleskopik bom neden kesik kesik açılıyor?",
+      "a": "En sık sebepler aşınmış ya da yağsız pabuçlar, kirli kayma yüzeyleri, teleskop silindirinde iç kaçak, hidrolik devrede hava ve kademeleri birlikte hareket ettiren sistemdeki sorunlardır. Bom yüksüz açılıp kapatılarak sesin ve takılmanın hangi kademeden geldiği belirlenir."
+    },
+    {
+      "q": "Hangi pabuç kullanılmalı?",
+      "a": "Orijinal ya da ölçü, malzeme ve sertlik bakımından eşdeğer pabuç kullanılmalıdır. Malzeme farkı, sürtünme ve aşınma davranışını değiştirir; yanlış pabuç hem kendisi hızlı aşınır hem de kademe yüzeyine zarar verebilir."
+    },
+    {
+      "q": "Bom pabucu değişimi yerinde yapılabilir mi?",
+      "a": "Kademe ağzındaki pabuçlar çoğu zaman bom sökülmeden, sahada değiştirilebilir. Kademenin iç ucundaki pabuçlar için kademenin dışarı çekilmesi ve teleskop silindiri bağlantılarının sökülmesi gerekebileceğinden bu iş genellikle atölyede yapılır. Hangisinin gerektiği, ölçüm sonrası belli olur."
+    },
+    {
+      "q": "Pabuç değişiminden sonra test gerekir mi?",
+      "a": "Evet. Bom önce yüksüz olarak birkaç kez tam açılıp kapatılır, boşluk ve sesler kontrol edilir, ardından kontrollü yükle denenir. Değişim sırasında kademe yüzeyinde kaynaklı onarım yapıldıysa bu önemli bakım ve onarım sayılır ve periyodik kontrol yeniden yapılmalıdır."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "NBT30H-2 Service Manual",
+      "publisher": "National Crane (Manitowoc)",
+      "url": "https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/hizmetler/hiyap-vinc-tamiri.html",
+    "/blog/vinc-bom-catlagi-kaynakla-onarilir-mi.html",
+    "/blog/vinc-revizyonu-ne-zaman.html",
+    "/blog/vinc-retrofit-modernizasyon-nedir.html"
+  ]
+}

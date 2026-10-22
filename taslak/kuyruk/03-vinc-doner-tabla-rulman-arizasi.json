@@ -1,0 +1,220 @@
+{
+  "slug": "vinc-doner-tabla-rulman-arizasi",
+  "_hedef": "vinç döner tabla / slewing rulman arızası",
+  "title": "Vinç Döner Tabla (Slewing) Rulman Arızası: Belirtiler",
+  "h1": "Vinç Döner Tabla ve Slewing Rulman Arızası: Belirtiler, Ölçüm ve Çözüm",
+  "desc": "Vinç döner tabla rulman arızası nasıl anlaşılır? Boşluk, ses ve takılma belirtileri, devrilme boşluğu ölçümü, cıvata ve gres kontrolü; Milas vinç servisi.",
+  "category": "Vinç Tamiri",
+  "image": "real_ones/atolye-vinc-kolonu-doner-tabla-rulmani.jpg",
+  "imageAlt": "Atölyede halatla askıya alınmış sarı vinç kolonu ve tabanı, altında mavi döner tabla rulmanı",
+  "kisaCevap": "Döner tabla (slewing) rulmanı arızası; dönüşte hep aynı noktada takılma, gıcırtı ya da tıklama, kolonda hissedilen boşluk ve keçeden koyu, metal tozlu gres çıkmasıyla anlaşılır. Kesin teşhis için rulmanın devrilme boşluğu ölçülüp referans değerle karşılaştırılır, bağlantı cıvataları ve dişli kontrol edilir. Kolonda gözle görülür boşluk ya da kopuk cıvata varsa vinç ölçülmeden yük altına sokulmamalıdır.",
+  "cikarimlar": [
+    "Takılma hep aynı açıdaysa diş veya rulman yolu, her açıda zayıflıksa dönüş motoru ve valf düşünülür.",
+    "Aşınma devrilme boşluğu ölçümüyle izlenir; ilk ölçüm referanstır, belirleyici olan zamanla artıştır.",
+    "Bağlantı cıvataları oturma payı için yeniden sıkılmalı; kopuk bir cıvata komşularının da kontrolünü gerektirir.",
+    "Rulman yolu vinç döndürülerek, taze gres keçeden bütün çevre boyunca çıkana kadar greslenir.",
+    "Üst yapının söküldüğü rulman değişiminden sonra periyodik kontrol yeniden yapılmalıdır."
+  ],
+  "intro": "Dönüşte gelen bir tıklama ya da kolonda hissedilen hafif bir boşluk, sahada çoğu zaman \"eski vinç, normal\" diye geçiştirilir. Oysa vincin bütün üst yapısı tek bir büyük rulmana ve onu bağlayan cıvatalara oturur. Bu rehber hiyap ve mobil vinç sahipleri ile operatörler için; belirtiden ölçüme, gres ve cıvata bakımından rulman değişimine kadar atölyede izlediğimiz yolu anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Döner tabla rulmanı ne iş yapar?"
+    },
+    {
+      "type": "p",
+      "text": "Döner tabla rulmanı, vincin üst yapısını taşıyan ve dönmesini sağlayan büyük çaplı rulmandır; yükün ağırlığı ve bom uzadıkça büyüyen devrilme momenti bu rulman ile onu bağlayan cıvatalar üzerinden şaseye geçer. Katlanır bomlu hiyaplarda kolonun, mobil vinçlerde üst yapının altında bulunur. Dişli genellikle rulmanın iç ya da dış bileziği üzerindedir; hidrolik motor ve redüktör, bir pinyon dişliyle bu dişliyi çevirir."
+    },
+    {
+      "type": "p",
+      "text": "Her vinçte dönüş bu şekilde sağlanmaz. Bazı hiyap tiplerinde kolon, kremayer dişli ve silindirlerle döndürülür; belirtiler benzese de çözüm farklıdır. Hangi sistemle karşı karşıya olduğumuzu ilk bakışta ayırırız."
+    },
+    {
+      "type": "p",
+      "text": "Bu yüzden döner tabla arızası \"biraz ses yapıyor, idare eder\" diye geçiştirilecek bir arıza değildir: Rulman ya da cıvatalar teslim olduğunda üst yapıyı yerinde tutacak başka bir parça yoktur."
+    },
+    {
+      "type": "h2",
+      "text": "Döner tabla arızası nasıl anlaşılır: rulman mı, tahrik mi?"
+    },
+    {
+      "type": "p",
+      "text": "Hep aynı açıda takılma, kolonda boşluk, yük alırken gelen klik sesi ve metal tozlu gres rulmanı; her açıda eşit derecede zayıf ya da yavaş dönüş ise daha çok dönüş motorunu, redüktörü veya valfi işaret eder. Dönüşle ilgili şikâyetlerin hepsi rulmandan gelmez. Aşağıdaki tablo, sahadan gelen şikâyetin nereyi işaret ettiğini ayırmak için kullandığımız kaba bir ayrımdır."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Belirti",
+        "Olası kaynak",
+        "İlk kontrol"
+      ],
+      "rows": [
+        [
+          "Dönüşte kesik hareket, hep aynı noktada takılma",
+          "Rulman yolunda hasar, kırık ya da aşınmış diş, pinyon boşluğu",
+          "Dişli ve pinyonun gözle kontrolü; takılmanın hep aynı açıda olup olmadığı"
+        ],
+        [
+          "Kolonda öne-arkaya boşluk, yük alırken \"klik\" sesi",
+          "Rulman aşınması ya da gevşemiş bağlantı cıvataları",
+          "Devrilme boşluğu ölçümü, cıvata kontrolü"
+        ],
+        [
+          "Gıcırtı, kuru sürtünme sesi",
+          "Yağsız yuvarlanma yolu ya da kuru dişli",
+          "Gresleme geçmişi, keçe durumu"
+        ],
+        [
+          "Dönüş yavaş veya zayıf, rulman sessiz",
+          "Dönüş motoru, redüktör ya da valf",
+          "Hidrolik basınç ve debi ölçümü"
+        ],
+        [
+          "Vinç yük altında kendi kendine dönüyor",
+          "Dönüş freni ya da valfte iç kaçak",
+          "Fren ve valf kontrolü"
+        ],
+        [
+          "Keçeden koyu, metal tozlu gres çıkıyor",
+          "Yuvarlanma yolunda aşınma",
+          "Gres numunesi, boşluk ölçümü"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ayrımı sahada yapmak için vinci yüksüz olarak yavaşça tam tur döndürür, takılmanın ya da sesin başladığı açıyı işaretleriz; aynı denemeyi hafif bir yükle tekrarlarız. Takılma hep aynı açıdaysa o bölgedeki diş ya da yuvarlanma yolu, her açıda eşit zayıflık varsa hidrolik taraf öne çıkar. Bu gözlem, hangi ölçümle devam edileceğini belirler."
+    },
+    {
+      "type": "h2",
+      "text": "Rulman aşınması nasıl ölçülür?"
+    },
+    {
+      "type": "p",
+      "text": "Aşınma, rulmanın devrilme boşluğu (tilting clearance) hassas bir komparatör saatle ölçülüp ilk ölçümle karşılaştırılarak bulunur; rulman aşındıkça bu boşluk artar. Büyük rulman üreticilerinin bakım dokümanlarında, örneğin <a href=\"https://www.thyssenkrupp-rotheerde.com/en/products/rothe-erde-slewing-bearings/technical-basics/installation-lubrication-maintenance\">thyssenkrupp rothe erde'nin kurulum, yağlama ve bakım talimatında</a> tarif edilen yöntem özetle şöyledir: Vinç ilk devreye alındığında ya da rulman değiştirildiğinde bir referans ölçüm yapılır. Alt yapı ile üst yapıya bağlı rulman bileziği arasına, yuvarlanma sistemine olabildiğince yakın bir noktaya komparatör saat yerleştirilir; önce geriye, sonra öne devrilme momenti uygulanarak aradaki fark okunur ve kaydedilir. Sonraki ölçümler aynı noktalarda, aynı koşullarda tekrarlanır ve artış izlenir."
+    },
+    {
+      "type": "p",
+      "text": "İzin verilen aşınma sınırı rulmanın tipine ve boyutuna göre değişir; herkes için geçerli tek bir rakam yoktur. Sınırı rulman ve vinç üreticisinin dokümanından alırız. Referans ölçümü hiç alınmamış eski vinçlerde ilk ölçüm, gelecekteki karşılaştırmanın başlangıcı olur; tek bir ölçümden çok, aylar içinde alınan ölçümlerin eğilimi belirleyicidir."
+    },
+    {
+      "type": "p",
+      "text": "Ölçümün yanında gres de bilgi verir. <a href=\"https://www.liebherr.com/shared/media/components/documents/grosswaelzlager/general-instructions%E2%80%93installation-lubrication-maintenance/liebherr-slewing-bearing-%E2%80%93general-instructions%E2%80%93installation-lubrication-maintenance.pdf\">Liebherr'in döner tabla rulmanı talimatı</a>, yuvarlanma yolundan düzenli aralıklarla gres numunesi alınmasını önerir; numunenin analizi aşınmayı ve rulman hasarını erken gösterebilir. Keçeden metal parlaklığı olan, koyulaşmış gres çıkıyorsa bunu not edin ve servise söyleyin."
+    },
+    {
+      "type": "h2",
+      "text": "Döner tabla cıvataları neden kontrol edilmeli?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü gevşeyen tek bir cıvata yükü komşu cıvatalara bindirir; zincirleme gevşeme ve cıvata kopması, üst yapının yerinden ayrılmasına kadar gidebilecek en ciddi senaryodur. Rulmanı kolon ve şaseye bağlayan cıvatalar, oturma payını telafi etmek için montajdan sonra yeniden sıkılmalıdır; rulman üreticileri bunu açıkça önerir. Liebherr'in bakım planı da bağlantı cıvatalarının ilk kez 500 çalışma saatinde, ardından yılda bir kontrol edilmesini öngörür; vincinizin kılavuzunda farklı bir aralık varsa o geçerlidir."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Cıvatalar üreticinin verdiği tork ya da ön gerilme değeriyle, verilen sırayla sıkılmalıdır.",
+        "Kopmuş ya da uzamış bir cıvata bulunursa çevresindekiler de kontrol edilmelidir; sorun çoğu zaman tek cıvatada kalmaz.",
+        "Cıvata sınıfı, boyu ve rondelası orijinaliyle aynı olmalıdır; \"elde ne varsa\" ile değiştirilmez.",
+        "Cıvata başlarında pas çizgisi ya da hareket izi, gevşemenin ilk işaretlerinden biridir."
+      ]
+    },
+    {
+      "type": "callout",
+      "text": "Kolonda gözle görülür boşluk, kopmuş cıvata ya da dönüşte ani takılma varsa vinci yük altına sokmayın. Bu belirtiler sahada idare etmeyi değil, kontrolü gerektirir."
+    },
+    {
+      "type": "h2",
+      "text": "Döner tabla rulmanı nasıl korunur?"
+    },
+    {
+      "type": "p",
+      "text": "Düzenli gresleme, keçe kontrolü ve dişlinin her zaman yağlı tutulmasıyla korunur. Rulman yolu, vinç dönerken ya da yeterince salınım yaparken, taze gres keçe dudaklarından bütün çevre boyunca çıkana kadar yağlanmalıdır; vinç dururken basılan gres yalnızca bir bölgeyi doldurur. thyssenkrupp rothe erde genel kural olarak kabaca her 100 çalışma saatinde, makaralı rulmanlarda ise her 50 çalışma saatinde bir yağlama önerir; yüksek nem, yoğun toz ve kir, büyük sıcaklık farkları ve sürekli dönme hareketi olan uygulamalarda bu aralık kısalır. Vincinizin kılavuzundaki aralık her zaman önceliklidir. Aynı üretici keçelerin en az altı ayda bir kontrol edilmesini, hasarlıysa değiştirilmesini de önerir."
+    },
+    {
+      "type": "p",
+      "text": "Dişli ve pinyonun diş yüzeylerinde her zaman bir gres tabakası bulunmalıdır. Kuru dişli hem ses yapar hem de diş profilini bozar. Eski, kumlu gres temizlenmeden üzerine yenisi sürülürse aşındırıcı bir macun oluşur. Döner tabla, günlük ve haftalık bakım listesinin sabit maddelerinden biri olmalı; bunun için <a href=\"/blog/hiyap-vinc-bakimi-kontrol-listesi.html\">hiyap vinç bakımı kontrol listesi</a> yazımızdan yararlanabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Rulman değişimi nasıl yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Rulman değişimi vincin üst yapısının kaldırılmasını gerektirdiği için atölye işidir. Adımlar genel olarak şöyledir:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Vinç yüksüz ve emniyetli hale getirilir; hortumlar ve tesisat işaretlenerek ayrılır.",
+        "Kolon ya da üst yapı uygun kaldırma ekipmanıyla kaldırılır, eski rulman sökülür.",
+        "Rulmanın oturduğu yüzeyler temizlenir; düzlemsellik ve hasar kontrol edilir. Oturma yüzeyi bozuksa yeni rulman da kısa sürede aynı akıbete uğrar; gerekiyorsa yüzey işlenir.",
+        "Yeni rulman, üreticinin montaj talimatına göre konumlandırılır.",
+        "Cıvatalar yeni ve doğru sınıfta olacak şekilde, belirtilen sırayla ve değerde sıkılır.",
+        "Dişli boşluğu ayarlanır, rulman ve dişli greslenir.",
+        "Referans boşluk ölçümü alınır ve kayda geçirilir; ardından fonksiyon testleri yapılır."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Üst yapının sökülüp rulmanın değiştirildiği bu tür işler, <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a>'nde tarif edilen \"önemli bakım ve onarım\" kapsamında değerlendirilir. Bu işlerden sonra vincin periyodik kontrolünün yetkili kişilerce yeniden yapılmasını planlamak gerekir."
+    },
+    {
+      "type": "p",
+      "text": "Değişimden önce sorunun gerçekten rulmanda olduğundan emin olmak da önemlidir. Boşluk yalnızca cıvata gevşekliğinden kaynaklanıyorsa doğru torkla sıkma ve kopuk cıvataların değişimi sorunu çözebilir; ses yalnızca kuru dişliden geliyorsa gresleme yeterli olabilir. Bu ayrımı ölçmeden yapmak, ya gereksiz bir masrafa ya da ertelenmiş bir riske yol açar."
+    },
+    {
+      "type": "h2",
+      "text": "Döner tabla tamiri için vinci atölyeye getirmek şart mı?"
+    },
+    {
+      "type": "p",
+      "text": "İlk kontrol için şart değildir; boşluk ölçümü, cıvata ve dişli kontrolü sahada da yapılabilir, rulman değişimi ise üst yapı söküldüğü için atölye işidir. Atölyemizde rulman boşluğu ölçümü, cıvata kontrolü, dişli ve pinyon muayenesi ile dönüş motoru ve fren kontrolünü birlikte yapıyoruz. Pim, burç ve benzeri parçaları gerektiğinde <a href=\"/hizmetler/torna-isleri.html\">torna tezgâhımızda</a> ölçüsüne göre üretiyoruz. Vinciniz yola çıkamıyorsa ilk kontrol için Milas, Bodrum, Muğla, Aydın ve İzmir çevresinde yerinde geliyoruz. Kapsamlı işler için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> sayfamıza, hiyaplar için <a href=\"/hizmetler/hiyap-vinc-tamiri.html\">hiyap vinç tamiri</a> sayfamıza bakabilirsiniz. Döner tabla, eski vinçlerde kapsamlı bir yenilemenin parçası olacaksa <a href=\"/blog/vinc-retrofit-modernizasyon-nedir.html\">vinç retrofit</a> yazımız da fikir verir."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Vinç döner tablası neden ses yapar?",
+      "a": "En sık sebepler yağsız kalmış rulman yolu ya da kuru dişli, aşınmış rulman ve gevşemiş bağlantı cıvatalarıdır. Gıcırtı genellikle yağlama eksikliğini, yük alırken gelen \"klik\" sesi ve kolondaki boşluk ise aşınmayı ya da cıvata gevşekliğini düşündürür. Sesin kaynağı ölçümle ayrılmalıdır."
+    },
+    {
+      "q": "Vinç kolonunda boşluk olması normal mi?",
+      "a": "Her rulmanın bir miktar işletme boşluğu vardır, ancak bu boşluğun zamanla artması aşınma demektir. Doğru yaklaşım, boşluğu devrilme boşluğu ölçümüyle sayısal olarak takip etmek ve üreticinin verdiği sınırla karşılaştırmaktır. Gözle görülür ve hissedilir bir boşluk varsa vinç ölçülmeden yük altına sokulmamalıdır."
+    },
+    {
+      "q": "Döner tabla rulmanı tamir edilir mi, yoksa değişir mi?",
+      "a": "Yuvarlanma yolu aşınmış bir rulman sahada ya da sıradan bir atölyede onarılmaz. Keçe, cıvata, gres ve dişli boşluğu gibi çevre kalemler yenilenebilir; rulmanın kendisi aşınma sınırına ulaştıysa değiştirilir."
+    },
+    {
+      "q": "Döner tabla ne sıklıkla greslenmeli?",
+      "a": "Vincinizin kılavuzundaki aralık esastır. Fikir vermesi için bir rulman üreticisi genel kural olarak kabaca her 100 çalışma saatinde, makaralı rulmanlarda her 50 çalışma saatinde bir yağlama önerir; tozlu, nemli ve tuzlu ortamlarda aralık kısalır. Gresleme vinç döndürülerek yapılmalıdır."
+    },
+    {
+      "q": "Vinç yük altında kendiliğinden dönüyor, sebebi ne olabilir?",
+      "a": "Bu genellikle rulmandan değil, dönüş freninden ya da dönüş valfindeki iç kaçaktan kaynaklanır. Eğimli zeminde kurulum da etkili olabilir. Vinç kontrolsüz döndüğünde yük ve çevre için risk oluşur; fren ve valf kontrol edilene kadar vinç yük altında kullanılmamalıdır."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "rothe erde slewing bearings: Installation, lubrication, maintenance",
+      "publisher": "thyssenkrupp rothe erde",
+      "url": "https://www.thyssenkrupp-rotheerde.com/en/products/rothe-erde-slewing-bearings/technical-basics/installation-lubrication-maintenance"
+    },
+    {
+      "title": "Slewing bearing – General instructions: Installation, Lubrication, Maintenance",
+      "publisher": "Liebherr-Components Biberach",
+      "url": "https://www.liebherr.com/shared/media/components/documents/grosswaelzlager/general-instructions%E2%80%93installation-lubrication-maintenance/liebherr-slewing-bearing-%E2%80%93general-instructions%E2%80%93installation-lubrication-maintenance.pdf"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/hizmetler/hiyap-vinc-tamiri.html",
+    "/blog/hiyap-vinc-bakimi-kontrol-listesi.html",
+    "/blog/vinc-retrofit-modernizasyon-nedir.html",
+    "/hizmetler/torna-isleri.html"
+  ]
+}

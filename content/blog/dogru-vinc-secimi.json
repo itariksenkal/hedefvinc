@@ -1,0 +1,244 @@
+{
+  "slug": "dogru-vinc-secimi",
+  "_hedef": "vinç seçimi nasıl yapılır (hangi vinç kiralanmalı)",
+  "title": "Vinç Seçimi: Mobil Vinç mi, Hiyap mı, Sepetli Platform mu?",
+  "h1": "İşinize Uygun Vinç Nasıl Seçilir? Mobil Vinç, Hiyap ve Sepetli Platform",
+  "desc": "Vinç seçimi nasıl yapılır? Yük, yarıçap, yükseklik ve saha koşullarına göre mobil vinç, hiyap veya sepetli platform seçimi için pratik karar tablosu.",
+  "category": "Vinç Kiralama",
+  "datePublished": "2026-08-22",
+  "dateModified": "2026-10-22",
+  "image": "hedef-vinc-kamyon.jpg",
+  "imageAlt": "HEDEF yazılı kamyona monte katlanır bomlu vinç, çelik kafes bir yapıyı zincir sapanlarla kaldırıyor",
+  "kisaCevap": "Doğru vinç; yükün sapan ve aparatlar dahil ağırlığı, vincin dönüş merkezinden yükün konacağı noktaya yatay mesafe ve kaldırma yüksekliği birlikte değerlendirilerek seçilir. Vincin kapasitesi bom uzayıp yatıklaştıkça düştüğü için karar yük tablosuna göre verilir. Kamyonla gelen yükü indirip yerine koymak için çoğu zaman hiyap, ağır ve uzak erişimli kaldırmada mobil vinç, yüksekte insanla çalışmada sepetli platform gerekir.",
+  "intro": "Vinç kiralamak için arayanların çoğu ilk olarak “kaç tonluk vinç lazım?” diye sorar. Soru yerinde ama eksik: Aynı yük, vincin yanaşabildiği yere göre küçük bir hiyapla da kaldırılabilir, büyük bir mobil vinç de gerektirebilir. Bu yazı müteahhitler, şantiye şefleri, villa sahipleri ve mimarlar için; iş tanımından makine türüne nasıl gidildiğini, sahada neye bakıldığını ve en sık yapılan seçim hatalarını anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Mobil vinç, hiyap ve sepetli platform arasındaki fark nedir?"
+    },
+    {
+      "type": "p",
+      "text": "Mobil vinç ağır ve uzak erişimli kaldırmalar için, hiyap yükü hem taşıyıp hem indirmek için, sepetli platform ise yüksekte insan çalıştırmak için tasarlanmıştır. Üçü de günlük dilde “vinç” diye anılsa da sahada birbirinin yerini tutmaz."
+    },
+    {
+      "type": "h3",
+      "text": "Mobil (teleskopik) vinç"
+    },
+    {
+      "type": "p",
+      "text": "Kendi şasesi üzerinde gelen, teleskopik bomlu kaldırma makinesidir. Yüksek tonaj ve uzun erişim gereken işlerde ilk tercihtir: çelik konstrüksiyon montajı, çatı makası yerleştirme, yüksek kata malzeme verme, ağır makine taşıma. Kurulum için destek ayaklarını açacak alan ister; karşılığında hem kapasite hem erişim belirgin şekilde yüksektir."
+    },
+    {
+      "type": "h3",
+      "text": "Hiyap (araç üstü katlanır bomlu vinç)"
+    },
+    {
+      "type": "p",
+      "text": "Kamyon kasasına monte edilen katlanır bomlu vinçtir. En büyük avantajı yükü hem taşıyıp hem indirebilmesidir: konteyner, palet, mermer, cam, klima ünitesi, prefabrik eleman gibi orta ağırlıktaki yüklerde nakliye ve kaldırma tek araçla çözülür. Dar sokaklara girebilmesi ve hızlı kurulması sayesinde şehir içi ve villa işlerinin çoğunda en pratik seçenektir."
+    },
+    {
+      "type": "h3",
+      "text": "Sepetli platform"
+    },
+    {
+      "type": "p",
+      "text": "Yük değil insan kaldırmak için tasarlanmıştır: tabela montajı, cephe bakımı, aydınlatma, ağaç budama. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a>, insanların yalnızca bu amaç için sağlanan ekipmanla kaldırılmasını ister; insan kaldırmak için üretilmemiş bir ekipman ancak olağanüstü veya acil istisnai durumlarda, gerekli önlemler alınarak ve gözetim altında kullanılabilir. Yük vincinin kancasına sepet asıp insan çıkarmak bu yüzden olağan bir çözüm değildir. Yönetmelik sepetli platformları da vinçler gibi periyodik kontrole tabi tutar; standartta başka bir süre yoksa kontrol yılda birdir. Sahaya malzeme değil personel çıkaracaksanız aradığınız makine vinç değil sepetli platformdur."
+    },
+    {
+      "type": "h2",
+      "text": "Kaç tonluk vinç gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "Kaç tonluk vinç gerektiğini yalnızca yükün ağırlığı değil, yükün vinçten ne kadar uzağa ve ne kadar yükseğe gideceği belirler. Bir vincin adındaki ya da etiketindeki kapasite, en kısa bom ve en yakın mesafedeki azami değerdir; bom uzayıp yatıklaştıkça taşıyabileceği yük hızla düşer. Bu ilişkiyi her vincin yük tablosu gösterir. Doğru makineyi belirlemek için şu üç bilgi birlikte değerlendirilir:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Yükün ağırlığı:</strong> Sapan, zincir ve kaldırma aparatlarının ağırlığı dahil.",
+        "<strong>Kaldırma yarıçapı:</strong> Vincin dönüş merkezi ile yükün konacağı nokta arasındaki yatay mesafe.",
+        "<strong>Kaldırma yüksekliği:</strong> Yükün çıkacağı seviye ve aşılması gereken engeller: parapet, saçak, duvar, ağaç."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Binaya yanaşamayan bir vinç, aynı yükü daha uzun bomla ve daha geniş yarıçapla kaldırmak zorunda kalır. Kâğıt üzerinde “yeterli” görünen makinenin sahada yetersiz kalması genellikle bundandır."
+    },
+    {
+      "type": "h3",
+      "text": "Yük tablosu nasıl okunur?"
+    },
+    {
+      "type": "p",
+      "text": "Yük tablosunda bom uzunluğu ve yarıçap bir eksende, kapasite de bunların kesiştiği hücrede verilir. Yükünüz, sapan ve aparatlar dahil, işin yapılacağı en uzak yarıçaptaki değerin altında kalmalıdır. Araç üstü vinçlerde bu tablo çoğu zaman bom üzerindeki ya da kumanda yerindeki bir etikette bulunur. Etiketi okunmayan veya kaybolmuş bir vinçle kaldırma yapılmamalıdır; okunmayan yük tablosu periyodik kontrolde de sık not edilen eksiklerdendir."
+    },
+    {
+      "type": "h2",
+      "text": "Hangi iş için hangi vinç seçilir?"
+    },
+    {
+      "type": "p",
+      "text": "Kaba kural şudur: kamyondan indirme ve yerleştirme işlerinde hiyap, ağır ve uzak kaldırmalarda mobil vinç, insanla yüksekte çalışmada sepetli platform. Aşağıdaki tablo sık gelen işleri bu kurala göre eşleştirir; son kararı yük, mesafe ve saha birlikte verir."
+    },
+    {
+      "type": "table",
+      "head": [
+        "İş",
+        "Genellikle uygun makine",
+        "Dikkat edilecek nokta"
+      ],
+      "rows": [
+        [
+          "Kamyonla gelen yükü indirip yerine koymak (palet, mermer, konteyner)",
+          "Hiyap",
+          "Yük araçtan uzaklaştıkça kapasite düşer"
+        ],
+        [
+          "Çatı makası, çelik konstrüksiyon, yüksek kata malzeme",
+          "Mobil vinç",
+          "Ayakların açılacağı alan ve zemin"
+        ],
+        [
+          "Duvar arkasına havuz ekipmanı, jakuzi, klima",
+          "Erişime göre hiyap veya mobil vinç",
+          "Duvar ve ağaç üzerinden yarıçap hesabı"
+        ],
+        [
+          "Tekneyi karaya alma veya denize indirme",
+          "Teknenin ağırlığına ve erişime göre hiyap veya mobil vinç",
+          "Ağırlık merkezi ve geniş kayış sapan konumu"
+        ],
+        [
+          "Cephede, tabelada yüksekte insanla çalışma",
+          "Sepetli platform",
+          "Yük vincine insan bindirilmez"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Vinç seçerken en sık yapılan hatalar nelerdir?"
+    },
+    {
+      "type": "p",
+      "text": "Hataların çoğu, işin yalnızca bir boyutuna bakmaktan çıkar: Ağırlık söylenir; mesafe, zemin ve işin türü atlanır. Sahada en çok karşılaştığımız beş hata şunlar:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Yalnızca yükün ağırlığını söyleyip yarıçapı ve yüksekliği atlamak.",
+        "Sapan, zincir ve traves ağırlığını hesaba katmamak.",
+        "Destek ayaklarının açılacağı alanı ölçmeden “vinç sokağa sığar” demek.",
+        "Zemini sormamak: yeni dolgu, rögar ve bodrum tavanı üstü ayrı önlem ister.",
+        "Yüksekte insan çalıştırmak için yük vinci istemek."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Saha vincin kurulmasına uygun mu?"
+    },
+    {
+      "type": "p",
+      "text": "Vinç ancak ayaklarını açabileceği ve zemini ayak yüklerini taşıyabilecek bir yere kurulabiliyorsa doğru seçimdir; kapasitesi yeten ama sahaya giremeyen makine işe yaramaz. Keşifte baktığımız başlıca noktalar:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Zemin:</strong> Destek ayakları sağlam ve düz bir zemine basmalı. Yumuşak toprak, yeni dolgu, rögar kapağı ve bodrum tavanı üstü risklidir; gerekirse ayak altına plaka veya takoz planlanır.",
+        "<strong>Erişim yolu:</strong> Yol genişliği, keskin dönüşler, alçak geçitler ve kapı ölçüleri önceden kontrol edilir. Bodrum'un dar sokaklarında bu çoğu zaman belirleyici etkendir.",
+        "<strong>Enerji hatları:</strong> Bomun çalışma alanında havai hat varsa güvenli mesafe korunur; korunamıyorsa dağıtım şirketiyle önceden görüşülür.",
+        "<strong>Çalışma alanı:</strong> Ayakların açılacağı alan, yükün havada izleyeceği güzergâh, çevredeki yapılar, araçlar ve yayalar birlikte düşünülür."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Zeminde en tehlikeli olan görünmeyendir. İngiltere'de inşaat makinesi kiralayıcıları birliğinin (CPA) yayımladığı <a href=\"https://cpa.uk.net/wp-content/uploads/2025/04/SFPSG-Ground-Conditions-Shortform-Guidance-Published-Document-1.pdf\">zemin koşulları rehberi</a>, ani göçmeye yol açabilecek gizli tehlikeleri şöyle sayar: ince kaplama altında yumuşak dolgu, doldurulmuş kazı ve altyapı hendekleri, sığ borular ve menfezler, üstü kapatılmış kuyu ve rögarlar, eski temellerin altındaki boşluklar, bodrum ve mahzenler, şev kenarındaki zayıf zemin. Rehber suyun zemin dayanımını düşürdüğünü de hatırlatır; yağmurdan sonra aynı bahçe farklı davranabilir. Sahada bunlardan biri varsa bize baştan söyleyin."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç kiralarken hangi bilgileri vermelisiniz?"
+    },
+    {
+      "type": "p",
+      "text": "Doğru vinç için çoğu zaman beş bilgi yeter; bunları ilk görüşmede verirseniz makine seçimi ve fiyat hızla netleşir:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "<strong>Yük:</strong> Ne olduğu, yaklaşık ağırlığı ve ölçüleri; etiket, katalog ya da irsaliye fotoğrafı işe yarar.",
+        "<strong>Mesafe:</strong> Vincin duracağı yerden yükün ineceği noktaya yatay mesafe; adımlamak bile iyi bir başlangıçtır.",
+        "<strong>Yükseklik ve engeller:</strong> Yükün çıkacağı kat, aşılacak duvar, saçak, ağaç ve elektrik hattı.",
+        "<strong>Yol ve zemin:</strong> Sokak genişliği, yokuş, zeminin toprak mı beton mu olduğu, ayakların açılacağı yer.",
+        "<strong>Zaman:</strong> Gün ve saat; işin tek kaldırma mı yoksa gün boyu çalışma mı olduğu."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu bilgiler yalnızca fiyat için değil, güvenli kaldırma için de gereklidir. İngiltere'nin iş sağlığı ve güvenliği kurumu HSE'nin kaldırma ekipmanı rehberi, ekipmanın iş için yeterince güçlü, dengeli ve uygun olmasını, kaldırma işinin de yetkin kişilerce planlanıp yürütülmesini ister; doğru vinç seçimi bu planın ilk adımıdır. Fiyatı neyin belirlediğini <a href=\"/blog/vinc-kiralama-fiyatlari.html\">vinç kiralama fiyatları</a> yazımızda anlattık."
+    },
+    {
+      "type": "callout",
+      "text": "Hangi makinenin gerektiğinden emin değilseniz seçimi bize bırakın: yükü, mesafeyi ve sahayı anlatın, doğru vinci biz önerelim."
+    },
+    {
+      "type": "h2",
+      "text": "Milas, Bodrum ve Muğla'da doğru vinç"
+    },
+    {
+      "type": "p",
+      "text": "Net olmayan işlerde önce keşfe gelir, yükü, mesafeyi ve zemini yerinde görüp işe en uygun vinci öneririz. Böylece ne ihtiyacınızdan büyük makineye fazla ödersiniz ne de yetersiz makineyle gün kaybedersiniz. Operatörlü kiralama seçenekleri için <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a>, yarımadadaki işler için <a href=\"/bolgeler/bodrum-vinc-kiralama.html\">Bodrum vinç kiralama</a> sayfalarımıza bakabilirsiniz. Tekne işleri için <a href=\"/blog/bodrumda-tekne-cekme.html\">Bodrum'da tekne çekme</a>, sahadaki kurallar için <a href=\"/blog/vincle-calisirken-is-guvenligi.html\">vinçle çalışırken iş güvenliği</a> yazılarımız da işinize yarayabilir."
+    }
+  ],
+  "cikarimlar": [
+    "Etiketteki kapasite en kısa bom ve en yakın mesafe içindir; yarıçap büyüdükçe kapasite düşer.",
+    "Yükün ağırlığına sapan, zincir ve traves ağırlığını da ekleyin.",
+    "Ayakların açılacağı alanı ve zemini görmeden makine seçmeyin; dolgu, rögar ve bodrum tavanı risklidir.",
+    "Yüksekte insan çalışacaksa yük vinci değil sepetli platform kiralayın.",
+    "Birkaç fotoğraf ve vinçle yük arasındaki mesafe, çoğu işte doğru makineyi belirlemeye yeter."
+  ],
+  "faqs": [
+    {
+      "q": "Hiyap ile mobil vinç arasındaki fark nedir?",
+      "a": "Hiyap kamyona monte katlanır bomlu vinçtir; yükü hem taşır hem indirir, dar alanlara girer. Mobil vinç kendi şasesi üzerinde gelen teleskopik bomlu makinedir; daha ağır yükte ve uzun erişimde avantajlıdır ama daha geniş kurulum alanı ister."
+    },
+    {
+      "q": "Kaç tonluk vinç gerekir?",
+      "a": "Yalnızca yükün ağırlığıyla karar verilemez. Vincin yüke ne kadar uzakta kurulacağı ve yükün ne kadar yükseğe çıkacağı kapasiteyi doğrudan düşürür. Ağırlığı, yatay mesafeyi ve yüksekliği birlikte söylerseniz yük tablosuna bakarak doğru sınıfı belirleriz."
+    },
+    {
+      "q": "Yüksekte çalışma için vinç mi, sepetli platform mu kiralanmalı?",
+      "a": "İnsan yükseğe çıkacaksa sepetli platform kiralanmalıdır. Yönetmelik insanların yalnızca bu amaç için sağlanan ekipmanla kaldırılmasını ister; yük vinci ancak olağanüstü ve acil durumlarda, önlem alınarak ve gözetim altında kullanılabilir. Malzeme çıkacaksa vinç, insan çalışacaksa platform; ikisi birden gerekiyorsa iki ayrı makine planlanır."
+    },
+    {
+      "q": "Vinç kurulacak zeminin sağlam olduğunu nasıl anlarım?",
+      "a": "Yeni dolgu, kapatılmış hendek, rögar, bodrum tavanı ve şev kenarı varsa zemin şüphelidir; yağmur da zemini zayıflatır. Ayakların basacağı noktaları fotoğraflayın ve altında ne olduğunu biliyorsanız söyleyin. Emin olunamayan durumlarda ayak altına yükü yayan plaka konur ya da vinç başka bir noktaya kurulur."
+    },
+    {
+      "q": "Vincin yük tablosu nerede yazar?",
+      "a": "Yük tablosu vincin üzerindeki yük plakasında ya da diyagramında ve kullanım kılavuzunda bulunur; araç üstü vinçlerde genellikle bom üzerinde veya kumanda yerinde bir etikettir. Tablo, bom uzunluğuna ve yarıçapa göre izin verilen yükü gösterir. Okunmayan ya da kaybolmuş tabloyla kaldırma yapılmamalıdır."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "Ground Conditions for Construction Plant: a brief guide",
+      "publisher": "Construction Plant-hire Association (CPA)",
+      "url": "https://cpa.uk.net/wp-content/uploads/2025/04/SFPSG-Ground-Conditions-Shortform-Guidance-Published-Document-1.pdf"
+    },
+    {
+      "title": "Lifting equipment at work: A brief guide (INDG290)",
+      "publisher": "Health and Safety Executive (HSE)",
+      "url": "https://www.hse.gov.uk/pubns/indg290.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-kiralama.html",
+    "/blog/vinc-kiralama-fiyatlari.html",
+    "/bolgeler/bodrum-vinc-kiralama.html",
+    "/blog/bodrumda-tekne-cekme.html"
+  ]
+}

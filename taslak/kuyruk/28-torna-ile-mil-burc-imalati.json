@@ -1,0 +1,247 @@
+{
+  "slug": "torna-ile-mil-burc-imalati",
+  "_hedef": "milas torna / mil burç imalatı",
+  "title": "Milas Torna: Mil, Burç ve Pim İmalatı İçin Rehber",
+  "h1": "Milas'ta Torna ile Mil ve Burç İmalatı: Numuneden Parçaya",
+  "desc": "Milas torna atölyesinde mil, burç ve pim imalatı: numune mi ölçü mü, malzeme seçimi, tolerans ve çalışma boşluğu. Vinç ve iş makinası parçaları için rehber.",
+  "category": "Atölye",
+  "image": "atolye-torna.jpg",
+  "imageAlt": "Atölyede yeşil üniversal torna tezgâhı; arkada alet panosu, raflar ve çelik konstrüksiyon duvar",
+  "kisaCevap": "Torna ile mil ya da burç yaptırmanın en hızlı yolu eski parçayı numune olarak getirmektir; numune yoksa teknik resim ya da yuvanın ölçüsü gerekir. Aşınmış parçanın ölçüsü kopyalanmaz, ölçü aşınmamış bölgeden ya da karşı parçadan alınır. Malzeme, yüzey sertliği ve mil ile burç arasındaki çalışma boşluğu da baştan konuşulmalıdır. Milas'taki atölyemizde tek parçalık işleri de numuneden ya da ölçüden imal ediyoruz.",
+  "intro": "Bu yazı; vincinde, iş makinesinde ya da teknesinde boşluk yapmış bir pim veya burç yüzünden makinesi duran ve piyasada bulunamayan bir mili yaptırmak isteyenler için. Torna işlerinde sık gördüğümüz gecikme sebebi tezgâh değil, eksik bilgidir: aşınmış bir numune, belirsiz bir malzeme ya da konuşulmamış bir tolerans. Aşağıda sipariş vermeden önce netleştirmeniz gerekenleri, mafsalda pim-burç yenilemenin nasıl ilerlediğini ve parçayı takarken dikkat edilecekleri sırasıyla anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Mil, burç ve pim: hangisi ne iş yapar?"
+    },
+    {
+      "type": "p",
+      "text": "<strong>Mil</strong>, dönen ya da yük taşıyan uzun silindirik parçadır; güç aktarır ya da bir mafsalın ekseni olur. <strong>Pim</strong>, iki parçayı mafsallı olarak birbirine bağlayan, genellikle dönmeyen ya da sınırlı açıyla dönen kısa mildir; vinç bomlarındaki mafsal pimleri, ekskavatör kova pimleri ve silindir göz pimleri bu gruptadır. <strong>Burç</strong> ise pim ya da milin içinde çalıştığı, aşınmak üzere tasarlanmış ve değiştirilebilen kovandır. Doğru tasarlanmış bir mafsalda aşınan parça burçtur; böylece daha pahalı olan gövde ve yuva korunur."
+    },
+    {
+      "type": "p",
+      "text": "Vinç ve iş makinelerinde mafsallardaki boşluk zamanla artar. Bom sallanmaya, kova vuruntu yapmaya, silindir gözleri ses çıkarmaya başlar. Bu noktada yapılacak iş genellikle pim ve burç yenilemektir; ama bunun doğru yapılabilmesi için önce doğru ölçü gerekir."
+    },
+    {
+      "type": "h2",
+      "text": "Torna işi numuneden mi, ölçüden mi yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Parça sağlamsa numuneden, aşınmış ya da kırıksa numune ve karşı parçadan, parça hiç yoksa teknik resimden ya da yuvanın ölçüsünden yapılır:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Durum",
+        "Ne getirmeli?",
+        "Not"
+      ],
+      "rows": [
+        [
+          "Parça var, sağlam ya da az aşınmış",
+          "Parçanın kendisi",
+          "Birebir kopyalanır"
+        ],
+        [
+          "Parça aşınmış ya da kırık",
+          "Parça ve mümkünse karşı parça ya da yuvanın ölçüsü",
+          "Aşınmış ölçü değil, orijinal ölçü hedeflenir"
+        ],
+        [
+          "Parça yok",
+          "Teknik resim ya da yuvanın ölçüsü",
+          "Gerekirse yerinde ölçü alınır"
+        ],
+        [
+          "Birden fazla adet gerekiyor",
+          "Numune ya da resim ve adet bilgisi",
+          "Malzeme ve süre adetle birlikte planlanır"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Aşınmış bir parçayı birebir kopyalamak sık yapılan bir hatadır. Ovalleşmiş bir pimin ölçüsü kopyalanırsa, yeni parça da ilk günden boşluklu çalışır. Bu yüzden aşınmış parçalarda ölçü, parçanın aşınmamış bölgesinden ya da karşı parçadan alınır."
+    },
+    {
+      "type": "h2",
+      "text": "Mil ve burç ölçüsü nasıl alınır?"
+    },
+    {
+      "type": "p",
+      "text": "Çaplar birden fazla noktadan ve birbirine dik iki yönde, aşınmamış bölge referans alınarak ölçülür. Dikkat edilecekler:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Çapları kumpas ya da mikrometreyle, birden fazla noktadan ve birbirine dik iki yönde ölçün.",
+        "Aşınmış bölgeyi değil, aşınmamış bölgeyi referans alın.",
+        "Yuvanın ovalleşip ovalleşmediğini kontrol edin; ovalleşmiş yuvaya yeni burç tek başına çözüm olmaz.",
+        "Toplam boyu, kademe boylarını, pah ve kanal ölçülerini not edin.",
+        "Gres deliği, gres kanalı, emniyet pimi deliği ya da segman yuvası varsa yerini ve ölçüsünü belirtin.",
+        "Dişli bir uç varsa diş tipini ve adımını yazın."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Mil ve burç için hangi malzeme seçilir?"
+    },
+    {
+      "type": "p",
+      "text": "Malzeme, parçanın göreceği yüke, hareket hızına, yağlama durumuna ve çalıştığı ortama göre seçilir. Mafsal pimlerinde genellikle yüksek dayanımlı ıslah çelikleri tercih edilir; aşınmaya karşı yüzey sertleştirme gerekip gerekmediği ayrıca değerlendirilir. Burçlarda ise çelik ve bronz en sık kullanılan seçeneklerdir. Çelik burçlar yüksek yük altında dayanıklıdır ve genellikle gres kanallarıyla birlikte kullanılır; bronz burçlar ise sürtünme özellikleri sayesinde yağlamanın sınırlı kaldığı ya da düşük hızda yüksek yükün olduğu yerlerde tercih edilir. Tuzlu deniz ortamında çalışan parçalarda korozyon da hesaba katılmalıdır."
+    },
+    {
+      "type": "p",
+      "text": "Orijinal parçanın malzemesini biliyorsanız bunu söyleyin; bilmiyorsanız parçanın nerede ve nasıl çalıştığını anlatmanız yeterlidir. Malzeme seçimini birlikte yaparız."
+    },
+    {
+      "type": "h2",
+      "text": "Yeni parça neden oturmaz ya da boşluk yapar?"
+    },
+    {
+      "type": "p",
+      "text": "Çoğu zaman sebep ölçü değil toleranstır. Bir burç yuvasına sıkı geçmeyle çakılır; yani dış çapı yuvadan çok az büyüktür ve yerinden oynamaz. Pim ise burcun içinde belirli bir boşlukla çalışır. Bu ilişkiler <a href=\"https://www.sis.se/en/produkter/metrology-and-measurement-physical-phenomena/linear-and-angular-measurements/limits-and-fits/sseniso28612010ac2013/\">ISO 286</a> geçme sistemiyle tanımlanır; örneğin delik için H7 gibi tolerans sınıfları sık kullanılır. Boşluk az olursa pim sıkışır, ısınır ve burcu yer; fazla olursa mafsal vuruntu yapar ve hızla aşınır."
+    },
+    {
+      "type": "p",
+      "text": "Bir ayrıntı daha: sıkı geçmeyle yuvaya çakılan burcun iç çapı, çakma sonrasında bir miktar daralabilir. Örneğin <a href=\"https://www.igus.eu/plain-bearing/wiki/tolerances\">bir burç üreticisi</a>, H7 toleranslı yuvaya preslenen burçlarının iç çapının ancak presleme sonrasında oluştuğunu belirtir. Bu yüzden bazı işlerde burç takıldıktan sonra iç çapın son ölçüye getirilmesi gerekir. Parçayı sipariş ederken burcun çakıldıktan sonra mı işleneceğini, yoksa hazır ölçüde mi takılacağını konuşmak bu sürprizi önler."
+    },
+    {
+      "type": "h2",
+      "text": "Aşınmış yuva nasıl onarılır?"
+    },
+    {
+      "type": "p",
+      "text": "Hafif aşınmada daha büyük dış çaplı bir burçla, fazla aşınmada kaynak dolgusu ve yeniden işlemeyle onarılır. Pim ve burç yenilense de yuva ovalleşmişse sorun devam eder. Hangi yolun uygun olduğu, yuvanın durumuna ve parçanın taşıdığı yüke göre belirlenir. Atölyemizde torna ve kaynak aynı çatı altında olduğu için aşınmış parçaları işleyerek ölçüsüne getirme işlerini de yapıyoruz. Kaynak tarafının ayrıntıları için <a href=\"/hizmetler/kaynak-isleri.html\">kaynak işleri</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Bir mafsalda pim ve burç yenileme nasıl ilerler?"
+    },
+    {
+      "type": "p",
+      "text": "Önce boşluğun kaynağı ölçülür, sonra yük alınıp pim sökülür, yuva kontrol edilir ve yeni parçalar takılıp denenir:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Mafsaldaki boşluk ölçülür; sorunun pimde mi, burçta mı, yuvada mı olduğu belirlenir.",
+        "Yük alınır, bom ya da kol desteklenir ve pim güvenli şekilde sökülür.",
+        "Eski burç yuvasından çıkarılır; yuvanın çapı ve ovalliği ölçülür.",
+        "Yuva gerekiyorsa işlenir ya da kaynakla doldurulup yeniden ölçüsüne getirilir.",
+        "Yeni burç uygun geçmeyle yuvasına takılır; gerekiyorsa iç çapı son ölçüye getirilir.",
+        "Yeni pim takılır, emniyet elemanları yerleştirilir ve mafsal greslenir.",
+        "Mafsal yüksüz ve yüklü çalıştırılarak boşluk ve ses kontrol edilir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu iş bir vincin bomunda ya da yük kolunda yapıldığında yönetmelik açısından da önem taşır: <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a>, kaldırma ekipmanlarının yük kolu ve konstrüksiyonundaki kaynaklı onarımları ve halat, zincir dışındaki parça değişimlerini önemli bakım ve onarım sayar ve bu işlerden sonra periyodik kontrol ister. Yuva kaynağı ya da pim değişimi yapılan vinç için kontrol tarihini baştan planlayın."
+    },
+    {
+      "type": "h2",
+      "text": "Burç ve pim takılırken nelere dikkat edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Burç uygun bir pres ya da çektirme aparatıyla takılmalı, yuva temizlenmeli ve gres kanalı deliğe hizalanmalıdır; iyi işlenmiş bir parça bile yanlış takılırsa kısa sürede bozulur. Burcu yuvasına çekiçle gelişigüzel vurarak çakmak, burcun ağzını ezer ve ovalleştirir; uygun bir pres ya da çektirme aparatı kullanılmalıdır. Pim takılmadan önce yuva ve burç temizlenmeli, çapaklar alınmalı ve gres uygulanmalıdır. Gres kanalı olan burçlarda kanalın gres deliğiyle aynı hizaya gelmesi gerekir; aksi hâlde gres yağlanması gereken yüzeye ulaşmaz. İlk çalıştırmadan sonra mafsalı kısa bir süre izlemek ve gerekirse yeniden greslemek iyi bir alışkanlıktır. Pim ve burçların ömrünü en çok uzatan şey düzenli greslemedir; vinçteki gresleme noktalarını ve aralıklarını <a href=\"/blog/vinc-yaglama-gresleme-noktalari.html\">vinç gresleme</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Torna siparişinden önce neler hazırlanmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Numune ya da ölçü, parçanın çalıştığı yer, malzeme bilgisi, yuvanın durumu, gres ve emniyet ayrıntıları, adet ve tarih:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Numuneyi, resmi ya da ölçüleri hazırlayın.",
+        "Parçanın hangi makinede ve hangi noktada çalıştığını yazın.",
+        "Biliniyorsa malzemeyi ve yüzey sertliği ihtiyacını belirtin.",
+        "Yuvanın durumunu ve ölçüsünü kontrol edin.",
+        "Gres deliği, kanal ve emniyet elemanı gibi ayrıntıları not edin.",
+        "Adet ve ne zaman ihtiyacınız olduğunu söyleyin."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Vinç ve iş makinesi parçalarında torna ne zaman gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "En sık, bom ve kol mafsallarındaki pim-burç boşluğu arttığında ve piyasada bulunmayan eski model parçalarda gerekir. Vinç revizyonunda bom mafsallarındaki boşluk en sık ele aldığımız konulardan biridir. Boşluğu artmış bir mafsal, yükü kaldırırken sarsıntıya ve bomun çalışmasında düzensizliğe yol açar; ihmal edildiğinde yuvalar da zarar görür. Revizyonun hangi belirtilerle gündeme geldiğini <a href=\"/blog/vinc-revizyonu-ne-zaman.html\">vinç revizyonu ne zaman yapılmalı</a> yazımızda, hizmetin kapsamını ise <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> sayfamızda bulabilirsiniz. Piyasada bulunamayan ya da eski model makinelere ait parçalarda da torna çoğu zaman en hızlı çözümdür."
+    },
+    {
+      "type": "h2",
+      "text": "Milas'ta torna işi nerede yaptırılır?"
+    },
+    {
+      "type": "p",
+      "text": "Güllük–Güvercinlik arasındaki, Tuzla Kavşağı'ndaki atölyemizde yaptırabilirsiniz. Mil, burç, pim, dişli, flanş ve kovan işlerinizi numuneden ya da ölçüden birebir imal ediyoruz; numune yoksa teknik resminizden ya da yerinde aldığımız ölçüden çalışıyoruz. Tek parçalık acil işlerden çok adetli imalata kadar işin süresini ve fiyatını baştan netleştiriyoruz. Ayrıntılar için <a href=\"/hizmetler/torna-isleri.html\">torna işleri ve parça imalatı</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "callout",
+      "text": "Parçanızın fotoğrafını ve ölçülerini gönderin ya da numuneyi atölyeye getirin; malzemeyi, süreyi ve fiyatı birlikte netleştirelim."
+    }
+  ],
+  "cikarimlar": [
+    "En hızlı yol eski parçayı numune olarak getirmektir; yoksa resim ya da yuva ölçüsü gerekir.",
+    "Aşınmış parçanın ölçüsü kopyalanmaz; ölçü aşınmamış bölgeden ya da karşı parçadan alınır.",
+    "Ovalleşmiş yuvaya yalnızca yeni burç takmak sorunu çözmez.",
+    "Preslenen burcun iç çapı daralabilir; son ölçünün ne zaman verileceğini baştan konuşun.",
+    "Vinç yük kolundaki pim değişimi ve yuva kaynağından sonra periyodik kontrol gerekir."
+  ],
+  "faqs": [
+    {
+      "q": "Torna ile mil yaptırmak için ne getirmeliyim?",
+      "a": "En iyisi eski parçanın kendisidir. Parça yoksa teknik resim ya da yuvanın ölçüsü, parçanın hangi makinede ve nerede çalıştığı bilgisiyle birlikte yeterli olur."
+    },
+    {
+      "q": "Burç bronz mu, çelik mi olmalı?",
+      "a": "Yüke, hıza, yağlama durumuna ve ortama göre değişir. Yüksek yük ve gresli çalışmada çelik, yağlamanın sınırlı olduğu ya da sürtünme özelliğinin öne çıktığı yerlerde bronz burç tercih edilir."
+    },
+    {
+      "q": "Aşınmış pimden ölçü alınır mı?",
+      "a": "Aşınmış bölgeden alınmaz. Ölçü, pimin aşınmamış kısmından ya da karşı parçadan alınır; aksi hâlde yeni parça da boşluklu çalışır."
+    },
+    {
+      "q": "Torna işi ne kadar sürer?",
+      "a": "Parçanın karmaşıklığına, malzemenin stokta olup olmamasına ve adede göre değişir. Süreyi işe başlamadan önce netleştiririz."
+    },
+    {
+      "q": "Piyasada bulunmayan bir parça torna ile yapılabilir mi?",
+      "a": "Mil, burç, pim, flanş ve kovan gibi işlenebilir parçaların çoğu numuneden ya da ölçüden imal edilebilir. Eski model makinelerde ya da yurt dışından gelmesi uzun süren parçalarda torna çoğu zaman en hızlı çözümdür."
+    },
+    {
+      "q": "Tek bir parça için torna işi yapıyor musunuz?",
+      "a": "Evet. Tek parçalık acil işlerden çok adetli imalata kadar çalışıyoruz."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "SS-EN ISO 286-1 ISO code system for tolerances on linear sizes – Basis of tolerances, deviations and fits",
+      "publisher": "SIS – İsveç Standardizasyon Enstitüsü",
+      "url": "https://www.sis.se/en/produkter/metrology-and-measurement-physical-phenomena/linear-and-angular-measurements/limits-and-fits/sseniso28612010ac2013/"
+    },
+    {
+      "title": "Plain bearings – Installation and tolerances",
+      "publisher": "igus",
+      "url": "https://www.igus.eu/plain-bearing/wiki/tolerances"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (Madde 6/A: önemli bakım ve onarım)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/torna-isleri.html",
+    "/hizmetler/kaynak-isleri.html",
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/blog/vinc-revizyonu-ne-zaman.html",
+    "/blog/vinc-yaglama-gresleme-noktalari.html"
+  ]
+}

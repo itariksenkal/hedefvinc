@@ -1,0 +1,7 @@
+# GitHub Pages (Jekyll) ayarı: kaynak dosyalar sitede yayınlanmasın.
+# Sayfalar tools/build_blog.py ile önceden üretildiği için Jekyll yalnızca dosyaları kopyalar.
+exclude:
+  - content
+  - tools
+  - taslak
+  - README.md

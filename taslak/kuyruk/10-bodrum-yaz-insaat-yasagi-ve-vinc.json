@@ -1,0 +1,271 @@
+{
+  "slug": "bodrum-yaz-insaat-yasagi-ve-vinc",
+  "_hedef": "bodrum inşaat yasağı",
+  "title": "Bodrum İnşaat Yasağı: Tarihler ve Vinç İşleri Planı",
+  "h1": "Bodrum İnşaat Yasağı: 15 Mayıs–15 Ekim Arasında Vinç İşlerini Nasıl Planlarsınız?",
+  "desc": "Bodrum inşaat yasağı hangi tarihlerde, hangi işleri kapsıyor, vinçli işler nasıl planlanır? 2025/3 sayılı genelge ve sezon öncesi takvim önerileri.",
+  "category": "Rehber",
+  "image": "real_ones/saha-manitou-teleskopik-yukleyici-deniz-kenari-santiye.jpg",
+  "imageAlt": "Deniz kenarındaki bir şantiyede kırmızı teleskopik yükleyici ve kabinde operatör; arka planda kule vinç",
+  "kisaCevap": "Bodrum'daki inşaat yasağı her yıl 15 Mayıs–15 Ekim arasında uygulanır ve Kültür ve Turizm Bakanlığı'nın 2025/3 sayılı genelgesine dayanır. Genelge, turistik yörelerde gürültü, çirkin görünüm ve kirlilik yaratan ağır nakliyat, hafriyat ve harçlı inşaat işlerini kısıtlar; uygulamayı valilikler yürütür. Vinç gerektiren kaba işleri Ekim ortası ile Mayıs ortası arasına planlayın, yazın gereken işler için önce belediyeye danışın.",
+  "cikarimlar": [
+    "Kısıtlama her yıl 15 Mayıs'ta başlar, 15 Ekim'de biter; uygulama ayrıntılarını valilik ve belediye belirler.",
+    "Belirleyici olan vincin kendisi değil, vincin hangi işin parçası olarak sahaya geldiğidir.",
+    "Vinç günlerini Mart'tan önce ayırtın; Nisan ve Mayıs'ın ilk yarısı her yıl yoğun geçer.",
+    "Zorunlu durumlarda işlemleri valilik yürütür; izin yolunu işin başında başlatın.",
+    "Gri alanda kalan tek seferlik kaldırmalar için belediyeye sorun ve cevabı yazılı alın."
+  ],
+  "intro": "Bodrum'da ev, villa ya da otel inşaatı yürüten herkesin takvimi aynı tarihin etrafında döner: 15 Mayıs. Bu tarihten sonra beton mikserleri, hafriyat kamyonları ve iş makineleri yarımadada büyük ölçüde susar. Bu rehber müteahhitler, mülk sahipleri ve vinç kullanan işletmeler için; kısıtlamanın dayanağını, hangi vinçli işlerin kapsama girebileceğini ve vinç günlerini yıl boyunca nasıl planlayacağınızı anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Bodrum inşaat yasağı nedir, dayanağı ne?"
+    },
+    {
+      "type": "p",
+      "text": "Kısıtlamanın dayanağı, Kültür ve Turizm Bakanlığı'nın turistik yörelerde yürütülen inşaat faaliyetlerine ilişkin 25 Nisan 2025 tarihli <a href=\"https://yigm.ktb.gov.tr/TR-94692/turistik-yorelerdeki-insaat-yasagi.html\">2025/3 sayılı genelgesidir</a>. Genelge, turizmin sürdürülebilirliğini korumak ve ziyaretçilerde olumsuz izlenim oluşmasını önlemek amacıyla, turistik yörelerde gürültü, çirkin görünüm ve çevre kirliliği gibi olumsuz etkileri olan ağır nakliyat, hafriyat ve harçlı inşaat faaliyetlerini 15 Mayıs–15 Ekim arasında kısıtlar. Uygulamayı valilikler yürütür. Bu genelge, daha önceki 2015/3 ve 2024/7 sayılı genelgeleri yürürlükten kaldırmıştır."
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://www.bodrum.bel.tr/duyuru.php?id=8546%2FInsaat_Faaliyetleri_Genelgesi_\">Bodrum Belediyesi genelgeyi</a> Mayıs 2025'te duyurdu ve yasağın ilk haftasında yaptığı denetimlerde faaliyetine devam eden 203 inşaat firması ile beton getiren mikserler ve hafriyat yapan 51 araca <a href=\"https://www.bodrum.bel.tr/haber.php?id=10083\">idari para cezası uyguladığını</a> açıkladı. 2026 yılında da kısıtlama Bodrum'da 15 Mayıs–15 Ekim tarihleri arasında uygulandı; yerel basın, yasak süresince beton mikserlerinin, hafriyat kamyonlarının ve iş makinelerinin susacağını, denetimlerin yaz boyunca süreceğini ve kurallara uymayanlara cezai işlem uygulanacağını duyurdu."
+    },
+    {
+      "type": "callout",
+      "text": "Bu yazı bilgilendirme amaçlıdır. Kısıtlamanın saatleri, istisnaları ve denetimi her yıl valilik ve belediye duyurularıyla netleşir. İşe başlamadan önce Bodrum Belediyesi'nin ve Muğla Valiliği'nin güncel kararını mutlaka kontrol edin."
+    },
+    {
+      "type": "h2",
+      "text": "Hangi işler kısıtlamaya takılır?"
+    },
+    {
+      "type": "p",
+      "text": "Genelge üç faaliyet türünü sayar: ağır nakliyat, hafriyat ve harçlı inşaat. Vinçli işler açısından bu, aşağıdaki gibi bir tabloya dönüşür. Son sütundaki öneriler bizim saha deneyimimize dayanır; yetkili makamın yorumu her zaman önce gelir."
+    },
+    {
+      "type": "table",
+      "head": [
+        "İş",
+        "Kısıtlamayla ilişkisi",
+        "Önerimiz"
+      ],
+      "rows": [
+        [
+          "Beton, demir ve kalıp malzemesi kaldırma",
+          "Harçlı inşaatın parçasıdır",
+          "Ekim ortası ile Mayıs ortası arasına planlayın"
+        ],
+        [
+          "Hafriyat, kazı, moloz taşıma",
+          "Doğrudan kapsamdadır",
+          "Kış dönemine alın"
+        ],
+        [
+          "Prefabrik, çelik konstrüksiyon ve çatı montajı",
+          "Ağır nakliyat ve inşaat faaliyeti olarak değerlendirilebilir",
+          "Sezon başlamadan bitirin"
+        ],
+        [
+          "Tek seferlik ekipman yerleştirme (klima, jakuzi, jeneratör)",
+          "Kapsamı yerel uygulamaya ve yetkili makamın yorumuna bağlıdır",
+          "Önceden belediyeye sorun, cevabı yazılı alın"
+        ],
+        [
+          "Zorunlu ve acil onarım",
+          "Genelge, zorunlu durumlarda Bakanlığın bilgilendirilmesi kaydıyla gerekli işlemlerin valilikçe yürütülmesini öngörür",
+          "İzin yolunu işin başında başlatın"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Burada dikkat edilmesi gereken nokta şudur: belirleyici olan vincin kendisi değil, vincin hangi işin parçası olarak sahaya geldiğidir. Aynı vinç, bir şantiyede kaba inşaatın parçası sayılırken bir tekne kaldırmada ya da acil bir onarımda farklı değerlendirilebilir. Bu ayrımı yapma yetkisi yetkili makamdadır; bu yüzden gri alanda kalan işlerde tahmin yürütmek yerine sormak her zaman daha ucuzdur."
+    },
+    {
+      "type": "h2",
+      "text": "Kısıtlama dönemi inşaat takvimini nasıl etkiler?"
+    },
+    {
+      "type": "p",
+      "text": "Ağır işlerin tamamı yaklaşık yedi aylık bir pencereye sığmak zorunda kalır. Pratikte kısıtlama, Bodrum'da inşaat takvimini ikiye böler: Ekim ortasından Mayıs ortasına kadar olan dönemde hafriyat, temel, kaba inşaat, çatı ve ağır malzeme işlerinin tamamlanması gerekir. Bu yüzden Mart, Nisan ve Mayıs'ın ilk yarısı her yıl yoğun geçer: beton pompası, kamyon ve vinç aynı haftalarda herkes tarafından istenir. Son haftaya kalan bir çatı montajı, hava bozduğunda ya da vinç bulunamadığında Ekim ortasına kadar ertelenmek zorunda kalabilir."
+    },
+    {
+      "type": "p",
+      "text": "Kış aylarının da kendine özgü riskleri vardır. Yağışlı günlerden sonra toprak zemin yumuşar; vincin destek ayaklarının kurulacağı nokta yeniden kontrol edilmelidir. Rüzgârlı günlerde geniş yüzeyli yüklerin kaldırılması ertelenebilir. Bu nedenle kış programına her zaman yedek gün koymak gerekir."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç işleri için yıllık takvim nasıl kurulur?"
+    },
+    {
+      "type": "p",
+      "text": "Ağır işler Ekim ortasından Mayıs ortasına, keşif ve planlama ise yaz aylarına yerleştirilir:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Dönem",
+        "Durum",
+        "Ne yapmalı?"
+      ],
+      "rows": [
+        [
+          "15 Ekim – Aralık",
+          "Kısıtlama bitmiştir, sahalar açılır",
+          "Hafriyat, temel ve kaba inşaat; vinç günlerini erkenden ayırtın"
+        ],
+        [
+          "Ocak – Şubat",
+          "Yağışlı ve rüzgârlı günler olabilir",
+          "Zemin kontrolü, esnek tarih, yedek gün"
+        ],
+        [
+          "Mart – Nisan",
+          "Sezon öncesi yoğunluk",
+          "Çatı, prefabrik ve ağır ekipman; randevuları haftalar önceden alın"
+        ],
+        [
+          "1–15 Mayıs",
+          "Son iki hafta",
+          "Yalnızca kalan kritik kaldırmalar; mutlaka yedek gün bırakın"
+        ],
+        [
+          "15 Mayıs – 15 Ekim",
+          "Kısıtlama dönemi",
+          "Keşif, planlama ve iç işler; zorunlu işler için yetkili makamdan izin"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Yaz aylarında vinç gerekiyorsa ne yapmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Önce işin kısıtlama kapsamına girip girmediğini belediyeye sorun; zorunlu bir durumsa gerekçesini belgeleyerek yetkili makama başvurun. Bazen yazın da vinç gerekir: fırtınada hasar gören bir çatı, arızalanan bir jeneratör ya da güvenlik riski oluşturan bir yapı elemanı. Böyle durumlarda şu sırayı öneriyoruz:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "İşin kapsamını yazın: ne kaldırılacak, kaç saat sürecek, yol ya da kaldırım kapanacak mı?",
+        "Bodrum Belediyesi'ne işin kısıtlama kapsamına girip girmediğini sorun; gerekirse Kaymakamlık ve Valilik yolunu öğrenin.",
+        "Zorunlu bir durumsa gerekçesini (hasar, can ve mal güvenliği riski) belgeleyerek izin başvurusu yapın.",
+        "İzin çıkarsa çalışma saatini ve araç güzergâhını izindeki koşullara göre planlayın.",
+        "Komşuları ve site yönetimini önceden bilgilendirin; çalışmayı mümkün olan en kısa sürede bitirin."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "İzin verme yetkisi bizde değildir ve bu konuda size söz veremeyiz. Ama başvurunuzda işinize yarayacak bilgileri, yani vincin tipini, işin tahmini süresini ve kullanılacak alanı açıkça yazılı olarak verebiliriz."
+    },
+    {
+      "type": "h2",
+      "text": "Bodrum'da en sık hangi planlama hataları yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "En pahalı hata, ağır işleri kısıtlamadan önceki son haftalara bırakmaktır; diğerleri de sık görülür:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Ağır işleri Mayıs'a bırakmak:</strong> Son iki haftaya sıkıştırılan çatı ve prefabrik montajları, tek bir rüzgârlı gün yüzünden beş ay ertelenebilir.",
+        "<strong>“Bir günlük iş, kimse bir şey demez” düşüncesi:</strong> Kısıtlama döneminde denetimler sürer; izinsiz çalışma hem cezaya hem de işin yarıda kesilmesine yol açabilir.",
+        "<strong>Vinç gününü malzeme teslimatıyla eşleştirmemek:</strong> Malzeme gelmeden gelen vinç beklemeye, vinç gelmeden gelen malzeme ise sahada yanlış yere indirilmeye mahkûmdur.",
+        "<strong>Ekim ortasındaki ilk haftaları hesaba katmamak:</strong> Kısıtlama biter bitmez birçok şantiye aynı anda açılır; Ekim sonu ve Kasım başı için de randevuyu önceden almak gerekir."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Sezon öncesi vinç planlaması: kontrol listesi"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Projenin kalan işlerini listeleyin ve vinç gerektirenleri ayrıca işaretleyin.",
+        "Her kaldırma için yük ağırlığı, ölçü ve iniş noktasını belirleyin.",
+        "Vinç günlerini Mart ayından önce planlayın; mümkünse birden fazla işi aynı güne toplayın.",
+        "Sahaya erişimi kontrol edin: yol, site girişi, ağaç dalları ve havai hatlar.",
+        "Her kritik kaldırma için en az bir yedek gün bırakın.",
+        "Yaz dönemine kalabilecek işler için yetkili makamla erkenden görüşün."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Villa sahalarında eğim, dar yol ve komşu ilişkileri gibi diğer planlama konularını <a href=\"/blog/bodrum-villa-insaatinda-vinc.html\">Bodrum villa inşaatında vinç</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Kısıtlama döneminde vinç sahipleri ne yapmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Yaz ayları, vincin revizyonu ve kapsamlı bakımı için iyi bir penceredir. Bodrum'da çalışan müteahhitlerin ve vinç sahiplerinin bir kısmı için bu dönem makinelerin daha az çalıştığı aylardır; hidrolik kaçaklar, aşınmış pim ve burçlar, bom çatlakları ya da kumanda sorunları sezon açılmadan giderilebilir. Revizyonun ne zaman gerektiğini <a href=\"/blog/vinc-revizyonu-ne-zaman.html\">vinç revizyonu ne zaman yapılmalı</a> yazımızda, hizmetin kapsamını ise <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> sayfamızda bulabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Bodrum'daki işiniz için Hedef Vinç"
+    },
+    {
+      "type": "p",
+      "text": "Atölyemiz Güllük–Güvercinlik arasında, Tuzla Kavşağı'nda; Bodrum yarımadasına Milas–Bodrum karayolu üzerinden ulaşıyoruz. Vinçlerimiz operatörleriyle gelir, işten önce ücretsiz keşif yapar ve fiyatı baştan netleştiririz. Yabancı mülk sahipleri için İngilizce destek hattımız da var. Bölgedeki hizmetimizin ayrıntıları <a href=\"/bolgeler/bodrum-vinc-kiralama.html\">Bodrum vinç kiralama</a> sayfamızda."
+    },
+    {
+      "type": "callout",
+      "text": "Kısıtlama dönemi bitmeden kış programınızı birlikte çıkaralım. İşlerinizi listeleyin ve bizi arayın; vinç günlerinizi sezon telaşına kalmadan ayıralım."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Bodrum'da inşaat yasağı ne zaman başlıyor ve bitiyor?",
+      "a": "2025/3 sayılı genelgeye göre kısıtlama her yıl 15 Mayıs'ta başlar ve 15 Ekim'de biter. Uygulama ayrıntıları her yıl valilik ve belediye duyurularıyla netleştiği için güncel kararı kontrol edin."
+    },
+    {
+      "q": "İnşaat yasağı iç tadilatı da kapsıyor mu?",
+      "a": "Genelge ağır nakliyat, hafriyat ve harçlı inşaat faaliyetlerini sayar. İç mekân işlerinin durumu yerel uygulamaya göre değişebileceği için belediyeye sormak en güvenli yoldur."
+    },
+    {
+      "q": "Yazın Bodrum'da vinçle jakuzi ya da klima taşınabilir mi?",
+      "a": "Tek seferlik bir ekipman yerleştirmenin kapsama girip girmediği yetkili makamın yorumuna bağlıdır. İşe başlamadan belediyeye danışın ve mümkünse cevabı yazılı alın."
+    },
+    {
+      "q": "İnşaat yasağına uymamanın yaptırımı var mı?",
+      "a": "Evet. Bodrum Belediyesi, kısıtlama döneminde denetim yaptığını ve kurallara uymayan firmalara Kabahatler Kanunu kapsamında idari para cezası uyguladığını duyurdu. Ceza tutarları ve uygulama yıldan yıla değişebileceği için risk almamak gerekir."
+    },
+    {
+      "q": "Kısıtlama döneminde keşif ve planlama yapılabilir mi?",
+      "a": "Evet. Keşif, ölçü alma ve planlama sahada ağır iş yapılmasını gerektirmez. Yaz aylarını kış programını hazırlamak için kullanmak, Ekim ortasında işe hızlı başlamanızı sağlar."
+    },
+    {
+      "q": "Bu kısıtlama yalnızca Bodrum'da mı uygulanıyor?",
+      "a": "Hayır. Genelge turistik yörelere yöneliktir ve uygulamayı valilikler yürütür. Muğla'nın diğer turistik bölgelerinde de uygulama olabilir; çalışacağınız yer için güncel kararı kontrol edin."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Turistik Yörelerdeki İnşaat Yasağı (2025/3 sayılı Genelge)",
+      "publisher": "Kültür ve Turizm Bakanlığı Yatırım ve İşletmeler Genel Müdürlüğü",
+      "url": "https://yigm.ktb.gov.tr/TR-94692/turistik-yorelerdeki-insaat-yasagi.html"
+    },
+    {
+      "title": "İnşaat Faaliyetleri Genelgesi (İnşaat Yasağı) duyurusu",
+      "publisher": "Bodrum Belediyesi",
+      "url": "https://www.bodrum.bel.tr/duyuru.php?id=8546%2FInsaat_Faaliyetleri_Genelgesi_"
+    },
+    {
+      "title": "İnşaat yasağına uymayan firmalara cezai işlem uygulanıyor",
+      "publisher": "Bodrum Belediyesi",
+      "url": "https://www.bodrum.bel.tr/haber.php?id=10083"
+    },
+    {
+      "title": "Bodrum'da inşaat yasağı başladı (16.05.2026)",
+      "publisher": "Bodrum Gündem",
+      "url": "https://www.bodrumgundem.com/2026/05/16/bodrumda-insaat-yasagi-basladi-2/"
+    }
+  ],
+  "related": [
+    "/bolgeler/bodrum-vinc-kiralama.html",
+    "/blog/bodrum-villa-insaatinda-vinc.html",
+    "/hizmetler/vinc-kiralama.html",
+    "/hizmetler/vinc-revizyon-tamir-bakim.html"
+  ]
+}

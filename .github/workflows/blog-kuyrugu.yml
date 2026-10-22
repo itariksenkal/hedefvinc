@@ -1,0 +1,59 @@
+name: Blog kuyrugu - gunluk yayin
+
+on:
+  schedule:
+    - cron: '37 6 * * *' # 09:37 Europe/Istanbul
+    - cron: '37 18 * * *' # 21:37 sabah calismadiysa tekrar dener
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+env:
+  TZ: Europe/Istanbul
+  PYTHONIOENCODING: utf-8
+
+concurrency:
+  group: blog-kuyrugu
+  cancel-in-progress: false
+
+jobs:
+  yayinla:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Yazilari ve kuyrugu dogrula
+        run: python taslak/kontrol.py
+      - name: Bugun yayin yoksa siradaki taslagi yayinla
+        id: yazi
+        run: |
+          python taslak/yayinla.py --gunluk
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "yayinlandi=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "yayinlandi=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Commit ve push
+        if: steps.yazi.outputs.yayinlandi == 'true'
+        run: |
+          git config user.name "hedefvinc-yayinci[bot]"
+          git config user.email "hedefvinc-yayinci[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Blog: kuyruktan gunluk yazi ($(date +%F))"
+          git push
+      - name: IndexNow ile Bing ve Yandex'e bildir (hata olursa yayini durdurmaz)
+        if: steps.yazi.outputs.yayinlandi == 'true'
+        continue-on-error: true
+        run: python tools/indexnow.py --degisen || true
+      - name: GitHub Pages derlemesini baslat
+        if: steps.yazi.outputs.yayinlandi == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || echo "Pages derlemesi push ile zaten basladi"

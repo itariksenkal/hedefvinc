@@ -1,0 +1,252 @@
+{
+  "slug": "hidrolik-hortum-patlamasi-sahada-ne-yapmali",
+  "_hedef": "hidrolik hortum patladı ne yapmalı",
+  "title": "Hidrolik Hortum Patladı, Ne Yapmalı? Sahada Güvenli Adımlar",
+  "h1": "Hidrolik Hortum Patladı: Sahada Adım Adım Ne Yapmalı?",
+  "desc": "Hidrolik hortum patladı, ne yapmalı? Enjeksiyon yaralanması tehlikesi, makineyi güvenli durdurma, yükü indirme, ölçü alma ve Milas'ta aynı gün pres hortum.",
+  "category": "Hidrolik",
+  "image": "real_ones/atolye-kabinli-vinc-hidrolik-test.jpg",
+  "imageAlt": "Atölyede hidrolik güç ünitesi bağlanmış, kabinli sarı katlanır bomlu vinç test aşamasında",
+  "kisaCevap": "Hidrolik hortum patladığında hareketi hemen durdurun, yük askıdaysa ve vinç hâlâ kontrol edilebiliyorsa yükü kontrollü indirin, motoru ve PTO'yu kapatın, çevreyi boşaltın. Kimse sızıntı noktasına elle yaklaşmasın: Basınçlı yağın deri altına girmesi küçük bir delik gibi görünse de acil cerrahi müdahale gerektirir. Ardından patlamanın nedenine bakın; hortum doğru ölçüyle çoğu zaman aynı gün yeniden preslenebilir.",
+  "cikarimlar": [
+    "Basınçlı yağa maruz kalan biri, yara küçük görünse de vakit kaybetmeden acil servise gitmelidir.",
+    "Kaçak noktası elle değil, şüpheli bölgenin önüne tutulan karton ya da tahtayla aranır.",
+    "Rakor sökmeden önce, yük altındaki silindir tarafında devrede kalan basınç boşaltılmalıdır.",
+    "Yeni hortumu takmadan önce sürtünme, kısa boy, burulma ya da sıcak yüzey gibi nedeni giderin.",
+    "Patlayan hortumu rakorlarıyla birlikte getirmek, doğru hortumu en hızlı yaptırmanın yoludur."
+  ],
+  "intro": "Hortum patlaması sahada çoğu zaman bir sesle, ardından havaya saçılan yağ ve yere yayılan kaygan bir gölle gelir; o ilk dakikalarda yapılanlar hem insanların hem makinenin akıbetini belirler. Bu rehber vinç ve iş makinesi operatörleri, şantiye şefleri ve makine sahipleri için; önce insanı, sonra makineyi güvenceye almayı, patlamanın nedenini okumayı ve pres hortum için doğru bilgiyi toplamayı adım adım anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Hortum patlayınca ilk olarak ne yapılmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Önce insanları güvenceye alın: Kimse sızıntı noktasına yaklaşmamalı, basınçlı yağa maruz kalan biri varsa hemen acil servise gitmelidir. Yüksek basınçlı hidrolik yağ, iğne deliği kadar bir çatlaktan bile deriyi delip doku içine girebilir. İlk anda küçük bir batma ya da sıyrık gibi görünür, ağrı az olabilir. Ancak yağ dokular arasında yayılır; saatler içinde şişlik, şiddetli ağrı ve doku hasarı gelişir. <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC6968540/\">Konuyla ilgili sistematik bir derleme</a>, giriş yarası küçük olduğu için bu yaralanmanın masum görünebileceğini, acil cerrahi müdahale gerektirdiğini ve tedavide gecikmenin kalıcı doku hasarına, hatta uzuv kaybına yol açabileceğini vurgular."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Basınçlı yağa maruz kalan biri varsa, yara ne kadar küçük görünürse görünsün vakit kaybetmeden bir acil servise gidin, gerekirse acil yardım hattını arayın.",
+        "Hekime yaralanmanın yüksek basınçlı hidrolik yağ enjeksiyonu olduğunu açıkça söyleyin. Dışarıdan masum görünen yara yüzünden ciddiye alınmama riski vardır.",
+        "Yarayı sıkmayın, emmeyin, kendiniz müdahale etmeye çalışmayın.",
+        "Gözlere yağ sıçradıysa bol temiz suyla yıkayın ve sağlık kuruluşuna başvurun."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Fışkıran sıcak yağ ayrıca yanığa yol açabilir, yere yayılan yağ ise zemini kaygan hale getirir. Hortumun patladığı anda en büyük risk makinede değil, çevredeki insanlardadır. Hortum üreticisi <a href=\"https://www.gates.com/content/dam/documents-library/catalogs/gates-hydraulic-catalogue-in-en.pdf\">Gates'in güvenlik uyarısı</a> da basınçlı bir hortuma dokunulmamasını, kaçak aramak için vücudun hiçbir yerinin kullanılmamasını ve deriye yağ girdiğinde ağrı olmasa bile hemen tıbbi yardım alınmasını ister."
+    },
+    {
+      "type": "callout",
+      "text": "Sızıntının yerini asla elle, eldivenle de olsa yoklayarak aramayın. Kaçak noktası, bir parça karton ya da tahta şüpheli bölgenin önünde tutularak bulunur."
+    },
+    {
+      "type": "h2",
+      "text": "Hortum patlayınca makine nasıl güvenle durdurulur?"
+    },
+    {
+      "type": "p",
+      "text": "Hareket durdurulur, yük mümkünse kontrollü indirilir, motor ve PTO kapatılır; ardından alan şeritlenir ve yağ toplanır:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Kumandayı bırakın, hareketi durdurun. Yük askıdaysa ve vinç hâlâ kontrol edilebiliyorsa yükü kontrollü şekilde yere indirin.",
+        "Yük indirilemiyorsa altını ve çevresini boşaltın; kimseyi yükün ve bomun altına sokmayın, askıdaki yükü gözetimsiz bırakmayın.",
+        "Motoru durdurun, PTO'yu kapatın, kontağı alın.",
+        "Çevreyi şeritleyin; yağlı zemine kimse basmasın.",
+        "Hortum değişene kadar bomu ve ayakları hareket ettirmeyin. Patlak hortumun bağlı olduğu silindir yük altındaysa devrede hâlâ basınç kalmış olabilir; rakor sökmeden önce basıncın üreticinin talimatına göre boşaltıldığından emin olun.",
+        "Sızan yağı toprağa, kanala ve denize gitmeyecek şekilde emici malzemeyle toplayın; yağlı malzemeyi atık olarak ayrı biriktirin."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ayakları (outrigger) besleyen bir hortum patladıysa durum farklıdır: Ayak silindirleri vincin dengesini taşır. Ayakların bulunduğu taraf çökme eğilimindeyse yükü derhal indirmek ve bomu toplamak önceliklidir; ayak silindiri tarafındaki arızalar için <a href=\"/blog/vinc-ayaklari-outrigger-arizasi.html\">vinç ayakları (outrigger) arızası</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Hortumun neden patladığı nasıl anlaşılır?"
+    },
+    {
+      "type": "p",
+      "text": "Patlamanın yeri ve hortumun güzergâhı nedeni çoğu zaman gösterir; yeni hortum aynı noktada tekrar patlamasın diye takmadan önce bu nedene bakın. Hortum bir sac kenarına mı sürtüyordu, gereğinden kısa mı kesilmişti, burulmuş mu takılmıştı, sıcak bir yüzeye mi yakındı? Patlayan hortum eski mi? Tek bir hortum yaşlanmışsa yanındakiler de büyük ihtimalle aynı yaştadır; birini değiştirip ötekileri bırakmak, bir sonraki patlamayı beklemek demektir."
+    },
+    {
+      "type": "p",
+      "text": "Patlamanın yeri de ipucu verir. Rakor dibinden kopan bir hortum çoğu zaman yanlış presleme, aşırı bükülme ya da rakora binen titreşimi; hortumun ortasından yırtılma ise sürtünmeyi, dış kılıf hasarını ya da yaşlanmayı düşündürür. <a href=\"https://www.gates.com/content/dam/documents-library/operating-manuals/safe-hydraulics-pocket-guide.pdf\">Gates'in hortum arızaları rehberi</a> de rakordan patlamada hortum boyunun artırılmasını, bükülme yarıçapının büyütülmesini ya da hortumun doğru preslenmiş olanla değiştirilmesini; gövdeden patlamada ise sistem basıncının kontrol edilip en az bu basınca uygun hortum seçilmesini önerir. Aynı devrede kısa aralıklarla birden fazla hortum patlıyorsa sorun hortumda değil, devredeki basınç darbelerinde ya da emniyet valfi ayarında olabilir; bu durumda devrenin bir ustaya ölçtürülmesi gerekir."
+    },
+    {
+      "type": "p",
+      "text": "Kelepçeler ve hortum koruma spiralleri de kontrol edilmelidir. Kopmuş bir kelepçe, hortumun her hareketle sallanıp sürtmesine yol açar. Patlama nedenlerinin ayrıntısını <a href=\"/blog/hidrolik-hortum-neden-patlar.html\">hidrolik hortum neden patlar</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Pres hortum yaptırmak için hangi bilgiler gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "En garantili yol, patlayan hortumu rakorlarıyla birlikte söküp getirmektir; hortumu hızlı ve doğru yaptırmanın yolu doğru bilgiyle gelmektir. Sökemiyorsanız boy, hortum üzerindeki yazı, rakor tipleri ve açılar gerekir; şu bilgileri toplayın:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Bilgi",
+        "Neden önemli"
+      ],
+      "rows": [
+        [
+          "Hortumun toplam boyu, rakor uçları dahil",
+          "Kısa hortum gergin çalışır, uzun hortum sarkıp sürter"
+        ],
+        [
+          "Hortum üzerindeki yazı: çap, basınç sınıfı, standart",
+          "Devrenin basıncına uygun sınıf seçilir"
+        ],
+        [
+          "İki ucun rakor tipi ve diş ölçüsü",
+          "Yanlış diş sızdırır ya da yerine oturmaz"
+        ],
+        [
+          "Dirsekli rakorların birbirine göre açısı",
+          "Hortum burulmadan takılabilsin diye"
+        ],
+        [
+          "Makinenin modeli ve hortumun yeri (hangi silindir, hangi valf)",
+          "Kontrol ve eşleştirme için"
+        ],
+        [
+          "Hortumun güzergâhını gösteren birkaç fotoğraf",
+          "Uzunluk, kelepçe ve sürtünme noktaları için"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Hortum üzerindeki yazı silinmişse iç çapı ve katman yapısını atölyede ölçerek belirleriz. Basınç sınıfını tahminle seçmeyiz; bir sınıf aşağıdaki hortum, yeni takılmış olsa bile kısa sürede patlayabilir."
+    },
+    {
+      "type": "h2",
+      "text": "Hortum değiştikten sonra neler kontrol edilmeli?"
+    },
+    {
+      "type": "p",
+      "text": "Yağ seviyesi, devredeki hava, rakor sızdırmazlığı, hortum güzergâhı ve filtre kontrol edilmeden yük altında çalışılmaz:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Yağ seviyesini kontrol edin, eksik yağı aynı tip yağla tamamlayın.",
+        "Makineyi yüksüz olarak çalıştırın, ilgili hareketi birkaç kez tam strok yaparak devredeki havayı alın.",
+        "Yeni hortumun rakor diplerinde sızıntı olup olmadığına, hortumun hareket boyunca bir yere sürtüp sürtmediğine bakın.",
+        "Patlama sırasında sisteme kir girmiş olabilir; filtre göstergesini ve yağın görünüşünü kontrol edin.",
+        "Yük altında çalışmaya ancak bu kontroller tamamlandıktan sonra dönün."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Çok miktarda yağ kaybedildiyse, tank seviyesi düşükken pompa hava emmiş olabilir. Pompadan gelen alışılmadık ses ya da hareketlerde titreme varsa bunu servise söyleyin. Yağın durumu konusunda <a href=\"/blog/vinc-hidrolik-yag-degisimi-ne-zaman.html\">vinç hidrolik yağ değişimi ne zaman</a> yazımız yardımcı olur."
+    },
+    {
+      "type": "h2",
+      "text": "Araçta hortum patlamasına karşı ne bulundurulmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Emici malzeme, kaçak aramak için karton, koruyucu eldiven ve gözlük, temiz tapalar, etiket ve yağ tipi notu yeterlidir. Hortum patlaması sahada çoğu zaman hazırlıksız yakalar; vinç ve iş makinesinde bulunacak küçük bir çanta hem güvenliği hem de değişim süresini doğrudan etkiler:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Yağ emici ped ve granül; yağın toprağa ve denize yayılmasını önlemek için",
+        "Kaçak aramak için bir parça sert karton ya da tahta",
+        "Yağa dayanıklı eldiven ve koruyucu gözlük",
+        "Söktüğünüz rakor ağızlarını kapatmak için temiz tapa ve kapaklar; sisteme kir girmesini önler",
+        "Uç tipi ve diş ölçüsü yazılı etiketler ile bir kalem; söktüğünüz hortumu işaretlemek için",
+        "Uygun ölçüde birkaç anahtar ve bez",
+        "Hidrolik yağ tipini gösteren bir not; eksilen yağı yanlış yağla tamamlamamak için"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Bir sonraki hortum patlaması nasıl önlenir?"
+    },
+    {
+      "type": "p",
+      "text": "Haftalık bakım turunda hortumlara düzenli bakarak önlenir; patlamaların önemli bir kısmı önceden işaret verir. Şu noktalara bakmak, patlamayı sahada değil atölyede karşılamanızı sağlar:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Dış kılıfta çatlak, kabarma, çelik örgünün görünmesi",
+        "Rakor diplerinde terleme ve yağ birikmesi",
+        "Hortumun sac kenarına, şaseye ya da komşu hortuma sürttüğü noktalar",
+        "Kopmuş kelepçeler, yerinden kaymış koruma spiralleri",
+        "Hareket sırasında aşırı gerilen ya da sarkan hortumlar"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Şüpheli bir hortumu iş bitiminde değiştirmek, aynı hortumun yük havadayken patlamasından her zaman daha ucuzdur."
+    },
+    {
+      "type": "h2",
+      "text": "Milas'ta hızlı pres hortum"
+    },
+    {
+      "type": "p",
+      "text": "Güllük–Güvercinlik arasındaki, Tuzla Kavşağı'ndaki atölyemizde yaygın çap ve rekor tipleri stokta; hortumu ölçüye göre kesip rakorunu takarak presliyoruz, çoğu iş aynı gün teslim ediliyor. Makine sahadan çıkamıyorsa Milas, Bodrum ve Muğla çevresinde yerinde değişim için gelebiliyoruz; 7/24 açığız. Ayrıntılar için <a href=\"/hizmetler/pres-hortum.html\">pres hortum</a> sayfamıza, hortum patlamasının arkasında daha büyük bir hidrolik sorun varsa <a href=\"/hizmetler/vinc-hidrolik-tamiri.html\">vinç hidrolik tamiri</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Hidrolik hortum patlayınca makine çalıştırılmaya devam edilebilir mi?",
+      "a": "Hayır. Hareketi durdurun, yükü mümkünse kontrollü şekilde indirin ve motoru kapatın. Patlak hortumla çalışmaya devam etmek hem yağ kaybıyla pompaya zarar verir hem de yükün kontrolsüz hareket etmesine yol açabilir."
+    },
+    {
+      "q": "Hidrolik yağ enjeksiyon yaralanması neden tehlikelidir?",
+      "a": "Çünkü giriş yarası çoğu zaman iğne deliği kadar küçüktür ve ilk anda ağrı az olabilir; ama yağ dokular arasında yayılarak doku hasarına yol açar. Tıbbi literatür bu yaralanmanın acil cerrahi müdahale gerektirdiğini ve tedavide gecikmenin kalıcı hasar, hatta uzuv kaybı riskini artırdığını belirtir. Hekime yüksek basınçlı hidrolik yağ enjeksiyonu olduğunu mutlaka söyleyin."
+    },
+    {
+      "q": "Hortum patlayınca dökülen yağ nasıl temizlenir?",
+      "a": "Yağ emici ped ya da granülle toplanır; toprağa, yağmur suyu kanalına ve denize ulaşmaması için çevresi kapatılır. Yağlı ped ve granül normal çöpe atılmaz, atık olarak ayrı biriktirilir. Yağlı zemin kaygan olduğu için temizlik bitene kadar alan şeritli kalmalıdır."
+    },
+    {
+      "q": "Patlak hortumu bantla ya da kelepçeyle geçici olarak idare edebilir miyim?",
+      "a": "Hayır. Yüksek basınçlı bir hortum bantla ya da kelepçeyle güvenli hale getirilemez; ilk basınç darbesinde yeniden patlayabilir ve çevredekileri yaralayabilir. Hortum değiştirilmelidir."
+    },
+    {
+      "q": "Hortum patladığında yük havada kaldıysa ne yapılmalı?",
+      "a": "Önce yükün altını ve düşme alanını boşaltın, kimseyi yaklaştırmayın ve yükü gözetimsiz bırakmayın. Vinç hâlâ kontrol edilebiliyorsa yükü kontrollü şekilde indirin. Edilemiyorsa yükü nasıl indireceğinizi doğaçlama denemeyin; servisi arayın ve vincin kılavuzundaki acil indirme prosedürünü bilen biriyle ilerleyin."
+    },
+    {
+      "q": "Hortum patladıktan sonra hidrolik yağı değiştirmek gerekir mi?",
+      "a": "Her zaman gerekmez. Eksilen yağ aynı tip yağla tamamlanır; ancak patlama sırasında sisteme kir ya da su girdiyse, yağ köpüklü veya bulanıksa filtre ve yağın durumu kontrol edilip gerekiyorsa değiştirilmelidir."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "High-pressure injection injury: a case report and systematic review",
+      "publisher": "Case Reports in Plastic Surgery and Hand Surgery (PubMed Central)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6968540/"
+    },
+    {
+      "title": "Hydraulic Hoses & Couplings – Product & Application Guide 2024",
+      "publisher": "Gates",
+      "url": "https://www.gates.com/content/dam/documents-library/catalogs/gates-hydraulic-catalogue-in-en.pdf"
+    },
+    {
+      "title": "Hydraulic Maintenance & Safety Tips (Safe Hydraulics pocket guide)",
+      "publisher": "Gates",
+      "url": "https://www.gates.com/content/dam/documents-library/operating-manuals/safe-hydraulics-pocket-guide.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/pres-hortum.html",
+    "/hizmetler/vinc-hidrolik-tamiri.html",
+    "/blog/hidrolik-hortum-neden-patlar.html",
+    "/blog/vincle-calisirken-is-guvenligi.html",
+    "/hizmetler/vinc-revizyon-tamir-bakim.html"
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "slug": "ekskavator-hidrolik-arizalari",
+  "_hedef": "ekskavatör hidrolik arızası",
+  "title": "Ekskavatör Hidrolik Arızası: Belirtiler ve Nedenler",
+  "h1": "Ekskavatör Hidrolik Arızaları: Belirtiden Nedene Arıza Tablosu",
+  "desc": "Ekskavatör hidrolik arızası belirtileri: yavaşlama, güç kaybı, ısınma, bomun kendiliğinden inmesi ve kaçak. Olası nedenler, ilk kontroller ve servis zamanı.",
+  "category": "Hidrolik",
+  "image": "stok/stok-ekskavator.jpg",
+  "imageAlt": "Şantiyede toprak yığını üzerinde çalışan paletli ekskavatör (stok fotoğraf)",
+  "kisaCevap": "Ekskavatörde hidrolik arızası çoğunlukla beş belirtiyle görülür: tüm hareketlerde yavaşlama, tek fonksiyonda güç kaybı, yağın aşırı ısınması, bom ya da kolun kendiliğinden inmesi ve görünür kaçak. Belirti bütün makinedeyse önce yağ seviyesi, filtre, pilot basıncı ve pompa; tek harekette ise o fonksiyonun valf bölümü ve silindiri şüphelidir. Kesin teşhis basınç ölçümüyle konur.",
+  "intro": "Bu yazı, ekskavatörü sahada çalıştıran operatörler, makine sahipleri ve hafriyat işi yapan müteahhitler için. Hidrolik arızası çoğu zaman bir anda değil, birkaç gün içinde büyüyen küçük belirtilerle gelir: biraz yavaşlayan bir kova, öğleden sonra ısınan bir tank, sabaha karşı birkaç santim inmiş bir bom. Aşağıdaki tablo ve kontrol listesi, bu belirtileri servise gitmeden önce doğru okumanıza ve hangi durumda makineyi hemen durdurmanız gerektiğine karar vermenize yardımcı olur.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Ekskavatör hidrolik sistemi nasıl çalışır?"
+    },
+    {
+      "type": "p",
+      "text": "Hidrolik yağ tanktan emilir ve motorla tahrik edilen ana pompaya gelir; çoğu modern ekskavatörde bu pompa değişken debili pistonlu tiptir. Pompanın bastığı yağ, ana kumanda valfine gider. Operatör joystick'i hareket ettirdiğinde, ayrı bir pilot devresi kumanda valfindeki ilgili sürgüyü kaydırır ve yağ ilgili silindire ya da motora yönlenir. Bom, kol ve kova silindirlerle; üst yapının dönüşü döner (swing) motoruyla, yürüyüş ise yürüyüş motorlarıyla yapılır. Devrede aşırı basıncı sınırlayan emniyet valfleri, yağı soğutan bir soğutucu ve yağı temiz tutan filtreler bulunur. Dönen yağ filtreden geçerek tanka geri döner."
+    },
+    {
+      "type": "p",
+      "text": "Bu zincirin herhangi bir halkasındaki sorun, sahada farklı bir belirti olarak ortaya çıkar. Aşağıdaki tablo, belirtiden olası nedene giden yolu özetliyor."
+    },
+    {
+      "type": "h2",
+      "text": "Ekskavatörde hidrolik arızası belirtileri nelerdir?"
+    },
+    {
+      "type": "p",
+      "text": "Belirtinin tüm makinede mi yoksa tek bir harekette mi olduğu, arızanın yerini büyük ölçüde gösterir. Belirti, olası neden ve ilk kontrol:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Belirti",
+        "Olası nedenler",
+        "İlk kontrol"
+      ],
+      "rows": [
+        [
+          "Tüm hareketler yavaş ve güçsüz",
+          "Düşük yağ seviyesi, tıkalı filtre ya da emiş süzgeci, pompa aşınması, düşük pilot basıncı, motor devri",
+          "Yağ seviyesi, filtre göstergesi, motor devri"
+        ],
+        [
+          "Tek bir fonksiyon zayıf (ör. yalnızca kova)",
+          "O fonksiyonun valf bölümü, ilgili emniyet valfi, silindir keçesi",
+          "Diğer fonksiyonlarla karşılaştırma"
+        ],
+        [
+          "Bom ya da kol kendiliğinden iniyor",
+          "Silindir içinde keçe kaçağı, valf sürgüsünde kaçak, yük tutma valfi",
+          "Yüklü bekletme ve işaretleyip ölçme"
+        ],
+        [
+          "Yağ aşırı ısınıyor",
+          "Kirli soğutucu, düşük yağ seviyesi, sürekli açan emniyet valfi, iç kaçaklar",
+          "Soğutucu petekleri, yağ seviyesi"
+        ],
+        [
+          "Kumandada sarsıntı, düzensiz hareket",
+          "Yağa hava karışması, pilot devresi sorunları",
+          "Yağda köpük, pilot hattı"
+        ],
+        [
+          "Pompadan uğultu ya da ıslık sesi",
+          "Emiş tarafında kısıtlama, düşük seviye, uygun olmayan yağ",
+          "Emiş hortumu ve kelepçeleri, seviye"
+        ],
+        [
+          "Dönüş zayıf ya da sesli",
+          "Döner motor, döner fren, redüktör",
+          "Ses ve kaçak kontrolü"
+        ],
+        [
+          "Yürüyüşte bir taraf zayıf",
+          "Yürüyüş motoru, döner bağlantı (orta mafsal), valf bölümü",
+          "İki tarafı karşılaştırma"
+        ],
+        [
+          "Görünür kaçak",
+          "Hortum, rekor, O-ring, silindir mil keçesi",
+          "Temizleyip kaynağı bulma"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu tablo bir başlangıç noktasıdır. Aynı belirtinin birden fazla nedeni olabilir ve kesin teşhis için ölçüm gerekir. Servise haber verirken belirtinin ne zaman ortaya çıktığını da not edin: makine soğukken mi, yağ ısındıktan sonra mı, yalnızca yük altında mı? Örneğin yalnızca ısındıktan sonra başlayan bir güç kaybı, iç kaçaklara ve incelen yağa işaret edebilir. Bu küçük ayrıntı, teşhis süresini belirgin biçimde kısaltır."
+    },
+    {
+      "type": "h2",
+      "text": "Servisi çağırmadan önce neleri kontrol edebilirsiniz?"
+    },
+    {
+      "type": "p",
+      "text": "Yağ seviyesini, filtre göstergesini, soğutucu peteklerini, hortumları, yağın görünüşünü ve motor devrini kendiniz kontrol edebilirsiniz:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Hidrolik yağ seviyesini makine düz zemindeyken ve kılavuzda tarif edilen konumdayken kontrol edin.",
+        "Filtre tıkanma göstergesine ve son filtre değişiminin üzerinden geçen çalışma saatine bakın.",
+        "Soğutucunun peteklerini kontrol edin; toz, toprak ve yaprakla tıkanmış bir soğutucu yağı ısıtır.",
+        "Hortumlarda sürtünme, şişme ya da terleme olup olmadığına bakın.",
+        "Yağın görünüşüne bakın: süt gibi bulanık, köpüklü ya da koyu ve yanık kokulu mu?",
+        "Motor devrinin normal olup olmadığını kontrol edin; düşük devir de hidrolik gücü düşürür."
+      ]
+    },
+    {
+      "type": "callout",
+      "text": "Kontrol öncesi kovayı ve bomu yere indirin, motoru durdurun ve hattaki basıncı kılavuza göre tahliye edin. Kaçağı asla elinizi hortumun üzerinde gezdirerek aramayın; ince bir delikten çıkan basınçlı yağ deriyi delip geçebilir ve <a href=\"https://www.safequarry.com/toolbox/Highpressureinjectioninjuries.pdf\">bu tür yaralanmalar</a> acil cerrahi müdahale gerektirir. Bunun için bir karton parçası kullanın."
+    },
+    {
+      "type": "h2",
+      "text": "Hidrolik yağın görünüşü ne anlatır?"
+    },
+    {
+      "type": "p",
+      "text": "Yağın görünüşü çoğu zaman sorunun türünü söyler: bulanıklık su, köpük hava, koyulaşma ve yanık koku ısınma, parlak parçacık aşınma demektir. Ayrıntısı:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Süt gibi bulanık yağ:</strong> Sisteme su karışmıştır; tank kapağı, havalandırma ve soğutucu kontrol edilmelidir.",
+        "<strong>Köpüklü yağ:</strong> Hava karışıyordur; emiş tarafındaki gevşek kelepçe ya da düşük seviye ilk şüphelilerdir.",
+        "<strong>Koyulaşmış ve yanık kokulu yağ:</strong> Aşırı ısınma yaşanmıştır; yağ özelliğini kaybetmiş olabilir.",
+        "<strong>Parlak metal parçacıklar:</strong> Pompa, motor ya da silindirde aşınma vardır; makine çalıştırılmaya devam edilmemelidir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Düzenli yağ analizi, arızayı belirti vermeden önce yakalamanın en iyi yoludur. Yağ değişiminin zamanlaması ve neye göre karar verileceği konusunda <a href=\"/blog/vinc-hidrolik-yag-degisimi-ne-zaman.html\">hidrolik yağ değişimi ne zaman yapılır</a> yazımızdaki ilkeler, ekskavatörler için de geçerlidir."
+    },
+    {
+      "type": "h2",
+      "text": "Ekskavatör hangi durumda hemen durdurulmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Güvenlik riski ya da hızla büyüyen bir hasar belirtisi gördüğünüz anda durdurun:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Ani güç kaybıyla birlikte pompadan yeni bir ses geliyorsa",
+        "Yağ sıcaklığı uyarısı yanıyor ya da tank aşırı ısınmışsa",
+        "Bom ya da kol yük altında kendiliğinden iniyorsa; bu doğrudan bir güvenlik riskidir",
+        "Büyük bir kaçak ya da hortum patlaması varsa",
+        "Yağda metal parçacık görüyorsanız"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Hidrolik üzerine yazan teknik kaynaklar, 82 °C'nin üzerindeki yağ sıcaklıklarının çoğu keçe malzemesine zarar verdiğini ve yağın bozulmasını hızlandırdığını belirtir. Bu durumlarda çalışmaya devam etmek, küçük bir onarımı pompa revizyonuna, bir keçe değişimini silindir gömleği işlemeye dönüştürebilir. Makineyi durdurmak o gün işi aksatır, ama çoğu zaman haftalarca sürecek bir duruşu önler."
+    },
+    {
+      "type": "h2",
+      "text": "Serviste hidrolik arıza nasıl bulunur?"
+    },
+    {
+      "type": "p",
+      "text": "Doğru teşhis tahminle değil ölçümle yapılır. Serviste önce şikâyetin hangi koşulda ortaya çıktığını dinleriz: soğukken mi, ısınınca mı, yük altında mı, tüm hareketlerde mi? Ardından devrenin test noktalarından basınç ölçülür; pompa çıkışı, pilot basıncı ve emniyet valfi ayarları değerlendirilir. Tek bir fonksiyondaki sorunlarda o fonksiyon devreden ayrılarak silindir ya da motor ile valf bölümü birbirinden ayrı test edilir. Bomun kendiliğinden inmesi gibi şikâyetlerde, sorunun silindirin içinde mi yoksa valfte mi olduğu bu şekilde netleşir. Isınma şikâyetinde de mantık aynıdır: <a href=\"https://www.machinerylubrication.com/Read/680/hydraulic-overheating\">basınç düşümünün olduğu her noktada ısı üretilir</a>; piston keçesinden kaçıran bir silindir ya da yanlış ayarlanmış bir emniyet valfi sistemin ısı yükünü artırır."
+    },
+    {
+      "type": "p",
+      "text": "Teşhis sonrası çözüm; bir keçe takımının yenilenmesi, valf bölümünün onarımı, pompanın revizyonu ya da hortumların yenilenmesi olabilir. Pompa tarafındaki tipik belirtileri <a href=\"/blog/vinc-hidrolik-pompa-arizasi-belirtileri.html\">hidrolik pompa arızası belirtileri</a> yazımızda ayrıca anlattık; vinç için yazılmış olsa da mantık aynıdır."
+    },
+    {
+      "type": "h2",
+      "text": "Ekskavatörde hidrolik arızası nasıl önlenir?"
+    },
+    {
+      "type": "p",
+      "text": "Filtreleri zamanında değiştirmek, doğru yağı kullanmak, soğutucuyu temiz tutmak ve hortumları korumak arızaların çoğunu önler:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Filtreleri üreticinin önerdiği çalışma saatlerinde değiştirin; tıkanma göstergesini bekleyin değil, takip edin.",
+        "Makineye üreticinin önerdiği tip ve viskozitede hidrolik yağ kullanın; farklı yağları karıştırmayın.",
+        "Soğutucuyu düzenli temizleyin; özellikle tozlu sahalarda bu iş haftalık rutine girmelidir.",
+        "Silindir millerini darbe ve çizikten koruyun; çizik bir mil, yeni keçeyi de kısa sürede bitirir.",
+        "Hortum güzergâhlarını ve kelepçeleri kontrol edin; sürtünen hortumu patlamadan önce koruyun. <a href=\"https://na.develon-ce.com/en/news-stories/the-cutting-edge/how-to-maintain-an-excavators-hydraulic-system\">Bir ekskavatör üreticisi</a> de hortumların yaşa ya da saate göre değil aşınma parçası olarak ele alınmasını, hasar görüldüğünde hemen değiştirilmesini önerir.",
+        "Soğuk havalarda makineyi ağır yüke vermeden önce kısa bir ısınma süresi tanıyın."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Periyodik bakımın tamamını günlük kontrollerden sezonluk hazırlığa kadar <a href=\"/blog/is-makinasi-bakim-rehberi.html\">iş makinası bakım rehberi</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Milas'ta ekskavatör hidrolik tamiri nerede yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Hedef Vinç olarak Milas'taki atölyemizde ekskavatör başta olmak üzere iş makinalarının mekanik ve hidrolik tamirini yapıyoruz: hidrolik pompa, valf ve silindir onarımı, keçe ve conta yenileme, pim ve burç değişimi. Atölyemizde <a href=\"/hizmetler/pres-hortum.html\">pres hortum</a>, torna ve kaynak aynı çatı altında olduğu için çoğu iş tek durakta biter: patlayan hortum aynı gün preslenir, aşınan pim ve burç tornada işlenir. Makineniz atölyeye gelemiyorsa Milas, Bodrum, Muğla, Aydın ve İzmir hattında sahada servis veriyoruz. Ayrıntılar için <a href=\"/hizmetler/is-makinasi-tamir-bakim.html\">iş makinası tamir ve bakım</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "callout",
+      "text": "Makinenizin modelini ve belirtiyi anlatın: ne zaman başladı, tüm hareketlerde mi, yalnızca birinde mi? Teşhisi birlikte planlayalım; acil durumlarda 7/24 ulaşabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Belirti tüm hareketlerdeyse pompa ve ortak devreye, tek harekette ise o fonksiyona bakın.",
+    "Bom yük altında kendiliğinden iniyorsa makineyi durdurun; bu doğrudan bir güvenlik riskidir.",
+    "Isınmanın sık nedenleri kirli soğutucu, düşük yağ seviyesi ve iç kaçaklardır.",
+    "Kaçağı elle değil kartonla arayın; ince bir delikten çıkan yağ deriyi delebilir.",
+    "Yağda parlak metal parçacık görürseniz makineyi çalıştırmaya devam etmeyin."
+  ],
+  "faqs": [
+    {
+      "q": "Ekskavatör neden yavaş çalışır?",
+      "a": "Tüm hareketler yavaşsa düşük yağ seviyesi, tıkalı filtre, düşük pilot basıncı, pompa aşınması ya da düşük motor devri ilk şüphelilerdir. Yavaşlık tek bir harekette ise sorun o fonksiyonun valf bölümünde ya da silindirinde aranır."
+    },
+    {
+      "q": "Ekskavatörde bom neden kendiliğinden iner?",
+      "a": "En sık neden, silindirin içindeki piston keçesinden yağ kaçmasıdır. Kumanda valfindeki kaçaklar ya da yük tutma valfi de aynı belirtiyi verebilir; hangisi olduğu testle ayrılır."
+    },
+    {
+      "q": "Ekskavatörde hidrolik yağ neden ısınır?",
+      "a": "Kirli soğutucu, düşük yağ seviyesi, sürekli açan bir emniyet valfi ya da sistemdeki iç kaçaklar yağı ısıtır. Isınan yağ incelir, kaçakları artırır ve keçelerin ömrünü kısaltır."
+    },
+    {
+      "q": "Ekskavatörün bir paleti neden zayıf yürür?",
+      "a": "Yürüyüşte tek taraf zayıfsa o tarafın yürüyüş motoru, orta mafsaldaki döner bağlantı ya da ilgili valf bölümü şüphelidir. İki taraf karşılaştırılarak basınç ölçülür; sorun iki tarafta birden varsa pompa ve pilot devresine bakılır."
+    },
+    {
+      "q": "Ekskavatör hidrolik arızası sahada giderilebilir mi?",
+      "a": "Hortum, rekor, filtre ve bazı keçe işleri çoğu zaman sahada çözülebilir. Pompa revizyonu, valf onarımı ya da silindir gömleği işleme gibi işler ise atölye gerektirir; teşhis sonrası hangisinin uygun olduğunu söyleriz."
+    },
+    {
+      "q": "Ekskavatörün dönüşü (swing) neden zayıflar?",
+      "a": "Dönüş zayıf ya da sesliyse döner motor, döner fren ve dönüş redüktörü kontrol edilir. Diğer hareketler normalse sorun büyük olasılıkla bu devrededir; bütün hareketler zayıfsa önce pompa ve pilot basıncına bakılır."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Solving Hydraulic System Overheating Problems (Brendan Casey)",
+      "publisher": "Machinery Lubrication",
+      "url": "https://www.machinerylubrication.com/Read/680/hydraulic-overheating"
+    },
+    {
+      "title": "How to Maintain an Excavator's Hydraulic System",
+      "publisher": "DEVELON",
+      "url": "https://na.develon-ce.com/en/news-stories/the-cutting-edge/how-to-maintain-an-excavators-hydraulic-system"
+    },
+    {
+      "title": "Toolbox Talk: High-Pressure Fluid Injection Injuries",
+      "publisher": "SafeQuarry",
+      "url": "https://www.safequarry.com/toolbox/Highpressureinjectioninjuries.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/is-makinasi-tamir-bakim.html",
+    "/blog/is-makinasi-bakim-rehberi.html",
+    "/blog/vinc-hidrolik-pompa-arizasi-belirtileri.html",
+    "/blog/hidrolik-hortum-patlamasi-sahada-ne-yapmali.html",
+    "/hizmetler/pres-hortum.html"
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "slug": "vinc-revizyonu-ne-kadar-surer",
+  "_hedef": "vinç revizyonu ne kadar sürer",
+  "title": "Vinç Revizyonu Ne Kadar Sürer? Süreyi Belirleyen Etkenler",
+  "h1": "Vinç Revizyonu Ne Kadar Sürer? Adım Adım Süreç ve Süreyi Uzatan Etkenler",
+  "desc": "Vinç revizyonu ne kadar sürer? Söküm, tespit, parça tedariki, yapısal onarım, test ve periyodik kontrol adımları; süreyi uzatan etkenler ve Milas'ta planlama.",
+  "category": "Vinç Tamiri",
+  "image": "real_ones/revizyonu-biten-vinc-kamyonla-teslimat.jpg",
+  "imageAlt": "Revizyonu tamamlanmış kabinli sarı vinç bir kamyonun kasasına kayışlarla bağlanıyor; bir kişi kayışları sabitliyor",
+  "kisaCevap": "Vinç revizyonunun süresi tek bir rakamla söylenemez. Süreyi vincin tipi ve büyüklüğü, söküm sonrası çıkan bulgular, parçaların stokta olup olmaması, yapısal kaynak onarımı gerekip gerekmediği ve revizyon sonrası periyodik kontrolün randevusu belirler; en çok uzatan kalem genellikle parça tedarikidir. Gerçekçi takvim, vinç incelenip söküm ve tespit sonrası iş listesi çıkarıldıktan sonra verilebilir.",
+  "intro": "Vincini revizyona sokmayı düşünen bir vinç sahibinin ilk sorusu çoğu zaman \"Vinç ne kadar yatacak?\" olur; çünkü vinç atölyedeyken iş, sözleşme ve operatör bekler. Bu yazı, revizyon takvimini planlamak isteyen vinç sahipleri ve şantiye yöneticileri için süreci adım adım, süreyi uzatan etkenleri, yönetmelikten gelen kontrol adımını ve bekleme süresini kısaltmak için sizin yapabileceklerinizi anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Neden kimse revizyon süresini telefonda kesin söyleyemez?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü revizyon kapalı kutu açmaktır: söküm yapılmadan içeride ne çıkacağı bilinmez. Dışarıdan yalnızca \"silindir kaçırıyor\" diye görünen bir vincin içinden mili çizilmiş bir silindir, ovalleşmiş pim yuvaları ya da yorulmuş bir pompa çıkabilir. Tersi de olur: Büyük bir arıza sanılan sorun, tek bir valfin ayarına bağlı çıkabilir."
+    },
+    {
+      "type": "p",
+      "text": "Bu yüzden telefonda kesin gün söyleyen bir servis ya vinci görmeden tahmin yürütüyordur ya da sürpriz bulguları sonradan \"ek süre\" olarak bildirecektir. Biz süreyi iki aşamada konuşuyoruz: inceleme sonrası bir ön plan, söküm ve tespit sonrası net bir iş ve takvim planı. Bulgular değiştikçe sizi fotoğraf ve videoyla bilgilendiriyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç revizyonu hangi adımlardan oluşur?"
+    },
+    {
+      "type": "p",
+      "text": "Revizyon dokuz adımda ilerler: kabul, ön inceleme, söküm, tespit, onay, parça tedariki, onarım ve montaj, testler ve periyodik kontrol. Adımların içeriği:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "<strong>Ön görüşme ve kabul:</strong> Vincin modeli, yaşı, şikâyetler, varsa bakım kayıtları ve son periyodik kontrol raporu.",
+        "<strong>Ön inceleme ve testler:</strong> Çalıştırarak hareket kontrolleri, hidrolik basınç ve kaçak kontrolleri, yapısal gözle kontrol, döner tabla boşluğu.",
+        "<strong>Söküm ve temizlik:</strong> Revizyon kapsamındaki silindirler, valfler, pompa, pim ve burçların sökülmesi; parçaların temizlenmesi.",
+        "<strong>Tespit ve iş listesi:</strong> Her parçanın ölçülüp \"kullanılır, işlenir, değişir\" diye ayrılması; parça listesinin ve onarım planının çıkarılması.",
+        "<strong>Onay:</strong> İş listesinin ve maliyetin sizinle paylaşılıp onaylanması.",
+        "<strong>Parça tedariki ve imalat:</strong> Stoktan gelen parçalar, siparişle gelen parçalar, torna tezgâhında üretilen pim ve burçlar.",
+        "<strong>Onarım ve montaj:</strong> Silindir keçe değişimleri, gerekiyorsa mil işlemleri, yapısal kaynak onarımları, hortumların preslenmesi, montaj.",
+        "<strong>Ayar ve testler:</strong> Basınç ayarları, yüksüz ve kontrollü yükle fonksiyon testleri, emniyet sistemlerinin kontrolü.",
+        "<strong>Periyodik kontrol ve teslim:</strong> Gereken hallerde bağımsız yetkili kişi tarafından periyodik kontrol, ardından teslim."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu adımların bir kısmı paralel yürür. Örneğin parça siparişi verildikten sonra beklenirken, diğer silindirlerin keçe değişimi ve yapısal onarımlar devam eder. İyi bir planlama, bekleme süresini iş süresinin içine gömmektir."
+    },
+    {
+      "type": "h2",
+      "text": "Revizyon süresini en çok ne uzatır?"
+    },
+    {
+      "type": "p",
+      "text": "En çok süreyi genellikle parça tedariki uzatır; onu yapısal bulgular, silindir mili hasarı ve revizyon sırasında büyüyen kapsam izler. Etkenler ve kısaltma yolları:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Etken",
+        "Neden süreyi etkiler",
+        "Nasıl kısaltılır"
+      ],
+      "rows": [
+        [
+          "Parça tedariki",
+          "Stokta olmayan, yurt dışından gelen ya da üretimi bitmiş parçalar beklemeye yol açar",
+          "Erken tespit ve siparişin hemen verilmesi; uygunsa imalat ya da eşdeğer parça"
+        ],
+        [
+          "Yapısal bulgular",
+          "Bom, kolon ya da şasede çatlak; kaynak, kontrol ve gerekirse tahribatsız muayene ister",
+          "Yapısal kontrolün söküm öncesinde yapılması, onarımın plana baştan konması"
+        ],
+        [
+          "Silindir mili hasarı",
+          "Çizik ya da eğik mil, keçe değişimini işleme ya da yenileme işine çevirir",
+          "Söküm sırasında ölçüm ve ilk günden karar"
+        ],
+        [
+          "Kapsam büyümesi",
+          "Revizyon sırasında yeni işlerin eklenmesi",
+          "Kapsamın baştan net konuşulması"
+        ],
+        [
+          "Onay süresi",
+          "İş listesinin onayı beklenirken ilgili işler durur",
+          "Hızlı iletişim, fotoğraf ve videoyla bilgilendirme"
+        ],
+        [
+          "Periyodik kontrol randevusu",
+          "Önemli bakım ve onarım sonrasında kontrol yapılmadan vinç işe dönmemeli",
+          "Kontrol tarihini revizyon planına baştan koymak"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Parça tarafında fark büyüktür: yaygın hidrolik parçalar, keçeler, hortum ve rekorlar kısa sürede bulunur; ama eski bir modelin özel bir valfi ya da üretimi durmuş bir silindir gömleği, siparişe ve tedarikçiye bağlı olarak beklemeye yol açabilir. Bu yüzden kritik parça listesini söküm ve tespit aşamasında olabildiğince erken çıkarmaya çalışıyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "Revizyondan sonra periyodik kontrol şart mı?"
+    },
+    {
+      "type": "p",
+      "text": "Revizyonda yük kolu ya da konstrüksiyonda kaynaklı onarım yapıldıysa veya halat ve zincir dışında parça değiştiyse evet, şarttır. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a>, kaldırma ekipmanlarında konstrüksiyon ve yük kolu gibi kısımlara yapılan kaynak, kesme, taşlama gibi onarımları ve halat, zincir dışındaki parça değişimlerini \"önemli bakım ve onarım\" sayar ve bu işlerden sonra periyodik kontrolün yapılmasını ister. Yönetmeliğin ekine göre kaldırma ekipmanlarında en geç üç yılda bir ya da her önemli bakım ve onarımdan sonra, kaldırma kapasitesi üzerinden katsayılı bir yük testi de yapılır; genel kural olarak statik test katsayısı 1,25, dinamik test katsayısı 1,1'dir."
+    },
+    {
+      "type": "p",
+      "text": "Ayrıca yönetmelik, ekipmanın bakımını yapan kişilerin aynı ekipmanın periyodik kontrolünü yapamayacağını açıkça söyler. Yani revizyonu atölye yapar, kontrolü bağımsız bir yetkili kişi yapar. Bu kontrol için gereken hazırlıkları <a href=\"/blog/vinc-periyodik-kontrol-oncesi-bakim.html\">vinç periyodik kontrol öncesi bakım</a> yazımızda anlattık; takvimi baştan buna göre kurmak, teslim tarihini gerçekçi kılar."
+    },
+    {
+      "type": "h2",
+      "text": "Revizyon sürerken iş nasıl aksamaz?"
+    },
+    {
+      "type": "p",
+      "text": "Revizyonu işlerin sakin olduğu döneme planlayın ve aradaki süreyi kiralık vinçle kapatın; vincin işten uzak kaldığı süreyi azaltmanın iki yolu budur. Milas, Bodrum ve Muğla çevresinde <a href=\"/hizmetler/vinc-kiralama.html\">operatörlü vinç kiralama</a> ile revizyon süresince işinizi sürdürebilirsiniz. Revizyonun hangi belirtilerle gündeme geldiğini merak ediyorsanız <a href=\"/blog/vinc-revizyonu-ne-zaman.html\">vinç revizyonu ne zaman gerekir</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "callout",
+      "text": "Revizyon planlıyorsanız vincin modelini, şikâyetlerinizi ve varsa son periyodik kontrol raporunu bize iletin. İnceleme sonrası ön planı, söküm ve tespit sonrası net iş listesini ve takvimi sizinle paylaşırız."
+    },
+    {
+      "type": "h2",
+      "text": "Revizyon süresini kısaltmak için ne yapabilirsiniz?"
+    },
+    {
+      "type": "p",
+      "text": "Bilgiyi erken verin, onayı bekletmeyin ve kontrol randevusunu önceden alın. Ayrıntılı liste:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Şikâyetleri yazılı ve mümkünse videolu iletin: Hangi hareket, hangi koşulda, ne zamandan beri?",
+        "Bakım kayıtlarını, eski fatura ve parça bilgilerini paylaşın; önceki değişimler tespit süresini kısaltır.",
+        "Vincin kılavuzu, yük tablosu ve varsa yedek parça kataloğu elinizdeyse getirin.",
+        "İş listesi geldiğinde onayı bekletmeyin; onaylanmayan kalemler için alternatifleri hemen konuşalım.",
+        "Periyodik kontrol yapacak yetkili kişiyle randevuyu, teslimden önce ayarlayın."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Revizyondan sonraki ilk haftalarda nelere dikkat edilmeli?"
+    },
+    {
+      "type": "p",
+      "text": "Kaçaklar, yağ seviyesi, gresleme ve sökülüp takılan bağlantılar sık kontrol edilmelidir; revizyon, vinç atölyeden çıktığında bitmiş sayılmaz. Yeni keçeler, yeni burçlar ve yenilenen hortumlar ilk çalışma saatlerinde yerine oturur; bu dönemde birkaç kontrol, ileride çıkabilecek küçük sorunları erkenden yakalar:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "İlk günlerde silindir millerine, rakor diplerine ve valf bloğuna yakından bakın; terleme varsa erken bildirin.",
+        "Hidrolik yağ seviyesini ilk hafta sık kontrol edin; devredeki hava çıktıkça seviye bir miktar düşebilir.",
+        "Yeni pim ve burçları kılavuzdaki aralıktan daha sık greslemek, alışma dönemini kolaylaştırır.",
+        "Döner tabla cıvataları ve sökülüp takılan bağlantılar, ilk kullanım döneminden sonra yeniden kontrol edilmelidir.",
+        "Hareketlerde ya da seslerde revizyon öncesine göre bir farklılık hissederseniz not edin ve bize iletin."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu kontroller, revizyonun ömrünü uzatır ve \"revizyondan çıktı ama yine kaçırıyor\" gibi şikâyetlerin önüne geçer."
+    },
+    {
+      "type": "h2",
+      "text": "Atölyemizde revizyon süresi nasıl kısalıyor?"
+    },
+    {
+      "type": "p",
+      "text": "İşlerin aynı tesiste yapılması ve bulguların hemen paylaşılması bekleme süresini kısaltır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Hidrolik, kaynak, torna ve pres hortum aynı tesiste; işler başka atölyelere gidip gelmez.",
+        "Yaygın hortum, rekor ve hidrolik parçalar stokta.",
+        "Pim, burç ve benzeri parçalar torna tezgâhımızda ölçüden üretilebilir.",
+        "Söküm sırasında çıkan bulgular fotoğraf ve videoyla hemen paylaşılır."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Atölyemiz Güllük–Güvercinlik arasında, Tuzla Kavşağı'nda. Kapsamı <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a>, araç üstü vinçler için <a href=\"/hizmetler/hiyap-vinc-tamiri.html\">hiyap vinç tamiri</a> sayfalarımızda bulabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Net revizyon süresi, söküm ve tespitten sonra çıkan iş listesiyle verilir.",
+    "Süreyi en çok parça tedariki uzatır; kritik parçalar ilk günlerde sipariş edilmelidir.",
+    "Yük kolunda kaynak ya da parça değişimi varsa revizyon sonrası periyodik kontrol gerekir.",
+    "Periyodik kontrolü revizyonu yapan atölye değil, bağımsız yetkili kişi yapar.",
+    "Kontrol randevusunu baştan takvime koymak teslim tarihini gerçekçi kılar."
+  ],
+  "faqs": [
+    {
+      "q": "Revizyon için vinci hangi dönemde getirmek uygun?",
+      "a": "İşlerin en sakin olduğu dönemi seçin ve takvimi periyodik kontrol tarihinden geriye doğru kurun. Bodrum gibi turistik yörelerde 15 Mayıs–15 Ekim arasındaki inşaat kısıtlaması, inşaatta çalışan vinçler için uygun bir revizyon penceresi olabilir; tekne işi yapan vinçlerde ise sezon açılışı ve kapanışı dışındaki haftalar daha uygundur."
+    },
+    {
+      "q": "Revizyon sırasında vinç kullanılabilir mi?",
+      "a": "Revizyon kapsamındaki parçalar söküldüğü için genellikle hayır. İşinizin durmaması için revizyonu sakin döneme planlamak ve aradaki süreyi kiralık vinçle kapatmak en pratik yoldur."
+    },
+    {
+      "q": "Revizyon sonrası periyodik kontrolü atölye yapabilir mi?",
+      "a": "Hayır. Yönetmelik, bir ekipmanın bakımını yapan kişilerin aynı ekipmanın periyodik kontrolünü yapamayacağını açıkça söyler. Kontrolü EKİPNET kaydı olan bağımsız bir yetkili kişi yapar; kontrol için gereken ön hazırlıkları birlikte planlarız."
+    },
+    {
+      "q": "Revizyondan sonra yük testi yapılır mı?",
+      "a": "Önemli bakım ve onarımdan sonra yapılan periyodik kontrolde, kaldırma kapasitesi üzerinden katsayılı bir yük testi de yapılır. Yönetmelik genel kural olarak statik testte 1,25, dinamik testte 1,1 katsayısını verir; test yükünü periyodik kontrolü yapan yetkili kişi belirler."
+    },
+    {
+      "q": "Revizyonda hangi parçalar değişir?",
+      "a": "Bu, söküm ve tespit sonrasında belli olur. Keçeler, contalar, filtreler ve yaşlanmış hortumlar genellikle yenilenir; pim, burç, silindir mili, pompa ve valf gibi parçalar ise ölçülerek \"kullanılır, işlenir, değişir\" diye ayrılır. Değişecek her kalem iş listesinde size ayrıca bildirilir."
+    },
+    {
+      "q": "Revizyon ile tamir arasındaki fark nedir?",
+      "a": "Tamir, ortaya çıkan tek bir arızanın giderilmesidir. Revizyon ise vincin ana sistemlerinin planlı şekilde sökülüp aşınan parçalarının topluca yenilenmesidir. Eskiyen sistemlerin güncel karşılıklarıyla değiştirilmesi ise retrofit, yani modernizasyon olarak adlandırılır."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (Madde 6/A, Madde 7, EK-III)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "SS-EN 12999:2020 Cranes – Loader cranes",
+      "publisher": "SIS – İsveç Standardizasyon Enstitüsü",
+      "url": "https://www.sis.se/en/produkter/maskinsakerhet-357f77b1/cranes/ss-en-129992020/"
+    },
+    {
+      "title": "İnşaat yasakları hakkında önemli duyuru (2025/3 sayılı genelge)",
+      "publisher": "Muğla İl Kültür ve Turizm Müdürlüğü",
+      "url": "https://mugla.ktb.gov.tr/TR-397558/insaat-yasaklari-hakkinda-onemli-duyuru.html"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/hizmetler/hiyap-vinc-tamiri.html",
+    "/blog/vinc-revizyonu-ne-zaman.html",
+    "/blog/vinc-periyodik-kontrol-oncesi-bakim.html",
+    "/blog/vinc-retrofit-modernizasyon-nedir.html"
+  ]
+}

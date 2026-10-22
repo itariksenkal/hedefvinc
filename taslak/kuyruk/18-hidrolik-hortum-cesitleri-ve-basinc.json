@@ -1,0 +1,315 @@
+{
+  "slug": "hidrolik-hortum-cesitleri-ve-basinc",
+  "_hedef": "hidrolik hortum çeşitleri",
+  "title": "Hidrolik Hortum Çeşitleri: EN 853, EN 856 ve Basınç",
+  "h1": "Hidrolik Hortum Çeşitleri: Tekstil, Örgülü ve Spiral Hortumlar, Basınç Sınıfları",
+  "desc": "Hidrolik hortum çeşitleri nelerdir? EN 854, EN 853 (1SN, 2SN), EN 857 ve EN 856 (4SP, 4SH, R12, R13) aileleri; hangi hatta hangi hortum seçilir?",
+  "category": "Hidrolik",
+  "image": "real_ones/atolye-sokulmus-vinc-govdesi-ve-ayaklar.jpg",
+  "imageAlt": "Atölye önünde sökülmüş kırmızı vinç gövdesi; kumanda valfleri, hidrolik hortumlar ve destek ayakları görünüyor, yanında turuncu vinçli kamyon",
+  "kisaCevap": "Hidrolik hortumlar takviye katmanına göre üç gruba ayrılır: tekstil takviyeli düşük basınç hortumları (EN 854), bir ya da iki kat çelik tel örgülü hortumlar (EN 853 1SN/2SN ve kompakt EN 857 1SC/2SC) ve spiral çelik telli yüksek basınç hortumları (EN 856 4SP, 4SH, R12, R13). Doğru hortum; hattın çalışma basıncı ve darbeleri, iç çap, sıcaklık, akışkan, bükülme ve rekor sistemi birlikte değerlendirilerek seçilir.",
+  "intro": "Hortum değiştirirken ya da yeni bir hat döşerken karşınıza 1SN, 2SN, 4SH, R13 gibi kodlar çıkar ve dışarıdan benzer görünen iki hortumun dayanabileceği basınç birbirinin birkaç katı olabilir. Bu yazı; vinç ve iş makinesi sahipleri, bakım ustaları ve hortum siparişi veren satın almacılar için bu kodları sadeleştiriyor: hangi standart neyi kapsar, basınç ve çap nasıl okunur, vinçte ve iş makinesinde hangi hatta hangi hortum kullanılır.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Hidrolik hortum hangi katmanlardan oluşur?"
+    },
+    {
+      "type": "p",
+      "text": "Her hidrolik hortum üç temel katmandan oluşur. İçte, hidrolik yağa dayanıklı sentetik kauçuktan bir iç tüp bulunur; görevi yağı taşımak ve sızdırmamaktır. Ortada basınca dayanımı sağlayan takviye katmanı yer alır; bu katman tekstil örgü, çelik tel örgü ya da spiral sarılmış çelik telden oluşur. En dışta ise aşınmaya, yağa, güneşe ve hava koşullarına dayanıklı bir dış kılıf vardır. Hortum çeşitlerini birbirinden ayıran asıl şey, ortadaki takviye katmanının türü ve sayısıdır."
+    },
+    {
+      "type": "h2",
+      "text": "Hidrolik hortum çeşitleri nelerdir?"
+    },
+    {
+      "type": "p",
+      "text": "Avrupa standartlarında dört ana aile vardır: tekstil takviyeli EN 854, tel örgülü EN 853, kompakt tel örgülü EN 857 ve spiral telli EN 856. Ailelerin farkı, ortadaki takviye katmanının türünden ve sayısından gelir:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Standart",
+        "Tipler",
+        "Takviye",
+        "Tipik kullanım"
+      ],
+      "rows": [
+        [
+          "EN 854",
+          "1TE, 2TE, 3TE",
+          "Tekstil örgü",
+          "Dönüş, drenaj ve düşük basınçlı hatlar"
+        ],
+        [
+          "EN 853",
+          "1SN, 2SN (ince kılıflı), 1ST, 2ST (kalın kılıflı)",
+          "Bir ya da iki kat çelik tel örgü",
+          "Genel hidrolik basınç hatları; vinç ve iş makinesi hatlarının çoğu"
+        ],
+        [
+          "EN 857",
+          "1SC, 2SC",
+          "Kompakt çelik tel örgü",
+          "Dar alanlar ve küçük bükülme yarıçapı gereken hatlar"
+        ],
+        [
+          "EN 856",
+          "4SP, 4SH, R12, R13",
+          "Dört, büyük çaplarda altı kat spiral çelik tel",
+          "Yüksek basınçlı ve yoğun basınç darbeli hatlar"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu standartların yanında ABD kökenli SAE J517 serisi de yaygındır; 100R1, 100R2, 100R12 ve 100R13 gibi tipler yapı olarak Avrupa standartlarındaki karşılıklarına benzer. Ancak benzer olmak aynı olmak demek değildir: ölçü ve basınç değerleri birebir aynı varsayılmamalı, her zaman hortumun üzerindeki değerlere bakılmalıdır. Standartlar zaman zaman revize edildiği için hortum üzerindeki standart yılı da farklılık gösterebilir."
+    },
+    {
+      "type": "h2",
+      "text": "1SN, 2SN, 4SP ve 4SH ne anlama gelir?"
+    },
+    {
+      "type": "p",
+      "text": "Kodun başındaki rakam çoğunlukla tel katı sayısını gösterir: 1SN tek, 2SN iki kat çelik tel örgülüdür; 4SP ve 4SH ise dört kat spiral telli hortumlardır. Tek tek bakarsak:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>1SN ve 2SN:</strong> Sırasıyla bir ve iki kat yüksek mukavemetli çelik tel örgülü hortumlardır. İnce kılıflı yapıdadırlar; rekor takılırken dış kılıfın soyulması gerekmez. Vinç ve iş makinelerindeki hatların büyük bölümünde bu aile kullanılır.",
+        "<strong>1ST ve 2ST:</strong> Aynı takviye mantığına sahip, daha kalın kılıflı tiplerdir. <a href=\"https://www.sis.se/produkter/fluidsystem-och-delar/hydrauliska-system/rordragning-och-kopplingar/ss-en-8532026/\">EN 853</a> bu dört tipi birlikte tanımlar.",
+        "<strong>1SC ve 2SC:</strong> Örgülü yapının kompakt hâlidir. Dış çapı daha küçüktür ve daha küçük yarıçapla bükülebilir; makine içindeki dar güzergâhlarda avantaj sağlar.",
+        "<strong>4SP ve 4SH:</strong> Dört kat spiral çelik tel takviyelidir. 4SP küçük çaplardan itibaren üretilir; 4SH daha büyük çaplarda ve aynı çapta 4SP'den daha yüksek çalışma basıncıyla kullanılır.",
+        "<strong>R12 ve R13:</strong> Daha yüksek sıcaklıkta ağır hizmete yönelik spiral tiplerdir. <a href=\"https://www.sis.se/en/produkter/fluid-systems-and-components-for-general-use/fluid-power-systems/piping-and-couplings/ss-en-8562015ac2019/\">EN 856</a>'ya göre 4SP ve 4SH −40 ile +100 °C, R12 ve R13 ise −40 ile +120 °C arasında kullanılır; R13'ün basınç sınıfı R12'den yüksektir.",
+        "<strong>1TE, 2TE, 3TE:</strong> EN 854'teki tekstil takviyeli düşük basınç hortumlarıdır; dönüş ve drenaj hatlarında kullanılır."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Hortum basıncı nasıl okunur: WP mi, patlama basıncı mı?"
+    },
+    {
+      "type": "p",
+      "text": "Her hortumun üzerinde en yüksek çalışma basıncı (WP) yazar ve seçimde esas alınan değer budur. Patlama basıncı çok daha yüksektir; üretici kataloglarında genellikle çalışma basıncının dört katı olarak verilir. Bu fark kullanmak için değil, emniyet payı olarak vardır. Aynı tipteki hortumda iç çap büyüdükçe izin verilen çalışma basıncı düşer: örneğin <a href=\"https://www.tubes-international.com/wp-content/uploads/catalogue-en-pdf/high_pressure/hydraulic_rubber_hoses.pdf\">bir hortum üreticisinin kataloğunda</a> 2SN hortumun çalışma basıncı 1/4 inç çapta 400 bar iken 2 inç çapta 80 bar'dır. Yani küçük çaplı bir 2SN hortumun taşıdığı basıncı, aynı tipin büyük çaplısı taşıyamayabilir. Bu yüzden “2SN olsun yeter” demek yerine, hattın basıncını o çaptaki hortumun değeriyle karşılaştırmak gerekir."
+    },
+    {
+      "type": "p",
+      "text": "Hidrolik devrede asıl yıpratan çoğu zaman sabit basınç değil, valfler açılıp kapanırken oluşan ani basınç darbeleridir. Sık ve sert çalışan pompa çıkışı ve silindir hatlarında bu yüzden spiral takviyeli EN 856 hortumlar öne çıkar; üreticiler hortumun dayandığı darbe çevrimi sayısını kataloglarında ayrıca belirtir."
+    },
+    {
+      "type": "h2",
+      "text": "Hidrolik hortum çapı nasıl ifade edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Hortum çapı her zaman iç çap olarak ifade edilir. Avrupa standartlarında DN (milimetre), inç sisteminde ise inç ya da “dash” numarası kullanılır. Dash numarası, iç çapın inçin on altıda biri cinsinden değeridir; örneğin -6, 6/16 yani 3/8 inç demektir."
+    },
+    {
+      "type": "table",
+      "head": [
+        "DN",
+        "İnç",
+        "Dash"
+      ],
+      "rows": [
+        [
+          "5",
+          "3/16",
+          "-3"
+        ],
+        [
+          "6",
+          "1/4",
+          "-4"
+        ],
+        [
+          "8",
+          "5/16",
+          "-5"
+        ],
+        [
+          "10",
+          "3/8",
+          "-6"
+        ],
+        [
+          "12",
+          "1/2",
+          "-8"
+        ],
+        [
+          "16",
+          "5/8",
+          "-10"
+        ],
+        [
+          "20",
+          "3/4",
+          "-12"
+        ],
+        [
+          "25",
+          "1",
+          "-16"
+        ],
+        [
+          "32",
+          "1 1/4",
+          "-20"
+        ],
+        [
+          "38",
+          "1 1/2",
+          "-24"
+        ],
+        [
+          "51",
+          "2",
+          "-32"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Vinçte ve iş makinesinde hangi hatta hangi hortum kullanılır?"
+    },
+    {
+      "type": "p",
+      "text": "Pompa çıkışı ve silindir hatları en yüksek basıncı görür; dönüş, drenaj ve pilot hatları daha düşük basınçla çalışır. Hat hat bakarsak:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Pompa çıkışı ve silindir hatları:</strong> Sistemin en yüksek basıncını ve darbelerini görür. Basınca ve çapa göre 2SN, 2SC ya da spiral tipler değerlendirilir.",
+        "<strong>Dönüş hatları:</strong> Basınç düşüktür ama debi yüksek olabilir; çap küçültülmez. Düşük basınç ya da 1SN tipi hortumlar yeterli olabilir.",
+        "<strong>Drenaj (kaçak yağ) hatları:</strong> Pompa ve motor gövdelerinden gelen düşük basınçlı hatlardır.",
+        "<strong>Pilot hatları:</strong> Küçük çaplıdır, ancak basınç sınıfı yine hattın değerine göre seçilir.",
+        "<strong>Hareketli bölgeler:</strong> Bom, teleskop ve hortum makaralarında esneklik ve bükülme yarıçapı öne çıkar; kompakt tipler burada avantaj sağlayabilir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu örnekler genel bir yol haritasıdır. Asıl referans, makine üreticisinin o hat için belirlediği değerlerdir."
+    },
+    {
+      "type": "h2",
+      "text": "Hidrolik hortum seçerken hangi sorular sorulur?"
+    },
+    {
+      "type": "p",
+      "text": "Çap, basınç, sıcaklık, akışkan, bükülme ve rekor: bu altı sorunun cevabı netleşmeden hortum seçilmez."
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Hortumun iç çapı ve gereken debi nedir?",
+        "Hattın en yüksek çalışma basıncı ve basınç darbesi ne düzeyde?",
+        "Yağ ve ortam sıcaklığı ne kadar?",
+        "Hortum hangi akışkanı taşıyacak; standart hidrolik yağ mı, farklı bir sıvı mı?",
+        "Hortum ne kadar bükülecek ve hareket edecek?",
+        "Uçlarda hangi rekor sistemi kullanılacak?"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Sektörde bu sorular çoğu zaman tek bir kontrol listesi olarak ele alınır. Hiçbiri atlanmamalıdır; özellikle basınç ve rekor uyumu, sahadaki arızaların en sık kaynağıdır."
+    },
+    {
+      "type": "h2",
+      "text": "Hortum seçiminde en sık hangi hatalar yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "En sık hata yalnızca çapa bakıp basınç sınıfını atlamaktır; onu tekstil hortumu basınç hattına takmak ve uyumsuz rekor seçmek izler. Listenin tamamı:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Yalnızca çapa bakıp basınç sınıfını atlamak",
+        "Tekstil örgülü düşük basınç hortumunu basınç hattına takmak",
+        "Hortum ile rekoru birbirine uygun olmayan sistemlerden seçmek; hortum ve rekor uyumu üreticinin eşleştirmesine göre yapılmalıdır",
+        "Hortumu en küçük bükülme yarıçapının altında kıvırmak",
+        "Montajda hortumu burmak; iki dirsek arasındaki açıyı yanlış ayarlamak",
+        "Metal kenarlara sürtünen hatlara koruyucu kılıf takmamak"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu hataların sonuçlarını <a href=\"/blog/hidrolik-hortum-neden-patlar.html\">hidrolik hortum neden patlar</a> yazımızda örnekleriyle anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Atölyede hortum seçimini nasıl yapıyoruz?"
+    },
+    {
+      "type": "p",
+      "text": "Milas'taki atölyemizde patlayan hortumu birebir kopyalıyor, devrenin çalışma basıncına göre doğru kat sayısında ve sınıfta hortum öneriyoruz. Farklı çap ve basınç sınıflarında hortum ile geniş bir rekor çeşidi stokta olduğu için çoğu işi aynı gün teslim ediyoruz. Hizmetin ayrıntıları için <a href=\"/hizmetler/pres-hortum.html\">pres hortum</a> sayfamıza, atölyeye gelmeden önce neleri hazırlamanız gerektiği için <a href=\"/blog/pres-hortum-yaptirirken-ne-getirmeli.html\">hidrolik hortum yaptırırken ne getirmeli</a> yazımıza bakabilirsiniz. Hortumlar sürekli aynı hatta patlıyorsa sorunun kaynağı devrede olabilir; bu durumda <a href=\"/hizmetler/vinc-hidrolik-tamiri.html\">vinç hidrolik tamiri</a> tarafında sistemi inceleriz."
+    },
+    {
+      "type": "callout",
+      "text": "Hortumunuzun üzerindeki yazının fotoğrafını gönderin ya da eski hortumu getirin; doğru tipi ve basınç sınıfını birlikte belirleyelim, rekorunu takıp presleyelim."
+    }
+  ],
+  "cikarimlar": [
+    "Hortum ailesini takviye belirler: tekstil düşük, tel örgü orta-yüksek, spiral tel yüksek basınç içindir.",
+    "Seçimde kılıftaki WP değeri esastır; patlama basıncı emniyet payıdır, kullanım sınırı değil.",
+    "Aynı tip hortumda çap büyüdükçe izin verilen çalışma basıncı düşer.",
+    "Hortum çapı her zaman iç çaptır; dış çaptan tahmin edilmez.",
+    "Yüksek sınıf hortum dönüş hattına takılabilir; tersi asla yapılmaz."
+  ],
+  "faqs": [
+    {
+      "q": "1SN ile 2SN hortum arasındaki fark nedir?",
+      "a": "1SN bir kat, 2SN iki kat çelik tel örgü takviyelidir. Aynı çapta 2SN daha yüksek çalışma basıncına sahiptir ve basınç hatlarında daha sık tercih edilir."
+    },
+    {
+      "q": "4SP ve 4SH hortum nerede kullanılır?",
+      "a": "Dört kat spiral çelik tel takviyeli bu hortumlar, yüksek basınçlı ve yoğun basınç darbesi olan hatlarda kullanılır. Aynı çapta 4SH'nin çalışma basıncı daha yüksektir ve daha büyük çaplarda tercih edilir; 4SP ise küçük çaplardan başlayarak üretilir."
+    },
+    {
+      "q": "SAE 100R2 ile EN 853 2SN aynı hortum mu?",
+      "a": "Yapı olarak benzerdir; ikisi de iki kat çelik tel örgülüdür. Ancak farklı standartlara göre üretildikleri için ölçü ve basınç değerleri birebir aynı varsayılmamalı, hortumun üzerindeki değerlere bakılmalıdır."
+    },
+    {
+      "q": "Hortum üzerindeki WP ne demek?",
+      "a": "WP (working pressure), hortumun sürekli çalışabileceği en yüksek basınçtır ve seçimde esas alınan değer budur. Patlama basıncı çok daha yüksektir, ama o değer kullanım için değil emniyet payı içindir. Hattın en yüksek basıncı, o çaptaki hortumun WP değerini aşmamalıdır."
+    },
+    {
+      "q": "Hidrolik hortumun çapı nasıl belirlenir?",
+      "a": "Hortum çapı her zaman iç çap olarak ifade edilir ve dış çaptan tahmin edilmez. En doğru bilgi hortum yazısındaki DN ya da inç değeridir; yazı okunmuyorsa iç çap hortumun kesitinden ölçülür."
+    },
+    {
+      "q": "Dönüş hattına basınç hortumu takılabilir mi?",
+      "a": "Evet, daha yüksek sınıftaki bir hortum dönüş hattında sorun çıkarmaz; yeter ki çapı uygun olsun. Tersi ise olmaz: düşük basınç hortumu basınç hattına takılmaz."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "SS-EN 853:2026 Rubber hoses and hose assemblies – Wire braid reinforced hydraulic type (1SN, 2SN, 1ST, 2ST)",
+      "publisher": "SIS – İsveç Standardizasyon Enstitüsü",
+      "url": "https://www.sis.se/produkter/fluidsystem-och-delar/hydrauliska-system/rordragning-och-kopplingar/ss-en-8532026/"
+    },
+    {
+      "title": "SS-EN 856:2015+AC:2019 Rubber-covered spiral wire reinforced hydraulic type (4SP, 4SH, R12, R13)",
+      "publisher": "SIS – İsveç Standardizasyon Enstitüsü",
+      "url": "https://www.sis.se/en/produkter/fluid-systems-and-components-for-general-use/fluid-power-systems/piping-and-couplings/ss-en-8562015ac2019/"
+    },
+    {
+      "title": "SS-EN 857:2026 Wire braid reinforced compact hydraulic type (1SC, 2SC)",
+      "publisher": "SIS – İsveç Standardizasyon Enstitüsü",
+      "url": "https://www.sis.se/produkter/fluidsystem-och-delar/hydrauliska-system/rordragning-och-kopplingar/ss-en-8572026/"
+    },
+    {
+      "title": "Hydraulic rubber hoses – katalog (tip, çap ve çalışma basıncı tabloları)",
+      "publisher": "Tubes International",
+      "url": "https://www.tubes-international.com/wp-content/uploads/catalogue-en-pdf/high_pressure/hydraulic_rubber_hoses.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/pres-hortum.html",
+    "/blog/pres-hortum-yaptirirken-ne-getirmeli.html",
+    "/blog/hidrolik-hortum-neden-patlar.html",
+    "/blog/hidrolik-hortum-patlamasi-sahada-ne-yapmali.html",
+    "/hizmetler/vinc-hidrolik-tamiri.html"
+  ]
+}

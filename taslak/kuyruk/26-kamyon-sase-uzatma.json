@@ -1,0 +1,259 @@
+{
+  "slug": "kamyon-sase-uzatma",
+  "_hedef": "kamyon şase uzatma",
+  "title": "Kamyon Şase Uzatma: Tadilat Projesi, Muayene ve Atölye",
+  "h1": "Kamyon Şase Uzatma: Yasal Süreç, Tadilat Projesi ve Atölyede Uygulama",
+  "desc": "Kamyon şase uzatma nasıl yapılır? AİTM kapsamında tadilat projesi, TSE uygunluk ve TÜVTÜRK tadilat muayenesi; atölyede ölçüm, kaynak ve güçlendirme.",
+  "category": "Atölye",
+  "image": "real_ones/atolye-kamyon-sasesi-tadilat.jpg",
+  "imageAlt": "Atölye içinde takozlar üzerinde duran, üzerinde çalışılan kamyon şasesi; arka planda tezgâhlar ve tavan vinci",
+  "kisaCevap": "Kamyon şase uzatma, aracın boyunu ve çoğu zaman dingil mesafesini değiştirdiği için projeli yapılması ve ruhsata işlenmesi gereken bir tadilattır. Sıra şöyledir: yetkili teknik sorumlunun hazırladığı tadilat projesi, atölyede projeye uygun kesim, ekleme ve güçlendirme, AİTM uygunluk belgesi, TÜVTÜRK'te tadilat sonrası muayene ve noterde tescil kaydının güncellenmesi. Projesiz ya da projeyle uyuşmayan uzatma muayeneden döner.",
+  "intro": "Bu yazı; kasasını büyütmek, üzerine vinç ya da farklı bir üst yapı monte ettirmek isteyen kamyon sahipleri ve filo işletmecileri için. Şase uzatma, sırası yanlış kurulduğunda en pahalıya patlayan işlerden biridir: önce kaynak yapılıp proje sonradan aranırsa uzatılan parça muayeneden dönebilir ve aynı iş ikinci kez yapılır. Aşağıda yasal çerçeveyi, adım adım süreci ve atölyede uzatmanın nasıl yapıldığını sırasıyla anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Kamyon şasesi neden uzatılır?"
+    },
+    {
+      "type": "p",
+      "text": "Şase uzatma ihtiyacı çoğu zaman üst yapı değişikliğiyle doğar. Daha uzun bir kasa takılacaktır, damper yerine düz kasa yapılacaktır, kasanın arkasına ya da kabin arkasına vinç monte edilecektir ya da aracın kullanım amacı değişmiştir. Bazı durumlarda uzatmaya dingil ekleme ya da dingil mesafesinin değiştirilmesi de eşlik eder. Hangi gerekçeyle olursa olsun, şase aracın omurgasıdır; üzerindeki her değişiklik hem aracın yol güvenliğini hem de yasal durumunu etkiler."
+    },
+    {
+      "type": "h2",
+      "text": "Şase uzatma için neden proje gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü uzatma, aracın tescilli ölçülerini değiştiren bir tadilattır ve projelendirilip onaylanmadan trafiğe çıkamaz. Araçlarda hangi tadilatlara izin verildiğini ve bunların nasıl belgeleneceğini <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=22969&MevzuatTur=7&MevzuatTertip=5\">Araçların İmal, Tadil ve Montajı Hakkında Yönetmelik</a> (AİTM) düzenler. Yönetmeliğe göre münferit tadilatta her araç için ayrı başvuru yapılır; tadilat projelerini makina, otomotiv, imalat, uçak ya da mekatronik dalında eğitim görmüş yetkili teknik sorumlular hazırlar. Sonunda onay kuruluşunun ya da görevlendirdiği kuruluşun verdiği \"AİTM münferit araç uygunluk belgesi (tadilat)\" alınır; TSE bu belgeyle ilgili hizmet veren kuruluşlardandır."
+    },
+    {
+      "type": "p",
+      "text": "Ardından araç TÜVTÜRK'te tadilat sonrası muayeneye girer. <a href=\"https://www.tuvturk.com.tr/hizmetlerimiz/muayene-hizmetleri/tadilat-sonrasi-muayene\">TÜVTÜRK'ün açıklamasına göre</a> bu muayene, yapılan tadilatın projeye uygunluğunu tespit eder; tadilatın yetkili mühendislerce projelendirilip onaylanmış ve araç üzerinde bu projeye uygun yapılmış olması şarttır, muayenede malzeme ve işçilik faturası da istenir. Tadilat sonrası muayeneyle birlikte aracın tam periyodik muayenesi de yapılır. Muayene onaylandıktan sonra değişiklik, gerekli evraklarla noterde tescil kayıtlarına işletilir; Karayolları Trafik Yönetmeliği bu bildirimin değişiklikten itibaren otuz gün içinde yapılmasını ister. Ayrıntılar araca ve tadilatın türüne göre değiştiği için güncel belge listesini projeyi hazırlayacak mühendislik bürosundan almanızı öneririz."
+    },
+    {
+      "type": "callout",
+      "text": "İşe atölyeden değil, projeden başlayın. Projesiz ya da projeyle uyuşmayan bir uzatma, uygunluk belgesi aşamasında ve TÜVTÜRK muayenesinde geri dönebilir; bu da aynı işi ikinci kez yapmak demektir."
+    },
+    {
+      "type": "h2",
+      "text": "Şase uzatma süreci hangi adımlardan oluşur?"
+    },
+    {
+      "type": "p",
+      "text": "Önce proje, sonra atölye, ardından uygunluk belgesi, muayene ve tescil; sıra bu şekilde kurulmalıdır:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "İhtiyacı netleştirin: yeni üst yapının ölçüsü, gereken şase boyu, dingil değişikliği olup olmayacağı.",
+        "Proje bürosu ya da yetkili mühendisle ön görüşme yapın; aracın uygunluk belgesindeki sınırları ve üreticinin üst yapı talimatlarını birlikte değerlendirin.",
+        "Tadilat projesi ve hesaplar hazırlanır.",
+        "Atölyede uzatma, projeye ve üretici talimatlarına uygun şekilde yapılır.",
+        "AİTM münferit araç uygunluk belgesi (tadilat) süreci tamamlanır.",
+        "TÜVTÜRK'te tadilat sonrası muayeneye girilir; malzeme ve işçilik faturası yanınızda olmalıdır.",
+        "Muayene onaylandıktan sonra değişiklik noterde tescil kaydına işletilir, tescil belgesi güncellenir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu sıralama genel bir yol haritasıdır; adımların ayrıntısı ve istenen belgeler araca ve tadilatın türüne göre değişebilir."
+    },
+    {
+      "type": "h2",
+      "text": "Atölyede şase uzatma nasıl yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Atölyede iş beş adımda yürür: ölçüm, kesim ve ekleme noktasının seçimi, kaynak ve güçlendirme, tesisatların uzatılması, boya ve son ölçüm."
+    },
+    {
+      "type": "h3",
+      "text": "1. Ölçüm ve mevcut durumun tespiti"
+    },
+    {
+      "type": "p",
+      "text": "Uzatmaya başlamadan önce şasenin düzlüğü, köşegen ölçüleri ve mevcut hasarlar kontrol edilir. Eğik ya da daha önce darbe almış bir şase uzatılmadan önce doğrultulmalıdır; aksi hâlde uzatılan parça da aynı hatayı taşır."
+    },
+    {
+      "type": "h3",
+      "text": "2. Kesim ve ekleme noktasının seçimi"
+    },
+    {
+      "type": "p",
+      "text": "Kesim ve ekleme noktası, projeye ve araç üreticisinin üst yapı montaj talimatlarına göre belirlenir. Yay ve süspansiyon bağlantılarından, yoğun gerilme bölgelerinden ve mevcut deliklerin yakınından uzak durulur. Ekleme için kullanılan profil, mevcut şaseyle aynı kesitte ve uygun malzeme kalitesinde olmalıdır."
+    },
+    {
+      "type": "h3",
+      "text": "3. Kaynak ve güçlendirme"
+    },
+    {
+      "type": "p",
+      "text": "Şase kaynağı, sıradan bir kaynak işi değildir. Malzemeye uygun kaynak yöntemi ve sarf malzemesi seçilir, gerekiyorsa ön ısıtma yapılır, kaynak dikişleri tam nüfuziyetle ve kontrollü yapılır. Ekleme bölgesi, iç takviye profilleri ya da yardımcı şase ile güçlendirilir; takviyelerin bağlantısında üretici talimatlarında belirtilen yöntemlere uyulur."
+    },
+    {
+      "type": "h3",
+      "text": "4. Tesisatların uzatılması"
+    },
+    {
+      "type": "p",
+      "text": "Şase uzadığında fren hatları, hava hatları, elektrik kabloları ve gerekiyorsa kardan mili de uzar. Bu hatlar ekleme yapılarak bırakılmaz; uygun bağlantı elemanlarıyla, sürtünmeye karşı korunarak ve sabitlenerek yenilenir. Kardan milinin uzatılması ve balansı ayrıca uzmanlık isteyen bir iştir."
+    },
+    {
+      "type": "h3",
+      "text": "5. Boya, korozyon koruması ve son ölçüm"
+    },
+    {
+      "type": "p",
+      "text": "Kaynak ve kesim bölgeleri temizlenir, astar ve boyayla korozyona karşı korunur. İş bitiminde şase yeniden ölçülür ve projedeki ölçülerle karşılaştırılır."
+    },
+    {
+      "type": "h2",
+      "text": "Şase uzatma aracı nasıl etkiler?"
+    },
+    {
+      "type": "p",
+      "text": "Şase uzatma yalnızca kasa için yer açmaz; aracın davranışını da değiştirir. Dingil mesafesi uzarsa dönüş yarıçapı büyür ve dar yollarda manevra zorlaşır. Arka çıkıntı uzarsa yük dağılımı değişir; ön aksın yükü azalırken arka aks ve şasenin ekleme bölgesi daha fazla zorlanır. Kardan mili uzar, fren hatları uzar ve frenleme dengesi yeniden değerlendirilmelidir. Bu yüzden uzatma kararı verilirken yalnızca “kasa sığsın” diye değil, aracın taşıyacağı yük ve gideceği yollar da düşünülerek karar verilmelidir. Proje aşamasındaki hesaplar tam olarak bu etkileri değerlendirmek içindir."
+    },
+    {
+      "type": "h2",
+      "text": "Atölyeye gelirken neleri getirmelisiniz?"
+    },
+    {
+      "type": "p",
+      "text": "Tescil belgesinin kopyası, varsa onaylı proje, üst yapının ölçüleri ve üreticinin montaj talimatları işi hızlandırır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Aracın tescil belgesinin bir kopyası",
+        "Varsa onaylı tadilat projesi ya da proje bürosunun ön çalışması",
+        "Takılacak üst yapının (kasa, damper, vinç) ölçüleri ve montaj bilgileri",
+        "Varsa araç üreticisinin üst yapı montaj talimatları",
+        "Aracın daha önce geçirdiği hasar ya da onarımlarla ilgili bildikleriniz"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Uzatma sırasında gereken braket, bağlantı plakası ya da özel parçalar için <a href=\"/hizmetler/torna-isleri.html\">torna işleri</a> tarafında da aynı tesiste çalışıyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "Şase uzatmada en sık hangi hatalar yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "En sık ve en pahalı hata, proje olmadan uzatma yapıp belgeleri sonradan tamamlamaya çalışmaktır. Atölyede gördüğümüz diğer hatalar:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Kesim noktasını süspansiyon bağlantılarına ya da yoğun gerilme bölgelerine yakın seçmek",
+        "Ekleme için farklı kesitte ya da farklı kalitede profil kullanmak",
+        "Kaynağı tek taraflı ya da yetersiz nüfuziyetle yapmak",
+        "Fren ve elektrik hatlarını eklemeli ve korumasız bırakmak",
+        "Uzatma sonrası aks ayarını ve kardan balansını kontrol etmemek"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Şaseyi uzatmak mı, başka araç almak mı?"
+    },
+    {
+      "type": "p",
+      "text": "Şase sağlam, ihtiyaç net ve istenen boy yasal sınırlar içindeyse uzatma çoğu zaman mantıklıdır; değilse başka bir araç düşünülmelidir:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Durum",
+        "Değerlendirme"
+      ],
+      "rows": [
+        [
+          "Şase sağlam, ihtiyaç net ve proje uygun",
+          "Uzatma çoğu zaman mantıklı bir çözümdür"
+        ],
+        [
+          "Şasede yaygın korozyon ya da eski hasar var",
+          "Önce şasenin durumu değerlendirilmeli; onarım maliyeti yükselebilir"
+        ],
+        [
+          "İstenen boy, aracın uygunluk belgesindeki ya da mevzuattaki sınırları aşıyor (Karayolları Trafik Yönetmeliği'ne göre otobüs dışındaki motorlu araçlarda azami uzunluk 12 metredir)",
+          "Uzatma yapılamaz; farklı bir araç düşünülmelidir"
+        ],
+        [
+          "Kısa süreli ihtiyaç",
+          "Tadilat yerine kiralama ya da farklı bir araç daha ekonomik olabilir"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Milas'ta şase uzatma nerede yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Güllük–Güvercinlik arasındaki Hedef Vinç atölyesinde kamyon ve ağır vasıta şaselerinde düzeltme, uzatma, kısaltma ve giydirme işleri yapıyoruz. Aracı önce ölçüyor, şasenin mevcut durumunu sizinle birlikte değerlendiriyoruz; yapılacak işlemi, yöntemi ve süreyi baştan netleştiriyoruz. Kaynak ve torna atölyemiz aynı tesiste olduğu için braket, bağlantı plakası ve benzeri parçaları yerinde imal ediyoruz. Proje ve belge tarafında hangi belgelerin kimden isteneceğini, tadilatı yapan işletmeye ait belgeler dahil, işe başlamadan proje bürosuyla birlikte netleştirmenizi öneririz. Hizmetin ayrıntıları için <a href=\"/hizmetler/kamyon-sase-giydirme.html\">kamyon şase düzeltme ve giydirme</a> sayfamıza, kaynak tarafı için <a href=\"/hizmetler/kaynak-isleri.html\">kaynak işleri</a> sayfamıza bakabilirsiniz. Şase işi bir vinç montajı için yapılıyorsa, vincin kendisi için <a href=\"/hizmetler/hiyap-vinc-tamiri.html\">hiyap vinç tamiri</a> tarafında da destek veriyoruz."
+    },
+    {
+      "type": "callout",
+      "text": "Aracınızı ve yapılmasını istediğiniz işi anlatın; ölçümü yapalım, işlemi ve süreyi baştan netleştirelim. Atölyemiz Güllük–Güvercinlik arasında, Tuzla Kavşağı'nda."
+    }
+  ],
+  "cikarimlar": [
+    "İşe atölyeden değil projeden başlayın; projesiz uzatma muayeneden dönebilir.",
+    "Kesim noktası süspansiyon bağlantılarından ve yoğun gerilme bölgelerinden uzak seçilmelidir.",
+    "Fren, hava ve elektrik hatları eklemeyle bırakılmaz; korunarak yenilenir.",
+    "Uzayan dingil mesafesi dönüş yarıçapını büyütür ve yük dağılımını değiştirir.",
+    "Muayene onayından sonra değişikliği noterde tescil kaydına işletin."
+  ],
+  "faqs": [
+    {
+      "q": "Kamyon şase uzatma yasal mı?",
+      "a": "Araçların İmal, Tadil ve Montajı Hakkında Yönetmelik kapsamında izin verilen tadilatlar arasında yer aldığında ve projeli, belgeli şekilde yapılıp tescil kaydına işlendiğinde yasal olarak kullanılabilir."
+    },
+    {
+      "q": "Şase uzatma için hangi belgeler gerekir?",
+      "a": "Genel olarak yetkili teknik sorumlunun hazırladığı onaylı tadilat projesi, AİTM münferit araç uygunluk belgesi (tadilat), TÜVTÜRK'te tadilat sonrası muayene ve muayenede istenen malzeme ve işçilik faturası gerekir. Güncel ve araca özel listeyi proje bürosundan alın."
+    },
+    {
+      "q": "Şase uzatma ne kadar sürer?",
+      "a": "Atölye kısmı şasenin durumuna ve işin kapsamına göre değişir; ölçümden sonra süreyi netleştiririz. Proje, uygunluk belgesi, muayene ve tescil aşamalarının süresi ayrıca planlanmalıdır."
+    },
+    {
+      "q": "Şasesi uzatılan araç muayeneden geçer mi?",
+      "a": "Uzatma onaylı projeye uygun yapılmış ve gerekli belgeler tamamlanmışsa araç tadilat muayenesine girebilir. Projeyle uyuşmayan bir uygulama muayenede sorun çıkarır."
+    },
+    {
+      "q": "Önce uzatıp projeyi sonra hazırlatabilir miyim?",
+      "a": "Önermiyoruz. Proje, uzatmanın nasıl ve nereden yapılacağını belirleyen belgedir; projeden önce yapılan bir uygulama, projeyle uyuşmazsa yeniden kesilip düzeltilmek zorunda kalabilir. Sıralama her zaman önce proje, sonra atölye olmalıdır."
+    },
+    {
+      "q": "Şase kısaltma da aynı süreçten mi geçer?",
+      "a": "Kısaltma da aracın tescilli ölçülerini değiştiriyorsa benzer bir tadilat süreci gerekir. Aracınıza özel durumu işe başlamadan proje bürosuna danışın."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Araçların İmal, Tadil ve Montajı Hakkında Yönetmelik (AİTM)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=22969&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "Tadilat Sonrası Muayene",
+      "publisher": "TÜVTÜRK",
+      "url": "https://www.tuvturk.com.tr/hizmetlerimiz/muayene-hizmetleri/tadilat-sonrasi-muayene"
+    },
+    {
+      "title": "Karayolları Trafik Yönetmeliği (Madde 65 ve 128)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8182&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/kamyon-sase-giydirme.html",
+    "/hizmetler/kaynak-isleri.html",
+    "/hizmetler/torna-isleri.html",
+    "/hizmetler/hiyap-vinc-tamiri.html"
+  ]
+}

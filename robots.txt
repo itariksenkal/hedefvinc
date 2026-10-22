@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /content/
+Disallow: /tools/
+Disallow: /taslak/
 
 Sitemap: https://hedefvinc.com/sitemap.xml

@@ -1,0 +1,427 @@
+{
+ "atolye-torna.jpg": {
+  "h": 1200,
+  "sha1": "d40b8b52c766",
+  "v": [
+   {
+    "h": 600,
+    "src": "r/atolye-torna-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 1200,
+    "src": "r/atolye-torna-1600.jpg",
+    "w": 1600
+   }
+  ],
+  "w": 1600
+ },
+ "hedef-vinc-kamyon.jpg": {
+  "h": 810,
+  "sha1": "828217683c10",
+  "v": [
+   {
+    "h": 600,
+    "src": "r/hedef-vinc-kamyon-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 810,
+    "src": "r/hedef-vinc-kamyon-1600.jpg",
+    "w": 1080
+   }
+  ],
+  "w": 1080
+ },
+ "real_ones/atolye-boyanmis-vinc-kolonu-revizyon.jpg": {
+  "h": 3840,
+  "sha1": "23146e56a8f3",
+  "v": [
+   {
+    "h": 1200,
+    "src": "r/real_ones/atolye-boyanmis-vinc-kolonu-revizyon-800.jpg",
+    "w": 675
+   },
+   {
+    "h": 1600,
+    "src": "r/real_ones/atolye-boyanmis-vinc-kolonu-revizyon-1600.jpg",
+    "w": 900
+   }
+  ],
+  "w": 2160
+ },
+ "real_ones/atolye-kabinli-vinc-hidrolik-test.jpg": {
+  "h": 3072,
+  "sha1": "32b62080961a",
+  "v": [
+   {
+    "h": 600,
+    "src": "r/real_ones/atolye-kabinli-vinc-hidrolik-test-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 1200,
+    "src": "r/real_ones/atolye-kabinli-vinc-hidrolik-test-1600.jpg",
+    "w": 1600
+   }
+  ],
+  "w": 4096
+ },
+ "real_ones/atolye-kamyon-sasesi-tadilat.jpg": {
+  "h": 1536,
+  "sha1": "2136453dafa4",
+  "v": [
+   {
+    "h": 600,
+    "src": "r/real_ones/atolye-kamyon-sasesi-tadilat-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 1200,
+    "src": "r/real_ones/atolye-kamyon-sasesi-tadilat-1600.jpg",
+    "w": 1600
+   }
+  ],
+  "w": 2048
+ },
+ "real_ones/atolye-revizyonu-biten-katlanir-bom-vinc.jpg": {
+  "h": 3072,
+  "sha1": "8dce9ad611c6",
+  "v": [
+   {
+    "h": 600,
+    "src": "r/real_ones/atolye-revizyonu-biten-katlanir-bom-vinc-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 1200,
+    "src": "r/real_ones/atolye-revizyonu-biten-katlanir-bom-vinc-1600.jpg",
+    "w": 1600
+   }
+  ],
+  "w": 4096
+ },
+ "real_ones/atolye-sokulmus-vinc-govdesi-ve-ayaklar.jpg": {
+  "h": 1152,
+  "sha1": "9a7ad6be880f",
+  "v": [
+   {
+    "h": 450,
+    "src": "r/real_ones/atolye-sokulmus-vinc-govdesi-ve-ayaklar-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 900,
+    "src": "r/real_ones/atolye-sokulmus-vinc-govdesi-ve-ayaklar-1600.jpg",
+    "w": 1600
+   }
+  ],
+  "w": 2048
+ },
+ "real_ones/atolye-vinc-kolonu-doner-tabla-rulmani.jpg": {
+  "h": 1681,
+  "sha1": "c81d8fc3fce0",
+  "v": [
+   {
+    "h": 1199,
+    "src": "r/real_ones/atolye-vinc-kolonu-doner-tabla-rulmani-800.jpg",
+    "w": 675
+   },
+   {
+    "h": 1599,
+    "src": "r/real_ones/atolye-vinc-kolonu-doner-tabla-rulmani-1600.jpg",
+    "w": 900
+   }
+  ],
+  "w": 946
+ },
+ "real_ones/kabin-konteyner-yerlestirme-vinc.jpg": {
+  "h": 4032,
+  "sha1": "5b5345a04292",
+  "v": [
+   {
+    "h": 1067,
+    "src": "r/real_ones/kabin-konteyner-yerlestirme-vinc-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 1600,
+    "src": "r/real_ones/kabin-konteyner-yerlestirme-vinc-1600.jpg",
+    "w": 1200
+   }
+  ],
+  "w": 3024
+ },
+ "real_ones/retrofit-hedef-crane-tekne-uzeri-deniz-vinci.jpg": {
+  "h": 1152,
+  "sha1": "cad5813018d7",
+  "v": [
+   {
+    "h": 450,
+    "src": "r/real_ones/retrofit-hedef-crane-tekne-uzeri-deniz-vinci-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 900,
+    "src": "r/real_ones/retrofit-hedef-crane-tekne-uzeri-deniz-vinci-1600.jpg",
+    "w": 1600
+   }
+  ],
+  "w": 2048
+ },
+ "real_ones/revizyonu-biten-vinc-kamyonla-teslimat.jpg": {
+  "h": 1152,
+  "sha1": "40d24c45dca8",
+  "v": [
+   {
+    "h": 450,
+    "src": "r/real_ones/revizyonu-biten-vinc-kamyonla-teslimat-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 900,
+    "src": "r/real_ones/revizyonu-biten-vinc-kamyonla-teslimat-1600.jpg",
+    "w": 1600
+   }
+  ],
+  "w": 2048
+ },
+ "real_ones/saha-manitou-teleskopik-yukleyici-deniz-kenari-santiye.jpg": {
+  "h": 1600,
+  "sha1": "70c2f2ef2461",
+  "v": [
+   {
+    "h": 1200,
+    "src": "r/real_ones/saha-manitou-teleskopik-yukleyici-deniz-kenari-santiye-800.jpg",
+    "w": 675
+   },
+   {
+    "h": 1600,
+    "src": "r/real_ones/saha-manitou-teleskopik-yukleyici-deniz-kenari-santiye-1600.jpg",
+    "w": 900
+   }
+  ],
+  "w": 900
+ },
+ "real_ones/tekne-kaldirma-katlanir-bom-vinc.jpg": {
+  "h": 2048,
+  "sha1": "94827e5a1621",
+  "v": [
+   {
+    "h": 1067,
+    "src": "r/real_ones/tekne-kaldirma-katlanir-bom-vinc-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 1600,
+    "src": "r/real_ones/tekne-kaldirma-katlanir-bom-vinc-1600.jpg",
+    "w": 1200
+   }
+  ],
+  "w": 1536
+ },
+ "real_ones/vincli-kamyonun-tasinmasi-atolye-onu.jpg": {
+  "h": 2048,
+  "sha1": "4103643323b4",
+  "v": [
+   {
+    "h": 1067,
+    "src": "r/real_ones/vincli-kamyonun-tasinmasi-atolye-onu-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 1600,
+    "src": "r/real_ones/vincli-kamyonun-tasinmasi-atolye-onu-1600.jpg",
+    "w": 1200
+   }
+  ],
+  "w": 1536
+ },
+ "saha-cati-montaj.jpg": {
+  "h": 806,
+  "sha1": "8f94b65f9ec9",
+  "v": [
+   {
+    "h": 598,
+    "src": "r/saha-cati-montaj-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 806,
+    "src": "r/saha-cati-montaj-1600.jpg",
+    "w": 1079
+   }
+  ],
+  "w": 1079
+ },
+ "saha-celik-konstruksiyon.jpg": {
+  "h": 1440,
+  "sha1": "0f0d4961053b",
+  "v": [
+   {
+    "h": 1071,
+    "src": "r/saha-celik-konstruksiyon-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 1440,
+    "src": "r/saha-celik-konstruksiyon-1600.jpg",
+    "w": 1076
+   }
+  ],
+  "w": 1076
+ },
+ "saha-mobil-vinc.jpg": {
+  "h": 1423,
+  "sha1": "985133964f6f",
+  "v": [
+   {
+    "h": 1055,
+    "src": "r/saha-mobil-vinc-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 1423,
+    "src": "r/saha-mobil-vinc-1600.jpg",
+    "w": 1079
+   }
+  ],
+  "w": 1079
+ },
+ "saha-uzun-bom.jpg": {
+  "h": 810,
+  "sha1": "e78641cb352c",
+  "v": [
+   {
+    "h": 600,
+    "src": "r/saha-uzun-bom-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 810,
+    "src": "r/saha-uzun-bom-1600.jpg",
+    "w": 1080
+   }
+  ],
+  "w": 1080
+ },
+ "stok/stok-ekskavator.jpg": {
+  "h": 1067,
+  "sha1": "d29bc58a08d0",
+  "v": [
+   {
+    "h": 534,
+    "src": "r/stok/stok-ekskavator-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 1067,
+    "src": "r/stok/stok-ekskavator-1600.jpg",
+    "w": 1600
+   }
+  ],
+  "w": 1600
+ },
+ "stok/stok-kamyon-servis.jpg": {
+  "h": 1067,
+  "sha1": "763e2c29475f",
+  "v": [
+   {
+    "h": 534,
+    "src": "r/stok/stok-kamyon-servis-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 1067,
+    "src": "r/stok/stok-kamyon-servis-1600.jpg",
+    "w": 1600
+   }
+  ],
+  "w": 1600
+ },
+ "stok/stok-kaynak.jpg": {
+  "h": 2400,
+  "sha1": "6503163c946e",
+  "v": [
+   {
+    "h": 1200,
+    "src": "r/stok/stok-kaynak-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 1600,
+    "src": "r/stok/stok-kaynak-1600.jpg",
+    "w": 1067
+   }
+  ],
+  "w": 1600
+ },
+ "stok/stok-konteyner-2.jpg": {
+  "h": 1071,
+  "sha1": "6d866d109e9f",
+  "v": [
+   {
+    "h": 536,
+    "src": "r/stok/stok-konteyner-2-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 1071,
+    "src": "r/stok/stok-konteyner-2-1600.jpg",
+    "w": 1600
+   }
+  ],
+  "w": 1600
+ },
+ "stok/stok-konteyner.jpg": {
+  "h": 1050,
+  "sha1": "33e11c7ebd28",
+  "v": [
+   {
+    "h": 525,
+    "src": "r/stok/stok-konteyner-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 1050,
+    "src": "r/stok/stok-konteyner-1600.jpg",
+    "w": 1600
+   }
+  ],
+  "w": 1600
+ },
+ "stok/stok-tekne-vinc-2.jpg": {
+  "h": 2400,
+  "sha1": "042481d7decf",
+  "v": [
+   {
+    "h": 1200,
+    "src": "r/stok/stok-tekne-vinc-2-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 1600,
+    "src": "r/stok/stok-tekne-vinc-2-1600.jpg",
+    "w": 1067
+   }
+  ],
+  "w": 1600
+ },
+ "stok/stok-tekne-vinc.jpg": {
+  "h": 1067,
+  "sha1": "ca5cc7613420",
+  "v": [
+   {
+    "h": 534,
+    "src": "r/stok/stok-tekne-vinc-800.jpg",
+    "w": 800
+   },
+   {
+    "h": 1067,
+    "src": "r/stok/stok-tekne-vinc-1600.jpg",
+    "w": 1600
+   }
+  ],
+  "w": 1600
+ }
+}

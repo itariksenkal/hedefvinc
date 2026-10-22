@@ -1,0 +1,229 @@
+{
+  "slug": "vinc-halat-degisimi-ne-zaman",
+  "_hedef": "vinç halatı değişimi / vinç halatı ne zaman değişir",
+  "title": "Vinç Halatı Ne Zaman Değişir? ISO 4309'a Göre Kriterler",
+  "h1": "Vinç Halatı Ne Zaman Değiştirilir? ISO 4309'a Göre Iskarta Kriterleri",
+  "desc": "Vinç halatı değişimi ne zaman gerekir? ISO 4309'a göre kopuk tel, çap azalması, korozyon ve deformasyon kriterleri, doğru halat seçimi ve Milas'ta değişim.",
+  "category": "Vinç Tamiri",
+  "image": "hedef-vinc-kamyon.jpg",
+  "imageAlt": "Önünde HEDEF yazan kamyona monte teleskopik vinç, askı halatlarıyla sarı kafes bir çelik parçayı kaldırıyor; yanında iki kişi",
+  "kisaCevap": "Vinç halatı takvime göre değil, durumuna göre değiştirilir: görünür kopuk tel sayısı ISO 4309'daki sınıra ulaştığında, çap referans değerinden ölçülebilir şekilde inceldiğinde, bir kordon koptuğunda, korozyon ilerlediğinde ya da kuş kafesi, ezilme, büküm gibi kalıcı deformasyon oluştuğunda. Iskarta kararını bu kriterleri bilen yetkin bir kişi ölçüm ve gözlemle verir. Kordonu kopmuş ya da kuş kafesi yapmış halatla yük kaldırılmaz.",
+  "cikarimlar": [
+    "Kopuk tel sınırı halatın RCN numarasına, vinç sınıfına ve 6d ya da 30d sayım uzunluğuna göre okunur.",
+    "Yeni halatın çapı alıştırmadan hemen sonra yüksüz ölçülüp kaydedilmeli; sonraki ölçümler buna göre yorumlanır.",
+    "Tek kat sarımda yalnızca sentetik makara kullanılan vinçlerde halatın dış görünüşü yanıltıcıdır.",
+    "Yeni halat, onaylı bir alternatif yoksa uzunluk, çap, yapı, sarım yönü ve dayanımda orijinaliyle aynı olmalıdır.",
+    "Doğru halatla yapılan değişim, yönetmelikte tek başına önemli bakım ve onarım sayılmaz."
+  ],
+  "intro": "Halat, vincin en çok yıpranan ama en az takip edilen parçalarından biridir: Çoğu zaman en son ne zaman değiştiği hatırlanmaz, yeniyken çapı da hiç ölçülmemiştir. Bu rehber vinç sahipleri ve operatörler için; standardın ıskarta kriterlerini sahada anlaşılır hale getiriyor, günlük kontrolü ve doğru halatla değişimi atölyede nasıl yaptığımızı anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Vinç halatı neden ve nasıl yıpranır?"
+    },
+    {
+      "type": "p",
+      "text": "Halat, yük altında makaralardan ve tamburdan her geçişte bükülerek yıpranır: Teller birbirine sürtünür, içteki yağ zamanla kurur, nem ve tuz korozyonu başlatır. Halat kopması çoğu zaman tek bir anda olmaz; haftalar ve aylar içinde biriken hasarın sonunda gelir. Bu birikimin bir kısmı dışarıdan görünür, bir kısmı halatın içinde kalır."
+    },
+    {
+      "type": "p",
+      "text": "Bu yüzden halat \"kopana kadar kullanılır\" mantığıyla değil, düzenli bakılarak, ölçülerek ve kayıt tutularak takip edilir. Tamburda çapraz sarım yapan bölgeler, makaralardan en sık geçen bölümler ve halat ucundaki bağlantı, en hızlı yıpranan yerlerdir."
+    },
+    {
+      "type": "h2",
+      "text": "ISO 4309'a göre halat hangi durumlarda ıskartaya çıkar?"
+    },
+    {
+      "type": "p",
+      "text": "Görünür kopuk tel, çap azalması, kordon kopması, korozyon ve deformasyon ya da hasar, halatı ıskartaya götüren beş ana başlıktır. <a href=\"https://cdn.standards.iteh.ai/samples/66759/73be1d8bf3174da186ccbebaeddab8e8/ISO-4309-2017.pdf\">ISO 4309:2017 \"Vinçler — Tel halatlar — Bakım, muayene ve ıskarta\"</a> standardı bu bozulma türlerini tek tek sayar. Standart; mobil vinçler, kule vinçler, köprülü vinçler ve güverte vinçleri dahil pek çok vinç tipinde, ayrıca vinçlerde, irgatlarda ve palanga bloklarında kullanılan halatlara uygulanır. Başlıklar şöyle değerlendirilir:"
+    },
+    {
+      "type": "h3",
+      "text": "1. Görünür kopuk teller"
+    },
+    {
+      "type": "p",
+      "text": "Standart, izin verilen görünür kopuk tel sayısını halatın yapısına göre belirlenen halat kategori numarası (RCN) ve vincin sınıfına göre tablolarla verir. Sayım, halat çapının 6 katı (6d) ve 30 katı (30d) uzunluğundaki bölümlerde yapılır. Halat ucundaki bağlantının çevresi, standartta ayrıca incelenmesi gereken bölgeler arasında yer alır. Rakamı akıldan değil, halatınızın yapısına karşılık gelen tablodan alırız."
+    },
+    {
+      "type": "h3",
+      "text": "2. Çap azalması"
+    },
+    {
+      "type": "p",
+      "text": "Yeni halatın çapı takılıp alıştırıldıktan hemen sonra yüksüz, düz bir bölümde ölçülür ve kaydedilir. Bu \"referans çap\" sonraki ölçümlerin başlangıç noktasıdır. Dış aşınma, iç aşınma ve öz (core) bozulması çapı düşürür. Standart, düzgün çap azalmasını nominal çapa göre yüzde olarak değerlendirir ve sınırları halat tipine göre ayrı verir. Halatın bir bölgesinde lokal incelme varsa bu çoğunlukla öz hasarının işaretidir ve ayrıca değerlendirilir."
+    },
+    {
+      "type": "h3",
+      "text": "3. Kordon kopması"
+    },
+    {
+      "type": "p",
+      "text": "Bir kordonun tamamen kopması halinde halat derhal hizmetten alınır. Bu kriterin yorumu yoktur."
+    },
+    {
+      "type": "h3",
+      "text": "4. Korozyon"
+    },
+    {
+      "type": "p",
+      "text": "Yüzeydeki hafif pas ile tellerin çukurlaşması ve gevşemesi aynı şey değildir. Standart dış ve iç korozyonu ayrı değerlendirir. Deniz kenarında, tuzlu havada çalışan vinçlerde iç korozyon dışarıdan görünenden ileride olabilir; Bodrum ve Milas kıyısında çalışan vinçler için bu nokta özellikle önemlidir."
+    },
+    {
+      "type": "h3",
+      "text": "5. Deformasyon ve hasar"
+    },
+    {
+      "type": "p",
+      "text": "Standardın tek tek ele aldığı deformasyonlar şunlardır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Dalgalanma (halatın eksen boyunca helis gibi kıvrılması)",
+        "Kuş kafesi ya da sepet deformasyonu",
+        "Özün veya bir kordonun dışarı taşması",
+        "Teller arasından ilmek şeklinde çıkan teller",
+        "Lokal çap artışı",
+        "Ezilmiş, yassılaşmış bölüm",
+        "Büküm (kink) ya da sıkışmış ilmek",
+        "Keskin bükülme",
+        "Isı veya elektrik arkı hasarı"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu deformasyonların bir kısmı halatın iç yapısının bozulduğunu gösterir ve tek başına ıskarta sebebidir. Standart ayrıca birden fazla bozulmanın birleşik etkisini değerlendirmek için bir yöntem verir: Tek tek sınırın altında kalan iki kusur, birlikte halatı ıskartaya götürebilir."
+    },
+    {
+      "type": "callout",
+      "text": "Halatta kuş kafesi, büküm, kopmuş kordon ya da ezilme gördüyseniz vinci yük altına sokmayın. Bu belirtiler \"bir iş daha\" kaldırmaya izin vermez."
+    },
+    {
+      "type": "h2",
+      "text": "Plastik makaralı vinçte halat neden farklı değerlendirilir?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü sentetik makarada teller içeriden kopar ve dışarıda belirgin bir hasar görünmeden halat ciddi biçimde zayıflayabilir. Ağırlığı azaltmak için bazı vinçlerde sentetik (plastik) makaralar ya da sentetik kaplamalı makaralar kullanılır. ISO 4309, tamburda tek kat sarılan halatlarda yalnızca sentetik makara kullanılmasını önermez; çünkü bu durumda halatın içinde, dışarıda herhangi bir kopuk tel ya da belirgin aşınma görünmeden önce çok sayıda tel kopabilir. Standart bu kombinasyon için ıskarta kriteri vermez."
+    },
+    {
+      "type": "p",
+      "text": "Böyle bir vinçte halatın durumunu yalnızca dış görünüşe bakarak değerlendirmek yanıltıcıdır. Üreticinin halat talimatı, vincin çalışma saati ve çevrim sayısı birlikte dikkate alınmalı; bazı üreticiler bu tür sistemler için halatın değişeceği çalışma saatini ya da çevrim sayısını ayrıca tanımlar; gerekiyorsa halat iç muayene ya da manyetik halat testi gibi yöntemlerle incelenmelidir."
+    },
+    {
+      "type": "h2",
+      "text": "Operatör halatı her gün nasıl kontrol eder?"
+    },
+    {
+      "type": "p",
+      "text": "İşe başlamadan önce halatın görünen bölümüne, uç bağlantısına ve tamburdaki sarıma birkaç dakika ayırmak yeterlidir:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "İşe başlamadan halatın görünen bölümünü, özellikle makaralardan geçen ve tamburda çapraz sarım yapan bölgeleri gözden geçirin.",
+        "Kopuk tel, ezilme, kuş kafesi, büküm var mı bakın. Halatı çıplak elle sıvazlamayın; kopuk tel eli keser.",
+        "Halat ucundaki bağlantıyı (soket, kama, klemens) ve kanca emniyet mandalını kontrol edin.",
+        "Tamburdaki sarımın düzgün olup olmadığına, halatın makara kanalından çıkıp çıkmadığına bakın.",
+        "Şüpheli bir şey varsa not edin, fotoğraflayın ve yetkin kişiye gösterin."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Günlük kontrol, periyodik muayenenin yerini tutmaz; yalnızca iki muayene arasında ortaya çıkan hasarı yakalamaya yarar. Periyodik muayenenin sıklığını, halatın durumuna ve vincin kullanımına göre yetkin kişi belirler."
+    },
+    {
+      "type": "h2",
+      "text": "Halat değişiminde nelere dikkat edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Doğru halatı seçmek, makara ve tambur kanallarını kontrol etmek ve halatı burmadan takmak gerekir. ISO 4309; vinç üreticisi, halat üreticisi ya da yetkin bir kişi başka bir halatı onaylamadıkça, takılacak halatın uzunluk, çap, yapı, tip, sarım yönü ve dayanım bakımından vinç üreticisinin belirttiği halatla aynı olmasını ister. Yeni halatın asgari kopma kuvveti, vinç üreticisinin belirttiğinden düşük olamaz ve halat değişimi kayda geçirilir."
+    },
+    {
+      "type": "p",
+      "text": "Değişimde yalnızca halata bakmak yetmez. Makara ve tambur kanallarının yeni halatı taşıyıp taşıyamayacağı kontrol edilir; standart, makara kanal çapının nominal halat çapından yüzde 5 ile 10 arasında büyük olmasını, en iyi sonuç için de yeni halatın gerçek çapından en az yüzde 1 büyük olmasını önerir. Daralmış ya da dalgalanmış bir kanal, yeni halatı kısa sürede yıpratır. Halat takılırken burulmamalı; makara yere yatırılıp sarımlar fırlatılarak açılmamalıdır."
+    },
+    {
+      "type": "p",
+      "text": "Atölyede değişimi şu sırayla yapıyoruz:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Eski halatın yapısı, çapı, uzunluğu ve uç bağlantısı tespit edilir; üretici dokümanıyla karşılaştırılır.",
+        "Makara, tambur, kanca ve uç bağlantı parçaları kontrol edilir; aşınmış makara ya da burç varsa değiştirilir.",
+        "Uygun halat tedarik edilir, sertifikası kontrol edilir.",
+        "Halat doğru yöntemle takılır, düşük yükle alıştırılır ve referans çapı ölçülüp kaydedilir.",
+        "Yapılan iş ve halat bilgileri vincin kayıtlarına işlenir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Halatı doğru yağlamak da ömrünü uzatır. <a href=\"https://www.casar.de/Portals/0/Guidelines_32112022_EN_UK.pdf\">Halat üreticilerinin kılavuzları</a> da halatın kuruluk ve korozyon belirtileri başlamadan, özellikle makaralardan geçen ve tambura sarılan bölgelerde yağlanmasını önerir. Yağlayıcı, halat üreticisinin önerisiyle uyumlu olmalıdır; uyumsuz ya da kirli bir yağlayıcı, faydadan çok zarar getirir."
+    },
+    {
+      "type": "h2",
+      "text": "Halat değişimi yönetmelikte önemli bakım ve onarım sayılır mı?"
+    },
+    {
+      "type": "p",
+      "text": "Tek başına sayılmaz. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a>, kaldırma ekipmanlarındaki parça değişimlerini \"önemli bakım ve onarım\" sayarken halat, zincir ve benzeri askı tertibatının değişimini bu tanımın dışında tutar. Yani doğru halatla yapılan bir değişim, yönetmelik açısından tek başına önemli bakım ve onarım sayılmaz. Ancak aynı iş sırasında bom ucunda, makara yuvasında ya da kancada kaynaklı bir onarım yapılırsa durum değişir. Muayene öncesi hazırlık için <a href=\"/blog/vinc-periyodik-kontrol-oncesi-bakim.html\">vinç periyodik kontrol öncesi bakım</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Halat kontrolü için vinci atölyeye getirmek gerekir mi?"
+    },
+    {
+      "type": "p",
+      "text": "Kontrol için gerekmez; halat, kanca ve makara kontrolünü vincin bulunduğu yerde de yapabiliriz. Değişimin nerede yapılacağı ise makara, tambur ve burçların durumuna göre belli olur. Bu kontroller ve halat değişimi atölyemizin düzenli işleri arasında. Makara burçlarını ve pimleri gerektiğinde torna tezgâhımızda ölçüsüne göre üretiyoruz. Vinciniz şantiyeden ayrılamıyorsa Milas, Bodrum, Muğla, Aydın ve İzmir çevresinde yerinde kontrol için geliyoruz. Ayrıntılar için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> sayfamıza bakabilirsiniz. Halat sorunu daha büyük bir yıpranmanın parçasıysa <a href=\"/blog/vinc-revizyonu-ne-zaman.html\">vinç revizyonu ne zaman gerekir</a> yazımız yol gösterir; sahadaki güvenli çalışma kuralları için de <a href=\"/blog/vincle-calisirken-is-guvenligi.html\">vinçle çalışırken iş güvenliği</a> yazımızı öneririz."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Vinç halatı kaç yılda bir değiştirilir?",
+      "a": "Sabit bir yıl yoktur. Halat, takvime göre değil durumuna göre değiştirilir: kopuk tel sayısı, çap azalması, korozyon ve deformasyon ISO 4309 kriterlerine göre değerlendirilir. Bazı üreticiler belirli vinçler için çalışma saati ya da çevrim sınırı da verebilir; bu durumda o sınır da dikkate alınır."
+    },
+    {
+      "q": "Kaç tane kopuk tel olursa halat değişir?",
+      "a": "İzin verilen sayı halatın yapısına (halat kategori numarası, RCN), vincin sınıfına ve sayımın 6d mi 30d uzunlukta mı yapıldığına göre değişir; ISO 4309'daki tablolardan okunur. Halat ucundaki bağlantının çevresi ayrıca incelenir. Tek bir genel rakam vermek yanıltıcı olur."
+    },
+    {
+      "q": "Halat çapı ne kadar incelirse değiştirilir?",
+      "a": "Çap azalması, halat yeniyken ölçülen referans çapa ve nominal çapa göre değerlendirilir; sınırlar halat tipine göre standartta ayrı verilir. Bu yüzden yeni halatın çapını takıldıktan sonra ölçüp kaydetmek önemlidir. Lokal bir incelme ise genellikle öz hasarına işaret eder ve ayrıca incelenir."
+    },
+    {
+      "q": "Paslanmış vinç halatı kullanılabilir mi?",
+      "a": "Yüzeyde hafif pas ile tellerde çukurlaşma ve gevşeme aynı şey değildir. Korozyonun derecesi standarda göre değerlendirilir; deniz kenarında çalışan vinçlerde iç korozyon dışarıdan görünenden fazla olabilir. Şüphe varsa halat yetkin kişiye gösterilmelidir."
+    },
+    {
+      "q": "Halat değişiminden sonra periyodik kontrol gerekir mi?",
+      "a": "Yönetmelik, halat ve zincir değişimini önemli bakım ve onarım tanımının dışında tutar; bu nedenle doğru halatla yapılan değişim tek başına bu kapsama girmez. Aynı işte bom ucu, makara yuvası ya da kancada kaynaklı onarım yapılırsa önemli bakım ve onarım söz konusu olur ve periyodik kontrol yeniden yapılmalıdır."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "ISO 4309:2017 Cranes — Wire ropes — Care and maintenance, inspection and discard (standart önizlemesi)",
+      "publisher": "ISO / iTeh Standards",
+      "url": "https://cdn.standards.iteh.ai/samples/66759/73be1d8bf3174da186ccbebaeddab8e8/ISO-4309-2017.pdf"
+    },
+    {
+      "title": "Guidelines for Handling, Installation and Maintenance of Wire Ropes",
+      "publisher": "CASAR Drahtseilwerk Saar (WireCo)",
+      "url": "https://www.casar.de/Portals/0/Guidelines_32112022_EN_UK.pdf"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/blog/vinc-revizyonu-ne-zaman.html",
+    "/blog/vincle-calisirken-is-guvenligi.html",
+    "/blog/vinc-periyodik-kontrol-oncesi-bakim.html",
+    "/blog/vinc-doner-tabla-rulman-arizasi.html"
+  ]
+}
