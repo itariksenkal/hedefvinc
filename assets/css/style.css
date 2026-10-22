@@ -896,12 +896,16 @@ p { margin: 0 0 1em; }
   border-radius: var(--radius-lg);
   padding: 30px;
   box-shadow: var(--shadow-sm);
-  display: flex;
-  gap: 18px;
-  align-items: flex-start;
+  /* Icon on the left, heading/text/link stacked on the right. */
+  display: grid;
+  grid-template-columns: 52px minmax(0, 1fr);
+  column-gap: 18px;
+  align-items: start;
+  min-width: 0;
 }
+.contact-card > :not(.contact-card__icon) { grid-column: 2; justify-self: start; max-width: 100%; }
 .contact-card__icon {
-  flex: 0 0 auto;
+  grid-row: 1 / span 4;
   width: 52px;
   height: 52px;
   border-radius: 14px;
@@ -1324,12 +1328,15 @@ p { margin: 0 0 1em; }
     align-items: stretch;
     gap: 4px;
     padding: 96px 22px 32px;
-    transform: translateX(100%);
-    transition: transform 0.3s ease;
+    /* Closed menu stays inside the viewport and is clipped away: moving it off-screen
+       with translateX widened the mobile layout to ~720px and zoomed the page out. */
+    clip-path: inset(0 0 0 100%);
+    visibility: hidden;
+    transition: clip-path 0.3s ease, visibility 0s linear 0.3s;
     z-index: 80;
     overflow-y: auto;
   }
-  .nav.is-open { transform: translateX(0); }
+  .nav.is-open { clip-path: inset(0); visibility: visible; transition: clip-path 0.3s ease; }
   .nav > a { color: #dfe4f5; padding: 14px 16px; font-size: 1.02rem; }
   .nav > a:hover, .nav > a.is-active { background: rgba(255, 255, 255, 0.07); color: var(--yellow-500); }
   .nav > a.is-active::after { display: none; }
