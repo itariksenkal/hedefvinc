@@ -1,0 +1,332 @@
+{
+  "slug": "80-tonluk-vinc-kiralama",
+  "_hedef": "80 tonluk vinç kiralama",
+  "title": "80 Tonluk Vinç Kiralama: Hangi Mesafede Kaç Ton Kaldırır?",
+  "h1": "80 Tonluk Vinç Kiralama: Yük Tablosu, Araç Ölçüleri ve Saha Hazırlığı",
+  "desc": "80 tonluk vinç 10 metrede kaç ton kaldırır? Üretici yük tablosu, karşı ağırlık, ayak açıklığı ve Milas–Bodrum sahaları için seçim ve sipariş rehberi.",
+  "category": "Vinç Kiralama",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "cta": "kiralama",
+  "image": "saha-mobil-vinc.jpg",
+  "imageAlt": "Yüksek apartmanların yanındaki şantiyede sarı teleskopik mobil vinç ve önde Hedef Vinç yazılı kamyon üstü vinç, kırmızı çelik çatı makasını birlikte kaldırıyor",
+  "kisaCevap": "80 tonluk vinç, 80 tonu yalnızca en kısa bomla ve vince birkaç metre mesafede kaldırır. Grove GMK4080-3'ün üretici tablosunda tam karşı ağırlık ve tam açık ayakla 10 metrede 23 ton, 20 metrede 8,1 ton, 30 metrede 4 ton yazar. Doğru seçim için yükün ağırlığı, vincin duracağı yere uzaklığı ve yükseklik gerekir. İhtiyacınız olan tonajda operatörlü vinci biz sağlarız.",
+  "cikarimlar": [
+    "80 ton en kısa bomla birkaç metrede geçerlidir; 10 metrede değer 23 tona iner.",
+    "Karşı ağırlık eksik kurulursa kapasite düşer: 20 metrede 8,1 yerine 6,6 ton.",
+    "Bu sınıf 4 dingilli, 2,55 m geniş, yaklaşık 12,7 m uzun bir araçtır.",
+    "Tam kapasite için ayakların yaklaşık 8,7 × 7,2 m açılması gerekir.",
+    "Her vincin kendi yük tablosu esastır; broşür değerleri yalnızca fikir verir."
+  ],
+  "intro": "Şantiyede \"80 tonluk vinç lazım\" denildiğinde çoğu zaman gereken şey, birkaç tonluk bir yükü 15–25 metre uzağa taşıyabilecek bir vinçtir. Bu yazıda 80 ton sınıfını bir üreticinin resmi yük tablosuyla açıyoruz: hangi mesafede kaç ton kaldırdığını, aracın sahada ne kadar yer kapladığını, karşı ağırlığın neden ayrı geldiğini ve bunun Milas, Bodrum, Güllük ve Yatağan sahalarında ne anlama geldiğini. Vinci kiralayan da tamir eden de biziz; ihtiyacınız olan tonajda operatörlü vinci sağlarız.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "80 tonluk vinç gerçekte ne kadar yük kaldırır?"
+    },
+    {
+      "type": "p",
+      "text": "80 ton, vincin kaldırabileceği en büyük değerdir ve yalnızca en kısa bomla, vince birkaç metre mesafede geçerlidir. Yük vinçten uzaklaştıkça ve bom uzadıkça kapasite hızla düşer. Bir de şunu hesaba katmak gerekir: üreticinin tablosundaki değer yalnız yükü değil, kanca bloğunu ve sapanları da kapsar. Manitowoc'un Grove kataloglarında bu açıkça yazar: kaldırma kapasitesi, yük ile kanca bloğu ve bağlama ekipmanının toplamıdır."
+    },
+    {
+      "type": "h2",
+      "text": "Üretici tablosundan örnek: Grove GMK4080-3"
+    },
+    {
+      "type": "p",
+      "text": "Örnek olarak Grove GMK4080-3'ün <a href=\"https://www.manitowoc.com/media/15982/download\">resmi ürün kataloğundaki</a> ana bom tablosunu aldık. Tablo EN 13000'e göre hazırlanmış; koşullar 7,2 m ayak açıklığı ve 360° dönüştür. İki karşı ağırlık durumunu yan yana koyduk: 14,8 ton tam karşı ağırlık ve aracın üzerinde gelen 10,2 tonluk yol karşı ağırlığı. Her satırda o mesafede tabloda geçen en yüksek değeri ve bu değeri veren bom boyunu yazdık."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Yarıçap",
+        "14,8 t karşı ağırlık",
+        "10,2 t karşı ağırlık",
+        "Değeri veren bom (14,8 t)"
+      ],
+      "rows": [
+        [
+          "3 m",
+          "70,0 t",
+          "70,0 t",
+          "11,0 m"
+        ],
+        [
+          "5 m",
+          "46,5 t",
+          "45,5 t",
+          "11,0 m"
+        ],
+        [
+          "8 m",
+          "29,0 t",
+          "27,5 t",
+          "15,1–19,2 m"
+        ],
+        [
+          "10 m",
+          "23,0 t",
+          "20,5 t",
+          "15,1 m"
+        ],
+        [
+          "12 m",
+          "17,9 t",
+          "15,8 t",
+          "19,2 m"
+        ],
+        [
+          "16 m",
+          "11,5 t",
+          "9,8 t",
+          "23,3 m"
+        ],
+        [
+          "20 m",
+          "8,1 t",
+          "6,6 t",
+          "31,0 m"
+        ],
+        [
+          "24 m",
+          "5,9 t",
+          "4,9 t",
+          "31,0 m"
+        ],
+        [
+          "30 m",
+          "4,0 t",
+          "3,1 t",
+          "39,2 m"
+        ],
+        [
+          "36 m",
+          "2,5 t",
+          "1,9 t",
+          "43,3 m"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Tablodaki 80 ton, 3 metrede ve yalnızca arkaya doğru, özel donanımla verilir; 360° dönüşte aynı noktada değer 70 tondur. Bu değerler yalnızca bir fikir verir. Üretici de kataloğun genel bilgi olduğunu, esas alınacak değerlerin vincin kendi yük tablosu ve kullanım kılavuzu olduğunu yazar. Bizim göndereceğimiz vincin markası farklı olabilir; kaldırma planı her zaman o vincin kendi tablosuna göre yapılır."
+    },
+    {
+      "type": "h2",
+      "text": "Araç ne kadar yer kaplar, karşı ağırlık neden ayrı gelir?"
+    },
+    {
+      "type": "p",
+      "text": "Bu sınıf, 4 dingilli ve yola 2,55 m genişlikle çıkan bir araçtır. Aynı katalogda GMK4080-3 için şu ölçüler var:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Toplam uzunluk yaklaşık 12,7 m, genişlik 2,55 m, yükseklik yaklaşık 3,9 m.",
+        "Dingil başına 12 ton, toplam 48 ton; bu ağırlıkla üzerinde 10,2 ton karşı ağırlık taşınabiliyor.",
+        "Tam karşı ağırlık 14,8 ton; üretici, eksik kalan kısmın tek bir standart dorseyle geldiğini yazıyor.",
+        "Ayaklar tam açıkken taban yaklaşık 8,7 m boyunda ve 7,2 m eninde.",
+        "Üst yapının arka tarafı dönerken yaklaşık 3,8 m'lik bir yay çizer."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Yani 80 tonluk vinç sahaya çoğu zaman tek araç olarak gelmez; tam kapasite gerekiyorsa karşı ağırlığı getiren ikinci bir araç ve onun duracağı yer de planlanır. Karşı ağırlık eksik kurulduğunda kapasitenin nasıl düştüğünü tablodaki iki sütun gösteriyor: 20 metrede 8,1 ton yerine 6,6 ton. Bu boyda ve dingil yükündeki araçların yola çıkışı da <a href=\"https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Trafik/KanunYonetmelik/128MaddeDegisiklik.pdf\">Karayolları Trafik Yönetmeliği'nin 128. maddesindeki</a> ölçü ve ağırlık sınırlarına göre değerlendirilir; izin ve güzergâh planı vinç tarafının işidir."
+    },
+    {
+      "type": "h2",
+      "text": "Bodrum sokakları, villa girişleri, marina ve sanayi sahalarında ne anlama gelir?"
+    },
+    {
+      "type": "p",
+      "text": "Kısa cevap: araç çoğu yere girer, asıl soru ayakların açılacağı yerdir. Bölgede sık karşılaştığımız durumlar:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Bodrum yarımadası:</strong> dar ve yokuşlu sokaklarda 7,2 m genişliğinde düz bir ayak alanı nadiren bulunur. Vinç ana yolda ya da boş bir arsada kurulup bomla içeri uzanır; o zaman yarıçap büyür ve tablodaki değer düşer.",
+        "<strong>Villa bahçeleri:</strong> sorun çoğu zaman kapının genişliği değil, 12,7 metrelik aracın dönüşü ve bahçedeki dolgu zemindir. Ayak altına plaka ve gerekirse ahşap altlık konur.",
+        "<strong>Güllük ve Bodrum marinaları:</strong> rıhtımda ayak yükleri küçük bir alana toplanır. Rıhtımın taşıma bilgisini ve çalışma iznini marina işletmesinden alırız.",
+        "<strong>Yatağan ve Milas sanayi ve maden sahaları:</strong> yer geniştir ama zemin çoğu zaman gevşek dolgudur; ayak noktaları sıkıştırılmış ya da betonlanmış zemine göre seçilir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bodrum'da yaz dönemi ayrıca planlanmalıdır. <a href=\"https://mugla.ktb.gov.tr/TR-397558/insaat-yasaklari-hakkinda-onemli-duyuru.html\">Muğla İl Kültür ve Turizm Müdürlüğü'nün duyurusuna</a> göre turistik yörelerde 15 Mayıs–15 Ekim arasında ağır nakliyat, hafriyat ve harçlı inşaat faaliyetleri kısıtlanır; başvurular ilçelerde kaymakamlığa yapılır. Büyük vinç gerektiren işleri mümkünse bu dönemin dışına alın."
+    },
+    {
+      "type": "h2",
+      "text": "80 ton mu yeter, bir üstü mü gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "Karar, yükün ağırlığı ile vince olan mesafenin birlikte okunmasıyla verilir. Aşağıda 80 ton sınıfını 100 ton sınıfından bir örnekle (Grove GMK4100L-2, <a href=\"https://www.manitowoc.com/media/15987/download\">üretici kataloğu</a>, 26 t karşı ağırlık, 7,2 m ayak, 360°) karşılaştırdık:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Yük ve mesafe",
+        "80 t (GMK4080-3)",
+        "100 t (GMK4100L-2)",
+        "Yorum"
+      ],
+      "rows": [
+        [
+          "3 ton, 12 m",
+          "17,9 t",
+          "24,5 t",
+          "80 ton fazla; daha küçük vinç ya da hiyap yeter"
+        ],
+        [
+          "6 ton, 20 m",
+          "8,1 t",
+          "11,3 t",
+          "80 ton yeter; kanca ve sapan payı kontrol edilir"
+        ],
+        [
+          "10 ton, 16 m",
+          "11,5 t",
+          "16,6 t",
+          "80 tonda pay az; 100 ton düşünülür"
+        ],
+        [
+          "5 ton, 30 m",
+          "4,0 t",
+          "5,6 t",
+          "80 ton yetmez; 100 ton ya da vinci yaklaştırmak"
+        ],
+        [
+          "20 ton, 10 m",
+          "23,0 t",
+          "30,0 t",
+          "Tam karşı ağırlıkla 80 ton sınırda"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Tablonun alt sınırında kalan işler, yani birkaç tonluk yükün yakın mesafeye indirilmesi, çoğu zaman araç üstü vinçle daha hızlı biter; bunun için <a href=\"/hizmetler/hiyap-kiralama.html\">hiyap kiralama</a> sayfamıza bakabilirsiniz. Vinç türlerinin genel karşılaştırması <a href=\"/blog/dogru-vinc-secimi.html\">doğru vinç seçimi</a> yazımızda."
+    },
+    {
+      "type": "h2",
+      "text": "Fiyatı neler belirler?"
+    },
+    {
+      "type": "p",
+      "text": "Sabit fiyat listemiz yok; fiyatı işi gördükten sonra net söyleriz. Fiyatı etkileyen kalemler şunlardır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Gereken vinç sınıfı ve tam karşı ağırlık gerekip gerekmediği; gerekiyorsa ikinci aracın nakliyesi.",
+        "Sahanın atölyemize uzaklığı ve yolun durumu.",
+        "Kurulum, kaldırma ve toplama dahil işin süresi; bekleme olup olmayacağı.",
+        "Zemin hazırlığı, plaka ve altlık ihtiyacı.",
+        "Yol kapatma, rıhtım ya da tesis izni gibi ek düzenlemeler."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Fiyatın nasıl oluştuğunu <a href=\"/blog/vinc-kiralama-fiyatlari.html\">vinç kiralama fiyatları</a> yazımızda ayrıntılı anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "80 tonluk vinç nasıl istenir? WhatsApp'tan ne göndermeli?"
+    },
+    {
+      "type": "p",
+      "text": "Aşağıdaki beş bilgiyle doğru sınıfı çoğu zaman ilk görüşmede belirleriz:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "<strong>Yük:</strong> ne olduğu, ağırlığı (etiket, katalog ya da irsaliye fotoğrafı) ve ölçüleri; kaldırma noktaları varsa onların fotoğrafı.",
+        "<strong>Mesafe:</strong> vincin durabileceği yerden yükün ineceği noktaya yatay mesafe. Metreyle ölçemiyorsanız haritada iki noktayı işaretleyin.",
+        "<strong>Yükseklik ve engeller:</strong> yükün çıkacağı kot, aradaki duvar, çatı, ağaç ve elektrik hatları.",
+        "<strong>Saha:</strong> giriş yolunun, kapının, vincin duracağı zeminin ve ayakların açılacağı alanın fotoğrafı ya da kısa videosu.",
+        "<strong>Konum ve gün:</strong> Google Haritalar konumu ve çalışmak istediğiniz gün; yol kapatma gerekiyorsa onu da yazın."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu bilgilerle vinç sınıfını, karşı ağırlık ihtiyacını ve kurulum noktasını belirleriz; emin olamadığımız sahalarda önce yerinde bakarız. Bölgedeki işler için <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> ve <a href=\"/bolgeler/bodrum-vinc-kiralama.html\">Bodrum vinç kiralama</a> sayfalarımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Vinci kiralayan da tamir eden de biziz"
+    },
+    {
+      "type": "p",
+      "text": "2005'ten beri Tuzla Kavşağı'ndaki atölyemizde vinç tamir ediyoruz. Kiralamada sahaya giden vincin bakımını bu bilgiyle yaparız; kendi vinciniz varsa ayak, hidrolik ya da yük moment sistemi arızası için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri ve revizyon</a> sayfamıza bakın."
+    },
+    {
+      "type": "callout",
+      "text": "Yükün ağırlığını, vince olan mesafeyi ve sahanın birkaç fotoğrafını gönderin; 80 ton mu, daha küçüğü mü, bir üstü mü gerektiğini birlikte netleştirelim."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "80 tonluk vinç gerçekten 80 ton kaldırır mı?",
+      "a": "Yalnızca en kısa bomla ve vince birkaç metre mesafede. GMK4080-3 örneğinde 80 ton, 3 metrede ve arkaya doğru özel donanımla verilir; 360° dönüşte aynı noktada 70 ton, 10 metrede 23 ton yazar."
+    },
+    {
+      "q": "80 tonluk vinç 20 metrede kaç ton kaldırır?",
+      "a": "GMK4080-3'ün tablosunda tam karşı ağırlıkla (14,8 t) 8,1 ton, 10,2 tonluk yol karşı ağırlığıyla 6,6 ton yazar. Bu değer kanca bloğu ve sapanları da kapsar; net yük bunlar düşüldükten sonra kalan kısımdır."
+    },
+    {
+      "q": "80 tonluk vinç Bodrum'daki dar bir sokağa girer mi?",
+      "a": "2,55 m genişliğindeki araç çoğu sokağa girer, ama ayaklar yaklaşık 7,2 m açılır. Sokakta bu alan yoksa vinci ana yolda ya da boş bir arsada kurarız; mesafe uzadığı için gereken sınıf büyüyebilir."
+    },
+    {
+      "q": "Karşı ağırlık için ayrı araç gelir mi?",
+      "a": "Tam kapasite gerekiyorsa çoğu zaman evet. GMK4080-3 üzerinde 10,2 ton taşır; tam karşı ağırlık 14,8 tondur ve üretici eksik kısmın bir dorseyle geldiğini yazar. Gerekmeyen işlerde yol karşı ağırlığıyla çalışılır."
+    },
+    {
+      "q": "Rüzgârlı havada çalışılır mı?",
+      "a": "Her vincin kılavuzunda izin verilen rüzgâr sınırı yazar; sınır aşılırsa kaldırma yapılmaz. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a> de hava şartları güvenli kullanımı engellediğinde açık havadaki kaldırmanın durdurulmasını ister. Kıyıdaki işleri sabah saatlerine planlarız."
+    },
+    {
+      "q": "Yazın Bodrum'da 80 tonluk vinçle çalışılabilir mi?",
+      "a": "15 Mayıs–15 Ekim arasında turistik yörelerde ağır nakliyat, hafriyat ve harçlı inşaat faaliyetleri kısıtlanır. Yaz döneminde yapılacak bir iş için önce kaymakamlığa danışılmalıdır; mümkünse işi Ekim ortasından sonraya alın."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Grove GMK4080-3 Product Guide (metrik)",
+      "publisher": "Manitowoc Cranes",
+      "url": "https://www.manitowoc.com/media/15982/download"
+    },
+    {
+      "title": "GROVE GMK4080-3 ürün sayfası",
+      "publisher": "Manitowoc Cranes",
+      "url": "https://www.manitowoc.com/grove/all-terrain-cranes/gmk4080-3"
+    },
+    {
+      "title": "Grove GMK4100L-2 Product Guide (metrik)",
+      "publisher": "Manitowoc Cranes",
+      "url": "https://www.manitowoc.com/media/15987/download"
+    },
+    {
+      "title": "Karayolları Trafik Yönetmeliği 128. madde: Araçların ölçü ve ağırlıkları",
+      "publisher": "Karayolları Genel Müdürlüğü",
+      "url": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Trafik/KanunYonetmelik/128MaddeDegisiklik.pdf"
+    },
+    {
+      "title": "İnşaat yasakları hakkında önemli duyuru",
+      "publisher": "Muğla İl Kültür ve Turizm Müdürlüğü",
+      "url": "https://mugla.ktb.gov.tr/TR-397558/insaat-yasaklari-hakkinda-onemli-duyuru.html"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-kiralama.html",
+    "/hizmetler/hiyap-kiralama.html",
+    "/bolgeler/bodrum-vinc-kiralama.html",
+    "/blog/dogru-vinc-secimi.html",
+    "/blog/vinc-kiralama-fiyatlari.html"
+  ]
+}

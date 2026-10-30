@@ -1,0 +1,345 @@
+{
+  "slug": "hiyap-kac-ton-kaldirir-hiyap-tonajlari",
+  "_hedef": "hiyap kaç ton kaldırır / hiyap tonajları / kaç tonmetre hiyap / hiyap tonmetre hesabı",
+  "title": "Hiyap Kaç Ton Kaldırır? Tonmetre ile Hiyap Sınıfları",
+  "h1": "Hiyap Kaç Ton Kaldırır? Tonmetre Hesabı ve Villa, Tekne, Konteyner İçin Hiyap Sınıfları",
+  "desc": "Hiyap kaç ton kaldırır? Tonmetre hesabı, Palfinger ve Fassi verileriyle küçük, orta ve büyük hiyap sınıfları; villa, tekne ve konteyner işleri için seçim.",
+  "category": "Vinç Kiralama",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "cta": "kiralama",
+  "image": "saha-uzun-bom.jpg",
+  "imageAlt": "Hedef yazılı vinçli kamyon uzun bomuyla sarı çelik kafes parçalarını kaldırıyor",
+  "kisaCevap": "Hiyap ton ile değil tonmetre ile anılır: yükün ağırlığı ile vincin kolonundan yüke olan yatay mesafenin çarpımı. Örneğin Palfinger PK 23500 en fazla 23 tonmetredir; 10 tonu yalnızca dibinde kaldırır, 16,7 m'de kaldırabileceği yük kaba hesapla en fazla 1,2 ton civarındadır. Yükün ağırlığını ve mesafeyi çarpın, üstüne pay bırakın; kesin karar vincin yük diyagramıyla verilir. Ağırlığı, mesafeyi ve fotoğrafı gönderin, uygun hiyabı biz seçelim.",
+  "cikarimlar": [
+    "Hiyap sınıfı tonmetreyle anlatılır: ağırlık çarpı yatay mesafe.",
+    "Etiketteki azami kapasite yalnızca kolonun dibinde geçerlidir.",
+    "Mesafe kamyonun kenarından değil, vincin kolonundan ölçülür.",
+    "Ayaklar tam açılamazsa izin verilen çalışma alanı daralır.",
+    "Boş 20'lik konteynerin darası tek başına 2,2-2,6 tondur."
+  ],
+  "intro": "“Kaç tonluk hiyap lazım?” sorusu bize en sık sorulan sorudur ve çoğu zaman yanlış yere götürür. Aynı hiyap 10 tonu dibinde kaldırırken 15 metrede 1 tonu zor kaldırabilir. Bu yazı villa sahipleri, tekne sahipleri, konteyner alanlar ve ustalar için; hiyabın neden tonmetreyle anlatıldığını, üreticilerin resmî verileriyle küçük, orta ve büyük sınıfların neyi kaldırdığını ve kendi işiniz için kaba hesabı nasıl yapacağınızı anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Tonmetre nedir, nasıl hesaplanır?"
+    },
+    {
+      "type": "p",
+      "text": "Tonmetre, yükün ağırlığı ile vincin dönüş merkezinden yüke olan yatay mesafenin çarpımıdır. 1 tonluk bir yük 8 m'ye konacaksa en az 8 tonmetre gerekir; aynı yük 4 m'ye konacaksa 4 tonmetre yeter. Hesapta üç şeye dikkat edin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Ağırlık, sapan, zincir ve varsa traverse dahil toplam ağırlıktır.",
+        "Mesafe kamyonun kenarından değil, vincin kolonundan ölçülür; kamyonun yarı genişliği ve kasadaki konum eklenir.",
+        "Bu hesap yalnızca ilk fikri verir. Vinç her bom konumunda aynı momenti vermez; kesin değer vincin yük diyagramından okunur."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Detaylı tonmetre açıklaması ve sınıflar <a href=\"/hizmetler/hiyap-kiralama.html\">hiyap kiralama</a> sayfamızda da var. Bu yazıda o sayfada anlatmadığımız modellerle hesabı somutlaştırıyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "Küçük, orta ve büyük hiyap: üretici verileri"
+    },
+    {
+      "type": "p",
+      "text": "Aşağıdaki değerler üreticilerin resmî ürün sayfalarından alınmıştır: Palfinger <a href=\"https://www.palfinger.com/en/products/loader-cranes/models/pk-9.501-sld-5_p_520\">PK 9.501 SLD 5</a>, <a href=\"https://www.palfinger.com/apac/en/our-products/cranes/loader-cranes/models/pk-23500.html\">PK 23500</a> ve <a href=\"https://www.palfinger.com/en/products/loader-cranes/models/pk-65002-sh-high-performance_p_1634\">PK 65002 SH</a>."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Model",
+        "Azami kaldırma momenti",
+        "Azami kapasite (dipte)",
+        "Hidrolik erişim",
+        "Standart ayak açıklığı",
+        "Vinç ağırlığı"
+      ],
+      "rows": [
+        [
+          "Palfinger PK 9.501 SLD 5",
+          "9 tm",
+          "5.700 kg",
+          "11,8 m",
+          "3,2 m",
+          "1.080 kg"
+        ],
+        [
+          "Palfinger PK 23500",
+          "23 tm",
+          "10.000 kg",
+          "16,7 m",
+          "–",
+          "2.346 kg"
+        ],
+        [
+          "Palfinger PK 65002 SH",
+          "62 tm",
+          "22.000 kg",
+          "20,4 m (jib ile 32,6 m)",
+          "8,6 m",
+          "5.040 kg"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Fassi tarafında da benzer bir tablo var: üreticinin <a href=\"https://www.fassi.com/en/gru/f155a-active/\">F155A active sayfasına</a> göre bu model 14,5 tonmetreye kadar kaldırma momenti ve jib ile 18,90 m erişim sunar. Örneklerde model numarası çoğu zaman sınıfı ele verir, ama her zaman tablosuna bakmak gerekir."
+    },
+    {
+      "type": "h2",
+      "text": "Hiyap uzak mesafede kaç ton kaldırır?"
+    },
+    {
+      "type": "p",
+      "text": "Palfinger her modelin farklı uzatma sayısındaki versiyonları için kaldırma momentini ve erişimi ayrı verir. Aşağıda bu değerleri ve momenti erişime bölerek bulunan kaba üst sınırı gösteriyoruz. Üretici, erişimlerin 20 derece bom açısında verildiğini ve mekanik uzatma kullanıldığında yükün uzatmanın ağırlığı kadar azaltılması gerektiğini not ediyor. Gerçek kapasite yük diyagramından okunur ve genellikle bu kaba değerin altındadır."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Model ve versiyon",
+        "Kaldırma momenti",
+        "Hidrolik erişim",
+        "Kaba üst sınır (moment ÷ erişim)"
+      ],
+      "rows": [
+        [
+          "PK 9.501 SLD 5, standart",
+          "9 tm",
+          "5,6 m",
+          "≈ 1,6 t"
+        ],
+        [
+          "PK 9.501 SLD 5, C",
+          "8,3 tm",
+          "11,8 m",
+          "≈ 0,7 t"
+        ],
+        [
+          "PK 23500, A",
+          "22,4 tm",
+          "8,2 m",
+          "≈ 2,7 t"
+        ],
+        [
+          "PK 23500, C",
+          "21,5 tm",
+          "12,4 m",
+          "≈ 1,7 t"
+        ],
+        [
+          "PK 23500, E",
+          "20,7 tm",
+          "16,7 m",
+          "≈ 1,2 t"
+        ],
+        [
+          "PK 65002 SH, A",
+          "60,9 tm",
+          "7,6 m",
+          "≈ 8,0 t"
+        ],
+        [
+          "PK 65002 SH, D",
+          "57,1 tm",
+          "13,7 m",
+          "≈ 4,2 t"
+        ],
+        [
+          "PK 65002 SH, F",
+          "55,5 tm",
+          "18,1 m",
+          "≈ 3,1 t"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Her makinenin kendi yük diyagramı geçerlidir. Buradaki asıl ders şu: uzatma sayısı arttıkça erişim artar ama hem moment hem de uzak mesafedeki yük düşer. 62 tonmetrelik büyük bir hiyap bile 18 m'de 3 tonun üzerine çıkmaz."
+    },
+    {
+      "type": "h2",
+      "text": "Villa, tekne ve konteyner işleri için kaba hesap"
+    },
+    {
+      "type": "p",
+      "text": "Kendi işiniz için ilk fikri şu örneklerle edinebilirsiniz; hepsinde hesabın üstüne pay bırakılır:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "İş",
+        "Ağırlık × mesafe",
+        "Gereken en az moment",
+        "Sınıf"
+      ],
+      "rows": [
+        [
+          "Villa: 1 t palet malzeme, bahçe duvarının arkasına",
+          "1 t × 8 m",
+          "8 tm",
+          "Küçük-orta (paylı 10-15 tm)"
+        ],
+        [
+          "Tekne: 4 t tekne, rıhtımdan suya",
+          "4 t × 5 m",
+          "20 tm",
+          "Orta-büyük (paylı 25-30 tm)"
+        ],
+        [
+          "Boş 20'lik konteyner, kamyondan bahçeye",
+          "2,6 t × 6 m",
+          "≈ 16 tm",
+          "Orta (paylı 20 tm üstü)"
+        ],
+        [
+          "Boş 40'lık konteyner",
+          "3,75 t × 6 m",
+          "≈ 23 tm",
+          "Büyük (paylı 30 tm üstü)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Konteyner ağırlıkları <a href=\"https://www.hapag-lloyd.com/content/dam/website/downloads/press_and_media/publications/15211_Container_Specification_engl_Gesamt_web.pdf\">Hapag-Lloyd'un konteyner şartnamesinden</a>: standart 20'lik genel amaçlı konteynerin darası 2.250-2.570 kg, 40'lığınki 3.700-3.750 kg'dır. Doluysa içindeki yük eklenir; her konteynerin kendi darası kapısında yazar. Konteyneri bizden alıyorsanız getirip yerine koymayı da planlarız; ayrıntılar <a href=\"/hizmetler/konteyner-satis-kiralama.html\">konteyner satış ve kiralama</a> sayfamızda. Tekne işlerinde ağırlık, belgedeki değere yakıt, su ve ekipman eklenerek bulunur; tekne kaldırmayı <a href=\"/blog/bodrumda-tekne-cekme.html\">Bodrum'da tekne çekme</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Ayak açıklığı ve dar sokak"
+    },
+    {
+      "type": "p",
+      "text": "Hiyabın kapasitesi, ayaklarının ne kadar açıldığına bağlıdır. Yukarıdaki örneklerde standart ayak açıklığı küçük modelde 3,2 m, büyük modelde 8,6 m'dir. Bodrum'un dar sokaklarında büyük hiyabın ayaklarını tam açacak yer olmayabilir. Palfinger, PK 65002 SH'deki HPSC sisteminin ayakların gerçek konumuna göre izin verilen çalışma alanını hesapladığını belirtir; yani ayak daraldığında vinç çalışır ama kaldırabileceği yük ve döneceği alan küçülür. Yük kamyonun arkasındaysa ya da sokak tarafındaysa bu fark daha da belirginleşir. Bir alt sınıftaki küçük mobil vinçlerle karşılaştırma için <a href=\"/blog/10-15-tonluk-vinc-kiralama-bodrum-milas.html\">10-15 tonluk vinç kiralama</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Büyük hiyap her zaman daha iyi mi?"
+    },
+    {
+      "type": "p",
+      "text": "Hayır. Hiyabın sınıfı aracı da belirler. Büyük hiyap ağırdır: PK 65002 SH'nin standart hali 5.040 kg, uzun versiyonu 6.600 kg'ı geçer; küçük PK 9.501 ise 1.080 kg'dır. Bu ağırlık kamyonun taşıyabileceği yükten düşer, ayaklar daha geniş alan ister ve araç dar sokağa daha zor girer. Yükü kasasında getirecek hiyapta vincin momenti, kasa boyu ve aracın taşıma kapasitesi birlikte düşünülür. Kamyon üstü vinç montajında şasinin nasıl hazırlandığını <a href=\"/hizmetler/kamyon-sase-giydirme.html\">kamyon şase</a> sayfamızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Hiyap mı, mobil vinç mi?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Durum",
+        "Uygun seçim"
+      ],
+      "rows": [
+        [
+          "Yük kamyonla geliyor, mesafe 10 m'nin altında",
+          "Hiyap: taşır ve kendisi indirir"
+        ],
+        [
+          "Yük sahada, uzağa ya da yükseğe verilecek",
+          "Mobil vinç"
+        ],
+        [
+          "Yük ağır ve 15 m'den uzağa",
+          "Büyük hiyap ya da mobil vinç; tabloya göre"
+        ],
+        [
+          "İnsan yükseğe çıkacak",
+          "Sepetli platform; hiyapla insan kaldırılmaz"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Fiyatı ne belirler?"
+    },
+    {
+      "type": "p",
+      "text": "Sabit fiyat listemiz yok; işi gördükten sonra net söyleriz. Belirleyici olanlar: gereken tonmetre, yükün yüklendiği ve indiği adresler arasındaki mesafe, iş süresi, sokağa erişim ve ayak alanı, yol kapatma ya da site izni ve gerekiyorsa özel sapan ya da traverse."
+    },
+    {
+      "type": "h2",
+      "text": "Milas ve Bodrum'da nasıl sipariş verilir?"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Yükün ne olduğu ve sapan dahil ağırlığı; konteynerde kapıdaki etiket, teknede belge fotoğrafı.",
+        "Kamyonun duracağı yerden yükün ineceği noktaya yatay mesafe ve varsa duvar ya da çatı yüksekliği.",
+        "Sokağın, girişin ve ayak açılacak zeminin fotoğrafları.",
+        "Yükleme ve indirme adresleri ya da konum pinleri ve tarih."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu bilgilerle uygun tonmetrede hiyabı operatörüyle göndeririz. Vinci kiralayan da tamir eden de biziz: hiyapların hidrolik, kolon, ayak ve kumanda arızalarını kendi atölyemizde onarıyoruz; kendi hiyabınız için <a href=\"/hizmetler/hiyap-vinc-tamiri.html\">hiyap vinç tamiri</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "callout",
+      "text": "Yükün ağırlığını, mesafeyi ve sokağın fotoğrafını gönderin; kaç tonmetrelik hiyabın yeteceğini ve ayakların nereye açılacağını birlikte netleştirelim."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "10 tonluk hiyap 10 metreye kaç ton kaldırır?",
+      "a": "“10 tonluk” etiketi genellikle dipteki azami kapasitedir. Örneğin 23 tonmetrelik PK 23500 10 tonu yalnızca dibinde kaldırır; 12,4 m erişimli versiyonunda kaba üst sınır 1,7 tondur. 10 m'deki gerçek değer modelin yük diyagramından okunur."
+    },
+    {
+      "q": "Kaç tonmetrelik hiyap gerekir?",
+      "a": "Yükün sapan dahil ağırlığını, vincin kolonundan yüke olan yatay mesafeyle çarpın ve üstüne pay bırakın. 2 tonluk bir yük 6 m'ye konacaksa en az 12 tonmetre gerekir; pratikte bir üst sınıf seçilir."
+    },
+    {
+      "q": "Hiyapla 20'lik konteyner indirilir mi?",
+      "a": "Boş 20'lik konteynerin darası 2,2-2,6 tondur ve orta sınıf bir hiyapla, kısa mesafede indirilebilir. Doluysa ya da uzağa konacaksa daha büyük hiyap ya da mobil vinç gerekir."
+    },
+    {
+      "q": "Hiyapla tekne kaldırılır mı?",
+      "a": "Küçük teknelerde ve tekne motoru, jeneratör gibi ekipmanda evet. Teknenin ağırlığına yakıt, su ve ekipman eklenir, rıhtımdaki mesafeyle çarpılır; büyük teknelerde mobil vinç gerekir."
+    },
+    {
+      "q": "Hiyabın ayakları tam açılmazsa ne olur?",
+      "a": "Bazı modeller ayakların gerçek konumuna göre izin verilen alanı otomatik daraltır; vinç çalışır ama kaldırabileceği yük ve dönüş alanı küçülür. Sistemsiz vinçlerde ayaklar üreticinin öngördüğü konumda açılmadan kaldırma yapılmaz."
+    },
+    {
+      "q": "Hiyap operatörüyle mi geliyor?",
+      "a": "Evet. Hiyap operatörümüzle gelir; vinci kurmak, yükü sapanlamak ve indirmek bizim işimizdir. Sizin yükün nereye ineceğini göstermeniz yeterli."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "PK 9.501 SLD 5 – technical data",
+      "publisher": "PALFINGER",
+      "url": "https://www.palfinger.com/en/products/loader-cranes/models/pk-9.501-sld-5_p_520"
+    },
+    {
+      "title": "PK 23500 – key specs and lifting capacities",
+      "publisher": "PALFINGER",
+      "url": "https://www.palfinger.com/apac/en/our-products/cranes/loader-cranes/models/pk-23500.html"
+    },
+    {
+      "title": "PK 65002 SH High Performance – technical data",
+      "publisher": "PALFINGER",
+      "url": "https://www.palfinger.com/en/products/loader-cranes/models/pk-65002-sh-high-performance_p_1634"
+    },
+    {
+      "title": "F155A active – model specifications",
+      "publisher": "Fassi Gru S.p.A.",
+      "url": "https://www.fassi.com/en/gru/f155a-active/"
+    },
+    {
+      "title": "Container Specification (20' ve 40' genel amaçlı konteyner darası)",
+      "publisher": "Hapag-Lloyd",
+      "url": "https://www.hapag-lloyd.com/content/dam/website/downloads/press_and_media/publications/15211_Container_Specification_engl_Gesamt_web.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/hiyap-kiralama.html",
+    "/hizmetler/konteyner-satis-kiralama.html",
+    "/hizmetler/hiyap-vinc-tamiri.html",
+    "/blog/bodrumda-tekne-cekme.html",
+    "/blog/dogru-vinc-secimi.html"
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "slug": "200-tonluk-ve-uzeri-vinc-kiralama",
+  "_hedef": "200 tonluk vinç kiralama",
+  "title": "200 Tonluk ve Üzeri Vinç Kiralama: Ağır Kaldırma Planı",
+  "h1": "200 Tonluk ve Üzeri Vinç Kiralama: Yük Tablosu, Karşı Ağırlık Nakliyesi ve Yol İzni",
+  "desc": "200 ton ve üzeri vinç ne zaman gerekir? Liebherr LTM 1230-5.1 yük tablosu, 72 ton karşı ağırlık nakliyesi, KGM yol izni ve GES, trafo, tekne işleri.",
+  "category": "Vinç Kiralama",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "cta": "kiralama",
+  "image": "saha-cati-montaj.jpg",
+  "imageAlt": "Sarı kamyon vincinin uzun kafes bomu, inşaat hâlindeki yuvarlak betonarme binanın çatısına çelik eleman veriyor; çatıda işçiler, önde paletli malzemeler",
+  "kisaCevap": "200 ton ve üzeri vinç, ağır bir yükü uzak bir noktaya taşımak gerektiğinde seçilir. Liebherr LTM 1230-5.1'in tablosunda 72 ton karşı ağırlıkla 10 metrede 68,1 ton, 20 metrede 31,9 ton, 30 metrede 17,3 ton yazar. Bu sınıfta vinç yola karşı ağırlıksız çıkar; karşı ağırlık ayrı araçlarla gelir ve araç yasal ölçüleri aştığı için Karayolları'ndan özel izin gerekir. İhtiyacınız olan tonajda operatörlü vinci sağlarız.",
+  "cikarimlar": [
+    "LTM 1230-5.1: 72 t karşı ağırlıkla 10 m'de 68,1 t, 20 m'de 31,9 t, 30 m'de 17,3 t.",
+    "Vinç yola karşı ağırlıksız çıkar; 72 ton ayrı araçlarla taşınıp sahada kurulur.",
+    "3 m genişlik ve 12 t dingil yükü yasal sınırları aşar; KGM özel izni gerekir.",
+    "Rüzgâr yüzeyi büyük yüklerde (panel, kanat) tablodaki değer düşürülür.",
+    "Plan; yük belgesi, zemin, kurulum alanı ve yol güzergâhıyla birlikte yapılır."
+  ],
+  "intro": "200 ton ve üzeri vinç, bir işin artık sıradan bir kaldırma olmaktan çıkıp bir operasyona dönüştüğü noktadır: trafo ya da santral ekipmanı, GES ve RES sahalarında ağır parçalar, maden tesisinde kırıcı ya da konveyör, büyük bir teknenin karaya alınması. Bu yazıda sınıfı üreticinin resmi tablosuyla açıyoruz; karşı ağırlık nakliyesini, Karayolları'nın ölçü ve ağırlık sınırlarını ve sahada nelerin hazır olması gerektiğini anlatıyoruz. İhtiyacınız olan tonajda operatörlü vinci biz sağlarız.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "200 tonluk vinç kaç metrede kaç ton kaldırır?"
+    },
+    {
+      "type": "p",
+      "text": "Bu sınıfı küçüklerden ayıran, uzak mesafedeki kapasitedir. Örnek olarak 5 dingilli Liebherr LTM 1230-5.1'in <a href=\"https://assets-cdn.liebherr.com/versions/019f02b1-857e-7f21-817b-2c3b6ba807f5/original/liebherr-270-ltm-1230-5-1-td-270-02-defisr04-2021.pdf\">resmi teknik verilerindeki</a> ana bom tablosunu aldık: 72 ton karşı ağırlık, tam açık ayak ve 360° dönüş. Liebherr bu tabloyu iki karşı ağırlık yarıçapıyla (4,83 m ve 5,73 m) veriyor; aşağıda her mesafede tabloda geçen en yüksek değeri yazdık."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Yarıçap",
+        "LTM 1230-5.1 (72 t)",
+        "Değeri veren bom",
+        "Karşılaştırma: 100 t sınıfı"
+      ],
+      "rows": [
+        [
+          "3 m",
+          "134 t",
+          "12,7 m",
+          "76,0 t"
+        ],
+        [
+          "5 m",
+          "114,9 t",
+          "12,7 m",
+          "55,0 t"
+        ],
+        [
+          "8 m",
+          "82,3 t",
+          "16,7 m",
+          "38,5 t"
+        ],
+        [
+          "10 m",
+          "68,1 t",
+          "16,7 m",
+          "30,0 t"
+        ],
+        [
+          "12 m",
+          "57,1 t",
+          "16,7 m",
+          "24,5 t"
+        ],
+        [
+          "16 m",
+          "41,6 t",
+          "24,8 m",
+          "16,6 t"
+        ],
+        [
+          "20 m",
+          "31,9 t",
+          "28,8 m",
+          "11,3 t"
+        ],
+        [
+          "24 m",
+          "25,1 t",
+          "28,8 m",
+          "8,8 t"
+        ],
+        [
+          "30 m",
+          "17,3 t",
+          "40,9 m",
+          "5,6 t"
+        ],
+        [
+          "40 m",
+          "10,7 t",
+          "44,9 m",
+          "3,2 t"
+        ],
+        [
+          "50 m",
+          "6,8 t",
+          "56,9 m",
+          "–"
+        ],
+        [
+          "60 m",
+          "4,2 t",
+          "64,8 m",
+          "–"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Karşılaştırma sütunu Grove GMK4100L-2'nin <a href=\"https://www.manitowoc.com/media/15987/download\">kataloğundan</a> (26 t karşı ağırlık). Tabloda 230 ton yalnızca 3 metrede ve arkaya doğru verilir; 360° dönüşte aynı noktada 134 ton yazar. Bir üst sınıfa örnek olarak Manitowoc, <a href=\"https://www.manitowoc.com/grove/all-terrain-cranes/gmk5250xl-1\">Grove GMK5250XL-1</a> için 250 ton nominal kapasite, 78,5 m ana bom ve 60 ton toplam araç ağırlığı veriyor. Hangi vinç gelirse gelsin kaldırma planı o vincin kendi yük tablosuyla yapılır; broşür değerleri yalnızca fikir verir."
+    },
+    {
+      "type": "h2",
+      "text": "Karşı ağırlık nasıl taşınır?"
+    },
+    {
+      "type": "p",
+      "text": "Ayrı araçlarla. Liebherr'in yol sürüşü çiziminde LTM 1230-5.1 yola 0 ton karşı ağırlıkla, 5 dingilin her biri en çok 12 ton ve toplam en çok 60 tonla çıkıyor. 72 tonluk karşı ağırlık 10, 12, 5 ve 2,5 tonluk plakalardan oluşuyor ve sahaya kamyonlarla geliyor. Sahada bunun anlamı şu:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Vincin yanında karşı ağırlık kamyonlarının yanaşıp boşaltabileceği bir alan gerekir.",
+        "Plakaların vinç tarafından takılması kurulum süresine eklenir; iş günü buna göre planlanır.",
+        "Karşı ağırlık yarıçapı 4,83 ya da 5,73 m'dir; üst yapının arkası dönerken bu yay boyunca hiçbir engel olmamalıdır.",
+        "Ayaklar tam açıkken taban yaklaşık 9,35 m boyunda ve 8,09 m enindedir; Liebherr'in VarioBase sistemi dar alanda farklı ayak açıklıklarıyla çalışmaya izin verir, ama değerler düşer."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Yol izni gerekir mi?"
+    },
+    {
+      "type": "p",
+      "text": "Evet. <a href=\"https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Trafik/KanunYonetmelik/128MaddeDegisiklik.pdf\">Karayolları Trafik Yönetmeliği'nin 128. maddesi</a> azami genişliği 2,55 m, yüksekliği 4 m, otobüs dışındaki motorlu araçlarda uzunluğu 12 m, tek dingil ağırlığını tahriksiz dingilde 10, tahrikli dingilde 11,5 ton olarak sayar. LTM 1230-5.1 yaklaşık 3 m genişliğinde, 15,8 m uzunluğunda ve dingil başına 12 ton yüktedir. Aynı maddenin (h) bendi, bu sınırlardan en az birine uymayan araç ve iş makinelerinin yüksüz olarak trafiğe çıkışı için Karayolları Genel Müdürlüğü'nden özel izin belgesi alınmasını şart koşar. Taşınacak yük de bölünemiyor ve sınırları aşıyorsa (g) bendine göre ayrı bir özel yük taşıma izin belgesi gerekir; bu belge yükü taşıyan nakliyecinin işidir. Vincin izni ve güzergâhı bizim planımızdadır; sizden istediğimiz, sahaya giden son kilometrenin, köprü, viyadük ve dönüşlerin bilgisidir."
+    },
+    {
+      "type": "h2",
+      "text": "Hangi işlerde 200 ton ve üstü gerekir?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Trafo ve şalt ekipmanı:</strong> ağır, kısa ama hassas bir yük; kaldırma noktaları ve ağırlık üretici belgesinden alınır.",
+        "<strong>GES sahaları:</strong> trafo köşkleri ve inverter istasyonları; ara yollar dar olduğunda vinç uzak bir noktadan çalışır.",
+        "<strong>RES sahaları:</strong> bakımda parça değişimi ya da montajda yardımcı vinç. Rüzgâr yüzeyi büyük parçalarda tablodaki değer düşürülür.",
+        "<strong>Maden ve santral ekipmanı:</strong> Yatağan ve Milas çevresindeki tesislerde kırıcı, değirmen parçası, konveyör ve tank.",
+        "<strong>Büyük tekneler:</strong> Güllük ve Bodrum'da rıhtımdan uzak mesafeye kaldırma; rıhtım taşıma bilgisi ve izin marina işletmesinden alınır."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Rüzgâr bu sınıfta ayrıca önemlidir. Liebherr'in notlarına göre tablolar en az 9 m/s (33 km/h) rüzgâr ve ton başına 1 m² yük yüzeyi kabulüyle hesaplanır; yüzeyi daha büyük yüklerde tablodaki değer düşürülmelidir. Kıyıda ve açık arazide bu yüzden işi rüzgâr tahminine göre planlarız. Bir yük iki vinçle birlikte kaldırılacaksa <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği</a> operatörler arasında eşgüdüm sağlanmasını ister; bu da kaldırma planına yazılır."
+    },
+    {
+      "type": "h2",
+      "text": "200 ton mu, bir altı mı, bir üstü mü?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Örnek iş",
+        "100 t sınıfı",
+        "230 t sınıfı",
+        "Karar"
+      ],
+      "rows": [
+        [
+          "25 t yük, 20 m",
+          "11,3 t – yetmez",
+          "31,9 t – yeter",
+          "200 ton sınıfı"
+        ],
+        [
+          "15 t yük, 30 m",
+          "5,6 t – yetmez",
+          "17,3 t – sınırda",
+          "Kanca ve sapanla pay kalmıyorsa bir üst sınıf"
+        ],
+        [
+          "8 t yük, 40 m",
+          "3,2 t – yetmez",
+          "10,7 t – yeter",
+          "200 ton sınıfı"
+        ],
+        [
+          "60 t yük, 12 m",
+          "24,5 t – yetmez",
+          "57,1 t – yetmez",
+          "Bir üst sınıf ya da vinci yaklaştırmak"
+        ],
+        [
+          "20 t yük, 10 m",
+          "30,0 t – yeter",
+          "68,1 t – fazla",
+          "100 ton sınıfı yeterli"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Daha küçük ve yakın işler için <a href=\"/blog/dogru-vinc-secimi.html\">doğru vinç seçimi</a> yazımıza bakabilirsiniz; büyük vinci gereksiz yere çağırmak hem maliyeti hem saha hazırlığını büyütür."
+    },
+    {
+      "type": "h2",
+      "text": "Fiyatı neler belirler?"
+    },
+    {
+      "type": "p",
+      "text": "Sabit fiyat listemiz yok; fiyatı işi ve sahayı gördükten sonra net söyleriz. Bu sınıfta belirleyici olanlar: vinç sınıfı, karşı ağırlığı taşıyan araç sayısı, yol izni ve güzergâh, kurulum ve söküm süresi, zemin hazırlığı ve plaka ihtiyacı, rüzgâr nedeniyle bekleme ihtimali ve tesis içi izinler."
+    },
+    {
+      "type": "h2",
+      "text": "Ağır kaldırma için hangi bilgileri göndermelisiniz?"
+    },
+    {
+      "type": "p",
+      "text": "WhatsApp'tan ya da e-postayla şunları gönderin:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "<strong>Yük:</strong> ne olduğu, ağırlığı (etiket, katalog ya da irsaliye fotoğrafı) ve ölçüleri; kaldırma noktaları varsa onların fotoğrafı.",
+        "<strong>Mesafe:</strong> vincin durabileceği yerden yükün ineceği noktaya yatay mesafe. Metreyle ölçemiyorsanız haritada iki noktayı işaretleyin.",
+        "<strong>Yükseklik ve engeller:</strong> yükün çıkacağı kot, aradaki duvar, çatı, ağaç ve elektrik hatları.",
+        "<strong>Saha:</strong> giriş yolunun, kapının, vincin duracağı zeminin ve ayakların açılacağı alanın fotoğrafı ya da kısa videosu.",
+        "<strong>Konum ve gün:</strong> Google Haritalar konumu ve çalışmak istediğiniz gün; yol kapatma gerekiyorsa onu da yazın."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ağır işlerde bunlara ek olarak yükün üretici belgesini (ağırlık, ağırlık merkezi, kaldırma noktaları) ve tesisin zemin bilgisini isteriz. Gerekirse önce sahaya gelip kurulum noktasını birlikte seçeriz. Genel süreç için <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> ve Yatağan çevresindeki işler için <a href=\"/bolgeler/yatagan-vinc-kiralama.html\">Yatağan vinç kiralama</a> sayfalarımıza bakabilirsiniz."
+    },
+    {
+      "type": "p",
+      "text": "Vinci kiralayan da tamir eden de biziz: tesisinizdeki kendi vinçleriniz için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri ve revizyon</a> hizmetimiz de var."
+    },
+    {
+      "type": "callout",
+      "text": "Yükün belgesini, vince olan mesafeyi ve sahaya giden yolun bilgisini gönderin; vinç sınıfını, karşı ağırlık nakliyesini ve izin takvimini birlikte çıkaralım."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "200 tonluk vinç 30 metrede kaç ton kaldırır?",
+      "a": "Liebherr LTM 1230-5.1'in tablosunda 72 ton karşı ağırlıkla 17,3 ton yazar; aynı mesafede 100 ton sınıfındaki GMK4100L-2 için değer 5,6 tondur. Değerler kanca bloğu ve sapanları da kapsar."
+    },
+    {
+      "q": "Karşı ağırlık için kaç araç gelir?",
+      "a": "Karşı ağırlığın ne kadarının gerektiğine ve kamyonların taşıma sınırlarına bağlıdır. LTM 1230-5.1 yola karşı ağırlıksız çıkar; 72 tonun tamamı gerekiyorsa plakalar birkaç araçla gelir. Sayıyı kaldırma planından sonra söyleriz."
+    },
+    {
+      "q": "Vincin yola çıkması için kimden izin alınır?",
+      "a": "Ölçü ya da ağırlık sınırlarını aşan araç ve iş makineleri için Karayolları Genel Müdürlüğü'nden özel izin belgesi alınır. Vincin izni bizim planımızdadır; bölünemeyen ağır yükün kendi taşıma izni ise nakliyecinin işidir."
+    },
+    {
+      "q": "Ayaklar için ne kadar alan gerekir?",
+      "a": "LTM 1230-5.1'de ayaklar tam açıkken yaklaşık 9,35 × 8,09 m. Buna karşı ağırlık kamyonlarının yanaşma alanı ve üst yapının dönüş boşluğu eklenir. Dar sahalarda farklı ayak açıklıklarıyla çalışılabilir ama kapasite düşer."
+    },
+    {
+      "q": "Rüzgârda kaldırma yapılır mı?",
+      "a": "Vincin kılavuzundaki rüzgâr sınırı aşılmadıkça. Liebherr tabloları en az 9 m/s rüzgâr ve ton başına 1 m² yük yüzeyiyle hesaplar; panel ya da kanat gibi geniş yüzeyli yüklerde değer düşürülür ve gerekirse iş ertelenir."
+    },
+    {
+      "q": "Bodrum'da yazın ağır kaldırma yapılabilir mi?",
+      "a": "15 Mayıs–15 Ekim arasında turistik yörelerde ağır nakliyat, hafriyat ve harçlı inşaat faaliyetleri kısıtlanır. Yaz döneminde yapılacak bir iş için önce kaymakamlığa danışılır; mümkünse iş sezon dışına planlanır."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "LTM 1230-5.1 Technical Data (m/t)",
+      "publisher": "Liebherr-Werk Ehingen",
+      "url": "https://assets-cdn.liebherr.com/versions/019f02b1-857e-7f21-817b-2c3b6ba807f5/original/liebherr-270-ltm-1230-5-1-td-270-02-defisr04-2021.pdf"
+    },
+    {
+      "title": "Mobile crane LTM 1230-5.1 ürün sayfası",
+      "publisher": "Liebherr",
+      "url": "https://www.liebherr.com/en-us/mobile-and-crawler-cranes/mobile-cranes/ltm-mobile-cranes/ltm-1230-5-1-4407351"
+    },
+    {
+      "title": "Grove GMK4100L-2 Product Guide (metrik)",
+      "publisher": "Manitowoc Cranes",
+      "url": "https://www.manitowoc.com/media/15987/download"
+    },
+    {
+      "title": "GROVE GMK5250XL-1 ürün sayfası",
+      "publisher": "Manitowoc Cranes",
+      "url": "https://www.manitowoc.com/grove/all-terrain-cranes/gmk5250xl-1"
+    },
+    {
+      "title": "Karayolları Trafik Yönetmeliği 128. madde: Araçların ölçü ve ağırlıkları",
+      "publisher": "Karayolları Genel Müdürlüğü",
+      "url": "https://www.kgm.gov.tr/SiteCollectionDocuments/KGMdocuments/Trafik/KanunYonetmelik/128MaddeDegisiklik.pdf"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (T.C. Cumhurbaşkanlığı)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "İnşaat yasakları hakkında önemli duyuru",
+      "publisher": "Muğla İl Kültür ve Turizm Müdürlüğü",
+      "url": "https://mugla.ktb.gov.tr/TR-397558/insaat-yasaklari-hakkinda-onemli-duyuru.html"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-kiralama.html",
+    "/bolgeler/yatagan-vinc-kiralama.html",
+    "/bolgeler/gulluk-vinc-kiralama.html",
+    "/blog/dogru-vinc-secimi.html",
+    "/blog/vincle-calisirken-is-guvenligi.html"
+  ]
+}

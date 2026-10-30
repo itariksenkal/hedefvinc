@@ -1,0 +1,331 @@
+{
+  "slug": "60-tonluk-vinc-kiralama",
+  "_hedef": "60 tonluk vinç kiralama / 60 tonluk vinç kaç ton kaldırır / 60 ton mobil vinç bodrum muğla",
+  "title": "60 Tonluk Vinç Kiralama: Uzun Bom, Uzak Mesafe, Ağır Yük",
+  "h1": "60 Tonluk Vinç Kiralama: 48-50 m Bomla Hangi Mesafede Kaç Ton Kalkar?",
+  "desc": "60 tonluk vinç kaç metrede kaç ton kaldırır? Liebherr LTM 1060-3.1 ve Tadano AC 3.060-1 yük tablolarıyla kapasite, karşı ağırlık, ayak tabanı ve seçim.",
+  "category": "Vinç Kiralama",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "cta": "kiralama",
+  "image": "saha-mobil-vinc.jpg",
+  "imageAlt": "Yüksek apartmanların yanındaki şantiyede sarı bir mobil vinç ve Hedef Vinç yazılı kamyona monte vinç, kırmızı çelik çatı konstrüksiyonunun yanında çalışıyor; önde bir işçi",
+  "kisaCevap": "60 tonluk vinç, yükün uzakta ya da yüksekte olduğu işlerde seçilir. Örneğin Liebherr LTM 1060-3.1, ayakları tam açık ve 12,8 t karşı ağırlıkla 20,7 m bomda 10 m'de 15,9 ton, 48 m bomla 20 m'de 4,9 ton, 30 m'de 2,2 ton kaldırır. Tam karşı ağırlık sahaya ayrıca gelebilir ve geniş bir ayak tabanı gerekir. Yükü, mesafeyi ve kurulum alanının fotoğrafını gönderin; uygun vinci operatörüyle biz planlayalım.",
+  "cikarimlar": [
+    "60 tonluk vinç 10 m'de tipik olarak 15-16 ton kaldırır.",
+    "Asıl farkı 48-50 m bomla 20-30 m mesafeye ulaşmasıdır.",
+    "Ayak tabanı ve dönüş payı için yaklaşık 7,5 m × 6,5 m düz alan gerekir.",
+    "Uzun bomda kapasite, kısa bomdakinin küçük bir kısmına iner.",
+    "Kesin seçim işe gelecek vincin kendi yük tablosuyla yapılır."
+  ],
+  "intro": "Yamaçtaki bir villaya yoldan 25 metre öteden prefabrik eleman, Bodrum'da bir otel inşaatında çatıya ağır ekipman, Güllük'te rıhtımdan büyük bir tekne ya da Yatağan'da bir tesiste uzun bir kiriş: yük ağırlaştığında ya da vincin yaklaşamadığı yerdeyse 60 tonluk sınıf devreye girer. Bu yazı bu sınıfı düşünenler için iki üreticinin resmî yük tablolarını, karşı ağırlığın ve ayak tabanının sahada ne gerektirdiğini ve bir alt sınıfla nasıl karşılaştırılacağını anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "60 tonluk vinç kaç metrede kaç ton kaldırır?"
+    },
+    {
+      "type": "p",
+      "text": "60 tonu yalnızca 2-3 m'de ve özel donanımla kaldırır; 10 m'de bu sınıfın kapasitesi tipik olarak 15-16 tondur. Asıl farkı uzun bomudur. Örnek olarak Liebherr'in üç akslı LTM 1060-3.1 modelini aldık. Üreticinin Aralık 2025 tarihli <a href=\"https://assets-cdn.liebherr.com/versions/0a2bf980-365f-43a7-a1a0-1f361f9be062/original/liebherr-250-ltm-1060-3.1-td-250-04-defisr12-2025.pdf\">teknik föyüne</a> göre teleskopik bom 10,3 m'den 48 m'ye uzanır, karşı ağırlık 12,8 t'ye kadar çıkar ve yük tabloları EN 13000'e göre hesaplanmıştır."
+    },
+    {
+      "type": "h2",
+      "text": "Mesafeye göre kapasite tablosu (LTM 1060-3.1)"
+    },
+    {
+      "type": "p",
+      "text": "Değerler ayaklar tam açık, 12,8 t karşı ağırlık ve 360 derece dönüş tablosundan alınmıştır. Kanca bloğu ve sapanlar yüke dahildir. Her makinenin kendi yük tablosu geçerlidir; bu tablo sınıfın davranışını göstermek içindir."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Yarıçap",
+        "10,3 m bom",
+        "20,7 m bom",
+        "34,6 m bom",
+        "48 m bom"
+      ],
+      "rows": [
+        [
+          "3 m",
+          "42,3 t",
+          "34,1 t",
+          "–",
+          "–"
+        ],
+        [
+          "5 m",
+          "34,2 t",
+          "31,1 t",
+          "14,8 t",
+          "–"
+        ],
+        [
+          "8 m",
+          "–",
+          "21,3 t",
+          "14,8 t",
+          "6,1 t"
+        ],
+        [
+          "10 m",
+          "–",
+          "15,9 t",
+          "13,3 t",
+          "6,3 t"
+        ],
+        [
+          "14 m",
+          "–",
+          "9,5 t",
+          "9,3 t",
+          "5,9 t"
+        ],
+        [
+          "20 m",
+          "–",
+          "–",
+          "5,5 t",
+          "4,9 t"
+        ],
+        [
+          "30 m",
+          "–",
+          "–",
+          "2,8 t",
+          "2,2 t"
+        ],
+        [
+          "40 m",
+          "–",
+          "–",
+          "–",
+          "0,9 t"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Tablonun en önemli dersi şu: 48 m bomla vinç 10 m'de bile 6,3 ton kaldırır, çünkü uzun bomun kendi ağırlığı kapasiteden yer. Bu yüzden iş, gereken en kısa bomla planlanır; bomu uzatmak yalnızca mesafe ve yükseklik gerektirdiğinde yapılır."
+    },
+    {
+      "type": "h2",
+      "text": "İkinci örnek: Tadano AC 3.060-1"
+    },
+    {
+      "type": "p",
+      "text": "Aynı sınıftan Tadano AC 3.060-1'in <a href=\"https://mediahub.tadano.com/m/3b7459c9dc3e94f6/original/doc_tadano_AC3060-1_datasheet_metric_en_de_fr_it_es_pt_ru.pdf\">teknik föyüne</a> de baktık. Üç akslı bu vincin bomu 10,4 m'den 50 m'ye uzanır; aşağıdaki değerler 12,1 t karşı ağırlık, 6,90 m × 6,50 m ayak tabanı ve 360 derece dönüş tablosundandır."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Yarıçap",
+        "20,9 m bom",
+        "38,4 m bom",
+        "50 m bom"
+      ],
+      "rows": [
+        [
+          "10 m",
+          "15,3 t",
+          "11,4 t",
+          "6,1 t"
+        ],
+        [
+          "14 m",
+          "9,2 t",
+          "8,4 t",
+          "5,8 t"
+        ],
+        [
+          "20 m",
+          "–",
+          "5,2 t",
+          "4,6 t"
+        ],
+        [
+          "30 m",
+          "–",
+          "2,4 t",
+          "1,9 t"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "İki makinenin değerleri birbirine yakındır; bu da sınıf içinde marka farkından çok bom uzunluğunun, karşı ağırlığın ve ayak tabanının belirleyici olduğunu gösterir."
+    },
+    {
+      "type": "h2",
+      "text": "Bölgemizde bu sınıf hangi işlerde gerekir?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Yamaçtaki villalarda vincin yoldan kurulduğu, yükün evin üzerinden 20-30 m öteye verildiği işler.",
+        "Otel ve site inşaatlarında çatıya soğutma grubu, jeneratör ve ağır çelik eleman çıkarma.",
+        "Güllük ve Bodrum'da rıhtımdan büyük teknelerin kaldırılıp indirilmesi.",
+        "Yatağan ve Milas'taki tesislerde uzun kiriş, tank ve büyük makinelerin yerleştirilmesi."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu işlerin ortak noktası, vincin yüke yaklaşamamasıdır. Kurulum noktası ile yükün ineceği yer arasındaki mesafe büyüdükçe, ağırlığı küçük bir yük bile büyük vinç gerektirebilir."
+    },
+    {
+      "type": "h2",
+      "text": "Karşı ağırlık ve ayak tabanı sahada ne demek?"
+    },
+    {
+      "type": "p",
+      "text": "Liebherr föyüne göre LTM 1060-3.1 karayolunda aks başına 12 t ile yaklaşık 5 t karşı ağırlık taşıyarak 36 ton gelir; tam 12,8 t karşı ağırlıkla şantiye içinde 46 tona çıkar. Yani tam karşı ağırlığın bir kısmı sahaya ayrıca getirilebilir. Araç genişliği 2,55 m'dir; ayaklar tam açıkken yanlara yaklaşık 6,3 m, boyuna yaklaşık 7,35 m'lik bir taban oluşur ve üst yapının arkası yaklaşık 3,5 m'lik bir yarıçap süpürür. Föyde verilen en yüksek ayak kuvveti 445 kN'dir (yaklaşık 46 t)."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Kurulum için yaklaşık 7,5 m × 6,5 m düz ve sağlam bir alan, arkada dönüş payı ve karşı ağırlığı getiren aracın yanaşacağı yer gerekir.",
+        "Ayak altına geniş plaka konur; dolgu, rögar, menfez ve istinat duvarı arkası kullanılmaz.",
+        "Uzun bomla çalışırken rüzgâr ve havai hatlar büyük önem taşır; kıyıda kaldırmayı sakin saate planlarız.",
+        "Bodrum'un dar köy yollarına bu sınıf giremez; çoğu zaman ana yolda ya da boş bir parselde kurulur ve mesafe bomla aşılır."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bodrum'daki kurulum noktası seçimini <a href=\"/bolgeler/bodrum-vinc-kiralama.html\">Bodrum vinç kiralama</a> sayfamızda, büyük teknelerin karaya alınmasını <a href=\"/blog/kislik-tekne-karaya-alma.html\">kışlık tekne karaya alma</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Bu sınıf mı, bir altı mı?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Yük ve mesafe",
+        "Önerimiz",
+        "Neden"
+      ],
+      "rows": [
+        [
+          "4-6 t, 14-18 m",
+          "50 tonluk vinç",
+          "Daha küçük kurulum alanı yeterli"
+        ],
+        [
+          "10-15 t, 10 m civarı",
+          "60 tonluk vinç",
+          "50 tonluk vinç bu yükte sınıra yaklaşır"
+        ],
+        [
+          "4-5 t, 20 m; 2 t, 30 m",
+          "60 tonluk vinç",
+          "Uzun bomun gerektiği aralık"
+        ],
+        [
+          "1-2 t, 35-40 m",
+          "Daha büyük sınıf",
+          "60 tonluk vinç burada 1 tonun altına iner"
+        ],
+        [
+          "İnsan yükseğe çıkacak",
+          "Sepetli platform",
+          "Vinçle insan kaldırılmaz"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bir alt sınıfın tablosunu <a href=\"/blog/50-tonluk-vinc-kiralama.html\">50 tonluk vinç kiralama</a> yazımızda verdik. Yüksekte çalışacak biri varsa <a href=\"/hizmetler/sepetli-platform-manlift-kiralama.html\">sepetli platform</a> gönderiyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "Kaldırma planı neden şart?"
+    },
+    {
+      "type": "p",
+      "text": "Bu sınıfta yükler ağır, mesafeler uzundur; plansız bir kaldırma hem yükü hem de çevreyi riske atar. Planda yükün ağırlığı ve ağırlık merkezi, sapan ve traverse seçimi, vincin konumu, bom uzunluğu, yarıçap, kapasite oranı, rüzgâr sınırı ve yükün rotası yazılır. Sahada tek bir işaretçi bulunur ve yük kimsenin üzerinden geçmez. Kurallarımızı <a href=\"/blog/vincle-calisirken-is-guvenligi.html\">vinçle çalışırken iş güvenliği</a> yazımızda topladık."
+    },
+    {
+      "type": "h2",
+      "text": "Fiyatı ne belirler?"
+    },
+    {
+      "type": "p",
+      "text": "Sabit fiyat listemiz yok; işi gördükten sonra net söyleriz. Belirleyici olanlar: gereken bom ve karşı ağırlık, karşı ağırlığın ayrıca taşınıp taşınmayacağı, kurulum süresi ve iş günü sayısı, Milas'tan sahaya mesafe, yol kapatma ya da liman izni, özel sapan ve traverse ihtiyacı ve rüzgâr için yedek gün."
+    },
+    {
+      "type": "h2",
+      "text": "Nasıl sipariş verilir?"
+    },
+    {
+      "type": "p",
+      "text": "WhatsApp'tan şunları gönderin:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Yükün ne olduğu, sapan dahil ağırlığı, ölçüleri ve kaldırma noktaları; varsa üretici belgesi.",
+        "Vincin kurulabileceği nokta ile yükün ineceği yer arasındaki yatay mesafe ve yükseklik; aradaki bina ya da ağaçların yüksekliği.",
+        "Kurulum alanının, girişin ve zeminin fotoğrafları; havai hatlar.",
+        "Konum pini, tarih ve gereken izinler."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu sınıftaki işlerde çoğu zaman yerinde bakarız. İhtiyacınız olan tonajda operatörlü vinci biz sağlarız; kaldırma planı ve sapan seçimi bizim işimizdir. Vinci kiralayan da tamir eden de biziz: hidrolik, elektrik ve yük moment sınırlayıcı arızalarını kendi atölyemizde onarıyoruz. Ayrıntılar <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> sayfamızda."
+    },
+    {
+      "type": "callout",
+      "text": "Yükün ağırlığını, mesafesini ve kurulum alanının fotoğraflarını gönderin; hangi bom ve karşı ağırlıkla çalışılacağını ve 60 tonluk vincin yetip yetmeyeceğini birlikte netleştirelim."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "60 tonluk vinç 30 metrede kaç ton kaldırır?",
+      "a": "Örnek modellerde 2 ton civarında: Liebherr LTM 1060-3.1 48 m bomla 30 m'de 2,2 ton, Tadano AC 3.060-1 50 m bomla 1,9 ton kaldırır. Kesin değer işe gelen vincin tablosundan okunur."
+    },
+    {
+      "q": "60 tonluk vinç için ne kadar alan gerekir?",
+      "a": "Örnek modelde ayaklar tam açıkken yaklaşık 6,3 m × 7,35 m'lik bir taban oluşur; buna plakalar, arkadaki dönüş payı ve karşı ağırlığı getiren aracın yeri eklenir. Fotoğraflara bakıp kurulum noktasını birlikte seçeriz."
+    },
+    {
+      "q": "Karşı ağırlık neden ayrı geliyor?",
+      "a": "Karayolunda aks yükü sınırı vardır. Örnek modelde vinç yolda yaklaşık 5 t karşı ağırlıkla 36 ton gelir; 12,8 t'ye tamamlamak için kalan parçalar ayrıca taşınabilir. Bu, kurulum süresine ve plana eklenir."
+    },
+    {
+      "q": "60 tonluk vinç ile tekne kaldırılır mı?",
+      "a": "Teknenin ağırlığına ve vincin rıhtımda kurulabileceği noktaya bağlıdır. Teknenin belgelerindeki ağırlığa yakıt, su ve ekipman eklenir; sapan ve traversle birlikte vincin o mesafedeki kapasitesiyle karşılaştırılır."
+    },
+    {
+      "q": "Uzun bom neden kapasiteyi düşürür?",
+      "a": "Bomun kendi ağırlığı ve ağırlık merkezinin uzaklaşması, kaldırılabilecek yükten yer. Örnek modelde 10 m'de 20,7 m bomla 15,9 ton kalkarken 48 m bomla 6,3 ton kalkar."
+    },
+    {
+      "q": "Yaz aylarında Bodrum'da 60 tonluk vinç çalışabilir mi?",
+      "a": "15 Mayıs–15 Ekim arasında turistik yörelerde ağır nakliyat ve inşaat faaliyetlerine kısıtlama uygulanır. Kapsam ve istisnaları kaymakamlığa sorun; mümkünse ağır kaldırmaları bu dönemin dışına planlayın."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "LTM 1060-3.1 Mobile Crane – Technical Data (Technische Daten), 12/2025",
+      "publisher": "Liebherr",
+      "url": "https://assets-cdn.liebherr.com/versions/0a2bf980-365f-43a7-a1a0-1f361f9be062/original/liebherr-250-ltm-1060-3.1-td-250-04-defisr12-2025.pdf"
+    },
+    {
+      "title": "AC 3.060-1 – Technical Data, Metric",
+      "publisher": "TADANO Ltd.",
+      "url": "https://mediahub.tadano.com/m/3b7459c9dc3e94f6/original/doc_tadano_AC3060-1_datasheet_metric_en_de_fr_it_es_pt_ru.pdf"
+    },
+    {
+      "title": "İnşaat Yasakları Hakkında Önemli Duyuru",
+      "publisher": "T.C. Muğla Valiliği İl Kültür ve Turizm Müdürlüğü",
+      "url": "https://mugla.ktb.gov.tr/TR-397558/insaat-yasaklari-hakkinda-onemli-duyuru.html"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-kiralama.html",
+    "/bolgeler/bodrum-vinc-kiralama.html",
+    "/hizmetler/sepetli-platform-manlift-kiralama.html",
+    "/blog/kislik-tekne-karaya-alma.html",
+    "/blog/vincle-calisirken-is-guvenligi.html"
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "slug": "50-tonluk-vinc-kiralama",
+  "_hedef": "50 tonluk vinç kiralama / 50 tonluk vinç kaç ton kaldırır / 50 ton mobil vinç muğla",
+  "title": "50 Tonluk Vinç Kiralama: Kapasite, Ayak ve Rüzgâr",
+  "h1": "50 Tonluk Vinç Kiralama: Hangi Mesafede Kaç Ton, Ayaklar ve Rüzgâr Ne Değiştirir?",
+  "desc": "50 tonluk vinç kaç metrede kaç ton kaldırır? Liebherr ve Sany yük tablolarıyla kapasite, yarım ayak farkı, rüzgâr sınırı ve Muğla'daki işler için seçim.",
+  "category": "Vinç Kiralama",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "cta": "kiralama",
+  "image": "saha-mobil-vinc.jpg",
+  "imageAlt": "Yüksek apartmanların yanındaki şantiyede sarı bir mobil vinç ve Hedef Vinç yazılı kamyona monte vinç, kırmızı çelik çatı konstrüksiyonunun yanında çalışıyor; önde bir işçi",
+  "kisaCevap": "50 tonluk vinç, 10-20 m mesafede 4-13 tonluk yükler için kullanılan sınıftır. Örneğin Liebherr LTM 1050-3.1, ayakları tam açık ve 9 t karşı ağırlıkla 22 m bomda 10 m'de 13,4 ton, 38 m bomda 20 m'de 4,3 ton kaldırır. Ayaklar yarım açılırsa kapasite yarıdan fazla düşebilir, rüzgâr da sınırı aşağı çeker. Yükü, mesafeyi ve sahanın fotoğrafını gönderin; uygun vinci operatörüyle biz getirelim.",
+  "cikarimlar": [
+    "50 tonluk vinç 10 m'de tipik olarak 13-14 ton civarında kaldırır.",
+    "Ayaklar yarım açıldığında aynı mesafedeki kapasite yarıdan fazla düşebilir.",
+    "Kıyıdaki rüzgâr, uzun bomla yapılan kaldırmalarda belirleyici olabilir.",
+    "Üç akslı 50 tonluk vinç yolda karşı ağırlığının büyük kısmını kendisi taşıyabilir.",
+    "Kesin seçim işe gelecek vincin kendi yük tablosuyla yapılır."
+  ],
+  "intro": "Yatağan'da bir tesise pompa ve motor, Didim'de bir sitenin çatısına klima santrali, Bodrum'da bir otel inşaatında çelik konstrüksiyon: yük ağırlaşıp mesafe 15-20 metreye uzadığında 40 tonluk vinç sınıra yaklaşır ve 50 tonluk sınıf devreye girer. Bu yazı, bu sınıfı düşünen müteahhitler ve tesis yöneticileri için iki üreticinin resmî yük tablolarını, ayak açıklığının ve rüzgârın kapasiteyi nasıl değiştirdiğini ve sahada neye dikkat edileceğini anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "50 tonluk vinç kaç metrede kaç ton kaldırır?"
+    },
+    {
+      "type": "p",
+      "text": "50 tonu yalnızca 3 m civarında ve özel donanımla kaldırır; 10 m'de bu sınıfın kapasitesi tipik olarak 13-14 tondur. Bu sınıfın iki örneğine baktık. Birincisi Liebherr'in üç akslı arazi-yol vinci LTM 1050-3.1. Üreticinin <a href=\"https://assets-cdn.liebherr.com/versions/e57b2c0c-a794-4463-bfdc-40af69903c8d/original/liebherr-185-ltm-1050-3-1-td-185-02-defisr01-2023.pdf\">teknik föyüne</a> göre bomu 11,4 m'den 38 m'ye uzanır, en fazla 9 t karşı ağırlıkla çalışır ve 42 tonun üzerindeki kaldırmalar yalnızca ek makara bloğuyla yapılabilir."
+    },
+    {
+      "type": "h2",
+      "text": "Mesafeye göre kapasite tablosu (LTM 1050-3.1)"
+    },
+    {
+      "type": "p",
+      "text": "Değerler ayaklar tam açık, 9 t karşı ağırlık ve 360 derece dönüş tablosundan alınmıştır. Kanca bloğunun ağırlığı yüke dahildir. Her makinenin kendi yük tablosu geçerlidir; bu tablo sınıfın davranışını göstermek içindir."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Yarıçap",
+        "11,4 m bom",
+        "22 m bom",
+        "38 m bom"
+      ],
+      "rows": [
+        [
+          "3 m",
+          "42,0 t",
+          "24,6 t",
+          "–"
+        ],
+        [
+          "5 m",
+          "30,6 t",
+          "24,2 t",
+          "–"
+        ],
+        [
+          "8 m",
+          "16,8 t",
+          "18,6 t",
+          "7,0 t"
+        ],
+        [
+          "10 m",
+          "–",
+          "13,4 t",
+          "6,5 t"
+        ],
+        [
+          "14 m",
+          "–",
+          "7,8 t",
+          "5,6 t"
+        ],
+        [
+          "18 m",
+          "–",
+          "5,2 t",
+          "4,8 t"
+        ],
+        [
+          "22 m",
+          "–",
+          "–",
+          "3,7 t"
+        ],
+        [
+          "30 m",
+          "–",
+          "–",
+          "1,9 t"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Föye göre LTM 1050-3.1 karayolunda üç aksın her birine 12 t düşecek şekilde 7 t karşı ağırlıkla toplam 36 ton gelir; tam 9 t karşı ağırlıkla şantiye içinde 40 tona çıkar. Araç genişliği 2,55 m, şasi boyu yaklaşık 11,6 m'dir; ayaklar tam açıkken yanlara 6,4 m, boyuna yaklaşık 7,15 m'lik bir taban oluşur. Föyde verilen en yüksek ayak kuvveti 420 kN'dir (yaklaşık 43 t), bu da geniş ayak plakasını zorunlu kılar."
+    },
+    {
+      "type": "h2",
+      "text": "Ayaklar yarım açılırsa ne olur?"
+    },
+    {
+      "type": "p",
+      "text": "İkinci örneğimiz Sany'nin dört akslı kamyon tipi vinci STC500T5. Üreticinin <a href=\"https://sanyglobal-img.sany.com.cn/sanyglobal-com-prd/prod/20251230/Sany-brochure-STC500T5-20250620-EN-CN_213613.pdf\">resmî föyü</a> hem ayaklar tam açık (6,05 m × 7,4 m) hem de yarım açık durum için ayrı yük tabloları verir; karşı ağırlık 4,8 t'dir. Karşılaştırma, dar sahada ayak açıklığının neden ilk soru olduğunu gösteriyor:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Yarıçap ve bom",
+        "Ayaklar tam açık",
+        "Ayaklar yarım açık"
+      ],
+      "rows": [
+        [
+          "5 m, 11,5 m bom",
+          "42,0 t",
+          "25,0 t"
+        ],
+        [
+          "8 m, 11,5 m bom",
+          "21,5 t",
+          "9,5 t"
+        ],
+        [
+          "10 m, 25,9 m bom",
+          "14,2 t",
+          "6,2 t"
+        ],
+        [
+          "14 m, 25,9 m bom",
+          "7,4 t",
+          "2,8 t"
+        ],
+        [
+          "20 m, 44,5 m bom",
+          "4,2 t",
+          "1,5 t"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Aynı vinç, aynı bom ve aynı mesafede ayaklar yarım açıldığında 10 m'deki kapasite 14,2 tondan 6,2 tona iner. Föye göre STC500T5'in boyu 13,9 m, genişliği 2,8 m, toplam ağırlığı 42 ton ve en küçük dönüş yarıçapı 12 m'dir; dar sokak bu vinç için uygun değildir."
+    },
+    {
+      "type": "h2",
+      "text": "Rüzgâr kapasiteyi nasıl değiştirir?"
+    },
+    {
+      "type": "p",
+      "text": "Sany föyündeki not açıktır: rüzgâr hızı 32 km/h'e kadar normal çalışılır, 33-47 km/h arasında yük, tablodaki değerin yüzde 40'ına indirilir, 48 km/h ve üzerinde bom kaldırılmaz. Liebherr ise tablolarını en az 9 m/s (33 km/h) rüzgâr ve ton başına 1 m² yük yüzeyi varsayımıyla hesaplar ve geniş yüzeyli yüklerde izin verilen rüzgârın düşürülmesini ister. Bodrum, Güllük ve Didim kıyısında öğleden sonra artan rüzgâr, cephe paneli, cam ve tekne gibi yüzeyi geniş yüklerde kaldırmayı sabaha almamızın başlıca nedenidir."
+    },
+    {
+      "type": "h2",
+      "text": "Sahada ne anlama geliyor?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bodrum yarımadası: 50 tonluk vinç dar köy yollarına ve dik site yollarına giremeyebilir; çoğu zaman ana yolda ya da boş bir parselde kurulur ve bom uzunluğuyla erişilir.",
+        "Didim siteleri: sitenin iç yolunun taşıma gücü ve döşemenin altındaki otopark ya da depo önceden sorulur.",
+        "Yatağan ve Milas'taki tesisler ve maden sahaları: zemin genellikle sağlamdır, ama bant konveyörler, borular ve havai hatlar vincin dönüş alanını sınırlar.",
+        "Güllük ve Bodrum rıhtımları: ayakların rıhtım kenarından uzak konması ve liman işletmesinin izni gerekir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bölgedeki işler için <a href=\"/bolgeler/didim-vinc-kiralama.html\">Didim vinç kiralama</a> ve <a href=\"/bolgeler/yatagan-vinc-kiralama.html\">Yatağan vinç kiralama</a> sayfalarımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Bu sınıf mı, bir üstü mü?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Yük ve mesafe",
+        "Önerimiz",
+        "Neden"
+      ],
+      "rows": [
+        [
+          "5-9 t, 8-10 m",
+          "40 tonluk vinç",
+          "Daha küçük gövde yeterli"
+        ],
+        [
+          "8-13 t, 10 m civarı ya da 4-6 t, 14-18 m",
+          "50 tonluk vinç",
+          "Bu sınıfın rahat aralığı"
+        ],
+        [
+          "5-6 t, 20 m ve ötesi",
+          "60 tonluk vinç",
+          "50 tonluk vinç bu mesafede sınıra yaklaşır"
+        ],
+        [
+          "Ayaklar yalnızca yarım açılabiliyor",
+          "Bir üst sınıf ya da başka kurulum noktası",
+          "Kapasite yarıdan fazla düşer"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bir alt sınıfın tablosunu <a href=\"/blog/40-tonluk-vinc-kiralama.html\">40 tonluk vinç kiralama</a> yazımızda verdik. Operatörlü kiralamada sorumlulukların nasıl paylaşıldığını <a href=\"/blog/operatorlu-vinc-kiralama.html\">operatörlü vinç kiralama</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Ayakların bakımı kapasiteyi neden etkiler?"
+    },
+    {
+      "type": "p",
+      "text": "Yük tablosu, ayakların tam açıldığını ve yükü kaçırmadan taşıdığını varsayar. Ayak silindirinde iç kaçak varsa vinç yük altındayken yavaşça çöker, terazi bozulur ve yük moment sınırlayıcısı yanlış ayak konumu okursa koruma da ortadan kalkar. Tek bir ayağa 40 tonu aşan kuvvetin binebildiği bu sınıfta bunun sonucu ağır olur; zemin, plaka ve silindir birlikte düşünülmelidir. Bu yüzden sahaya göndermeden önce ayak silindirlerini, çek valfleri ve ayak konum sensörlerini kontrol ediyoruz. Ayak arızalarının belirtilerini <a href=\"/blog/vinc-ayaklari-outrigger-arizasi.html\">vinç ayakları arızası</a> yazımızda anlattık; kendi vinciniz için de aynı kontrolü atölyemizde ya da sahada yapabiliriz."
+    },
+    {
+      "type": "h2",
+      "text": "Fiyatı ne belirler?"
+    },
+    {
+      "type": "p",
+      "text": "Sabit fiyat listemiz yok; işi gördükten sonra net söyleriz. Belirleyici olanlar: gereken sınıf ve karşı ağırlık, çalışma süresi, Milas'tan sahaya mesafe, yol kapatma, liman ya da tesis izni, özel sapan ve traverse ihtiyacı ve rüzgâr nedeniyle bir yedek gün ayrılıp ayrılmayacağı. Ayrıntılar <a href=\"/blog/vinc-kiralama-fiyatlari.html\">vinç kiralama fiyatları</a> yazımızda."
+    },
+    {
+      "type": "h2",
+      "text": "Nasıl sipariş verilir?"
+    },
+    {
+      "type": "p",
+      "text": "WhatsApp'tan şunları gönderin:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Yükün ne olduğu, sapan dahil ağırlığı ve ölçüleri; etiket ya da üretici belgesi.",
+        "Vincin kurulabileceği nokta ile yükün ineceği yer arasındaki yatay mesafe ve yükseklik.",
+        "Kurulum alanının, girişin ve zeminin fotoğrafları; havai hatlar ve engeller.",
+        "Konum pini, tarih ve tesis ya da liman izni gerekip gerekmediği."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Gerekirse yerinde bakarız. İhtiyacınız olan tonajda operatörlü vinci biz sağlarız; kaldırma planı ve sapan seçimi bizim işimizdir. Vinci kiralayan da tamir eden de biziz: hidrolik ve elektrik arızalarını kendi atölyemizde onarıyoruz. Ayrıntılar <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> sayfamızda."
+    },
+    {
+      "type": "callout",
+      "text": "Yükün ağırlığını, mesafesini ve kurulum alanının fotoğraflarını gönderin; ayakların tam açılıp açılamayacağını ve 50 tonluk vincin yetip yetmeyeceğini birlikte netleştirelim."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "50 tonluk vinç 20 metrede kaç ton kaldırır?",
+      "a": "Örnek aldığımız Liebherr LTM 1050-3.1, ayakları tam açık ve 9 t karşı ağırlıkla 38 m bomda 20 m'de 4,3 ton kaldırır. Sany STC500T5 ayakları tam açıkken 44,5 m bomla 20 m'de 4,2 ton kaldırır. Kesin değer işe gelen vincin tablosundan okunur."
+    },
+    {
+      "q": "Ayakları yarım açarak çalışmak güvenli mi?",
+      "a": "Üretici o konum için ayrı tablo vermişse ve yük o tablodaki değerin altındaysa evet. Ama kapasite ciddi düşer: örnek modelde 10 m'de 14,2 tondan 6,2 tona. Tablosu olmayan ayak konumunda kaldırma yapılmaz."
+    },
+    {
+      "q": "Rüzgâr kaç km/h olursa vinç durur?",
+      "a": "Sınırı her üretici kendi tablosunda verir. Örneğin Sany STC500T5 için 33-47 km/h arasında yük yüzde 40'a indirilir, 48 km/h ve üzerinde bom kaldırılmaz. Geniş yüzeyli yüklerde sınır daha da düşer."
+    },
+    {
+      "q": "50 tonluk vinç için yol izni gerekir mi?",
+      "a": "Vincin kurulacağı yer kamu yolu ya da kaldırımsa, yolun bağlı olduğu idareden izin gerekebilir. Başvuruyu genellikle iş sahibi yapar; biz kullanılacak alanı, süreyi ve vincin belgelerini veririz."
+    },
+    {
+      "q": "50 tonluk vinç mi, iki küçük vinç mi?",
+      "a": "Uzun ya da dengesiz yüklerde iki vinçle ortak kaldırma bir seçenektir, ama ayrı bir kaldırma planı ve deneyimli bir işaretçi gerektirir. Çoğu işte tek ve uygun sınıfta bir vinç daha güvenli ve basittir."
+    },
+    {
+      "q": "Yükün ağırlığını bilmiyorsam ne olur?",
+      "a": "Etiket, irsaliye ya da üretici belgesine bakın; bulamazsanız ölçülerini ve fotoğrafını gönderin. Emin olunamayan yükte bir üst sınıfı planlarız; tahminle kaldırma yapılmaz."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "LTM 1050-3.1 Mobile Crane – Technical Data (Technische Daten)",
+      "publisher": "Liebherr",
+      "url": "https://assets-cdn.liebherr.com/versions/e57b2c0c-a794-4463-bfdc-40af69903c8d/original/liebherr-185-ltm-1050-3-1-td-185-02-defisr01-2023.pdf"
+    },
+    {
+      "title": "STC500T5 Truck Crane – Product Specifications and Load Charts",
+      "publisher": "SANY",
+      "url": "https://sanyglobal-img.sany.com.cn/sanyglobal-com-prd/prod/20251230/Sany-brochure-STC500T5-20250620-EN-CN_213613.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-kiralama.html",
+    "/bolgeler/didim-vinc-kiralama.html",
+    "/bolgeler/yatagan-vinc-kiralama.html",
+    "/blog/operatorlu-vinc-kiralama.html",
+    "/blog/vinc-kiralama-fiyatlari.html"
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "slug": "10-15-tonluk-vinc-kiralama-bodrum-milas",
+  "_hedef": "10 tonluk vinç kiralama / 12 tonluk vinç / 15 tonluk vinç kiralama bodrum milas / küçük vinç kiralama",
+  "title": "10-15 Tonluk Vinç Kiralama: Bodrum'un Dar Sokakları İçin",
+  "h1": "10-15 Tonluk Vinç Kiralama: Bodrum ve Milas'ta Dar Sokak, Yokuş ve Villa Kapısı",
+  "desc": "10-15 tonluk vinç gerçekte ne kaldırır? Üretici yük tablosu, ayak genişliği ve dönüş ölçüleriyle Bodrum ve Milas'ın dar sokaklarında küçük vinç seçimi.",
+  "category": "Vinç Kiralama",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "cta": "kiralama",
+  "image": "real_ones/kabin-konteyner-yerlestirme-vinc.jpg",
+  "imageAlt": "Kırmızı teleskopik vinç bomu, taş duvarlı bir arsaya prefabrik kabin indiriyor; yanında iki kişi",
+  "kisaCevap": "10-15 tonluk vinç, etiketindeki tonajı yalnızca gövdeye çok yakın mesafede kaldırır. Örneğin 13 tonluk Kato CR-130Rf, ayakları tam açıkken 13 tonu 1,7 m'de, 12,78 m bomla 5 m'de 4,9 tonu, 10 m'de 1,8 tonu kaldırır. Bodrum'un dar sokaklarında asıl soru ayakların ne kadar açılacağıdır; ayak daralınca kapasite yarıdan fazla düşebilir. Yükün ağırlığını, mesafeyi ve sokağın fotoğrafını gönderin, uygun vinci operatörüyle biz getirelim.",
+  "cikarimlar": [
+    "Etiket tonajı yalnızca en kısa bom ve en yakın mesafe içindir.",
+    "Aynı vinçte ayak genişliği daraldıkça kaldırma kapasitesi hızla düşer.",
+    "Dar sokakta aracın boyu kadar dönüş için gereken genişlik de ölçülmelidir.",
+    "Yükün vincin duracağı yerden yatay mesafesi, ağırlığı kadar önemlidir.",
+    "Bodrum'da ağır kaldırmaları 15 Mayıs–15 Ekim kısıtlamasının dışına planlayın."
+  ],
+  "intro": "Bodrum'da villa bahçesine bir jakuzi, Gümüşlük'te taş duvarın arkasına bir kabin, Milas'ta dar bir ara sokakta çatıya çelik: bu işlerin çoğunda büyük vince değil, sokağa sığan küçük bir vince ihtiyaç vardır. Bu yazı 10-15 tonluk vinç kiralamayı düşünen villa sahipleri, ustalar ve müteahhitler için; bu sınıfın gerçekte neyi kaldırdığını bir üreticinin resmî yük tablosuyla, dar sokakta neye dikkat edileceğini de sahada baktığımız sırayla anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "10-15 tonluk vinç gerçekte kaç ton kaldırır?"
+    },
+    {
+      "type": "p",
+      "text": "Etiketteki tonajı yalnızca en kısa bomla ve gövdeye çok yakın bir mesafede kaldırır; yük uzaklaştıkça kapasite hızla düşer. Bunu somut görmek için bu sınıfın tipik bir şehir vincini, Kato'nun 13 tonluk CR-130Rf modelini örnek alıyoruz. Üreticinin <a href=\"https://www.kato-works.co.jp/eng/products/cityrange/pdf/C04801_CR-130Rf.pdf\">resmî teknik föyüne</a> göre bu vinç 13 tonu 5,3 m bomla ve 1,7 m mesafede kaldırır. Bom 24 m'ye kadar uzar, ama 24 m bomla kaldırabileceği en fazla yük 3,2 tondur."
+    },
+    {
+      "type": "p",
+      "text": "Tablodaki değerler, makinenin devrilme sınırının yüzde 75'ini geçmeyecek şekilde ISO 4305'e göre hesaplanmıştır. Yani tablodaki sayı bir güvenlik payı içerir, ama o payı kullanmak operatörün işi değildir: vincin yük moment sınırlayıcısı tablodaki değerin üstüne çıkmaya izin vermez. Kancanın ve sapanın ağırlığı da yüke dahildir."
+    },
+    {
+      "type": "h2",
+      "text": "Mesafeye ve ayak açıklığına göre kapasite tablosu"
+    },
+    {
+      "type": "p",
+      "text": "Aşağıdaki değerler Kato CR-130Rf'in 12,78 m bom için yük tablosundan alınmıştır (ilk satır 5,3 m bom). Ayaklar tam açıkken (4,75 m) değerler 360 derece dönüş için, kısmen açık ve kapalı ayak değerleri ise yükün aracın yan tarafında olduğu durum içindir. Her makinenin kendi yük tablosu geçerlidir; bu tablo yalnızca sınıfın davranışını göstermek içindir."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Yarıçap",
+        "Ayaklar tam açık (4,75 m)",
+        "Ayaklar 2,7 m",
+        "Ayaklar kapalı (1,64 m)"
+      ],
+      "rows": [
+        [
+          "1,7 m (5,3 m bom)",
+          "13,0 t",
+          "12,0 t",
+          "7,0 t"
+        ],
+        [
+          "3 m",
+          "6,0 t",
+          "6,0 t",
+          "2,7 t"
+        ],
+        [
+          "5 m",
+          "4,9 t",
+          "2,4 t",
+          "0,95 t"
+        ],
+        [
+          "6 m",
+          "4,0 t",
+          "1,7 t",
+          "0,55 t"
+        ],
+        [
+          "8 m",
+          "2,9 t",
+          "0,85 t",
+          "izin yok"
+        ],
+        [
+          "10 m",
+          "1,8 t",
+          "0,35 t",
+          "izin yok"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Tablonun Bodrum için anlamı açık: 5 m mesafede ayaklar tam açılabilirse 4,9 ton kalkan yük, ayaklar 2,7 m'de kalırsa 2,4 tona iner. Aynı vinç 24 m bomla 15 m'de 1 ton, 20 m'de yarım tonun altında kaldırır. Yani “13 tonluk vinç” 10 m ötedeki bir bahçeye 2 tonluk bir jakuziyi koyamaz."
+    },
+    {
+      "type": "h2",
+      "text": "Dar sokakta vincin ölçüleri neden önemli?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü Bodrum'da çoğu işte vinci sınırlayan yük değil, sokaktır. Aynı föye göre CR-130Rf'in toplam uzunluğu 7,47 m, genişliği 2,0 m, yüksekliği 2,87 m ve toplam ağırlığı yaklaşık 13,7 tondur. Dönüş sırasında üst yapının arkası en fazla 1,6 m dışarı taşar. Dört tekerlek dönüşte en küçük dönüş yarıçapı 3,92 m'dir; üretici 90 derecelik bir sağ dönüş için bu modda sokağın tekerlek izine göre en az 2,47 m, şasiye göre 3,49 m geniş olması gerektiğini hesaplamıştır. İki tekerlek dönüşte bu değer 3,57 m'ye çıkar."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Sokağın en dar noktası ve keskin dönüşleri: aracın girip çıkabileceği genişlik.",
+        "Villa ya da site kapısının genişliği ve üstündeki kemer, pergola veya kablo yüksekliği.",
+        "Eğim: dik yokuşta aracın terazide durması ve ayakların zemine oturması.",
+        "Ayak açılacak yer: bordür, rögar, foseptik ve yeni dolgu zemin üzerine ayak konmaz.",
+        "Yükün ineceği nokta ile vincin duracağı yer arasındaki yatay mesafe."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ayakların altına her zaman yük dağıtma plakası konur. Destek ayaklarının durumu da kapasite kadar önemlidir; sahada en sık gördüğümüz sorunları <a href=\"/blog/vinc-ayaklari-outrigger-arizasi.html\">vinç ayakları arızası</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "10-15 tonluk vinç hangi işlerde yeterli olur?"
+    },
+    {
+      "type": "p",
+      "text": "Yük hafif ve yakınsa ya da orta ağırlıkta ama vincin dibindeyse yeterlidir:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Villa bahçesine palet palet tuğla, kiremit, seramik ve demir indirme.",
+        "Çatıya kısa mesafeden çelik profil, güneş paneli ve klima dış ünitesi verme.",
+        "Bahçe duvarının hemen arkasına küçük kabin, jeneratör ya da su deposu koyma.",
+        "Dar sokakta pencere doğramaları ve cam paketlerini üst kata verme."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Yük kamyonla geliyorsa ve mesafe kısaysa çoğu zaman araç üstü vinç (hiyap) daha pratiktir; yükü kasasında getirip kendisi indirir. Hiyap sınıflarını <a href=\"/hizmetler/hiyap-kiralama.html\">hiyap kiralama</a> sayfamızda anlattık. İnsan yükseğe çıkacaksa iş vinçle değil <a href=\"/hizmetler/sepetli-platform-manlift-kiralama.html\">sepetli platformla</a> yapılır."
+    },
+    {
+      "type": "h2",
+      "text": "Bu sınıf mı, bir üstü mü?"
+    },
+    {
+      "type": "p",
+      "text": "Karar, yükün ağırlığı ile mesafenin birlikte değerlendirilmesiyle verilir. Kaba bir yön vermesi için:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Durum",
+        "Uygun seçim",
+        "Neden"
+      ],
+      "rows": [
+        [
+          "1-3 t yük, 3-6 m mesafe, dar sokak",
+          "10-15 tonluk vinç ya da hiyap",
+          "Sokağa sığar, kapasite yeter"
+        ],
+        [
+          "2-4 t yük, 8-12 m mesafe",
+          "25-30 tonluk vinç",
+          "Küçük vincin bu mesafedeki kapasitesi yetmez"
+        ],
+        [
+          "Ayaklar tam açılamıyor",
+          "Bir üst sınıf ya da başka kurulum noktası",
+          "Kısmi ayakta kapasite yarıya iner"
+        ],
+        [
+          "Yük duvarın arkasında, yükseğe ve uzağa",
+          "Daha uzun bomlu, daha büyük vinç",
+          "Erişim ve yükseklik belirleyicidir"
+        ],
+        [
+          "Yük kamyonda geliyor, mesafe kısa",
+          "Hiyap",
+          "Taşıma ve kaldırma tek araçla"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bir üst sınıfı <a href=\"/blog/dogru-vinc-secimi.html\">doğru vinç seçimi</a> yazımızda ayrıntılı karşılaştırdık. Kararsız kaldığınız işte seçimi bize bırakın: ihtiyacınız olan tonajda operatörlü vinci biz planlar ve getiririz."
+    },
+    {
+      "type": "h2",
+      "text": "Fiyatı ne belirler?"
+    },
+    {
+      "type": "p",
+      "text": "Sabit bir fiyat listemiz yok; fiyatı işi gördükten sonra net söyleriz. Fiyatı belirleyen başlıca etkenler şunlardır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Vincin sınıfı: yük ve mesafe büyüdükçe gereken makine büyür.",
+        "İşin süresi ve bekleme: tek kaldırma ile gün boyu çalışma aynı değildir.",
+        "Adres ve yol: Milas'tan Bodrum yarımadasının uç noktalarına mesafe ve sokağa erişim.",
+        "Saha hazırlığı: plaka, yol kapatma ya da yaya güvenliği için ek önlem gerekip gerekmediği.",
+        "Takvim: Bodrum'da sezon öncesi yoğunlaşan talep."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ayrıntılar için <a href=\"/blog/vinc-kiralama-fiyatlari.html\">vinç kiralama fiyatları</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Bodrum'da takvime dikkat"
+    },
+    {
+      "type": "p",
+      "text": "Muğla İl Kültür ve Turizm Müdürlüğü'nün <a href=\"https://mugla.ktb.gov.tr/TR-397558/insaat-yasaklari-hakkinda-onemli-duyuru.html\">duyurusuna</a> göre turistik yörelerde 15 Mayıs–15 Ekim arasında gürültü ve kirlilik yaratan ağır nakliyat, hafriyat ve harçlı inşaat faaliyetlerine kısıtlama getirilir; başvurular ilçelerde kaymakamlıklara yapılır. Villa inşaatındaki ağır kaldırmaları bu dönemin dışına planlamak hem izin hem de trafik açısından işi kolaylaştırır. Yamaçtaki villa işlerinin planlamasını <a href=\"/blog/bodrum-villa-insaatinda-vinc.html\">Bodrum villa inşaatında vinç</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Milas ve Bodrum'da nasıl sipariş verilir?"
+    },
+    {
+      "type": "p",
+      "text": "WhatsApp'tan şu bilgileri göndermeniz, doğru vinci ilk seferde seçmemizi sağlar:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Yükün ne olduğu ve sapan dahil yaklaşık ağırlığı; etiket ya da katalog varsa fotoğrafı.",
+        "Vincin duracağı yer ile yükün ineceği nokta arasındaki yatay mesafe ve yükseklik.",
+        "Sokağın girişi, en dar noktası ve kapının fotoğrafları; mümkünse kısa bir video.",
+        "Ayak açılacak zeminin fotoğrafı ve yakındaki rögar, foseptik, kablo gibi engeller.",
+        "Konum pini ve planladığınız tarih."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Fotoğraflar yetmezse yerinde bakarız. Vinçlerimiz operatörüyle gelir; kaldırma planı ve sapan seçimi bizim işimizdir. Vinci kiralayan da tamir eden de biziz: makinelerin bakımını Tuzla Kavşağı'ndaki kendi atölyemizde yaptığımız için sahaya bakımlı vinç gönderiyoruz. Kiralama seçenekleri için <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> ve <a href=\"/bolgeler/bodrum-vinc-kiralama.html\">Bodrum vinç kiralama</a> sayfalarımıza bakabilirsiniz."
+    },
+    {
+      "type": "callout",
+      "text": "Yükün ağırlığını, mesafeyi ve sokağın birkaç fotoğrafını gönderin; vincin sokağa girip giremeyeceğini, ayakların nereye açılacağını ve hangi sınıfın yeteceğini birlikte netleştirelim."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "10 tonluk vinç 10 metreye kaç ton kaldırır?",
+      "a": "Modele göre değişir, ama genellikle 2 tonun altındadır. Örnek aldığımız 13 tonluk Kato CR-130Rf, ayakları tam açıkken 12,78 m bomla 10 m'de 1,8 ton kaldırır. Kesin değer, işe gelecek vincin kendi yük tablosundan okunur."
+    },
+    {
+      "q": "Ayaklar tam açılmazsa vinç çalışabilir mi?",
+      "a": "Yalnızca üretici o ayak konumu için kapasite tanımlamışsa ve yük o değerin altındaysa. Örnek modelde ayaklar 2,7 m'de kaldığında 5 m'deki kapasite 4,9 tondan 2,4 tona iner. Tablosu olmayan konumda kaldırma yapılmaz."
+    },
+    {
+      "q": "Bodrum'da site içine küçük vinç girebilir mi?",
+      "a": "Çoğu zaman girer; ancak kapının genişliği, dönüşler, eğim ve kemer ya da kablo yüksekliği önceden ölçülmelidir. Site yönetiminden izin ve çalışma saatlerini de iş gününden önce netleştirin."
+    },
+    {
+      "q": "15 tonluk vinç mi, hiyap mı?",
+      "a": "Yük kamyonla geliyorsa ve mesafe kısaysa hiyap çoğu zaman yeterlidir ve tek araçla işi bitirir. Yük sahadaysa, daha uzağa ya da yükseğe verilecekse mobil vinç gerekir. Fotoğraf ve mesafeye bakıp birlikte seçeriz."
+    },
+    {
+      "q": "Yükün ağırlığını bilmiyorum, ne yapmalıyım?",
+      "a": "Ürünün etiketine, faturasına ya da üretici kataloğuna bakın; bulamazsanız ölçülerini ve fotoğrafını gönderin. Tahmini ağırlıkla değil, emin olunan ağırlıkla plan yapılır."
+    },
+    {
+      "q": "Yaz aylarında Bodrum'da vinç çalışabilir mi?",
+      "a": "15 Mayıs–15 Ekim arasında inşaat ve ağır nakliyat kısıtlaması uygulanır; kapsam ve istisnalar için kaymakamlığa danışın. Mümkünse ağır kaldırmaları kısıtlama dönemi dışına planlayın."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "CR-130Rf City Range Crane – Specifications, Rated Lifting Capacity, Minimum Path Width",
+      "publisher": "KATO WORKS CO., LTD.",
+      "url": "https://www.kato-works.co.jp/eng/products/cityrange/pdf/C04801_CR-130Rf.pdf"
+    },
+    {
+      "title": "İnşaat Yasakları Hakkında Önemli Duyuru",
+      "publisher": "T.C. Muğla Valiliği İl Kültür ve Turizm Müdürlüğü",
+      "url": "https://mugla.ktb.gov.tr/TR-397558/insaat-yasaklari-hakkinda-onemli-duyuru.html"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-kiralama.html",
+    "/hizmetler/hiyap-kiralama.html",
+    "/bolgeler/bodrum-vinc-kiralama.html",
+    "/blog/bodrum-villa-insaatinda-vinc.html",
+    "/blog/dogru-vinc-secimi.html"
+  ]
+}
