@@ -1,0 +1,238 @@
+{
+  "slug": "vinc-tamiri-fiyati-neye-gore-belirlenir",
+  "_hedef": "vinç tamiri fiyatları",
+  "title": "Vinç Tamiri Fiyatı Neye Göre Belirlenir? 6 Kalem",
+  "h1": "Vinç Tamiri Fiyatları Neye Göre Belirlenir? Kalemler ve Hızlı Teklif",
+  "desc": "Vinç tamiri fiyatları arıza tespiti, parça, işçilik, atölye ya da saha ve yola göre değişir. Hangi kalem neyi etkiler, net teklif için ne gönderilir?",
+  "category": "Vinç Tamiri",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "cta": "tamir",
+  "image": "real_ones/atolye-sokulmus-vinc-govdesi-ve-ayaklar.jpg",
+  "imageAlt": "Atölyenin önünde sökülmüş kırmızı vinç gövdesi; üstte kumanda valfleri ve hidrolik hatlar, iki yanda ayak silindirleri",
+  "kisaCevap": "Vinç tamiri fiyatı sabit bir listeyle değil, arızanın kendisine göre belirlenir. Fiyatı altı kalem oluşturur: arıza tespiti, değişecek parçalar ve bunların orijinal, muadil ya da imalat olması, işçilik, işin atölyede mi sahada mı yapılacağı, yol ve gerekirse vincin taşınması, onarım sonrası test ve kontrol. Arızanın videosu, vincin etiket bilgisi ve konumla çoğu işte fiyatın çerçevesi hızla netleşir; kesin rakam teşhisten sonra verilir.",
+  "intro": "Bu yazı; vinci arızalanan ve “Bu tamir kaça çıkar?” sorusuna hızlı bir cevap arayan vinç sahipleri, nakliyeciler ve şantiye yöneticileri için. Telefonda tek bir rakam söylemek kolaydır ama çoğu zaman yanlıştır: Aynı “bom iniyor” şikâyeti bir valf temizliğiyle de bitebilir, silindir revizyonuna da dönüşebilir. Aşağıda vinç tamiri fiyatlarını oluşturan kalemleri, her birini neyin büyüttüğünü, teklifte nelerin yazılı olması gerektiğini ve Milas, Bodrum, Muğla'da en kısa yoldan nasıl net teklif alacağınızı anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Vinç tamiri fiyatını hangi kalemler oluşturur?"
+    },
+    {
+      "type": "p",
+      "text": "Altı kalem: arıza tespiti, parça, işçilik, işin yapıldığı yer, yol ve taşıma, test ve kontrol. Aşağıdaki tablo her kalemi neyin büyüttüğünü ve sizin neyi kısaltabileceğinizi gösteriyor."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Kalem",
+        "Fiyatı büyüten",
+        "Sizin yapabileceğiniz"
+      ],
+      "rows": [
+        [
+          "Arıza tespiti",
+          "Ölçüm, söküm ya da birden çok arızanın iç içe olması",
+          "Arızalı hareketin videosu; arızanın ne zaman, hangi koşulda çıktığı"
+        ],
+        [
+          "Parça",
+          "Pompa, valf bloğu, silindir gibi büyük parçalar; siparişle gelen parça",
+          "Vincin etiketi: marka, model, seri numarası ve imal yılı"
+        ],
+        [
+          "İşçilik",
+          "Söküm-montaj, kaynak, torna, boya; ulaşılması zor parçalar",
+          "Vinci temiz ve yükü indirilmiş hâlde teslim etmek"
+        ],
+        [
+          "Atölye ya da saha",
+          "Sahadaki çalışma koşulları; işin ikinci sefere kalması",
+          "Konum, zemin ve erişim fotoğrafı"
+        ],
+        [
+          "Yol ve taşıma",
+          "Uzak adres; yola çıkamayan vincin taşınması",
+          "Vincin yola çıkıp çıkamayacağını baştan söylemek"
+        ],
+        [
+          "Test ve kontrol",
+          "Önemli onarımdan sonra gereken yeniden periyodik kontrol",
+          "Kontrol tarihini onarım takvimiyle birlikte planlamak"
+        ]
+      ]
+    },
+    {
+      "type": "h3",
+      "text": "1. Arıza tespiti"
+    },
+    {
+      "type": "p",
+      "text": "Fiyatın yönünü belirleyen ilk adım teşhistir. Hidrolik bir arızada basınç ve debi ölçmeden pompa mı, valf mi, silindir mi diye konuşmak tahmindir. Yanlış teşhis de en pahalı tamirdir, çünkü sağlam parça değişir ve arıza yerinde kalır. Basit arızalarda teşhis birkaç kontrolle biter; bom oturması, güç kaybı ya da tekrarlayan kaçak gibi şikâyetlerde ölçüm, bazen de söküm gerekir. Teşhisin nasıl ücretlendirileceğini ve onarıma dahil olup olmadığını işe başlamadan sorun."
+    },
+    {
+      "type": "h3",
+      "text": "2. Parça: orijinal, muadil ya da imalat"
+    },
+    {
+      "type": "p",
+      "text": "Parça kalemi çoğu zaman faturanın en büyük kısmıdır ve üç yoldan gelir. Orijinal parça üreticinin parçasıdır; muadil parça, aynı ölçü ve çalışma değerlerinde başka bir üreticinin parçasıdır; pim, burç ve mil gibi işlenebilir parçalar ise tornada numuneden ya da ölçüden imal edilebilir. Keçe takımı ile pompa ya da valf bloğu arasında büyük fark vardır; stokta olan parça ile siparişle gelen parça arasında da hem fiyat hem süre farkı oluşur. Teklifte hangi parçanın hangi yoldan geleceğini ayrı ayrı görmek, karşılaştırmayı kolaylaştırır. Parça tarafını <a href=\"/hizmetler/hidrolik-yedek-parca.html\">hidrolik yedek parça</a> sayfamızda anlattık."
+    },
+    {
+      "type": "h3",
+      "text": "3. İşçilik"
+    },
+    {
+      "type": "p",
+      "text": "İşçiliği arızanın büyüklüğünden çok parçaya ulaşmanın zorluğu belirler. Kolay erişilen bir rekoru yenilemek ile silindiri söküp mili, gömleği ve keçe yuvalarını kontrol etmek aynı iş değildir. Kaynak, torna ve boya gereken işler işçiliği artırır. Bu işlerin aynı tesiste yapılması ise parçanın başka atölyelere gidip gelmesini önler; pres hortum, torna ve kaynak atölyemizde olduğu için çoğu işte dışarıya iş göndermiyoruz."
+    },
+    {
+      "type": "h3",
+      "text": "4. Atölyede mi, sahada mı?"
+    },
+    {
+      "type": "p",
+      "text": "Hortum, rekor, kumanda ayarı ve ayak arızalarının çoğu sahada çözülür; silindir keçesi, valf bloğu, kaynak ve revizyon atölye ister. Sahada yapılan işte servis aracının yolu ve sahadaki çalışma koşulları fiyata girer; atölyede ise vincin gelişi. Küçük bir hortum işi için vinci atölyeye taşımak da, söküm isteyen bir işi tozlu bir sahada yapmaya çalışmak da gereksiz maliyettir."
+    },
+    {
+      "type": "h3",
+      "text": "5. Yol ve vincin taşınması"
+    },
+    {
+      "type": "p",
+      "text": "Adres uzaklaştıkça yol payı artar. Asıl büyük fark, vinç yola çıkamadığında ortaya çıkar: Bomu toplanmayan ya da kamyonu çalışmayan bir vincin atölyeye getirilmesi ayrı bir taşıma işidir. Bu durumda önce yerinde teşhis yapıp vinci yola çıkabilecek hâle getirmek çoğu zaman daha ekonomiktir. Atölyemiz Milas–Bodrum yolunun üzerinde, Tuzla Kavşağı'nda; Milas, Güllük, Bodrum ve Muğla çevresindeki işlere buradan çıkıyoruz."
+    },
+    {
+      "type": "h3",
+      "text": "6. Test ve yeniden kontrol"
+    },
+    {
+      "type": "p",
+      "text": "Tamirden sonra vinç bütün hareketleriyle çalıştırılır, basınç ve kaçak kontrol edilir. Bunun ötesinde bir kalem daha olabilir: <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a>, kaldırma ekipmanlarında konstrüksiyon ve yük kolu gibi kısımlardaki kaynak, kesme, taşlama ve benzeri onarımları ve halat, zincir gibi askı tertibatı dışındaki parça değişimlerini önemli bakım ve onarım sayar. Bu işlerden sonra vinç yeniden periyodik kontrolden geçer ve yük testi, kaldırma kapasitesi katsayıyla artırılarak yapılır. Bu kontrolü atölye değil, yetkili kişi ya da ekipman muayene kuruluşu yapar; ücretini de ayrıca planlamak gerekir."
+    },
+    {
+      "type": "h2",
+      "text": "Telefonda neden kesin fiyat verilemez?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü aynı belirtinin arkasında farklı arızalar olabilir. “Bom kendiliğinden iniyor” şikâyeti kirli bir yük tutma valfinden de, piston keçesinden de gelebilir; ilki temizlik ya da valf değişimiyle, ikincisi silindir sökümüyle çözülür. Telefonda dürüstçe verilebilecek şey fiyatın çerçevesidir: hangi ihtimaller var, en olası olan hangisi, kesin rakam için neye bakmak gerekiyor. Belirtiden sebebe giden yolu <a href=\"/blog/hiyap-vinc-arizalari-ve-cozumleri.html\">hiyap arızaları ve çözümleri</a> yazımızda tablo hâlinde anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Teklifte neler yazılı olmalı?"
+    },
+    {
+      "type": "p",
+      "text": "İyi bir tamir teklifi, sonradan tartışma çıkaracak her kalemi baştan açıkça yazar:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Arızanın tarifi:</strong> Teşhiste ne bulundu, neden bu onarım öneriliyor?",
+        "<strong>Parça listesi:</strong> Hangi parça değişecek; orijinal mi, muadil mi, imalat mı?",
+        "<strong>İşçilik kapsamı:</strong> Söküm-montaj, kaynak, torna ve boya dahil mi?",
+        "<strong>Yer ve yol:</strong> İş atölyede mi, sahada mı; yol ve taşıma fiyata dahil mi?",
+        "<strong>Ek iş çıkarsa:</strong> Söküm sırasında yeni bir arıza bulunursa onayınız alınmadan işe devam edilmeyeceği.",
+        "<strong>Vergi:</strong> Fiyat KDV dahil mi, hariç mi?"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Biz işe başlamadan yapılacak işi ve fiyatı söylüyoruz. Söküm sırasında beklenmedik bir bulgu çıkarsa önce sizi arıyor, onayınız olmadan kapsamı büyütmüyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "Tamir faturasını gereksiz yere ne büyütür?"
+    },
+    {
+      "type": "p",
+      "text": "Faturayı çoğu zaman arızanın kendisi değil, arızaya verilen ilk tepki büyütür:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Arızayla çalışmaya devam etmek:</strong> Ses yapan pompa ya da kaçıran hortumla çalışmak, küçük bir arızayı pompa ve valf hasarına çevirebilir.",
+        "<strong>Belirtiyi ertelemek:</strong> Pim-burç boşluğu ve küçük kaçaklar erken yakalanırsa tamir küçük kalır; ertelendikçe revizyona dönüşür.",
+        "<strong>Emniyet valfini kurcalamak:</strong> Güç kaybını basınç artırarak gidermeye çalışmak, aşınmayı gizler ve vinci yapısal sınırının üstüne çıkarabilir.",
+        "<strong>Parçayı teşhissiz değiştirmek:</strong> “Herhalde pompadır” diye alınan pompa, sorun valfteyse boşa gider.",
+        "<strong>Eksik bilgiyle servis çağırmak:</strong> Doğru parça olmadan gelinen sahada iş ikinci sefere kalır."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Tamir ile yeni vinç arasında karar vermeniz gerekiyorsa <a href=\"/blog/vinc-tamiri-mi-yenisi-mi.html\">vinç tamiri mi, yeni vinç mi</a> yazımızdaki dört soruluk kural işinize yarar."
+    },
+    {
+      "type": "h2",
+      "text": "Milas, Bodrum ve Muğla'da hızlı teklif nasıl alınır?"
+    },
+    {
+      "type": "p",
+      "text": "En hızlı yol, arızayı WhatsApp'tan göstermektir. Şunları gönderin:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Arızalı hareketin kısa bir videosu; mümkünse yüklü ve yüksüz.",
+        "Vincin etiket fotoğrafı: marka, model, seri numarası ve imal yılı.",
+        "Kaçak varsa yerinin yakın fotoğrafı; patlayan hortumda iki uçtaki rekorlar.",
+        "Vincin konumu (haritadan konum yeterli) ve yola çıkıp çıkamayacağı.",
+        "Arızanın ne zaman başladığı; yağ soğukken mi, sıcakken mi arttığı."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu bilgilerle çoğu işte olası arızayı ve fiyatın çerçevesini telefonda konuşabiliyor, sahaya doğru parçayla geliyoruz; kesin rakamı teşhisten sonra veriyoruz. Telefonlarımız 7/24 açık. Hizmetin tüm kapsamı için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> sayfamıza, il genelindeki işler için <a href=\"/bolgeler/mugla-vinc-tamiri.html\">Muğla vinç tamiri</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "callout",
+      "text": "Vinciniz arızalıysa videosunu ve etiket fotoğrafını gönderin; olası arızayı ve fiyatın çerçevesini konuşalım. Onayınız olmadan işe başlamıyoruz."
+    }
+  ],
+  "cikarimlar": [
+    "Vinç tamiri fiyatını teşhis, parça, işçilik, yer, yol ve test birlikte belirler.",
+    "Aynı belirti farklı arızalardan çıkabilir; kesin fiyat teşhisten sonra verilir.",
+    "Teklifte parçaların orijinal, muadil ya da imalat olduğunu ayrı ayrı görün.",
+    "Önemli onarımdan sonra gereken yeniden periyodik kontrolü bütçeye ekleyin.",
+    "Arıza videosu, etiket fotoğrafı ve konum en hızlı teklifin anahtarıdır."
+  ],
+  "faqs": [
+    {
+      "q": "Vinç tamiri için fiyat listeniz var mı?",
+      "a": "Hayır. Aynı belirti farklı arızalardan çıkabildiği için sabit bir liste yanıltıcı olur. Arızanın videosu ve vincin bilgileriyle çerçeveyi konuşur, teşhisten sonra yapılacak işi ve fiyatı net söyleriz."
+    },
+    {
+      "q": "Arıza tespiti ayrıca ücretlendirilir mi?",
+      "a": "İşin türüne göre değişir; sahaya çıkış, ölçüm ya da söküm gerekiyorsa bu da işin parçasıdır. Teşhisin nasıl ücretlendirileceğini ve onarıma dahil olup olmadığını işe başlamadan konuşuyoruz."
+    },
+    {
+      "q": "Muadil parça kullanmak doğru mu?",
+      "a": "Ölçüsü, basınç sınıfı ve malzemesi orijinaline uygun, güvenilir bir üreticiden gelen muadil parça birçok iş için uygundur. Garanti süresindeki vinçte ve emniyetle doğrudan ilgili parçalarda üreticinin şartlarına bakmak gerekir. Teklifte hangi parçanın orijinal, hangisinin muadil olduğunu açıkça söylüyoruz."
+    },
+    {
+      "q": "Sahada tamir atölyeden daha mı pahalı?",
+      "a": "Tek başına değil. Sahada yol ve çalışma koşulları fiyata girer; atölyede ise vincin gelişi ve gerekirse taşınması. Küçük bir hortum ya da ayar işinde saha, söküm isteyen işlerde atölye çoğu zaman daha ekonomiktir."
+    },
+    {
+      "q": "Tamirden sonra periyodik kontrol gerekir mi?",
+      "a": "Yük kolu ve konstrüksiyonda kaynak, kesme, taşlama ya da askı tertibatı dışındaki parça değişimi gibi önemli onarımlardan sonra İş Ekipmanları Yönetmeliği vincin yeniden periyodik kontrolden geçmesini ister. Kontrolü yetkili kişi yapar; takvimi onarımla birlikte planlayın."
+    },
+    {
+      "q": "Fiyat söküm sırasında değişebilir mi?",
+      "a": "Söküm, dışarıdan görünmeyen bir hasarı ortaya çıkarabilir. Böyle bir durumda işi durdurur, bulguyu gösterir ve yeni kapsamı onayınıza sunarız. Onayınız olmadan kapsamı büyütmeyiz."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (güncel metin)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/hizmetler/hidrolik-yedek-parca.html",
+    "/blog/hiyap-vinc-arizalari-ve-cozumleri.html",
+    "/blog/vinc-tamiri-mi-yenisi-mi.html"
+  ]
+}

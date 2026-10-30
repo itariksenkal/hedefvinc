@@ -1,0 +1,245 @@
+{
+  "slug": "sahada-vinc-tamiri-mi-atolye-mi",
+  "_hedef": "sahada vinç tamiri / yerinde vinç tamiri / mobil vinç servisi",
+  "title": "Sahada Vinç Tamiri mi, Atölye mi? Hangi Arıza Nerede Çözülür",
+  "h1": "Sahada Vinç Tamiri mi, Atölye mi? Hangi Arıza Yerinde Çözülür, Ne Göndermelisiniz?",
+  "desc": "Hortum, rekor, ayar ve ayak arızaları çoğu zaman sahada; keçe, kaynak ve revizyon atölyede. Sahada vinç tamiri nasıl işler, ne gönderilir? Milas, Bodrum.",
+  "category": "Vinç Tamiri",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "cta": "tamir",
+  "image": "real_ones/vincli-kamyonun-tasinmasi-atolye-onu.jpg",
+  "imageAlt": "Eski yeşil vinçli bir kamyon, endüstriyel bir binanın önünde başka bir kamyonun kasasında taşınıyor; çevrede birkaç kişi",
+  "kisaCevap": "Hortum, rekor, kumanda ayarı, birçok ayak ve elektrik arızası ile bazı valf işleri çoğu zaman vincin durduğu yerde çözülür. Silindir keçe değişimi, pompa ve valf bloğu onarımı, bom ve kolonda kaynak, döner tabla ve revizyon ise temiz tezgâh, ölçüm ve test imkânı olan atölyede daha doğru yapılır. Kararı arızanın yeri, vincin yola çıkıp çıkamayacağı ve sahadaki koşullar birlikte belirler.",
+  "intro": "Bu yazı; vinci şantiyede, yolda ya da iskelede arıza yapan vinç sahipleri ve operatörler için. Arıza anında akla gelen ilk soru, “Usta buraya gelip halleder mi, yoksa vinci atölyeye mi götürmem gerekiyor?” olur. Cevap arızaya, vincin durumuna ve sahaya bağlıdır. Aşağıda hangi arızaların genellikle sahada, hangilerinin atölyede çözüldüğünü, sahaya çağırmadan önce neleri göndermeniz gerektiğini ve bir saha ziyaretinin nasıl ilerlediğini anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Hangi vinç arızaları sahada, hangileri atölyede çözülür?"
+    },
+    {
+      "type": "p",
+      "text": "Genel kural şu: Parçaya kolay ulaşılıyorsa ve iş hidrolik sistemi uzun süre açık bırakmayı gerektirmiyorsa saha; söküm, ölçüm, kaynak ya da temiz tezgâh gerekiyorsa atölye. Sık karşılaştığımız arızalar için tablo:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Arıza",
+        "Genelde",
+        "Neden"
+      ],
+      "rows": [
+        [
+          "Patlayan hortum, kaçıran rekor",
+          "Sahada",
+          "Ölçüsüne göre preslenmiş hortumla gelinir; değişim yerinde yapılır"
+        ],
+        [
+          "Kumanda kolu ayarı, bağlantılar",
+          "Sahada",
+          "Söküm gerektirmeyen ayar ve bağlantı işleri"
+        ],
+        [
+          "Ayak kaçırması, ayak kilidi",
+          "Çoğu zaman sahada",
+          "Kilit valfi ve bağlantılar yerinde kontrol edilir; silindir sökümü gerekirse atölye"
+        ],
+        [
+          "Basit elektrik ve kumanda arızaları",
+          "Sahada",
+          "Sigorta, kablo, şalter ve bağlantılar"
+        ],
+        [
+          "Yük tutma valfi temizliği ya da değişimi",
+          "Duruma göre",
+          "Valf ulaşılabilir ve parça hazırsa sahada"
+        ],
+        [
+          "Silindir keçe değişimi",
+          "Atölyede",
+          "Söküm, mil ve gömlek kontrolü, temiz montaj"
+        ],
+        [
+          "Pompa ve valf bloğu onarımı",
+          "Atölyede",
+          "Ölçüm, test ve temiz ortam"
+        ],
+        [
+          "Bom, kolon ya da şasede çatlak",
+          "Atölyede",
+          "Kaynak hazırlığı, kontrol ve gerekirse takviye"
+        ],
+        [
+          "Döner tabla, dönüş dişlisi",
+          "Atölyede",
+          "Kaldırma ve söküm donanımı gerekir"
+        ],
+        [
+          "Pim-burç boşluğu",
+          "Önce atölye, sonra saha",
+          "Pim ve burç tornada imal edilir; montaj yerinde yapılabilir"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Tablo bir eğilim gösterir; son kararı vinci gördükten sonra veriyoruz. Kamyon üstü vinçlere özgü arızalar için <a href=\"/hizmetler/hiyap-vinc-tamiri.html\">hiyap vinç tamiri</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Hidrolik işler neden çoğu zaman atölyede yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü hidrolik sistemin en büyük düşmanı kirdir. <a href=\"https://www.munciepower.com/cms/files/Products/Literature/Documents/Training/TR-G93-01.pdf\">Muncie'nin kamyon hidroliği rehberi</a>, hidrolik sistem arızalarının yüzde 70 ile 90'ının kirlenmeden kaynaklandığının tahmin edildiğini yazar ve kirlenmenin yollarından birini açıkça sayar: sistemin servis için açıldığı sırada içeri giren kir. Tozlu bir şantiyede, rüzgârda ya da yağmur altında silindir ya da valf bloğu açmak, yeni keçeyle birlikte sisteme yeni bir arıza sokmak olabilir. Bu yüzden hortum ve rekor değişimi gibi kısa süreli işleri sahada, sistemi uzun süre açık bırakan işleri atölyede yapmayı tercih ediyoruz. Silindir tarafını <a href=\"/blog/vinc-hidrolik-silindir-kece-degisimi.html\">hidrolik silindir keçe değişimi</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Kaynak gerektiren onarım neden sahada yapılmaz?"
+    },
+    {
+      "type": "p",
+      "text": "Bom, kolon ya da şasedeki çatlak, yalnızca üstüne dikiş çekilerek kapatılacak bir iş değildir. Çatlağın nedeni, malzemesi ve yükün yolu değerlendirilir, onarım uygun yöntemle yapılır ve gerekirse takviye eklenir. Bunun yanında <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a>, kaldırma ekipmanlarında konstrüksiyon ve yük kolu gibi kısımlardaki kaynak, kesme ve taşlama gibi onarımları önemli bakım ve onarım sayar; bu onarımlardan sonra vinç yeniden periyodik kontrolden geçer. Bu ölçekte bir işi tozlu bir sahada yapmak yerine atölyede planlamak hem daha güvenli hem daha doğrudur."
+    },
+    {
+      "type": "h2",
+      "text": "Kararı başka neler belirler?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Vinç yola çıkabiliyor mu?</strong> Bomu toplanmayan, ayakları kalkmayan ya da kamyonu çalışmayan vinç için önce sahada müdahale edilir; amaç vinci güvenle toplanır ve taşınır hâle getirmektir.",
+        "<strong>Yük havada mı?</strong> Yük asılı kaldıysa önce yük güvenle indirilir; tamir ondan sonra konuşulur.",
+        "<strong>Saha koşulları:</strong> Düz ve sağlam zemin, güvenli çalışma alanı, hava durumu. Fırtınada ya da yoğun yağmurda hidrolik sistem açılmaz.",
+        "<strong>Parça hazır mı?</strong> Doğru parça elde değilse sahaya gitmek işi ikinci sefere bırakır.",
+        "<strong>Vincin işi:</strong> Vinç ertesi gün bir işe yetişecekse onarımı ona göre planlarız; ama güvenliği tartışmaya açan geçici bir çözümü hiç uygulamayız.",
+        "<strong>Tekrarlayan arıza:</strong> Aynı hortum ya da aynı rekor sık sık kaçırıyorsa sorun çoğu zaman parçada değil; hortum güzergâhında, sürtünmede ya da sistem basıncındadır. Bu durumda sahada değişim yetmez, nedeni ölçerek aramak gerekir."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Sahaya çağırmadan önce ne göndermelisiniz?"
+    },
+    {
+      "type": "p",
+      "text": "Sahaya doğru parçayla, tek seferde gelebilmemiz için WhatsApp'tan şunları gönderin:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Arızalı hareketin kısa videosu; kaçak varsa yerinin yakın fotoğrafı.",
+        "Patlayan hortumun iki ucundaki rekorların fotoğrafı ve hortumun yaklaşık uzunluğu.",
+        "Vincin etiketi: marka, model, seri numarası ve imal yılı.",
+        "Haritadan konum ve sahaya giriş: yol, kapı, zemin.",
+        "Vincin şu anki durumu: yük asılı mı, bom açık mı, kamyon çalışıyor mu."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Hortum kaynaklı işlerde bu fotoğraflar sayesinde hortumu atölyede presleyip hazır getirebiliyoruz. Ayrıntılar için <a href=\"/hizmetler/pres-hortum.html\">pres hortum</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Saha ziyareti nasıl ilerler?"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "<strong>Ön değerlendirme:</strong> Video ve fotoğraflara bakar, olası arızayı ve gereken parçayı konuşuruz.",
+        "<strong>Geliş zamanı:</strong> O günkü programa göre ne zaman orada olabileceğimizi açıkça söyleriz.",
+        "<strong>Güvenlik:</strong> Sahada önce yükü, bomu ve ayakları güvenli konuma alır, sistemi kapatıp hatlardaki basıncı alırız.",
+        "<strong>Teşhis:</strong> Kaçak, basınç ve bağlantıları kontrol eder, işin sahada çözülüp çözülmeyeceğini söyleriz.",
+        "<strong>Onay ve onarım:</strong> Yapılacak işi ve fiyatı söyler, onayınızla başlarız.",
+        "<strong>Deneme:</strong> Bütün hareketleri çalıştırır, kaçak kontrolüyle teslim ederiz.",
+        "<strong>Atölye gerekirse:</strong> Vinci yola çıkabilecek hâle getirir, atölyeye gelişini birlikte planlarız."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Vinç gelemiyorsa parça atölyeye gelebilir mi?"
+    },
+    {
+      "type": "p",
+      "text": "Evet; arada üçüncü bir yol var. Tekne ya da iskele üzerine sabitlenmiş vinçler, yola çıkamayan kamyonlar ya da sahadan çıkarılması zor makineler için arızalı parça yerinde sökülür, atölyeye getirilir, onarılıp test edilir ve yeniden yerine takılır. Silindir, valf bloğu ya da pompa gibi parçalarda bu yol, vinci taşımaktan çoğu zaman daha pratiktir. Sökülen hatların ağızları tapalanır ki vinç beklerken sisteme kir ve nem girmesin. Muncie'nin rehberi de sökülen silindirlerin, keçeler bozulmasın diye dik konumda ve kir girmesin diye ağızları tıkalı saklanmasını önerir."
+    },
+    {
+      "type": "h2",
+      "text": "Sahada yapılan onarımdan sonra vinç hemen çalışır mı?"
+    },
+    {
+      "type": "p",
+      "text": "Hortum ya da rekor değişiminden sonra eksilen yağ tamamlanır, bütün hareketler önce yüksüz, sonra yüklü denenir ve değişen bağlantı basınç altında kaçak için kontrol edilir. Silindir söküp takıldıysa içinde kalan hava alınır; Muncie'nin rehberi, silindirde sıkışan havanın silindirin kesik kesik hareket etmesine ve ısınmaya yol açtığını yazar. Deneme bitmeden vinçle iş yapılmaz. Onarım yük kolunda kaynak ya da benzeri önemli bir onarımsa vinç ayrıca periyodik kontrolden geçmeden işe dönmemelidir."
+    },
+    {
+      "type": "h2",
+      "text": "Sahada sizin hazırlayabilecekleriniz nelerdir?"
+    },
+    {
+      "type": "p",
+      "text": "Vincin düz ve sağlam bir zeminde durması, çevresinin boşaltılması, operatörün ya da vinci tanıyan birinin sahada bulunması ve anahtarların hazır olması işi kısaltır. Kaçağın yerini işaretlemek ya da fotoğraflamak da teşhisi hızlandırır. Basınç altındaki hortumu ya da rekoru elle yoklamayın; ince bir yağ jeti deriye işleyebilir. Arızadan sonraki ilk adımlar için <a href=\"/blog/hiyap-vinc-arizalari-ve-cozumleri.html\">hiyap arızaları ve çözümleri</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Milas, Bodrum ve Muğla'da saha servisi nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Atölyemiz Milas'ta, Güllük ile Güvercinlik arasında, Tuzla Kavşağı'nda. Milas, Güllük, Bodrum yarımadası ve Muğla çevresindeki vinçlere buradan çıkıyoruz; telefonlarımız 7/24 açık. Yukarıdaki listeyi WhatsApp'tan gönderin, arızayı birlikte değerlendirelim; sahada çözülecekse parçasıyla geliyor, değilse vincin atölyeye gelişini planlıyoruz. Bodrum yarımadasındaki vinçler için <a href=\"/bolgeler/bodrum-vinc-tamiri.html\">Bodrum vinç tamiri</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "callout",
+      "text": "Arızalı hareketin videosunu ve konumu gönderin; sahada mı atölyede mi çözüleceğini birlikte karar verelim."
+    }
+  ],
+  "cikarimlar": [
+    "Hortum, rekor, ayar ve ayak arızaları çoğu zaman sahada çözülür.",
+    "Keçe, pompa, valf bloğu, kaynak ve revizyon atölyede daha doğru yapılır.",
+    "Hidrolik sistemi tozlu ve yağışlı sahada uzun süre açık bırakmayın.",
+    "Video, rekor fotoğrafı ve konum, sahaya doğru parçayla tek seferde gelmeyi sağlar.",
+    "Yük asılı kaldıysa önce yük güvenle indirilir, tamir sonra konuşulur."
+  ],
+  "faqs": [
+    {
+      "q": "Sahada vinç tamiri yapıyor musunuz?",
+      "a": "Evet. Milas, Bodrum, Muğla ve çevresinde vincin bulunduğu yere geliyoruz. Hortum, rekor, ayar, ayak ve birçok elektrik arızasını yerinde çözüyoruz; söküm, kaynak ve revizyon gereken işleri atölyede yapıyoruz."
+    },
+    {
+      "q": "Sahaya ne kadar sürede gelirsiniz?",
+      "a": "O günkü programa ve adrese bağlı. Aradığınızda ne zaman orada olabileceğimizi açıkça söylüyoruz; vinç yük altında kaldıysa ya da yolu kapatıyorsa bunu mutlaka belirtin."
+    },
+    {
+      "q": "Silindir keçesi sahada değiştirilebilir mi?",
+      "a": "Mümkün olsa da tercih etmiyoruz. Silindir söküldüğünde mil ve gömleğin de kontrol edilmesi gerekir; tozlu ortamda açılan silindire kir girme riski yüksektir. Bu yüzden keçe değişimini atölyede yapıyoruz."
+    },
+    {
+      "q": "Vincim yola çıkamıyor, atölyeye nasıl gelecek?",
+      "a": "Önce sahada vinci güvenle toplanır ve taşınır hâle getirmeye çalışıyoruz. Bu mümkün değilse vincin taşınmasını birlikte planlıyoruz."
+    },
+    {
+      "q": "Hortum patladı, sahaya hortumla gelir misiniz?",
+      "a": "Evet; iki uçtaki rekorların fotoğrafını ve hortumun yaklaşık uzunluğunu gönderirseniz hortumu atölyede presleyip getirebiliyoruz. Ölçü net değilse eski hortumu yerinde söküp ölçüsünü alıyoruz."
+    },
+    {
+      "q": "Gece ya da hafta sonu sahaya gelir misiniz?",
+      "a": "Telefonlarımız 7/24 açık. Yük altında kalan ya da yolu kapatan bir vinç için gece de arayabilirsiniz; ne zaman gelebileceğimizi o anki duruma göre söylüyoruz."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Understanding Truck-Mounted Hydraulic Systems (kirlenme ve filtrasyon bölümü)",
+      "publisher": "Muncie Power Products",
+      "url": "https://www.munciepower.com/cms/files/Products/Literature/Documents/Training/TR-G93-01.pdf"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (güncel metin)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/bolgeler/bodrum-vinc-tamiri.html",
+    "/hizmetler/pres-hortum.html",
+    "/blog/hiyap-vinc-arizalari-ve-cozumleri.html"
+  ]
+}

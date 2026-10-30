@@ -1,0 +1,256 @@
+{
+  "slug": "yaz-sezonu-oncesi-vinc-revizyonu-plani",
+  "_hedef": "vinç revizyonu ne zaman yaptırılmalı / sezon öncesi vinç bakımı planı",
+  "title": "Yaz Sezonu Öncesi Vinç Revizyonu: Kışın Nasıl Planlanır?",
+  "h1": "Yaz Sezonu Öncesi Vinç Revizyonu Planı: Kışı Atölyede, Baharı Sahada Geçirmek",
+  "desc": "Yaz sezonu öncesi vinç revizyonu planı: kasımdan marta takvim, iş listesinin önceliklendirilmesi, parça hazırlığı ve revizyon sonrası periyodik kontrol.",
+  "category": "Vinç Tamiri",
+  "image": "real_ones/atolye-revizyonu-biten-katlanir-bom-vinc.jpg",
+  "imageAlt": "Atölyede revizyonu tamamlanmış, sarıya boyanmış katlanır bomlu vinç; bom ve silindirler yere yatırılmış, kolonda Retrofit Hedef Crane etiketi",
+  "kisaCevap": "Muğla kıyısında vinç işleri baharda yoğunlaşır; turistik yörelerde 15 Mayıs ile 15 Ekim arasında inşaat faaliyetleri kısıtlandığı için birçok iş bu tarihten önce bitirilmek istenir. Revizyonu bu yoğunluğa yetiştirmenin yolu, sonbaharda arıza ve kontrol notlarını toplamak, kışın atölyeye girmek, parçaları erken hazırlamak ve martta periyodik kontrolü tamamlayıp vinci denenmiş olarak sahaya çıkarmaktır.",
+  "intro": "Vinç sahiplerinin çoğu revizyonu, vinç artık çalışamayacak hâle geldiğinde düşünür. Bunun en pahalı zamanı ise baharın ortasıdır: İşler yoğunlaşmış, herkes aynı anda vince ihtiyaç duyuyor ve atölyede bekleyen her gün iş kaybı demek. Bu yazı Milas, Bodrum ve Muğla çevresinde çalışan vinç ve hiyap sahipleri için revizyonun neden kışa planlanması gerektiğini, sonbahardan bahara adım adım bir takvimi, iş listesinin nasıl önceliklendirileceğini ve vinci sahaya hazır çıkarmak için nelerin unutulmaması gerektiğini anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Revizyon neden kışa planlanmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü bölgede vinç takvimini mevsim belirler. Kültür ve Turizm Bakanlığının 2025/3 sayılı genelgesine dayanan <a href=\"https://mugla.ktb.gov.tr/TR-397558/insaat-yasaklari-hakkinda-onemli-duyuru.html\">Muğla İl Kültür ve Turizm Müdürlüğü duyurusu</a>, turistik yörelerde her yıl 15 Mayıs ile 15 Ekim arasındaki turizm sezonunda ağır nakliyat, hafriyat ve harçlı inşaat faaliyetleri için tedbir alınmasını ister. Kısıtlamanın ayrıntıları ilçeye ve belediye kararına göre değişse de sonuç sahada aynıdır: Birçok iş, mayıs ortasından önce bitirilmek istenir ve mart, nisan ve mayıs vinç için en yoğun aylar olur."
+    },
+    {
+      "type": "p",
+      "text": "Bu takvimde revizyonun yeri bellidir. Kasım ile şubat arası işlerin seyrekleştiği, yağmurun sahayı durdurduğu aylardır. Vinç bu aylarda atölyede olursa bahar yoğunluğuna hazır girer; mart ayında atölyeye giren vinç ise en çok iş olan haftaları kaçırma riski taşır."
+    },
+    {
+      "type": "h2",
+      "text": "Sonbahardan bahara revizyon takvimi nasıl kurulur?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Dönem",
+        "Ne yapılır?",
+        "Kim yapar?"
+      ],
+      "rows": [
+        [
+          "Ekim",
+          "Sezon boyunca tutulan arıza notları, periyodik kontrol raporundaki eksikler ve çalışma saati toplanır",
+          "Vinç sahibi ve operatör"
+        ],
+        [
+          "Kasım",
+          "Vinç ön muayeneden geçer; fotoğraf ve videolarla iş listesi çıkarılır",
+          "Servis ile birlikte"
+        ],
+        [
+          "Kasım–Aralık",
+          "İş listesi önceliklendirilir, parça ihtiyacı belirlenir ve siparişler verilir",
+          "Servis ve vinç sahibi"
+        ],
+        [
+          "Aralık–Şubat",
+          "Vinç atölyeye girer: söküm, kontrol, onarım, boya ve montaj",
+          "Atölye"
+        ],
+        [
+          "Şubat–Mart",
+          "Hidrolik deneme, ayar ve periyodik kontrol",
+          "Atölye ve periyodik kontrolü yapmaya yetkili kişi"
+        ],
+        [
+          "Mart",
+          "İlk iş günlerinde yakın takip, gevşeyen bağlantı ve kaçak kontrolü",
+          "Operatör ve servis"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Takvim bir öneridir; vincin durumu, parça tedariki ve işin kapsamı süreyi değiştirir. Revizyon süresini telefonda kesin söylemek mümkün değildir; süre vinç söküldükten ve parçalar kontrol edildikten sonra netleşir. Önemli olan, sökümün parça bekleme süresini de kapsayacak kadar erken yapılmasıdır."
+    },
+    {
+      "type": "h2",
+      "text": "Revizyon iş listesi nasıl önceliklendirilir?"
+    },
+    {
+      "type": "p",
+      "text": "Her şeyi aynı kış yapmak gerekmez. İş listesini dört gruba ayırmak hem bütçeyi hem de süreyi yönetilebilir kılar:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "<strong>Güvenlik ve zorunluluk:</strong> Periyodik kontrol raporundaki eksikler, yük moment sınırlayıcı ve acil stop gibi emniyet sistemleri, bomda ya da şasede çatlak, kanca ve halat. Bunlar ertelenmez.",
+        "<strong>Arızalar:</strong> Sezon boyunca not edilen kaçaklar, oturan bom, inen ayak, ses yapan pompa ya da dönüş.",
+        "<strong>Önleyici işler:</strong> Pim ve burç boşlukları, yaşlanmış hortumlar, keçe takımları, yağ ve filtreler, döner tabla cıvataları.",
+        "<strong>Görünüm ve konfor:</strong> Boya, etiketler, kumanda kolu lastikleri. Bunlar zaman kalırsa yapılır."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Revizyon zamanının gelip gelmediğini gösteren belirtileri <a href=\"/blog/vinc-revizyonu-ne-zaman.html\">vinç revizyonu ne zaman gerekir</a> yazımızda, revizyon ile yeni vinç arasındaki kararı <a href=\"/blog/vinc-tamiri-mi-yenisi-mi.html\">vinç tamiri mi yeni vinç mi</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Kış revizyonunda vincin nereleri elden geçer?"
+    },
+    {
+      "type": "p",
+      "text": "Kapsam vincin durumuna göre değişir; tipik bir kış revizyonunda baktığımız başlıklar şunlardır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bom, kolon, ayak kutuları ve şase bağlantılarında çatlak ve şekil bozukluğu kontrolü",
+        "Pim ve burç boşluklarının ölçülmesi, aşınanların tornada yeniden yapılması",
+        "Silindirlerin sökülüp keçe takımlarının yenilenmesi, mil yüzeylerinin kontrolü",
+        "Pompa, kumanda valfi ve yük tutma valflerinde basınç ve kaçak ölçümü",
+        "Döner tabla rulmanı boşluğu, dönüş tahriki ve bağlantı cıvataları",
+        "Yaşlanmış hortumların değişimi, hidrolik yağ ve bütün filtreler",
+        "Yük moment sınırlayıcı, acil stop ve kumanda sisteminin denenmesi",
+        "Gerekiyorsa boya ve korozyon onarımı, etiketlerin yenilenmesi"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Söküm sırasında listede olmayan bir kusur çıkarsa vinç sahibine fotoğrafıyla bildirilir ve iş onaydan sonra devam eder; böylece bütçe sürpriz yapmaz."
+    },
+    {
+      "type": "h2",
+      "text": "Ön muayeneye hangi bilgilerle gelinmeli?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Son periyodik kontrol raporu ve varsa eksik listesi",
+        "Vincin çalışma saati ya da sezonda yaptığı iş miktarı hakkında bir fikir",
+        "Sezon boyunca tutulan arıza notları: ne zaman, hangi harekette, yükte mi, sıcakta mı",
+        "Son yağ, filtre ve hortum değişiminin tarihleri",
+        "Daha önce yapılan onarımlar, özellikle kaynak ve parça değişimleri"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu bilgiler olmadan da muayene yapılır ama iş listesi eksik çıkar. Bir araç üstü vinç üreticisinin <a href=\"https://cms.hiab.com/contentassets/176458ce1b3c4d0e82a446779079d6b8/hiab---435k-hipro---operators-manual.pdf\">kılavuzu</a> vincin en az yılda bir kez kontrol ve bakım için servise götürülmesini, yıllık bakımda hidrolik yağın, filtrelerin, tank kapağının ve dönüş gövdesi yağının değiştirilmesini ister; sıcak iklimde çalışan vinçte yağın daha sık değişmesi gerekebileceğini de not eder. Kış revizyonu bu yıllık bakımı da içine alır."
+    },
+    {
+      "type": "h2",
+      "text": "Parça hazırlığı neden erken başlamalı?"
+    },
+    {
+      "type": "p",
+      "text": "Revizyonu uzatan en büyük etken çoğu zaman işçilik değil, parça beklemektir. Keçe takımları, hortumlar, filtreler ve standart yedek parçalar genellikle kısa sürede bulunur; markaya özel valfler, silindir gömlekleri, döner tabla rulmanı ya da sınırlayıcı parçaları ise daha uzun sürebilir. Ön muayenede bu parçalar belirlenip sipariş kışın başında verilirse, vinç söküldüğünde parça hazır olur. Burç, pim ve mil gibi parçaları tornada ürettiğimiz için bunlar beklemeyi çoğu zaman kısaltır."
+    },
+    {
+      "type": "h2",
+      "text": "Revizyondan sonra periyodik kontrol neden şarttır?"
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> kaldırma ekipmanlarında yapılan önemli bakım ve onarımdan sonra, örneğin bomda ya da konstrüksiyonda kaynak, kesme veya taşıyıcı parça değişiminden sonra, ekipmanın kullanılmadan önce periyodik kontrolden geçirilmesini ister. Kış revizyonunu planlarken periyodik kontrolü de takvime koymak gerekir; böylece vinç bahara hem onarılmış hem de raporlu çıkar. Kontrolün içeriğini ve hazırlığı <a href=\"/blog/vinc-periyodik-kontrol-oncesi-bakim.html\">vinç periyodik kontrolü</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Bahar planlamasında en sık hangi hatalar yapılır?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Arıza notu tutmamak; atölyede \"sezonda ne oldu\" sorusuna cevap verememek.",
+        "Ön muayeneyi ve parça siparişini ocağa bırakmak.",
+        "Bütçeyi yalnızca görünen arızaya göre ayırmak; söküm sonrası çıkan işleri hesaba katmamak.",
+        "Periyodik kontrolü revizyondan önce yaptırıp revizyondan sonra yeniden yaptırmak zorunda kalmak.",
+        "Revizyondan çıkan vinci ilk gün en ağır işe sokmak; ilk günlerde bağlantılar ve kaçaklar yakından izlenmelidir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu hataların çoğunun ilacı basit bir arıza defteridir. Operatör sezon boyunca kabinde bir defter ya da telefonunda bir not tutar: tarih, hangi hareket, ne oldu, yük ve hava durumu. Ekimde bu notlar bir araya geldiğinde ön muayene doğrudan sorunlu noktalara odaklanır; atölyede de \"aslında şu da vardı\" diye geç fark edilen işler azalır."
+    },
+    {
+      "type": "h2",
+      "text": "Milas, Bodrum ve Muğla'da kış revizyonu nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Kış revizyonu için ön muayeneyi sonbaharda yapmayı öneriyoruz. WhatsApp hattımıza şunları göndermeniz yeterli:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Vincin etiketi: marka, model ve yıl",
+        "Vincin genel fotoğrafları ve kaçak, pas ya da hasar olan yerlerin yakın fotoğrafları",
+        "Sezon boyunca fark ettiğiniz arızaların kısa videoları",
+        "Son periyodik kontrol raporunun fotoğrafı",
+        "Vincin bulunduğu yer ve baharda ilk işe çıkması gereken tarih"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Revizyon ve bakım işlerimiz için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a>, Muğla genelindeki işler için <a href=\"/bolgeler/mugla-vinc-tamiri.html\">Muğla vinç tamiri</a> sayfalarımıza bakabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Turistik yörelerde 15 Mayıs–15 Ekim arası inşaat kısıtlaması, vinç işlerini bahara yığar.",
+    "Ön muayene sonbaharda, atölye işi aralık–şubat arasında yapılırsa vinç bahara hazır çıkar.",
+    "İş listesi güvenlik, arıza, önleyici iş ve görünüm olarak dört gruba ayrılır.",
+    "Revizyonu en çok parça beklemek uzatır; siparişler kışın başında verilmelidir.",
+    "Önemli onarımdan sonra vinç kullanılmadan önce periyodik kontrolden geçer."
+  ],
+  "faqs": [
+    {
+      "q": "Vinç revizyonu için en uygun ay hangisi?",
+      "a": "Muğla kıyısında işlerin seyrekleştiği kasım–şubat arası en uygun dönemdir. Ön muayeneyi ekim–kasımda yaptırıp parça siparişini erken vermek, vincin mart ayında hazır olmasını sağlar."
+    },
+    {
+      "q": "Bodrum'da inşaat yasağı vinç işlerini nasıl etkiler?",
+      "a": "Turistik yörelerde 15 Mayıs ile 15 Ekim arasında ağır nakliyat, hafriyat ve harçlı inşaat faaliyetleri için tedbir alınır. Bu yüzden birçok inşaat işi bahara sıkışır ve vinç talebi mart–mayıs arasında yoğunlaşır. Ayrıntılar ilçeye ve belediye kararına göre değişir."
+    },
+    {
+      "q": "Revizyon ne kadar sürer?",
+      "a": "Vincin durumuna, işin kapsamına ve parça tedarikine göre değişir; vinç sökülüp parçalar kontrol edilmeden kesin süre söylenemez. Ön muayeneyi ve parça siparişini erken yapmak süreyi en çok kısaltan adımdır."
+    },
+    {
+      "q": "Revizyonu parça parça yaptırmak mümkün mü?",
+      "a": "Evet. Güvenlik eksikleri ve arızalar ertelenmez; önleyici işler ve boya gibi kalemler bütçeye ve zamana göre sonraki kışa bırakılabilir. Önceliklendirmeyi ön muayeneden sonra birlikte yaparız."
+    },
+    {
+      "q": "Revizyondan sonra periyodik kontrol gerekir mi?",
+      "a": "Bomda ya da konstrüksiyonda kaynak, kesme veya taşıyıcı parça değişimi gibi önemli bakım ve onarım yapıldıysa gerekir. Bu yüzden periyodik kontrolü revizyondan sonraya planlamak, iki kez kontrol yaptırmayı önler."
+    },
+    {
+      "q": "Revizyon sırasında yerine vinç bulabilir miyim?",
+      "a": "İşinizin durumuna göre operatörlü vinç kiralama seçeneğini konuşabiliriz. Kışın talep daha az olduğu için bu planlama bahara göre daha kolaydır."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "İnşaat yasakları hakkında önemli duyuru (2025/3 sayılı genelge)",
+      "publisher": "Muğla İl Kültür ve Turizm Müdürlüğü",
+      "url": "https://mugla.ktb.gov.tr/TR-397558/insaat-yasaklari-hakkinda-onemli-duyuru.html"
+    },
+    {
+      "title": "Turistik Yörelerdeki İnşaat Yasağı (2025/3 sayılı Genelge)",
+      "publisher": "Kültür ve Turizm Bakanlığı Yatırım ve İşletmeler Genel Müdürlüğü",
+      "url": "https://yigm.ktb.gov.tr/TR-94692/turistik-yorelerdeki-insaat-yasagi.html"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "HIAB 435K HiPro Operator's Manual (güvenlik, bakım ve arıza giderme bölümleri)",
+      "publisher": "HIAB",
+      "url": "https://cms.hiab.com/contentassets/176458ce1b3c4d0e82a446779079d6b8/hiab---435k-hipro---operators-manual.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/bolgeler/mugla-vinc-tamiri.html",
+    "/blog/vinc-revizyonu-ne-zaman.html",
+    "/blog/vinc-periyodik-kontrol-oncesi-bakim.html",
+    "/blog/vinc-tamiri-mi-yenisi-mi.html"
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "slug": "kamyon-ustu-vinc-montajinda-sase-takviyesi",
+  "_hedef": "vinç montajı şase takviyesi / hiyap şase güçlendirme / kamyon şase takviye",
+  "title": "Kamyon Üstü Vinç Montajında Şase Takviyesi: Ne Zaman, Nasıl?",
+  "h1": "Kamyon Üstü Vinç Montajında Şase Takviyesi: Ne Zaman Gerekir, Nasıl Yapılır?",
+  "desc": "Vinç montajında şase takviyesi: kesit modülü ve eğilme dayanımı, U profil, köşebent ve lama takviye, kaynak ve delik kuralları, yetersiz şasenin belirtileri.",
+  "category": "Atölye",
+  "image": "real_ones/atolye-kamyon-sasesi-tadilat.jpg",
+  "imageAlt": "Atölye içinde üzerinde çalışılan bir kamyon şasesi, çevresinde tezgâhlar ve ekipman",
+  "kisaCevap": "Kamyon üstü vinç, yükü ve ayak kuvvetlerini kabin arkasında, kısa bir bölgede şaseye aktarır. Şasenin kesit modülü ve eğilme dayanımı vincin üreticisinin istediği değerin altındaysa şase takviye edilir: şaseye giydirilen U profil, köşebent ya da yan lama ile. Takviye gövdeye kaynaklanır ya da cıvatalanır, flanşa kaynak yapılmaz ve delik açılmaz; tadilat projeyle yapılır.",
+  "intro": "Bir vinci kamyona bağlarken akla önce vinç gelir, şase ikinci planda kalır. Oysa vincin kaldırdığı her yük, ayakların bastığı her kuvvet sonunda kamyonun şasesine biner. Şase yetersizse önce gözle görülmeyen bir esneme, sonra çatlaklar, gevşeyen bağlantılar ve en kötü durumda kalıcı eğilme başlar. Bu yazı kamyon üstü vinç ve hiyap sahipleri ile vinç takacakları kamyonu seçenler için şase takviyesinin ne zaman gerektiğini, nasıl hesaplandığını, hangi yöntemlerle yapıldığını ve kaynak ile delik konusunda hangi kuralların çiğnenmemesi gerektiğini anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Vinç şaseyi neden zorlar?"
+    },
+    {
+      "type": "p",
+      "text": "Kamyon şasesi, yükü uzunluğu boyunca yayılmış bir kasa için tasarlanır. Kabin arkasına takılan vinç ise bütün kuvvetini kısa bir bölgeye verir: Bom uzadıkça artan devrilme momenti vincin oturduğu noktada şaseyi eğmeye ve burmaya çalışır. Ayaklar açıldığında kuvvet ayak kutularından şaseye geçer; ön ayak kullanılan vinçlerde bu kuvvet kabinin altına, ön süspansiyon bölgesine kadar uzanır. Bir kamyon üreticisinin <a href=\"https://bodybuilder.scania.com/content/dam/bodybuilder/tbb-files/uk/quick-reference-guides/Bodybuilder_Quick_Reference_Guide_-_Mechanical.pdf\">üst yapı rehberi</a> ön destek ayağı kullanıldığında şasenin ön bölümünün büyük kuvvetlere maruz kaldığını yazar ve ayak tasarlanmadan önce üreticiye danışılmasını ister."
+    },
+    {
+      "type": "h2",
+      "text": "Şasenin yeterli olup olmadığı nasıl anlaşılır?"
+    },
+    {
+      "type": "p",
+      "text": "Ölçerek ve hesaplayarak. Bir vinç üreticisinin <a href=\"https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf\">servis kılavuzu</a> iki kavram kullanır: Şasenin rijitliğini belirleyen kesit modülü ve bu değerin şase malzemesinin akma dayanımıyla çarpılmasıyla bulunan eğilme momentine dayanım. Kılavuz, o vinç için şasenin arka ucundan ön ayak kutularına kadar belirli bir kesit modülü ve dayanım ister; ön ayak bağlantısına doğru gereken değeri de mesafeye göre bir tabloyla verir. Kesit modülü bir profilin ölçülerinden hesaplanır; aynı kılavuz farklı kalınlık, yükseklik ve flanş genişliğindeki U profiller için hazır tablolar da sunar."
+    },
+    {
+      "type": "p",
+      "text": "Kılavuz önemli bir uyarı daha yapar: Çoğu kamyon şasesinin ön süspansiyon bölgesinde kesit değerleri, şasedeki boşaltmalar ya da dış takviyenin süspansiyondan önce bitmesi yüzünden düşer. Bu durumda şasenin o bölgede ölçülüp kesit modülünün hesaplanması ve tabloyla karşılaştırılması gerekir. Yani kamyonun broşüründeki tek bir değere bakmak yetmez; şasenin vincin kuvvet verdiği her bölgesi ayrı değerlendirilir."
+    },
+    {
+      "type": "h2",
+      "text": "Şase hangi yöntemlerle takviye edilir?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Yöntem",
+        "Nasıl yapılır?",
+        "Nerede uygun?"
+      ],
+      "rows": [
+        [
+          "U profil giydirme",
+          "Mevcut şasenin üzerine oturan, uygun kalınlıkta bir U profil eklenir",
+          "Kesit modülünün belirgin artması gerektiğinde"
+        ],
+        [
+          "Köşebent takviye",
+          "Şasenin içine ya da dışına köşebent eklenir",
+          "Orta düzeyde artış ve yerin dar olduğu bölgeler"
+        ],
+        [
+          "Yan lama (balık plakası)",
+          "Şase yüksekliğinde bir lama gövdeye eklenir",
+          "Belirli bir bölgede yerel takviye"
+        ],
+        [
+          "Alttan köşebent",
+          "Köşebent takviyesi olan şaseye, flanşı şasenin altına gelen ikinci bir köşebent eklenir",
+          "En yüksek dayanımın istendiği bölgeler"
+        ],
+        [
+          "Yardımcı şase ve burulma kutusu",
+          "Vincin altına ayrı bir şase ya da kutu profil oturtulur",
+          "Vinç kuvvetlerini şaseye yaymak ve burulmayı azaltmak için"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Takviyenin katkısı, eklenen profilin kesit modülünün şaseninkine eklenmesiyle hesaplanır. Servis kılavuzu takviye profillerin kenarlarının şasenin kenarlarıyla aynı hizada olmasını ister. Takviye, şasenin ani kesit değişimi yapmadan başlayıp bitmesine dikkat edilerek yerleştirilir; takviyenin bittiği yer, gerilmenin yığıldığı yerdir."
+    },
+    {
+      "type": "h2",
+      "text": "Takviyede kaynak ve delik kuralları nelerdir?"
+    },
+    {
+      "type": "callout",
+      "text": "Şase flanşları, yani şasenin üst ve alt yatay kenarları, en çok gerilen bölgelerdir. Flanşa kaynak yapılmaz, flanşa delik açılmaz. Takviye ve bağlantılar şasenin gövdesine, yani dikey levhasına yapılır."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Kaynak:</strong> Servis kılavuzundaki örnekte takviye, gövdeye şaşırtmalı iki sıra tapa kaynağıyla bağlanır; sıralar arasındaki ve kaynaklar arasındaki mesafeler belirlenmiştir ve flanşlara kaynak yapılmaz.",
+        "<strong>Delik:</strong> Kamyon üreticisinin rehberi, mümkünse şasedeki hazır delik düzenlerinin kullanılmasını, yeni deliklerin yalnızca gövdeye açılmasını ister; delik ile flanş arasında ve delikler arasında delik çapının en az üç katı ve belirli bir asgari mesafe bırakılmasını şart koşar. Kurala uymayan eski delikler kaynakla kapatılır.",
+        "<strong>Elektrik:</strong> Kamyon üzerinde kaynaktan önce akü kutup başları sökülür, kaynak şasesi kaynak yerine en yakın noktaya bağlanır; aksi hâlde kamyonun ve vincin elektronik parçaları zarar görebilir.",
+        "<strong>Malzeme:</strong> Takviye profilinin malzemesi ve kaynak yöntemi şasenin çeliğine uygun seçilir; yüksek dayanımlı şase çeliklerinde kamyon üreticisinin kaynak talimatı esastır."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Kaynak işlerimiz için <a href=\"/hizmetler/kaynak-isleri.html\">kaynak işleri</a> sayfamıza bakabilirsiniz. Çatlak bir parçanın kaynakla onarılıp onarılmayacağına nasıl karar verildiğini de <a href=\"/blog/vinc-bom-catlagi-kaynakla-onarilir-mi.html\">vinç bom çatlağı kaynakla onarılır mı</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Yetersiz şasenin belirtileri nelerdir?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Vincin oturduğu bölgede ya da ayak kutusu bağlantısında şasede ince çatlaklar",
+        "Yardımcı şase ile kamyon şasesi arasında açılan aralık, gevşeyen bağlantı cıvataları",
+        "Vinç yük kaldırırken kabin ile kasa ya da vinç arasındaki aralığın belirgin değişmesi",
+        "Şasede kalıcı eğrilik, kamyonun bir yana yatık durması",
+        "Ön süspansiyon askılarında ve şasenin boşaltma deliklerinin çevresinde çatlak",
+        "Ayak açıkken bir tekerin yerden kalkması ya da vincin terazisinin sürekli bozulması"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu belirtilerden biri varsa vinçle yük kaldırmaya devam etmeyin; şase ölçülmeden ve kontrol edilmeden yapılan her kaldırma hasarı büyütür. Ayak kaynaklı sorunları <a href=\"/blog/vinc-ayaklari-outrigger-arizasi.html\">vinç ayakları arızası</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Takviyeden ve montajdan sonra neler kontrol edilir?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Şasenin doğrultusu ve köşegen ölçüleri; takviye kaynağı şaseyi çektiyse bu aşamada görülür.",
+        "Kaynakların görsel kontrolü; gerekiyorsa tahribatsız muayene.",
+        "Vinç bağlantı cıvatalarının ve yardımcı şase bağlantılarının üreticinin torkuyla sıkıldığı.",
+        "Ayaklar açıkken ve vinç yük kaldırırken şasede, kabin ile üst yapı arasında anormal esneme olup olmadığı.",
+        "Montajdan sonraki ilk çalışma haftalarında bağlantı cıvatalarının yeniden kontrolü."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Vincin kendisi de montajdan sonra kullanılmadan önce periyodik kontrolden geçer; güvenliği kurulum şartlarına bağlı ekipmanın her yeni kurulumdan sonra kontrol edilmesi <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> gereğidir. Montajdan sonra vinç üreticisinin istediği denge testi de yapılır: Servis kılavuzu, vincin fabrika şartlarına göre takılmasını ve devrilme dengesinin denenmesini, kamyonun boş ağırlığı yetmiyorsa karşı ağırlık eklenmesini ister. Şase ne kadar güçlü olursa olsun hafif bir kamyon dengeyi tek başına sağlamayabilir; bu yüzden takviye ve denge birlikte değerlendirilir."
+    },
+    {
+      "type": "h2",
+      "text": "Şase takviyesinde evrak nasıl ilerler?"
+    },
+    {
+      "type": "p",
+      "text": "Şaseye takviye yapmak ve vinç bağlamak araç üzerinde tadilattır. Bu tadilatlar <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=22969&MevzuatTur=7&MevzuatTertip=5\">Araçların İmal, Tadil ve Montajı Hakkında Yönetmelik</a> (AİTM) kapsamında projelendirilip belgelenir; ardından araç <a href=\"https://www.tuvturk.com.tr/hizmetlerimiz/muayene-hizmetleri/tadilat-sonrasi-muayene\">TÜVTÜRK'te tadilat sonrası muayeneye</a> girer. Muayene, işin onaylı projeye uygun yapılıp yapılmadığını tespit eder. Ayrıntılar araca ve tadilatın türüne göre değiştiği için güncel belge listesini projeyi hazırlayacak mühendislik bürosundan almanızı öneririz. Takviyeyi projeden önce yapmak, muayenede işi yeniden yapmak anlamına gelebilir."
+    },
+    {
+      "type": "h2",
+      "text": "Milas, Bodrum ve Muğla'da şase takviyesi nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Şase takviyesinde işe ölçümle başlıyoruz. WhatsApp hattımıza şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Kamyonun ruhsatı ya da teknik föyü: marka, model, dingil mesafesi ve dingil kapasiteleri",
+        "Takılacak ya da takılı vincin etiketi: marka, model ve yıl",
+        "Kabin arkasından şasenin yan ve alt fotoğrafları; varsa çatlak ve eski kaynakların yakın fotoğrafları",
+        "Şasenin yükseklik, flanş genişliği ve kalınlık ölçüsü; ölçemiyorsanız biz ölçeriz",
+        "Aracın bulunduğu yer"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Ölçüm, doğrultma, takviye ve braket imalatı için <a href=\"/hizmetler/kamyon-sase-giydirme.html\">kamyon şase düzeltme ve giydirme</a>, vincin söküm ve montajı için <a href=\"/hizmetler/hiyap-vinc-tamiri.html\">hiyap vinç tamiri</a> sayfalarımıza bakabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Kabin arkasındaki vinç, bütün kuvvetini şasenin kısa bir bölgesine verir.",
+    "Şasenin yeterliliği kesit modülü ve eğilme dayanımı hesaplanarak belirlenir.",
+    "Ön süspansiyon bölgesinde kesit değerleri çoğu zaman düşer; ayrıca ölçülmelidir.",
+    "Flanşa kaynak yapılmaz ve delik açılmaz; takviye gövdeye bağlanır.",
+    "Takviye tadilattır; projeyle başlamak işi iki kez yapmayı önler."
+  ],
+  "faqs": [
+    {
+      "q": "Hiyap takmak için şase takviyesi şart mı?",
+      "a": "Her zaman değil. Kamyonun şasesi vincin üreticisinin istediği kesit modülü ve eğilme dayanımını karşılıyorsa takviye gerekmeyebilir. Karşılamıyorsa, özellikle büyük vinçlerde ve ön ayak kullanılan vinçlerde takviye gerekir."
+    },
+    {
+      "q": "Şase takviyesi nasıl hesaplanır?",
+      "a": "Şase profilinin ölçülerinden kesit modülü hesaplanır, malzemenin akma dayanımıyla çarpılarak eğilme dayanımı bulunur ve vincin üreticisinin istediği değerle karşılaştırılır. Eksik kalan kısım, eklenecek profilin kesit modülüyle tamamlanır."
+    },
+    {
+      "q": "Şase flanşına kaynak yapılır mı?",
+      "a": "Hayır. Flanşlar şasenin en çok gerilen bölgeleridir; flanşa kaynak ve delik çatlak başlatabilir. Takviye ve bağlantılar şasenin dikey gövdesine yapılır."
+    },
+    {
+      "q": "Yardımcı şase ne işe yarar?",
+      "a": "Vincin kuvvetlerini kamyon şasesine daha geniş bir alana yayar, burulmayı azaltır ve vincin bağlantısı için düzgün bir oturma yüzeyi sağlar. Bağlantı şekli kamyon ve vinç üreticisinin talimatına göre belirlenir."
+    },
+    {
+      "q": "Şasede çatlak görürsem ne yapmalıyım?",
+      "a": "Vinçle yük kaldırmayı bırakın ve şaseyi kontrol ettirin. Çatlağın sebebi yetersiz şase, yanlış bağlantı ya da eski bir hatalı kaynak olabilir; sebebi giderilmeden yalnızca çatlağı kaynatmak sorunu çözmez."
+    },
+    {
+      "q": "Şase takviyesi için proje gerekir mi?",
+      "a": "Şase takviyesi ve vinç montajı araç üzerinde tadilattır; AİTM kapsamında projelendirilip belgelenir ve TÜVTÜRK'te tadilat sonrası muayene yapılır. Güncel belge listesini projeyi hazırlayacak mühendislik bürosundan almanızı öneririz."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "NBT30H-2 Service Manual",
+      "publisher": "National Crane (Manitowoc)",
+      "url": "https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf"
+    },
+    {
+      "title": "Bodybuilder Quick Reference Guide – Mechanical",
+      "publisher": "Scania",
+      "url": "https://bodybuilder.scania.com/content/dam/bodybuilder/tbb-files/uk/quick-reference-guides/Bodybuilder_Quick_Reference_Guide_-_Mechanical.pdf"
+    },
+    {
+      "title": "Araçların İmal, Tadil ve Montajı Hakkında Yönetmelik (AİTM)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=22969&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "Tadilat Sonrası Muayene",
+      "publisher": "TÜVTÜRK",
+      "url": "https://www.tuvturk.com.tr/hizmetlerimiz/muayene-hizmetleri/tadilat-sonrasi-muayene"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/kamyon-sase-giydirme.html",
+    "/hizmetler/kaynak-isleri.html",
+    "/hizmetler/hiyap-vinc-tamiri.html",
+    "/blog/vinc-ayaklari-outrigger-arizasi.html",
+    "/blog/vinc-bom-catlagi-kaynakla-onarilir-mi.html"
+  ]
+}

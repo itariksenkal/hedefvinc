@@ -1,0 +1,264 @@
+{
+  "slug": "vinc-hidrolik-tank-ve-filtre-degisimi",
+  "_hedef": "vinç hidrolik filtre değişimi / hidrolik tank temizliği",
+  "title": "Vinç Hidrolik Filtre Değişimi ve Tank Temizliği Rehberi",
+  "h1": "Vinç Hidrolik Filtre Değişimi ve Tank Temizliği: Hangi Filtre, Ne Zaman?",
+  "desc": "Vinç hidrolik filtre değişimi: dönüş, basınç ve emiş filtreleri, gösterge ve bypass, tank havalandırması, eski filtrenin anlattıkları ve tank temizliği.",
+  "category": "Hidrolik",
+  "image": "real_ones/atolye-kabinli-vinc-hidrolik-test.jpg",
+  "imageAlt": "Atölyede hidrolik güç ünitesine bağlanarak test edilen, kabinli ve sarıya boyanmış katlanır bomlu vinç",
+  "kisaCevap": "Vinçte hidrolik filtreler kılavuzdaki çalışma saatinde ya da filtre göstergesi kırmızıya döndüğünde, hangisi önce gelirse, değiştirilir. Tipik bir vinçte dönüş filtresi, bazen basınç ve pilot filtresi, tank içinde emiş süzgeci ve tank kapağında havalandırma filtresi bulunur. Göstergesi kırmızı olan filtre bypass'tan süzülmemiş yağ geçirir. Tank ise pompa arızasından sonra, suda ya da dipte tortu görüldüğünde açılıp temizlenir.",
+  "intro": "Hidrolik yağ değişimi akla gelir ama filtreler ve tank çoğu zaman unutulur. Oysa vincin pompasını, valflerini ve keçelerini kirden koruyan şey yağın kendisi değil, filtrelerdir; tank da kirin ve suyun biriktiği yerdir. Bu yazı vinç ve hiyap sahipleri ile operatörler için vinçte hangi filtrelerin bulunduğunu, filtre göstergesinin ne anlattığını, filtrenin nasıl değiştirildiğini, çıkan filtrenin neye işaret ettiğini ve tankın ne zaman açılıp temizlenmesi gerektiğini anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Vinçte hangi hidrolik filtreler bulunur?"
+    },
+    {
+      "type": "p",
+      "text": "Her vinçte aynı filtre takımı yoktur; doğru liste vincinizin kılavuzunda ve yedek parça kataloğunda yazar. Araç üstü vinçlerde sık karşılaştığımız parçalar şunlardır:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Filtre / parça",
+        "Nerede bulunur?",
+        "Ne iş yapar?"
+      ],
+      "rows": [
+        [
+          "Dönüş filtresi",
+          "Tankın üstünde ya da önünde",
+          "Sistemden tanka dönen yağı süzer; çoğunda kirlilik göstergesi vardır"
+        ],
+        [
+          "Basınç filtresi",
+          "Pompa çıkışında (bazı vinçlerde opsiyon)",
+          "Valflere giden yağı süzer, hassas valfleri korur"
+        ],
+        [
+          "Pilot ya da basınç düşürme filtresi",
+          "Kumanda bloğunun yakınında",
+          "Elektro-hidrolik kumandanın ince kanallarına temiz yağ verir"
+        ],
+        [
+          "Emiş süzgeci",
+          "Tank içinde, pompa emişinde",
+          "Pompayı iri parçalardan korur"
+        ],
+        [
+          "Havalandırma filtresi",
+          "Tank kapağında",
+          "Yağ seviyesi inip çıkarken tanka giren havayı süzer"
+        ],
+        [
+          "Mıknatıslı boşaltma tapası",
+          "Tankın dibinde",
+          "Yağdaki metal parçacıkları tutar"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bir araç üstü vinç üreticisinin <a href=\"https://cms.hiab.com/contentassets/176458ce1b3c4d0e82a446779079d6b8/hiab---435k-hipro---operators-manual.pdf\">kılavuzu</a> vincin hidrolik parçalarını sayarken dönüş filtresini standart, basınç filtresini ise bazı vinçlerde opsiyon olarak gösterir; aynı vinçte pilot hattını besleyen ayrı bir basınç düşürme filtresi de bulunur. Bir başka üreticinin <a href=\"https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf\">servis kılavuzu</a> ise tank içindeki emiş süzgecini, kapaktaki süzgeci ve havalandırmayı, dipteki mıknatıslı boşaltma tapasını ayrı ayrı tarif eder."
+    },
+    {
+      "type": "h2",
+      "text": "Hidrolik filtre ne zaman değişir?"
+    },
+    {
+      "type": "p",
+      "text": "Kılavuzdaki aralıkta ya da gösterge kırmızıya döndüğünde, hangisi önce gelirse. Aralıklar modele göre değişir; iki örnek:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "HIAB'ın bir büyük vinç modeli için kılavuzu: ilk 50 çalışma saatinden sonra, ardından her 500 saatte ya da en az yılda iki kez.",
+        "Aynı üreticinin daha küçük bir model için <a href=\"https://cms.hiab.com/contentassets/bf3eccb61632454ebe644c660fc60311/hiab---t-hiduo-013-038---operators-manual.pdf\">kılavuzu</a>: ilk 50 saatten sonra, ardından her 1.000 saatte ya da en az yılda bir kez."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "İlk 50 saatteki değişimin sebebi, yeni ya da yeni revizyondan çıkmış bir sistemde montajdan kalan kirin ilk saatlerde filtrede toplanmasıdır. Bu yüzden pompa, silindir ya da hortum değişiminden sonra da filtreyi erken değiştirmek mantıklıdır. Tozlu şantiyelerde ve sıcak havada çalışan vinçte aralığı kısaltmak gerekebilir: Servis kılavuzu, ortam koşullarına göre değişen bu aralığın yağ, filtre ve havalandırmanın en az üç ila altı ayda bir incelenerek belirlenmesini önerir."
+    },
+    {
+      "type": "h2",
+      "text": "Filtre göstergesi ve bypass ne anlatır?"
+    },
+    {
+      "type": "p",
+      "text": "Dönüş filtrelerinin çoğunda bir bypass valfi bulunur. Filtre tıkandığında valf açılır ve yağ filtreye uğramadan tanka döner. Bu, pompanın yağsız kalmasını önler ama bedeli ağırdır: Bypass açıkken sisteme süzülmemiş yağ dolaşır. Gösterge tam olarak bu durumu haber verir."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Göstergeyi her gün kontrol edin; kılavuzlar bunu günlük kontrolün içine koyar.",
+        "Göstergeyi yağ çalışma sıcaklığındayken okuyun. Soğuk ve koyu yağ filtrede daha fazla direnç yaratır.",
+        "Gösterge kırmızıya döndüyse filtreyi ertelemeden değiştirin. Servis kılavuzu bu durumda yağdan örnek alınmasını da ister.",
+        "Gösterge yeni değişen filtrede kısa sürede yeniden kırmızıya dönüyorsa sistemde aşınma artıyor olabilir; bu bir filtre sorunu değil, bir teşhis işaretidir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Tank kapağındaki havalandırma filtresi de ihmal edilmemelidir. HIAB'ın arıza tablosu, pompanın ses yapmasının üç sebebinden birini tıkanmış kapak filtresi olarak sayar ve kapağın yıllık bakımda değiştirilmesini ister. Tıkanmış havalandırma tankta vakum yaratır, pompa yağı zor emer."
+    },
+    {
+      "type": "h2",
+      "text": "Hidrolik filtre nasıl değiştirilir?"
+    },
+    {
+      "type": "p",
+      "text": "En önemli kural temizliktir: Filtre değişirken içeri giren kir, filtrenin bir sezon boyunca tutacağından fazlası olabilir."
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Vinci taşıma konumuna alın, sistemi kapatın ve basıncın boşaldığından emin olun.",
+        "Filtre kapağının ve çevresinin tozunu, çamurunu silin.",
+        "Kapağı açın, kartuşu çıkarın; altına yağ için kap koyun.",
+        "O-ring ve contaları kontrol edin, gerekiyorsa yenileyin.",
+        "Kılavuzdaki numarayla aynı ya da eşdeğer süzme inceliğinde yeni kartuşu takın.",
+        "Kapağın doğru oturduğunu kontrol edin, vinci çalıştırıp kaçak olmadığına bakın ve yağ seviyesini tamamlayın."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Vida tipi (spin-on) filtrelerde de sıra aynıdır: filtre başlığını temizleyip eski filtreyi sökmek, contası yağlanmış yeni filtreyi takmak ve kaçak kontrolü yapmak. Ucuz ve süzme inceliği belirsiz bir filtre, vincin valflerine pahalıya mal olabilir."
+    },
+    {
+      "type": "h2",
+      "text": "Eski filtre neyi gösterir?"
+    },
+    {
+      "type": "p",
+      "text": "Çıkan filtre, sistemin içinden alınmış bir numunedir. Kartuşu çöpe atmadan önce bakmak teşhis için değerlidir:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Parlak çelik tozu ya da talaş:</strong> pompa, motor ya da silindir içinde aşınma olabilir.",
+        "<strong>Sarı, pirinç rengi parçacıklar:</strong> pompa ya da motor içindeki bronz parçalarda aşınmayı düşündürür.",
+        "<strong>Lastik ve keçe parçaları:</strong> bir silindirde ya da valfte keçe dağılıyor olabilir.",
+        "<strong>Çamur, kum, lif:</strong> kir dışarıdan giriyor; havalandırma, tank kapağı ya da mil keçeleri kontrol edilmeli.",
+        "<strong>Su ve sümüksü tortu:</strong> yağa su karışmış; yağ değişmeli ve suyun yolu bulunmalı."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Metal parçacık görürseniz filtreyi değiştirip geçmeyin; parçayı ve filtreyi saklayıp servise gösterin. Pompa kaynaklı belirtileri <a href=\"/blog/vinc-hidrolik-pompa-arizasi-belirtileri.html\">vinç hidrolik pompa arızası belirtileri</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Hidrolik tank ne zaman temizlenir?"
+    },
+    {
+      "type": "p",
+      "text": "Her yağ değişiminde tankı açmak gerekmez. Ama şu durumlarda tank açılıp temizlenmelidir:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Pompa, hidrolik motor ya da silindir dağıldıktan sonra; aksi hâlde tank dibindeki metal parçalar yeni parçayı da bozar.",
+        "Yağda su bulunduğunda ya da tank dibinde tortu, çamur veya pas görüldüğünde.",
+        "Mıknatıslı tapada belirgin metal birikimi olduğunda.",
+        "Uzun süre çalışmamış ve içindeki yağı bilinmeyen ikinci el bir vinç alındığında."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Temizlikte yağ tamamen boşaltılır, tankın temizlik kapağı açılır, dipteki tortu tiftiksiz bezle alınır, emiş süzgeci ve mıknatıslı tapa temizlenir, kapak contası yenilenir. Ardından bütün filtreler değiştirilir ve tank yeni yağla, filtreden geçirilerek doldurulur. Servis kılavuzu, sisteme konacak yağın ISO 4406'ya göre 17/14 ya da daha temiz olmasını şart koşar; varilden gelen yeni yağ bu seviyede olmayabilir. Doldurma ve hava alma adımlarını <a href=\"/blog/vinc-hidrolik-yag-degisimi-ne-zaman.html\">hidrolik yağ değişimi</a> yazımızda bulabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Filtre ve tank bakımında en sık hangi hatalar yapılır?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Gösterge kırmızıyken \"bir hafta daha\" diyerek çalışmak.",
+        "Yağı değiştirip filtreleri bırakmak ya da yalnızca dönüş filtresini değiştirip pilot filtresini unutmak.",
+        "Tank kapağını açık bırakmak ya da kaybolan kapağın yerine bez tıkamak.",
+        "Tanka yağı açık bidondan, huni ile ve süzmeden doldurmak.",
+        "Pompa değişiminden sonra tankı temizlemeden yeni pompayı çalıştırmak."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Milas, Bodrum ve Muğla'da filtre ve tank bakımı nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Filtre değişimini çoğu zaman vincin bulunduğu yerde, tank temizliğini ise atölyede yapıyoruz. WhatsApp hattımıza şunları göndermeniz yeterli:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Vincin etiketi: marka, model ve yıl",
+        "Filtre kapaklarının ve üzerindeki numaraların fotoğrafı; varsa eski filtrenin kesilmiş hâli",
+        "Filtre göstergesinin ve tanktan alınmış yağ örneğinin fotoğrafı",
+        "Son yağ ve filtre değişiminin tarihi ya da çalışma saati",
+        "Vincin bulunduğu yer"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Filtre ve conta gibi parçalar için <a href=\"/hizmetler/hidrolik-yedek-parca.html\">hidrolik yedek parça</a>, pompa, valf ve silindir işleri için <a href=\"/hizmetler/vinc-hidrolik-tamiri.html\">vinç hidrolik tamiri</a> sayfalarımıza bakabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Filtre, kılavuzdaki saatte ya da gösterge kırmızıya dönünce, hangisi önce gelirse değişir.",
+    "Kırmızı gösterge, bypass açıldığını ve yağın süzülmeden döndüğünü gösterir.",
+    "Tank kapağındaki havalandırma filtresi tıkanırsa pompa ses yapar.",
+    "Eski filtredeki metal parçacık bir aşınmanın işaretidir; saklanıp gösterilmelidir.",
+    "Pompa ya da silindir dağıldıktan sonra tank açılıp temizlenmelidir."
+  ],
+  "faqs": [
+    {
+      "q": "Vinç hidrolik filtresi kaç saatte değişir?",
+      "a": "Modele göre değişir. Örneğin HIAB'ın kılavuzları ilk 50 saatten sonra bir değişim, ardından bir modelde her 500 saatte ya da yılda iki kez, başka bir modelde her 1.000 saatte ya da yılda bir kez değişim öngörür. Vincinizin kılavuzundaki aralık esastır; gösterge kırmızıya dönerse beklenmez."
+    },
+    {
+      "q": "Filtre göstergesi kırmızı olursa ne olur?",
+      "a": "Filtre tıkanmış ve bypass valfi açılmış demektir; yağ süzülmeden sisteme döner. Vinç çalışmaya devam eder ama pompa ve valfler kirli yağla aşınır. Filtre ertelemeden değiştirilmeli, yağdan örnek alınmalıdır."
+    },
+    {
+      "q": "Yalnızca filtre değiştirmek yeterli mi?",
+      "a": "Yağ temiz, susuz ve süresi dolmamışsa evet. Yağda su, yanık koku ya da ağır kirlilik varsa filtre değişimi sorunu çözmez; yağ da değişir ve kirliliğin kaynağı aranır."
+    },
+    {
+      "q": "Hidrolik tank ne sıklıkla temizlenir?",
+      "a": "Sabit bir aralığı yoktur. Pompa, motor ya da silindir dağıldığında, yağda su bulunduğunda, tank dibinde tortu görüldüğünde ya da geçmişi bilinmeyen bir vinç alındığında tank açılıp temizlenir."
+    },
+    {
+      "q": "Eşdeğer filtre kullanılabilir mi?",
+      "a": "Ölçüsü, süzme inceliği, bypass açma basıncı ve dayanım değerleri orijinaliyle aynı olan kaliteli bir eşdeğer kullanılabilir. Bu değerleri belirsiz bir filtre ise valfleri ve pompayı korumaz. Garanti süresindeki vinçte üreticinin şartına bakılmalıdır."
+    },
+    {
+      "q": "Filtre değişiminden sonra hava almak gerekir mi?",
+      "a": "Yalnızca dönüş filtresi değiştiyse genellikle yağ seviyesini tamamlamak yeterlidir. Emiş tarafı açıldıysa ya da tank boşaltıldıysa bütün fonksiyonlar uç konumlara kadar birkaç kez çalıştırılır ve seviye yeniden kontrol edilir."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "HIAB 435K HiPro Operator's Manual (güvenlik, bakım ve arıza giderme bölümleri)",
+      "publisher": "HIAB",
+      "url": "https://cms.hiab.com/contentassets/176458ce1b3c4d0e82a446779079d6b8/hiab---435k-hipro---operators-manual.pdf"
+    },
+    {
+      "title": "HIAB T-HiDuo 013–038 Operator's Manual",
+      "publisher": "HIAB",
+      "url": "https://cms.hiab.com/contentassets/bf3eccb61632454ebe644c660fc60311/hiab---t-hiduo-013-038---operators-manual.pdf"
+    },
+    {
+      "title": "NBT30H-2 Service Manual",
+      "publisher": "National Crane (Manitowoc)",
+      "url": "https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-hidrolik-tamiri.html",
+    "/hizmetler/hidrolik-yedek-parca.html",
+    "/blog/vinc-hidrolik-yag-degisimi-ne-zaman.html",
+    "/blog/vinc-hidrolik-pompa-arizasi-belirtileri.html"
+  ]
+}

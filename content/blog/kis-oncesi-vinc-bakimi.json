@@ -1,0 +1,255 @@
+{
+  "slug": "kis-oncesi-vinc-bakimi",
+  "_hedef": "kış öncesi vinç bakımı / vinci kışa hazırlama",
+  "title": "Kış Öncesi Vinç Bakımı: Yağ, Hortum, Akü ve Korozyon",
+  "h1": "Kış Öncesi Vinç Bakımı: Hidrolik Yağ, Hortum, Akü, Korozyon ve Depolama",
+  "desc": "Kış öncesi vinç bakımı: hidrolik yağın kıvamı ve suyu, hortumlar, akü ve kumanda bataryası, korozyona karşı önlem ve uzun bekleyecek vincin park edilmesi.",
+  "category": "Vinç Tamiri",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "image": "saha-uzun-bom.jpg",
+  "imageAlt": "Hedef yazılı kamyon üstü katlanır bomlu vinç; operatör kumanda yerinde, bom uzatılmış hâlde şantiyede yük indiriyor",
+  "kisaCevap": "Kış öncesi vinç bakımı beş başlıkta toplanır: hidrolik yağın soğuğa uygun kıvamda ve susuz olması, çatlak ya da terleyen hortumların değiştirilmesi, kamyon aküsü ile kumanda bataryasının kontrolü, açıkta kalan silindir millerinin ve boya hasarlarının korozyona karşı korunması, uzun süre çalışmayacak vincin greslenip taşıma konumunda park edilmesi. Soğuk sabahlarda vinç, yağ ısınmadan yüke sokulmaz.",
+  "intro": "Ege'de kış sert geçmese de vinç için kolay bir mevsim değildir: Sabahlar soğuk, günler yağmurlu ve nemlidir; işlerin azaldığı haftalarda vinç günlerce park yerinde bekler. Yazın yorulan yağ, ısınıp sertleşen hortumlar ve sezon boyunca biriken küçük kusurlar da genellikle ilk soğuklarla birlikte kendini gösterir. Bu yazı, kamyon üstü vinç ve hiyap sahipleriyle operatörleri için kışa girmeden hangi noktalara bakılacağını, soğuk sabahta vincin nasıl çalıştırılacağını ve uzun süre bekleyecek bir vincin nasıl park edileceğini anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Kışa girmeden önce vinçte neye bakılır?"
+    },
+    {
+      "type": "p",
+      "text": "Kısa cevap: yağ, filtre, hortum, akü, açıkta kalan çelik yüzeyler ve gres. Aşağıdaki tablo, her parçanın kışın neden sorun çıkardığını ve kış öncesinde ne yapılacağını özetliyor:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Parça",
+        "Kışın ne olur?",
+        "Kış öncesi ne yapılır?"
+      ],
+      "rows": [
+        [
+          "Hidrolik yağ",
+          "Soğukta koyulaşır; tankta yoğuşan su yağa karışır",
+          "Kıvamı kılavuza göre kontrol edilir; bulanıksa ya da süreyi doldurduysa değiştirilir"
+        ],
+        [
+          "Filtreler ve tank kapağı",
+          "Nemli hava tank kapağındaki havalandırmadan içeri girer",
+          "Filtre göstergesine bakılır, havalandırma filtresi ve kapak kontrol edilir"
+        ],
+        [
+          "Hortumlar",
+          "Yazın ısınıp sertleşen kılıf soğukta çatlar",
+          "Çatlak, terleme, sürtünme ve ezik izi olan hortum değiştirilir"
+        ],
+        [
+          "Kamyon aküsü ve kumanda bataryası",
+          "Soğukta kapasite düşer, marş ve kumanda zorlanır",
+          "Şarj durumu, kutup başları ve yedek batarya kontrol edilir"
+        ],
+        [
+          "Silindir milleri",
+          "Çalışmayan vinçte açıkta kalan mil paslanır",
+          "Mil temizlenir, koruyucu sürülür"
+        ],
+        [
+          "Boya hasarları ve kaynak dikişleri",
+          "Yağmur ve nemle pas başlar",
+          "Metale inen çizikler temizlenip boyanır"
+        ],
+        [
+          "Pim, burç ve döner tabla",
+          "Eski gresin içine su girer",
+          "Kılavuzdaki noktalara taze gres basılır"
+        ],
+        [
+          "Döner gövde ve redüktör yağı",
+          "Yoğuşma suyu birikebilir",
+          "Seviye ve renk kontrol edilir"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu listenin çoğu operatörün kendi yapabileceği kontrollerdir. Yağ değişimi, hortum yenileme ve boya rötuşu gibi işler ise sezonun bittiği haftalara planlanırsa vinç, iş beklerken bakıma girmiş olur."
+    },
+    {
+      "type": "h2",
+      "text": "Hidrolik yağ kışa nasıl hazırlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Yağın kıvamı (viskozitesi) ortam sıcaklığına uygun olmalıdır; doğru yağ, vincin kılavuzunda yazar. Örnek vermek gerekirse bir araç üstü vinç üreticisinin <a href=\"https://cms.hiab.com/contentassets/176458ce1b3c4d0e82a446779079d6b8/hiab---435k-hipro---operators-manual.pdf\">kullanım kılavuzu</a> yağları 40°C'deki kıvamlarına göre şöyle eşleştirir: 32 numara yağ yaklaşık −25°C ile 75°C, 46 numara −15°C ile 90°C, 68 numara ise −5°C ile 90°C arasında kullanılır. Aynı kılavuz yağın çalışma sıcaklığının 70°C'nin altında kalmasını önerir. Yani yazın kalın yağla rahat çalışan bir vinç, soğuk bir sabahta ağır ve hantal hareket edebilir."
+    },
+    {
+      "type": "p",
+      "text": "Kışın asıl tehlike çoğu zaman kıvamdan çok sudur. Gündüz ısınıp gece soğuyan tankta nem yoğuşur ve yağa karışır. Tanktan aldığınız örnek süt gibi bulanıksa yağda su vardır. Bir vinç üreticisinin <a href=\"https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf\">servis kılavuzu</a> basit bir yöntem önerir: Tanktan bir cam kaba örnek alın, yanına ikinci bir kaba yeni yağ koyun ve bir iki saat bekletin. Bulanıklık hava köpüğündense kaybolur; sudan geliyorsa kalır. Yağın ne zaman değişeceğini <a href=\"/blog/vinc-hidrolik-yag-degisimi-ne-zaman.html\">vinç hidrolik yağı değişimi</a> yazımızda ayrıntılı anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Soğuk sabahta vinç nasıl çalıştırılır?"
+    },
+    {
+      "type": "p",
+      "text": "Soğukta hidrolik sistemin aşınması, normal çalışma sıcaklığına göre daha fazladır. Bu yüzden üretici kılavuzları vinci yüke sokmadan önce yağı ısıtmayı ister. HIAB'ın kılavuzlarındaki sıra şöyledir:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "PTO'yu motor düşük devirdeyken devreye alın.",
+        "Sistemi birkaç dakika boşta çalıştırın.",
+        "Ayakları bir dakika kadar aşağı yukarı çalıştırarak yağı ısıtın.",
+        "Sıcaklık 0°C'nin altındaysa ilk birkaç dakika kumanda kollarına dokunmayın.",
+        "İrgatlı vinçte çok soğuk havada (kılavuz −10°C'nin altını örnek verir) irgatı yüksüz olarak iki yönde birkaç dakika çalıştırın."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Milas ve Bodrum'da bu kadar düşük sıcaklıklar seyrek görülür ama sabah ayazı yağın koyulaşmasına yeter. Hareketler ilk dakikalarda ağır geliyor, ısınınca düzeliyorsa bu çoğu zaman bir arıza değil, yağın soğuk olduğunu gösterir. Isındıktan sonra da yavaşlık sürüyorsa pompa ya da filtre tarafına bakmak gerekir."
+    },
+    {
+      "type": "h2",
+      "text": "Hortum, akü ve elektrik tarafında neye bakılır?"
+    },
+    {
+      "type": "p",
+      "text": "Hortumlar yaz boyunca güneşte ve sıcak yağla çalıştıktan sonra kışın sertleşir. Kılıfında çatlak, kabarma, terleme ya da sürtünmeden kaynaklanan aşınma olan hortum, soğuk bir sabahta ilk basınçta patlayabilir. Hortumların neden ve nerede patladığını <a href=\"/blog/hidrolik-hortum-neden-patlar.html\">hidrolik hortum neden patlar</a> yazımızda anlattık."
+    },
+    {
+      "type": "p",
+      "text": "Soğukta akünün verebileceği güç azalır. Kamyon aküsü hem motoru çalıştırır hem de vincin elektrik ve kumanda sistemini besler; zayıf bir akü sabah ilk çalıştırmada hem marşta hem de kumandada sorun çıkarır. Kutup başlarını temizleyin, şarj durumunu ölçtürün. Telsiz kumandanın bataryası da soğuktan etkilenir: Aynı kılavuz, kumanda bataryası için 0°C ile 45°C arasındaki çalışma sıcaklığını verir ve kumandanın kullanılmadığı zamanlarda 10°C'nin üzerinde bir yerde saklanmasını önerir. Soketlere ve bağlantı kutularına su girmemesi için kapakların ve contaların yerinde olduğundan emin olun."
+    },
+    {
+      "type": "h2",
+      "text": "Korozyon kışın neden hızlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Nem, yağmur ve donma noktasının hemen üzerindeki sıcaklıklar korozyonu hızlandırır. Servis kılavuzu, nemin uzun süre kaldığı koşulların ve özellikle tuzlu suya yakın çalışmanın temizlik sıklığını artırmayı gerektirdiğini yazar. Kışın en çok zarar gören yer silindir milleridir: Milin üzerindeki krom kaplamada gözle görünmeyen ince çatlaklar vardır. Her gün çalışan bir vinçte ısınan yağ bu çatlaklara girip mili korur; günlerce çalışmayan bir vinçte ise nem çatlaklardan alttaki çeliğe ulaşır ve mil paslanır. Paslı mil keçeyi keser, sonra da kaçak başlar."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Açıkta kalan silindir millerini temizleyip uygun bir koruyucuyla yağlayın; vinç uzun süre çalışmayacaksa bu işi aralıklarla tekrarlayın.",
+        "Metale kadar inen boya çiziklerini kışa girmeden temizletip boyatın. Yalnızca astar yeterli değildir; astar zamanla su geçirir.",
+        "Yıkamadan sonra vinci kurutun ve gresleyin; yüksek basınçlı suyu valflere, silindir keçelerine, rulmanlara ve elektrik parçalarına tutmayın."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Kışın uzun süre çalışmayacak vinç nasıl park edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Kılavuzlar, bir aydan uzun çalışmayacak vincin kılavuza göre baştan sona greslenmesini ve taşıma konumunda park edilmesini ister. Buna birkaç pratik ekleme yapıyoruz:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bomu tamamen toplayın, kancayı yerine bağlayın, ayakları kilitleyin.",
+        "Tanktaki yağı kılavuzdaki seviyede tutun ve tank kapağının sağlam olduğundan emin olun.",
+        "Açıkta kalan millere koruyucu sürün.",
+        "Kumanda bataryasını kuru ve ılık bir yerde saklayın.",
+        "Mümkünse ayda bir vinci çalıştırıp her hareketi birkaç kez yapın; yağ keçelere ve millere yeniden yayılır.",
+        "Yeniden işe başlamadan önce günlük kontrolü eksiksiz yapın; uzun süre kullanılmayan vinçte periyodik kontrolün yenilenmesi de gerekebilir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Son madde önemlidir: <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> çerçevesinde ekipmanın uzun süre kullanılmaması, güvenliği etkileyebilecek durumlar arasında sayılır. Ayrıntısını <a href=\"/blog/vinc-periyodik-kontrol-oncesi-bakim.html\">vinç periyodik kontrolü</a> yazımızda bulabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Kış, revizyon için neden iyi bir zamandır?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü işler azalır. Yazın vinci bir hafta çalıştıramamak iş kaybı demektir; kışın aynı hafta çoğu zaman boşa geçer. Sezon boyunca not ettiğiniz kaçakları, boşlukları ve sesleri kışın giderirseniz bahar yoğunluğuna hazır girersiniz. Revizyonun gerekip gerekmediğini anlamak için <a href=\"/blog/vinc-revizyonu-ne-zaman.html\">vinç revizyonu ne zaman gerekir</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Milas, Bodrum ve Muğla'da kış bakımı nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Kış bakımını atölyemizde ya da vincin bulunduğu yerde yapabiliyoruz. WhatsApp hattımızdan şunları göndermeniz işi kolaylaştırır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Vincin ve kamyonun genel fotoğrafı, etiketteki marka, model ve yıl",
+        "Silindir millerinin, hortumların ve paslanan yerlerin yakından fotoğrafları",
+        "Soğuk sabah çalıştırmasının kısa bir videosu; ses ya da ağırlık varsa duyulacak şekilde",
+        "Son yağ ve filtre değişiminin tarihi ya da çalışma saati",
+        "Vincin bulunduğu yer: Milas, Bodrum, Güllük ya da Muğla'nın başka bir ilçesi"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu bilgilerle hangi işin sahada, hangisinin atölyede yapılacağını önceden konuşuruz. Atölyede yaptığımız bakım ve revizyon işleri için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> sayfamıza, Muğla genelindeki tamir işleri için <a href=\"/bolgeler/mugla-vinc-tamiri.html\">Muğla vinç tamiri</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Kışın asıl tehlike tankta yoğuşan sudur; bulanık yağ değiştirilir.",
+    "Soğuk sabahta önce PTO düşük devirde açılır, yağ ısınmadan yük kaldırılmaz.",
+    "Çalışmayan vincin açıktaki silindir milleri paslanır; koruyucu sürülmelidir.",
+    "Bir aydan uzun bekleyecek vinç greslenip taşıma konumunda park edilir.",
+    "Kış, işler azaldığı için revizyon ve hortum yenileme için uygun dönemdir."
+  ],
+  "faqs": [
+    {
+      "q": "Vinç kışın neden ağır çalışır?",
+      "a": "Soğukta hidrolik yağ koyulaşır ve pompanın yağı emmesi, valflerin yağı geçirmesi zorlaşır. Hareketler ısındıkça düzeliyorsa sebep çoğu zaman yağın soğuk olmasıdır. Isındıktan sonra da yavaşlık sürüyorsa pompa, filtre ya da yağın kendisi kontrol edilmelidir."
+    },
+    {
+      "q": "Kışın hidrolik yağ değiştirmek gerekir mi?",
+      "a": "Her kış değil. Yağ kılavuzdaki aralığı doldurduysa, bulanıksa ya da içinde su varsa değiştirilir. Kullandığınız yağın kıvamı bölgenin kış sıcaklığına uymuyorsa kılavuzdaki uygun yağa geçilir. Farklı yağlar birbirine karıştırılmaz."
+    },
+    {
+      "q": "Hidrolik yağda su olduğu nasıl anlaşılır?",
+      "a": "Tanktan alınan örnek süt gibi bulanıksa ve bekletince açılmıyorsa yağda su vardır. Köpükten gelen bulanıklık birkaç saat içinde kaybolur. Su bulunan yağda filtre değiştirmek yetmez; yağ değişir ve suyun nereden girdiği araştırılır."
+    },
+    {
+      "q": "Kışın uzun süre çalışmayacak vinç için ne yapılmalı?",
+      "a": "Vinç kılavuza göre greslenir, bom toplanıp taşıma konumuna alınır, açıktaki millere koruyucu sürülür ve kumanda bataryası ılık bir yerde saklanır. Mümkünse ayda bir vinç çalıştırılıp bütün hareketler birkaç kez yapılır."
+    },
+    {
+      "q": "Soğukta hortum neden patlar?",
+      "a": "Yazın ısınarak yaşlanan kılıf soğukta sertleşir ve esnekliğini kaybeder; zaten çatlamış, sürtünmüş ya da ezilmiş bir hortum ilk basınçta patlayabilir. Kış öncesinde çatlak ve terleyen hortumları değiştirmek bu riski azaltır."
+    },
+    {
+      "q": "Kış bakımını sahada yapıyor musunuz?",
+      "a": "Gresleme, filtre ve hortum kontrolü, akü ve kumanda kontrolü gibi işleri vincin bulunduğu yerde yapabiliyoruz. Yağ değişimi, silindir keçesi, boya ve kaynak gerektiren işleri ise atölyemizde yapmak daha sağlıklıdır. Hangisinin gerektiği fotoğraf ve videoya bakarak konuşulur."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "HIAB 435K HiPro Operator's Manual (güvenlik, bakım ve arıza giderme bölümleri)",
+      "publisher": "HIAB",
+      "url": "https://cms.hiab.com/contentassets/176458ce1b3c4d0e82a446779079d6b8/hiab---435k-hipro---operators-manual.pdf"
+    },
+    {
+      "title": "HIAB T-HiDuo 013–038 Operator's Manual",
+      "publisher": "HIAB",
+      "url": "https://cms.hiab.com/contentassets/bf3eccb61632454ebe644c660fc60311/hiab---t-hiduo-013-038---operators-manual.pdf"
+    },
+    {
+      "title": "NBT30H-2 Service Manual",
+      "publisher": "National Crane (Manitowoc)",
+      "url": "https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/hizmetler/hiyap-vinc-tamiri.html",
+    "/blog/vinc-hidrolik-yag-degisimi-ne-zaman.html",
+    "/blog/hidrolik-hortum-neden-patlar.html",
+    "/blog/vinc-revizyonu-ne-zaman.html"
+  ]
+}

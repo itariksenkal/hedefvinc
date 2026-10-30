@@ -1,0 +1,250 @@
+{
+  "slug": "vinci-baska-kamyona-aktarma",
+  "_hedef": "vinci başka kamyona takma / hiyap kamyon değiştirme / vinç aktarma",
+  "title": "Vinci Başka Kamyona Aktarma: PTO, Pompa, Şase ve Evrak",
+  "h1": "Vinci Başka Kamyona Aktarma: PTO, Pompa, Şase, Montaj ve Evrak Sırası",
+  "desc": "Vinci başka kamyona aktarma: yeni kamyonun dingil ve şase uygunluğu, PTO ve pompa yönü, yardımcı şase, hortumlar, tadilat projesi ve montaj sonrası kontrol.",
+  "category": "Atölye",
+  "image": "real_ones/vincli-kamyonun-tasinmasi-atolye-onu.jpg",
+  "imageAlt": "Üzerinde yeşil vinç bulunan eski bir kamyon, sanayi binası önünde taşıyıcı kamyonun kasasına kayışla bağlanıyor",
+  "kisaCevap": "Vinci başka bir kamyona aktarmak sök-tak işi değildir. Önce yeni kamyonun dingil kapasitesi, dingil mesafesi ve şase dayanımı vincin üreticisinin istediği değerlerle karşılaştırılır. Ardından PTO ve pompa devri ile dönüş yönü eşleştirilir, şase gerekiyorsa takviye edilir, vinç yardımcı şaseyle bağlanır, hortumlar yeniden yapılır. İş tadilat projesi, muayene ve montaj sonrası periyodik kontrolle tamamlanır.",
+  "intro": "Kamyon yaşlandığında, satıldığında ya da işe küçük geldiğinde akla gelen ilk fikir vinci sökmek ve yeni kamyona takmaktır. Vinç sağlamsa bu çoğu zaman mantıklı bir yoldur; ama yanlış kamyon, yanlış PTO ya da güçlendirilmemiş bir şase, sağlam vinci de riskli hâle getirir. Bu yazı kamyon üstü vinç ve hiyap sahipleri için aktarmaya karar vermeden önce neye bakılacağını, PTO ve pompa tarafında nelerin eşleşmesi gerektiğini, atölyede işin hangi sırayla yürüdüğünü ve evrak tarafını anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Vinç her kamyona takılabilir mi?"
+    },
+    {
+      "type": "p",
+      "text": "Hayır. Vinç üreticileri, vincin takılacağı kamyon için asgari değerler verir. Bir vinç üreticisinin <a href=\"https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf\">servis kılavuzu</a> bu değerleri tek tek sayar: ön ve arka dingil kapasitesi, toplam ağırlık, dingil mesafesi, kabin arkasından dingile ve dingilden şase sonuna kadar olan ölçüler, şasenin dayanımı ve vinç takılmadan önce kamyonun boş ağırlığı ile ağırlık merkezi. Aynı kılavuz, vincin fabrika şartlarına göre takılmasını ve montajdan sonra devrilme dengesinin denenerek gerekirse karşı ağırlık eklenmesini ister."
+    },
+    {
+      "type": "p",
+      "text": "Kısacası yeni kamyonu seçerken yalnızca \"vinç sığıyor mu\" diye değil, şu sorularla bakmak gerekir:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Soru",
+        "Neden önemli?",
+        "Nereden bakılır?"
+      ],
+      "rows": [
+        [
+          "Dingil kapasiteleri yeterli mi?",
+          "Vinç, ayaklar ve yük ön dingili ciddi şekilde yükler",
+          "Kamyonun ruhsatı ve üretici etiketi, vincin kılavuzu"
+        ],
+        [
+          "Dingil mesafesi ve şase boyu uygun mu?",
+          "Vinç kabin arkasına sığmalı, kasa boyu ve yasal boy aşılmamalı",
+          "Kamyon teknik föyü, vincin montaj ölçüleri"
+        ],
+        [
+          "Şase dayanımı yeterli mi?",
+          "Zayıf şase eğilir ya da çatlar",
+          "Şase profilinin ölçüsü, vincin istediği değer"
+        ],
+        [
+          "Kamyonun PTO'su var mı, hangi oranda?",
+          "Pompa doğru devirde dönmeli",
+          "Şanzıman etiketi, PTO üreticisinin tablosu"
+        ],
+        [
+          "Kabin arkasında ayak için yer var mı?",
+          "Ayak kutusu egzoz, tank ve akü yerine denk gelebilir",
+          "Kamyonun şase yerleşimi"
+        ],
+        [
+          "Devrilme dengesi sağlanıyor mu?",
+          "Hafif kamyonda karşı ağırlık gerekebilir",
+          "Montaj sonrası denge testi"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "PTO ve pompa tarafında neler eşleşmeli?"
+    },
+    {
+      "type": "p",
+      "text": "Pompa, eski kamyonda doğru çalışıyor diye yeni kamyonda da doğru çalışmaz. Üç şey eşleşmelidir:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Devir:</strong> Pompa milinin devri, motor devri ile PTO oranının çarpımıdır. Servis kılavuzu, motorun uygun devir aralığına göre hangi PTO oranının pompayı doğru devre getireceğini bir tabloyla verir. Oran yanlışsa pompa ya yavaş döner ve vinç ağır çalışır ya da fazla döner ve yağ ısınır.",
+        "<strong>Dönüş yönü:</strong> PTO çıkış milinin dönüş yönü, pompanın yönüyle aynı olmalıdır. Kılavuz, pompanın ters yönde döndürülmesinin pompaya zarar vereceği uyarısını yapar; pompa seçilmeden önce PTO'nun yönü doğrulanmalıdır.",
+        "<strong>Güç ve bağlantı:</strong> PTO'nun verebileceği güç, pompanın istediğinden az olmamalıdır. Doğrudan PTO'ya takılan pompanın ağırlığı bir destek kayışıyla şanzımana taşıtılır, kamalı mil bağlantısı üreticinin istediği gresle yağlanır."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "PTO'nun hangi vites ve devirde devreye alınacağı da kamyon üreticisinin talimatına bağlıdır. PTO kaynaklı belirtileri <a href=\"/blog/hiyap-vinc-arizalari-ve-cozumleri.html\">hiyap arızaları ve çözümleri</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Şase ve yardımcı şase nasıl hazırlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Vinç kamyon şasesine doğrudan değil, çoğu zaman bir yardımcı şase ve bağlantı braketleriyle oturur. Bu aşamada üç kural sahada en sık çiğnenen kurallardır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Şase yetersizse takviye edilir; takviyenin tipi ve ölçüsü vincin ve kamyonun üreticisinin değerlerine göre belirlenir.",
+        "Şaseye delik yalnızca gövdeye (dikey levhaya) açılır, flanşlara açılmaz. Bir kamyon üreticisinin <a href=\"https://bodybuilder.scania.com/content/dam/bodybuilder/tbb-files/uk/quick-reference-guides/Bodybuilder_Quick_Reference_Guide_-_Mechanical.pdf\">üst yapı rehberi</a> flanşların en çok gerilen bölge olduğunu yazar, delikler arası ve delik ile flanş arası en küçük mesafeleri verir.",
+        "Kamyon üzerinde kaynak yapılacaksa akü kutup başları sökülür, kaynak şasesi kaynak yerine en yakın noktaya bağlanır; servis kılavuzu bu önlemlerle kamyonun ve vincin elektronik parçalarının korunmasını ister."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Şase işleri için <a href=\"/hizmetler/kamyon-sase-giydirme.html\">kamyon şase düzeltme ve giydirme</a> sayfamıza bakabilirsiniz; şasesi eğilmiş ya da çatlamış eski bir kamyondan vinç aktarılıyorsa yeni şasenin ölçüsü ayrıca alınmalıdır."
+    },
+    {
+      "type": "h2",
+      "text": "Aktarma atölyede hangi sırayla yapılır?"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Vinç ve kamyon için belgeler toplanır, yeni kamyonun ölçüleri ve kapasiteleri vincin istediğiyle karşılaştırılır.",
+        "Tadilat projesi için mühendislik bürosuyla görüşülür; iş projeye göre planlanır.",
+        "Vinç eski kamyondan sökülür; söküm sırasında kolon, döner tabla, ayaklar ve hortumlar kontrol edilir.",
+        "Yeni kamyonun şasesi ölçülür, gerekiyorsa takviye edilir, yardımcı şase ve braketler hazırlanır.",
+        "PTO, pompa, tank ve hatlar yerleştirilir; hortumlar yeni yerleşime göre yeniden yapılır.",
+        "Vinç yerine oturtulur, bağlantı cıvataları üreticinin torkuyla sıkılır.",
+        "Yağ doldurulur, sistem havası alınır, bütün hareketler ve emniyet sistemleri denenir.",
+        "Muayene ve periyodik kontrol tamamlanmadan vinç işe çıkmaz."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Söküm, revizyon için de iyi bir fırsattır. Vinç zaten kamyondan inmişken keçe, pim, burç ve hortum yenilemek, sonradan ayrıca söküp takmaktan çok daha ekonomiktir. Bu kararı <a href=\"/blog/vinc-tamiri-mi-yenisi-mi.html\">vinç tamiri mi yeni vinç mi</a> yazımızdaki dört soruyla vermek kolaylaşır."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç eski kamyondan sökülürken neye dikkat edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Söküm, montaj kadar özen ister. Vinç toplanmış ve taşıma konumundayken, ağırlığına uygun kaldırma ekipmanıyla ve üreticinin gösterdiği kaldırma noktalarından kaldırılır. Hortumlar sökülmeden önce sistemin basıncı boşaltılır, uçlar tıpalanır ve her hat etiketlenir; böylece hem kir girmez hem de yeni montajda hatlar karışmaz. Elektrik bağlantıları ve sınırlayıcı kabloları da işaretlenerek ayrılır. Vinç yere ya da sehpaya devrilmeyecek şekilde, ayaklarıyla dengeli oturtulur. Bu sırada kolonun alt kısmında, döner tablada ve bağlantı plakalarında çatlak ya da şekil bozukluğu olup olmadığına bakılır; yeni kamyona taşınacak bir kusur, montajdan önce giderilmelidir."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç aktarmada evrak tarafı nasıl ilerler?"
+    },
+    {
+      "type": "p",
+      "text": "Kamyona vinç takmak ya da vinci başka bir kamyona taşımak, aracın üzerinde tadilattır. Araçlarda hangi tadilatların nasıl belgeleneceğini <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=22969&MevzuatTur=7&MevzuatTertip=5\">Araçların İmal, Tadil ve Montajı Hakkında Yönetmelik</a> (AİTM) düzenler; tadilatın ardından araç <a href=\"https://www.tuvturk.com.tr/hizmetlerimiz/muayene-hizmetleri/tadilat-sonrasi-muayene\">TÜVTÜRK'te tadilat sonrası muayeneye</a> girer ve muayene, yapılan işin onaylı projeye uygunluğunu tespit eder. Ayrıntılar aracın ve tadilatın türüne göre değiştiği için güncel belge listesini projeyi hazırlayacak mühendislik bürosundan almanızı öneririz. İşe kaynaktan değil, projeden başlamak iki kez iş yapmayı önler."
+    },
+    {
+      "type": "p",
+      "text": "Vincin kendisi için de kural nettir: <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a>, güvenliği kurulum ve montaj şartlarına bağlı ekipmanın kurulduktan sonra ve ilk kullanımdan önce, önemli bakım ve onarımlardan sonra ve her yer değişikliğinde periyodik kontrolden geçirilmesini ister. Yeni kamyona takılan vinç, eski raporuyla çalışmaz. Kontrolün içeriğini <a href=\"/blog/vinc-periyodik-kontrol-oncesi-bakim.html\">vinç periyodik kontrolü</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Aktarmada en sık hangi hatalar yapılır?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Kamyonu yalnızca fiyatına ve boyuna bakarak almak, dingil ve şase değerlerini sonradan kontrol etmek.",
+        "Eski pompayı PTO yönünü ve oranını kontrol etmeden yeni kamyona takmak.",
+        "Şaseye flanştan delik açmak ya da flanşa kaynak yapmak.",
+        "Eski hortumları yeni yerleşimde gergin ya da sürtünecek şekilde kullanmak.",
+        "Montajdan sonra denge testini ve periyodik kontrolü atlamak."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Milas, Bodrum ve Muğla'da vinç aktarma nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Aktarma işinde önce iki aracı da kâğıt üzerinde eşleştiriyoruz. WhatsApp hattımıza şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Vincin etiketi: marka, model, yıl ve seri numarası",
+        "Yeni kamyonun ruhsatı ya da teknik föyü: dingil kapasiteleri, dingil mesafesi",
+        "Yeni kamyonun şanzıman etiketi ve varsa PTO bilgisi",
+        "Kabin arkasının ve şasenin fotoğrafları; egzoz, tank ve akünün yerleri görünecek şekilde",
+        "Vincin ve kamyonun bulunduğu yer"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Vincin sökümü, revizyonu ve montajı için <a href=\"/hizmetler/hiyap-vinc-tamiri.html\">hiyap vinç tamiri</a>, yeni hortumlar için <a href=\"/hizmetler/pres-hortum.html\">pres hortum</a> sayfalarımıza bakabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Yeni kamyonun dingil, şase ve ölçü değerleri vincin üreticisinin istediğiyle karşılaştırılır.",
+    "Pompa devri motor devri ile PTO oranından çıkar; dönüş yönü PTO ile aynı olmalıdır.",
+    "Şaseye delik yalnızca gövdeye açılır, flanşa açılmaz ve kaynak yapılmaz.",
+    "Vinç montajı araçta tadilattır; projeyle başlamak işi iki kez yapmayı önler.",
+    "Yeni kamyona takılan vinç kullanılmadan önce periyodik kontrolden geçer."
+  ],
+  "faqs": [
+    {
+      "q": "Vinç başka bir kamyona takılabilir mi?",
+      "a": "Evet, vinç sağlamsa ve yeni kamyon vincin üreticisinin istediği dingil kapasitesi, dingil mesafesi ve şase dayanımını karşılıyorsa takılabilir. Montajdan sonra denge testi ve periyodik kontrol yapılır."
+    },
+    {
+      "q": "Eski pompa yeni kamyonda kullanılabilir mi?",
+      "a": "Pompa sağlamsa kullanılabilir; ama yeni kamyonun PTO dönüş yönü pompanın yönüyle aynı olmalı ve PTO oranı pompayı doğru devirde döndürmelidir. Ters yönde dönen pompa zarar görür."
+    },
+    {
+      "q": "Vinç takmak için şase takviyesi gerekir mi?",
+      "a": "Kamyonun şasesi vincin üreticisinin istediği dayanımı karşılamıyorsa gerekir. Takviyenin tipi ve ölçüsü şasenin ölçülmesi ve üretici değerleriyle karşılaştırılmasıyla belirlenir."
+    },
+    {
+      "q": "Vinç aktarma için tadilat projesi gerekir mi?",
+      "a": "Vinç montajı araç üzerinde bir tadilattır ve AİTM kapsamında belgelenir; ardından TÜVTÜRK'te tadilat sonrası muayene yapılır. Güncel belge listesini projeyi hazırlayacak mühendislik bürosundan almanızı öneririz."
+    },
+    {
+      "q": "Eski periyodik kontrol raporu yeni kamyonda geçerli mi?",
+      "a": "Hayır. İş Ekipmanları Yönetmeliği, güvenliği kurulum şartlarına bağlı ekipmanın her yeni kurulumdan sonra ve ilk kullanımdan önce kontrol edilmesini ister. Yeni kamyona takılan vinç yeniden kontrol edilir."
+    },
+    {
+      "q": "Aktarma sırasında revizyon yapmak mantıklı mı?",
+      "a": "Çoğu zaman evet. Vinç zaten söküldüğü için keçe, pim, burç ve hortum yenilemek ayrıca söküp takmaktan daha ekonomiktir. Hangi parçaların yenileneceği söküm sırasındaki kontrolle belirlenir."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "NBT30H-2 Service Manual",
+      "publisher": "National Crane (Manitowoc)",
+      "url": "https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf"
+    },
+    {
+      "title": "Bodybuilder Quick Reference Guide – Mechanical",
+      "publisher": "Scania",
+      "url": "https://bodybuilder.scania.com/content/dam/bodybuilder/tbb-files/uk/quick-reference-guides/Bodybuilder_Quick_Reference_Guide_-_Mechanical.pdf"
+    },
+    {
+      "title": "Araçların İmal, Tadil ve Montajı Hakkında Yönetmelik (AİTM)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=22969&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "Tadilat Sonrası Muayene",
+      "publisher": "TÜVTÜRK",
+      "url": "https://www.tuvturk.com.tr/hizmetlerimiz/muayene-hizmetleri/tadilat-sonrasi-muayene"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/kamyon-sase-giydirme.html",
+    "/hizmetler/hiyap-vinc-tamiri.html",
+    "/hizmetler/pres-hortum.html",
+    "/blog/vinc-periyodik-kontrol-oncesi-bakim.html",
+    "/blog/vinc-tamiri-mi-yenisi-mi.html"
+  ]
+}

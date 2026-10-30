@@ -1,0 +1,281 @@
+{
+  "slug": "periyodik-kontrol-raporundaki-eksikler-nasil-giderilir",
+  "_hedef": "periyodik kontrol raporu uygunsuzluk / vinç periyodik kontrol eksikleri giderme",
+  "title": "Periyodik Kontrol Raporundaki Eksikler Nasıl Giderilir?",
+  "h1": "Periyodik Kontrol Raporundaki Eksikler Nasıl Giderilir? Raporu Okuma ve İkinci Kontrol",
+  "desc": "Vinç periyodik kontrol raporunda uygunsuzluk mu çıktı? Raporun bölümleri, sık çıkan eksikler, giderme sırası ve ikinci kontrol; yönetmeliğe göre adım adım.",
+  "category": "Vinç Tamiri",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "cta": "tamir",
+  "image": "real_ones/atolye-kabinli-vinc-hidrolik-test.jpg",
+  "imageAlt": "Atölyede hidrolik güç ünitesine bağlanmış, kabinli sarı katlanır bomlu vinç; üzerinde Retrofit Hedef Crane etiketi",
+  "kisaCevap": "Periyodik kontrol raporunda uygunsuzluk çıktıysa önce “Kusur Açıklamaları” ve “Sonuç ve Kanaat” bölümlerini okuyun. Raporda eksikler giderilmeden kullanılmasının uygun olmadığı yazıyorsa vinç çalıştırılmaz ve görünür şekilde işaretlenir. Her madde iş listesine çevrilir, onarılır ve yapılan iş yazılı hâle getirilir. Eksikler giderildikten sonra ikinci kontrol yapılır ve vincin kullanılabileceğini belirten ikinci rapor düzenlenir.",
+  "intro": "Bu yazı; elinde eksik maddeleri olan ya da “kullanılamaz” sonuçlu bir periyodik kontrol raporu bulunan vinç sahipleri, şantiye şefleri ve iş güvenliği uzmanları için. Rapor geldiğinde ilk soru genellikle “Vinç ne zaman tekrar çalışır?” olur. Bunun cevabı, raporu doğru okumaktan ve maddeleri doğru sırayla gidermekten geçer. Kontrolün kim tarafından, ne sıklıkla yapıldığını <a href=\"/blog/vinc-periyodik-kontrol-oncesi-bakim.html\">vinç periyodik kontrolü</a> yazımızda anlattık; burada rapordan sonrasına odaklanıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Periyodik kontrol raporu nasıl okunur?"
+    },
+    {
+      "type": "p",
+      "text": "Raporun bölümleri, <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a>'nin Ek-III'ünde sayılır. Uygunsuzlukları anlamak için şu bölümleri dikkatle okumak yeterlidir:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Bölüm",
+        "Ne yazar",
+        "Neden önemli"
+      ],
+      "rows": [
+        [
+          "Genel bilgiler",
+          "Kontrol tarihleri ve bir sonraki kontrolün başlangıç tarihi",
+          "Hafif kusurların giderilmesi gereken son tarihi bu belirler"
+        ],
+        [
+          "Ekipman bilgileri",
+          "Marka, model, imal yılı, seri numarası ve tespit edilen değerler",
+          "Rapordaki vincin sizin vinciniz olduğunu doğrulayın"
+        ],
+        [
+          "Test değerleri",
+          "Uygulanan testlerle ilgili bilgiler",
+          "Hangi testin yapıldığını gösterir"
+        ],
+        [
+          "Kusur açıklamaları",
+          "Kontrol kriterlerine göre bulunan uygunsuzluklar",
+          "İş listesinin kaynağı burasıdır"
+        ],
+        [
+          "Notlar",
+          "Kontrol sürecine ait ayrıntılar",
+          "Yönetmeliğe göre uygunsuzluk bu bölüme yazılamaz"
+        ],
+        [
+          "Sonuç ve kanaat",
+          "Vincin kullanılabileceği ya da uygunsuzluk giderilene kadar kullanılamayacağı",
+          "Vincin bugün çalışıp çalışamayacağını bu cümle söyler"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Raporda kontrolü yapan kişinin adı, mesleği ve EKİPNET kayıt numarası bulunur; yetkili kişinin imzası olmayan rapor geçersizdir. Bu bilgileri ikinci kontrolü planlarken de kullanacaksınız."
+    },
+    {
+      "type": "h2",
+      "text": "Hafif kusur ile ağır kusur arasındaki fark nedir?"
+    },
+    {
+      "type": "p",
+      "text": "Bakanlığın o ekipman için yayımladığı periyodik kontrol rapor formatı ve kriterleri varsa kusurlar hafif ve ağır olarak derecelendirilir. Ağır kusur tespit edilen ekipman, kusur giderilmeden çalıştırılamaz. Hafif kusurlar bir sonraki periyodik kontrolün başlangıç tarihine kadar giderilir; o tarihte düzeltilmemiş hafif kusur ağır kusur sayılır. Bakanlık dokümanı yayımlanmamış ekipmanlarda bu derecelendirme yapılmaz; o zaman belirleyici olan, “Sonuç ve kanaat” bölümünde vincin kullanılıp kullanılamayacağının açıkça yazılmasıdır."
+    },
+    {
+      "type": "p",
+      "text": "Pratikte şunu öneriyoruz: “Hafif” yazan maddeyi de bir sonraki kontrolü beklemeden, en yakın bakımda giderin. Hafif görünen bir kaçak, birkaç ay içinde pompa ya da silindir arızasına dönüşebilir."
+    },
+    {
+      "type": "h2",
+      "text": "Rapor “kullanılamaz” diyorsa ilk ne yapılmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Vinç, eksikler giderilene kadar kullanılmaz. Yönetmelik, işverenin uygunsuz rapor alan ekipmanın kullanılamayacağını rahatça görülecek şekilde işaretlemesini ister. Sırasıyla:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Vinci kullanım dışı bırakın, üzerine görünür bir uyarı koyun; operatörlere ve şantiyeye haber verin.",
+        "Raporun tamamını, özellikle kusur açıklamaları sayfasını fotoğraflayın ya da PDF olarak saklayın.",
+        "Her maddeyi ayrı bir iş kalemi olarak listeleyin; anlamadığınız maddeyi kontrolü yapan kişiye sorun.",
+        "Onarımı yapacak atölyeyle maddeleri birlikte okuyun; hangisinin sahada, hangisinin atölyede yapılacağını belirleyin.",
+        "İkinci kontrolün tarihini ve gereken hazırlığı kontrolü yapacak yetkili kişiyle önceden konuşun."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Raporlarda en sık hangi eksikler çıkar, nasıl giderilir?"
+    },
+    {
+      "type": "p",
+      "text": "Aşağıdaki tablo, kontrol raporlarında sık gördüğümüz maddeleri ve olağan giderme yolunu gösteriyor. Son sütun, işin yönetmelikteki “önemli bakım ve onarım” kapsamına girip girmeyeceğine dair genel bir yön verir; kesin değerlendirme için kontrolü yapacak kişiye danışın."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Rapordaki madde",
+        "Olağan giderme yolu",
+        "Önemli onarım sayılabilir mi?"
+      ],
+      "rows": [
+        [
+          "Silindirde, valfte ya da rekorda yağ kaçağı",
+          "Kaçağın kaynağının bulunması; rekor, hortum ya da keçe yenileme",
+          "Genelde hayır; değişen parçaya bağlı"
+        ],
+        [
+          "Yük altında bom ya da ayak iniyor",
+          "Yük tutma valfi testi ve onarımı, gerekirse silindir revizyonu",
+          "Değişen parçaya bağlı"
+        ],
+        [
+          "Aşırı yük sınırlayıcı, limit ya da acil stop çalışmıyor",
+          "Arızanın giderilmesi, köprülemelerin sökülmesi, ayar ve deneme",
+          "Genelde hayır"
+        ],
+        [
+          "Pim ve burçlarda boşluk, eksik emniyet pimi",
+          "Tornada yeni pim ve burç, emniyet elemanlarının tamamlanması",
+          "Değişen parçaya bağlı"
+        ],
+        [
+          "Kancada mandal eksik ya da ağız açılmış",
+          "Mandalın yenilenmesi; ağzı açılmış kancanın değiştirilmesi",
+          "Değişen parçaya bağlı"
+        ],
+        [
+          "Halatta kopuk tel, ezilme",
+          "Halatın kriterlere göre değerlendirilip değiştirilmesi",
+          "Hayır; halat bu kapsamın dışında tutulur"
+        ],
+        [
+          "Bomda, kolonda ya da ayak kutusunda çatlak",
+          "Muayene, uygun yöntemle kaynak onarımı, gerekirse takviye",
+          "Evet"
+        ],
+        [
+          "Okunmayan yük tablosu ve uyarı etiketleri",
+          "Etiketlerin yenilenmesi",
+          "Hayır"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Hidrolik kaynaklı maddeler için <a href=\"/hizmetler/vinc-hidrolik-tamiri.html\">vinç hidrolik tamiri</a> sayfamıza bakabilirsiniz. Çatlak onarımını <a href=\"/blog/vinc-bom-catlagi-kaynakla-onarilir-mi.html\">vinç bom çatlağı kaynakla onarılır mı</a> yazımızda, emniyet düzeneklerini <a href=\"/blog/yuk-moment-sinirlayici-arizasi.html\">yük moment sınırlayıcı arızası</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Önemli bakım ve onarımdan sonra ne değişir?"
+    },
+    {
+      "type": "p",
+      "text": "Yönetmelik; kaldırma ekipmanlarında konstrüksiyon ve yük kolu gibi kısımlarda yapılan kaynak, kesme, taşlama ve benzeri onarımları ve halat, zincir gibi askı tertibatı dışındaki parça değişimlerini önemli bakım ve onarım sayar. Bu işlerden sonra vinç yetkili kişilerce periyodik kontrolden geçer ve yük testi, kaldırma kapasitesi katsayıyla artırılarak yapılır; genel kural olarak elle işletilmeyen ekipmanda statik testte 1,25, dinamik testte 1,1 katsayısı kullanılır. Bu yüzden ikinci kontrolü planlarken test yükünü ve test alanını da önceden konuşmak gerekir. Hangi onarımın bu kapsama girdiğini, işe başlamadan kontrolü yapacak yetkili kişiyle netleştirin."
+    },
+    {
+      "type": "h2",
+      "text": "Yapılan işi nasıl belgelemelisiniz?"
+    },
+    {
+      "type": "p",
+      "text": "İkinci kontrolde kontrolü yapan kişi, eksiklerin giderildiğini görmek ister. Yönetmelik de bakım ve onarımların kayıt altına alınmasını ve ekipmanın kullanım ömrü boyunca saklanmasını şart koşar. Önerdiğimiz düzen:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Rapordaki her madde için yapılan işin kısa tarifi: hangi parça değişti, hangi ayar yapıldı.",
+        "Değişen parçaların listesi ve mümkünse eski parçanın fotoğrafı.",
+        "Kaynak onarımında onarım bölgesinin önceki ve sonraki fotoğrafları.",
+        "Deneme sonuçları: hangi hareketler yüklü ve yüksüz denendi, kaçak kaldı mı.",
+        "Bu dosyanın bir kopyası vincin bakım klasörüne, bir kopyası ikinci kontrole."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Eksiklerini giderdiğimiz vinçler için yapılan işi madde madde yazılı olarak veriyoruz; ikinci kontrolde bu döküm işinizi kolaylaştırır."
+    },
+    {
+      "type": "h2",
+      "text": "İkinci kontrole vinç nasıl hazırlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Eksikler giderildi diye vinç kendiliğinden kontrole hazır olmaz. İkinci kontrol gününden önce şunları tamamlayın:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Temizlik:</strong> Onarılan bölgeler ve kaçak noktaları temiz olmalı; yağlı yüzeyde kontrolü yapan kişi onarımı göremez.",
+        "<strong>Deneme:</strong> Bütün hareketleri yüklü ve yüksüz çalıştırın; emniyet düzeneklerinin devrede olduğunu doğrulayın.",
+        "<strong>Test yükü ve alan:</strong> Yük testi yapılacaksa test yükünü ve güvenli bir alanı önceden ayarlayın.",
+        "<strong>Belgeler:</strong> İlk rapor, yapılan işin dökümü, kullanım kılavuzu ve yük tablosu el altında olsun.",
+        "<strong>Sözleşme:</strong> Periyodik kontrol hizmeti için İSG-KATİP'teki örneğine uygun sözleşmenin, hizmetten en geç bir gün önce düzenlenip karşılıklı onaylanması gerekir; ikinci kontrolün nasıl işleneceğini kontrolü yapacak kişiye sorun.",
+        "<strong>Operatör:</strong> Vinci tanıyan operatör kontrol sırasında hazır bulunsun."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Milas, Bodrum ve Muğla'da rapordaki eksikler nasıl giderilir?"
+    },
+    {
+      "type": "p",
+      "text": "Raporun kusur açıklamaları sayfasını WhatsApp'tan gönderin; yanına şunları ekleyin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Vincin seri numarası plakasının fotoğrafı: marka, model, seri numarası ve imal yılı.",
+        "Rapordaki maddelerle ilgili yerlerin fotoğrafı ya da kısa videosu: kaçak, çatlak, boşluk.",
+        "Vincin konumu ve yola çıkıp çıkamayacağı.",
+        "İkinci kontrol için düşündüğünüz tarih."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Maddeleri birlikte okuyup iş listesine çeviriyor, hangisinin sahada, hangisinin atölyede yapılacağını ve fiyatı işe başlamadan söylüyoruz. Periyodik kontrolü biz yapmıyoruz; kontrolü yetkili kişi ya da ekipman muayene kuruluşu yapar. Bizim işimiz eksikleri gidermek ve vinci ikinci kontrole hazırlamaktır. Hizmetin ayrıntıları için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "callout",
+      "text": "Raporunuzun kusur açıklamaları sayfasını gönderin; maddeleri birlikte okuyup iş listesine çevirelim."
+    }
+  ],
+  "cikarimlar": [
+    "Önce raporun “Kusur açıklamaları” ve “Sonuç ve kanaat” bölümlerini okuyun.",
+    "Kullanılamaz raporlu vinç işaretlenir ve ikinci rapora kadar çalıştırılmaz.",
+    "Hafif kusur bir sonraki kontrolün başlangıcına kadar giderilmezse ağır kusur sayılır.",
+    "Bomda kaynak gibi önemli onarımlardan sonra katsayılı yük testi gerekir.",
+    "Her madde için yapılan işi yazılı ve fotoğraflı belgeleyin."
+  ],
+  "faqs": [
+    {
+      "q": "Periyodik kontrolde uygunsuz çıkan vinç kullanılabilir mi?",
+      "a": "Raporda eksikler giderilmeden kullanılmasının uygun olmadığı yazıyorsa hayır. Vinç, eksikler giderilip ikinci kontrol yapılana ve kullanılabileceğini belirten ikinci rapor düzenlenene kadar çalıştırılmaz; işveren de ekipmanı görünür şekilde işaretler."
+    },
+    {
+      "q": "Hafif kusurla vinç çalışabilir mi?",
+      "a": "Bakanlığın rapor ve kriter dokümanı olan ekipmanlarda hafif kusurlar bir sonraki periyodik kontrolün başlangıç tarihine kadar giderilebilir; o tarihte giderilmemişse ağır kusur sayılır. Yine de hafif kusurları beklemeden gidermenizi öneririz."
+    },
+    {
+      "q": "İkinci kontrolü kim yapar?",
+      "a": "Periyodik kontrolü yapmaya yetkili kişi ya da ekipman muayene kuruluşu. Atölye kontrol yapmaz; eksikleri giderir. İkinci kontrolün tarihini ve gereken hazırlığı kontrolü yapacak kişiyle önceden konuşun."
+    },
+    {
+      "q": "Eksikleri gidermek için vinci atölyeye getirmek şart mı?",
+      "a": "Değil. Kaçak, etiket, emniyet pimi, ayar ve birçok emniyet düzeneği arızası sahada giderilebilir. Kaynak, silindir revizyonu ve pim-burç imalatı gibi işler atölyede daha doğru yapılır."
+    },
+    {
+      "q": "Halat değişimi önemli onarım sayılır mı?",
+      "a": "Hayır. Yönetmelik, halat, zincir ve benzeri askı tertibatı dışındaki parça değişimlerini önemli bakım ve onarım sayar; yani halat değişimi bu kapsamın dışındadır. Yeni halatın vincin özelliklerine uygun olması ve değişimin kayda geçirilmesi yine gerekir."
+    },
+    {
+      "q": "Rapordaki bir maddeye katılmıyorsam ne yapmalıyım?",
+      "a": "Önce maddeyi kontrolü yapan kişiyle konuşun; hangi kritere dayandığını ve neyi görmek istediğini sorun. Ölçüm ya da muayeneyle desteklenen bir maddeyi tartışmak yerine gidermek çoğu zaman daha hızlıdır; emin değilseniz vinci birlikte inceleyelim."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (Madde 6/A, Madde 7 ve Ek-III)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/blog/vinc-periyodik-kontrol-oncesi-bakim.html",
+    "/blog/vinc-bom-catlagi-kaynakla-onarilir-mi.html",
+    "/hizmetler/vinc-hidrolik-tamiri.html"
+  ]
+}

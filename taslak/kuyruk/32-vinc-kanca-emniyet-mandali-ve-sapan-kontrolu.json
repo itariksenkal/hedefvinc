@@ -1,0 +1,244 @@
+{
+  "slug": "vinc-kanca-emniyet-mandali-ve-sapan-kontrolu",
+  "_hedef": "kanca emniyet mandalı / vinç kancası kontrolü / sapan kontrolü",
+  "title": "Kanca Emniyet Mandalı ve Sapan Kontrolü: Ne Zaman Atılır?",
+  "h1": "Vinç Kancası, Emniyet Mandalı ve Sapan Kontrolü: Ne Zaman Kullanımdan Çıkar?",
+  "desc": "Vinç kancası, emniyet mandalı ve sapan kontrolü: ağız açıklığı ve burulma ölçüsü, zincir, kuşak ve çelik sapanda ıskarta işaretleri, sahada sık yapılan hatalar.",
+  "category": "Rehber",
+  "image": "hedef-vinc-kamyon.jpg",
+  "imageAlt": "HEDEF yazılı kamyona monte katlanır bomlu vinç, çelik kafes bir yapıyı zincir sapanlarla kaldırıyor",
+  "kisaCevap": "Kanca, mandal ve sapan her kaldırmadan önce gözle kontrol edilir. Çatlak, ağız açıklığı yeni hâline göre yüzde 15'ten fazla açılmış ya da 10 dereceden fazla burulmuş kanca, tam kapanmayan mandal, etiketi okunmayan, kesik, yanık veya dikişi atmış kuşak sapan, çatlak ya da uzamış zincir ve ezilmiş veya teli kopmuş çelik sapan kullanılmaz. Kanca kaynakla ya da ısıtılarak düzeltilmez.",
+  "intro": "Vincin en küçük parçaları yükün havada kalmasını sağlayan son halkadır: kanca, emniyet mandalı ve sapan. Bu parçalar ucuzdur, değiştirmesi kolaydır; tam da bu yüzden \"bir iş daha idare eder\" denip kullanılmaya devam edilir. Bu yazı vinç ve hiyap operatörleri ile vinç sahipleri için kancanın, mandalın ve farklı sapan türlerinin nasıl kontrol edildiğini, hangi kusurda kullanımdan çıkarıldığını ve sahada en sık yapılan hataları anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Kanca ve sapan ne zaman kontrol edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Her kaldırmadan önce gözle, belirli aralıklarla da ölçerek. Bir araç üstü vinç üreticisinin <a href=\"https://cms.hiab.com/contentassets/bf3eccb61632454ebe644c660fc60311/hiab---t-hiduo-013-038---operators-manual.pdf\">kullanım kılavuzu</a> her kaldırmadan önce şunlara bakılmasını ister: kancanın genel durumu, şekil bozukluğu ve derin yüzey hasarı, çatlak, mandalın tam kapanması, kanca milinin ve kilit piminin yerinde olması, kanca yatağının ya da döner mafsalın sağlamlığı. Güvenlik riski oluşturan bir hasar ya da aşınma varsa kanca kullanılmaz."
+    },
+    {
+      "type": "p",
+      "text": "Sapanlar için de kural aynıdır. ABD iş güvenliği düzenlemesi <a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.184\">OSHA 1910.184</a>, sapanın ve bütün bağlantı parçalarının her gün kullanımdan önce yetkin bir kişi tarafından kontrol edilmesini ve hasarlı sapanın hemen kullanımdan çıkarılmasını ister. Türkiye'de <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> de kaldırma aksesuarlarının yüke, kavrama noktalarına ve hava koşullarına uygun seçilmesini şart koşar."
+    },
+    {
+      "type": "h2",
+      "text": "Kanca hangi durumda kullanımdan çıkar?"
+    },
+    {
+      "type": "p",
+      "text": "Üç ölçü öne çıkar: çatlak, ağız açıklığı ve burulma. <a href=\"https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.180\">OSHA 1910.180</a> kamyon üstü vinçler için çatlak olan, ağız açıklığı normal ölçüsünü yüzde 15'ten fazla aşmış ya da düz hâline göre 10 dereceden fazla burulmuş kancaları kusurlu sayar. Bunlara sahada sık gördüğümüz iki işaret daha ekleniyor:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Ağız açılması:</strong> Kanca aşırı yük ya da yanlış bağlama ile esnemiştir. Ölçmenin pratik yolu, kanca yeniyken ağzın iki yanına birer nokta vurup aradaki mesafeyi kayda geçmektir. Mesafe büyüdükçe kanca açılıyor demektir.",
+        "<strong>Burulma:</strong> Kancanın ucu gövdenin düzleminden sapmıştır; genellikle yükün kancanın ucuna asılmasından olur.",
+        "<strong>Taban aşınması:</strong> Sapanın oturduğu iç yüzey sürekli sürtünmeyle incelir. Belirgin oyuk ya da kesit kaybı varsa kanca değiştirilir.",
+        "<strong>Kanca mili ve somunu:</strong> Kancanın döndüğü mil, somun ve kilit pimi gevşek ya da eksik olmamalıdır; kanca serbestçe dönmeli ama boşluk yapmamalıdır."
+      ]
+    },
+    {
+      "type": "callout",
+      "text": "Açılmış ya da burulmuş kanca ısıtılarak, çekiçle veya kaynakla düzeltilmez. Isıl işlem kancanın malzemesini bozar; düzeltilen kanca dışarıdan sağlam görünür ama taşıma gücünü kaybetmiş olabilir. Doğru çözüm kancayı aynı kapasitede yenisiyle değiştirmektir."
+    },
+    {
+      "type": "h2",
+      "text": "Emniyet mandalı ne işe yarar, ne zaman değişir?"
+    },
+    {
+      "type": "p",
+      "text": "Mandal, yük gevşediğinde ya da sallandığında sapanın kancadan çıkmasını önler; yük taşımaz. Bu yüzden sapanın mandalın üstüne bindiği bir bağlama yanlıştır: Yük mandala basar, mandal eğilir ve bir sonraki kaldırmada tam kapanmaz. Tekne direği kaldırmayı anlatan bir üretici kılavuzu bile kancada kilitleme düzeneği olmasını, yoksa sapanın kancaya ayrıca bağlanmasını ister."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Mandal kusuru",
+        "Ne olur?",
+        "Ne yapılır?"
+      ],
+      "rows": [
+        [
+          "Yay kırık ya da yorulmuş",
+          "Mandal kendiliğinden kapanmaz",
+          "Yay ya da mandal takımı değiştirilir"
+        ],
+        [
+          "Mandal eğilmiş",
+          "Ucu kanca ağzına oturmaz, arada boşluk kalır",
+          "Mandal değiştirilir; kanca da açılma için kontrol edilir"
+        ],
+        [
+          "Mandal bağlanmış, iple tutturulmuş",
+          "Koruma devre dışıdır",
+          "Bağ çözülür; mandal çalışmıyorsa değiştirilir"
+        ],
+        [
+          "Pimi aşınmış ya da eksik",
+          "Mandal sallanır, düşebilir",
+          "Pim ve mandal yenilenir"
+        ],
+        [
+          "Kanca ağzı açılmış",
+          "Sağlam mandal da artık kapanmaz",
+          "Kanca değiştirilir; mandal değişimi yetmez"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Son satır önemlidir: Mandalı kapanmayan bir kancada sorun her zaman mandalda değildir. Ağzı açılan kancaya yeni mandal takmak kusuru gizler."
+    },
+    {
+      "type": "h2",
+      "text": "Kanca bloğunda başka neye bakılır?"
+    },
+    {
+      "type": "p",
+      "text": "İrgatlı vinçlerde kanca tek başına değil, makaralı bir kanca bloğuna bağlıdır. Blokta makaraların serbest döndüğüne, makara kanallarında halatın izini bırakan keskin aşınma olmadığına, halatın makaradan çıkmasını önleyen koruyucunun yerinde durduğuna ve gövde cıvatalarının sıkı olduğuna bakılır. Döner mafsallı kancalarda mafsal yükte rahat dönmeli, kuru ve sesli olmamalıdır; kılavuzun gösterdiği gresörlük varsa greslenir. Bloğun bom ucuna yaklaştığında hareketi kesen sınır anahtarının ağırlığı ya da tetik kolu da sağlam olmalıdır: Bu düzenek çalışmazsa blok bom ucuna çarpabilir ve halat kopabilir. Katlanır bomlu vinçlerde kanca çoğu zaman bom ucundaki bir pime asılır; bu pimin ve emniyet pimi ya da segmanının yerinde olduğu her gün kontrol edilmelidir."
+    },
+    {
+      "type": "h2",
+      "text": "Sapan türüne göre neye bakılır?"
+    },
+    {
+      "type": "p",
+      "text": "Kontrol sapanın türüne göre değişir. OSHA 1910.184'teki ıskarta ölçütleri sahada iyi bir kontrol listesi olarak kullanılabilir:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Kuşak sapan (polyester):</strong> asit ya da kimyasal yanığı, erime ve kararma, kesik, delik, yırtık, kopmuş veya aşınmış dikiş, bozulmuş uç parçası. Bunlara bir de okunmayan ya da kopmuş etiket eklenir; kapasitesi bilinmeyen sapan kullanılmaz.",
+        "<strong>Zincir sapan:</strong> çatlak ya da şekli bozulmuş ana halka, bağlantı halkası veya kanca; tablodaki sınırın altına inmiş halka kalınlığı; uzama; aşırı ısınmaya maruz kalma. Zincirin kancaları da yüzde 15'ten fazla açılmış ya da 10 dereceden fazla burulmuşsa çıkarılır.",
+        "<strong>Çelik halat sapan:</strong> bir sarım boyunda rastgele dağılmış 10 kopuk tel ya da bir demette 5 kopuk tel; bükülme, ezilme, kuş kafesi gibi yapıyı bozan hasar; ısı hasarı; uç bağlantılarında çatlak, şekil bozukluğu veya aşınma."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Vincin kendi halatının kontrolü ise farklı bir standarda (ISO 4309) göre yapılır; ayrıntısını <a href=\"/blog/vinc-halat-degisimi-ne-zaman.html\">vinç halatı ne zaman değişir</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Sapanlar nasıl saklanır ve kullanılır?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Kuşak sapanları kuru, gölge bir yerde, keskin parçalardan uzak saklayın; güneş ve kimyasallar polyesteri zayıflatır.",
+        "Sapanı yükün keskin köşesinden köşe koruyucu ya da kalın bezle koruyun.",
+        "Çok kollu sapanda kol açısı büyüdükçe her kola düşen yükün arttığını unutmayın; etiketteki değer belirli açılar için verilir.",
+        "Sapanı düğümleyerek kısaltmayın, zinciri cıvatayla ya da telle eklemeyin.",
+        "Yükü sapanın üzerinden sürüklemeyin, sapanı yükün altından çekip çıkarmayın.",
+        "Kullanımdan çıkan sapanı kesin ya da işaretleyin; yoksa bir gün yeniden kasaya girer."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Kanca ve sapanda sahada en sık hangi hatalar yapılır?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Yükü kancanın ucuna asmak; kanca burulur, mandal zorlanır.",
+        "Mandalı iple bağlayıp devre dışı bırakmak.",
+        "Etiketsiz ya da etiketi silinmiş sapanı \"bu iki ton kaldırır\" diyerek kullanmak.",
+        "Zincir sapanı kaynakla onarmak ya da ısıtıp düzeltmek.",
+        "Kanca bloğundaki çatlağı boyayla kapatmak."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu kuralların genel çerçevesini <a href=\"/blog/vincle-calisirken-is-guvenligi.html\">vinç iş güvenliği kuralları</a> yazımızda bulabilirsiniz. Periyodik kontrolde kanca ve kaldırma aksesuarlarına da bakılır; hazırlık için <a href=\"/blog/vinc-periyodik-kontrol-oncesi-bakim.html\">vinç periyodik kontrolü</a> yazımıza göz atabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Milas, Bodrum ve Muğla'da kanca ve mandal değişimi nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Kanca, mandal, kanca mili ve kanca bloğu değişimini vinç bakımı kapsamında yapıyoruz; çoğu zaman vincin bulunduğu yerde. WhatsApp hattımıza şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Kancanın yandan ve önden fotoğrafı, mandal kapalıyken ve açıkken",
+        "Kanca üzerindeki kapasite ve imalat işaretleri",
+        "Vincin etiketi: marka, model ve yıl",
+        "Kullandığınız sapanların etiketleri ve hasarlı yerlerin yakın fotoğrafları",
+        "Vincin bulunduğu yer"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Sapan değiştirmeniz gerekiyorsa işinize hangi tip ve kapasitenin uyduğunu birlikte belirleriz. Bakım ve revizyon işlerimiz için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Kanca, mandal ve sapan her kaldırmadan önce gözle kontrol edilir.",
+    "Ağzı yüzde 15'ten fazla açılmış ya da 10 dereceden fazla burulmuş kanca değiştirilir.",
+    "Kanca ısıtılarak, çekiçle ya da kaynakla düzeltilmez.",
+    "Mandal yük taşımaz; kapanmıyorsa önce kancanın açılıp açılmadığına bakılır.",
+    "Etiketi okunmayan, kesik ya da yanık kuşak sapan kullanılmaz."
+  ],
+  "faqs": [
+    {
+      "q": "Vinç kancası ne zaman değiştirilir?",
+      "a": "Çatlak varsa, ağız açıklığı yeni hâline göre yüzde 15'ten fazla büyümüşse, kanca 10 dereceden fazla burulmuşsa ya da sapanın oturduğu yüzey belirgin şekilde aşınmışsa değiştirilir. Kanca mili ve kilit pimi eksik veya gevşekse de kanca kullanılmaz."
+    },
+    {
+      "q": "Açılmış kanca kaynakla ya da ısıtılarak düzeltilebilir mi?",
+      "a": "Hayır. Isı ve kaynak kancanın malzemesini bozar; düzeltilmiş kanca sağlam görünse de taşıma gücünü kaybetmiş olabilir. Kanca aynı kapasitede yenisiyle değiştirilir."
+    },
+    {
+      "q": "Kanca emniyet mandalı zorunlu mu?",
+      "a": "Mandal, sapanın kancadan kaymasını önleyen bir güvenlik parçasıdır ve kılavuzlar her kaldırmadan önce tam kapandığının kontrol edilmesini ister. Mandalı bağlayıp devre dışı bırakmak ya da kırık mandalla çalışmak doğru değildir."
+    },
+    {
+      "q": "Kuşak sapan ne zaman atılır?",
+      "a": "Kesik, yırtık, delik, erime, kimyasal yanığı, kopmuş dikiş veya bozulmuş uç parçası varsa kullanılmaz. Etiketi okunmayan sapan da kapasitesi bilinmediği için kullanımdan çıkarılır."
+    },
+    {
+      "q": "Zincir sapan kaynakla onarılabilir mi?",
+      "a": "Hayır. Çatlak ya da şekli bozulmuş halkası, uzamış zinciri veya aşırı ısınmış sapan kullanımdan çıkarılır. Halka kalınlığı üreticinin sınırının altına inmişse de sapan değiştirilir."
+    },
+    {
+      "q": "Kanca ve mandal değişimi yerinde yapılır mı?",
+      "a": "Çoğu zaman evet. Mandal, yay, pim ve kanca değişimi genellikle vincin bulunduğu yerde yapılabilir. Kanca bloğunda ya da makaralarda hasar varsa iş atölyede yapılır."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "HIAB T-HiDuo 013–038 Operator's Manual",
+      "publisher": "HIAB",
+      "url": "https://cms.hiab.com/contentassets/bf3eccb61632454ebe644c660fc60311/hiab---t-hiduo-013-038---operators-manual.pdf"
+    },
+    {
+      "title": "29 CFR 1910.180 Crawler locomotive and truck cranes (kanca kontrolü)",
+      "publisher": "OSHA – ABD Çalışma Bakanlığı",
+      "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.180"
+    },
+    {
+      "title": "29 CFR 1910.184 Slings (sapan kontrolü ve ıskarta ölçütleri)",
+      "publisher": "OSHA – ABD Çalışma Bakanlığı",
+      "url": "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.184"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "Hints and advice on rigging and tuning of your Seldén mast (vinçle direk kaldırma bölümü)",
+      "publisher": "Seldén Mast",
+      "url": "https://support.seldenmast.com/files/595-540-E.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/hizmetler/vinc-kiralama.html",
+    "/blog/vincle-calisirken-is-guvenligi.html",
+    "/blog/vinc-halat-degisimi-ne-zaman.html",
+    "/blog/vinc-periyodik-kontrol-oncesi-bakim.html"
+  ]
+}

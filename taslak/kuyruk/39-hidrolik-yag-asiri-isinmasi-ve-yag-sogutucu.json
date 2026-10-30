@@ -1,0 +1,229 @@
+{
+  "slug": "hidrolik-yag-asiri-isinmasi-ve-yag-sogutucu",
+  "_hedef": "hidrolik yağ ısınması / vinç yağ ısınıyor / hidrolik yağ soğutucu",
+  "title": "Hidrolik Yağ Aşırı Isınması ve Yağ Soğutucu: Vinçte Neden?",
+  "h1": "Hidrolik Yağ Aşırı Isınması ve Yağ Soğutucu: Vinçte Yağ Neden Isınır, Ne Yapılır?",
+  "desc": "Vinçte hidrolik yağ aşırı ısınması: kaç derece fazla, emniyet valfi, iç kaçak, PTO devri, kirli soğutucu ve fan; sıcaklık ölçümü, bakım ve soğutucu seçimi.",
+  "category": "Hidrolik",
+  "image": "saha-cati-montaj.jpg",
+  "imageAlt": "Sarı kamyon üstü vinç, inşaat hâlindeki betonarme binanın çatısına konstrüksiyon elemanı veriyor; önde paletli malzemeler",
+  "kisaCevap": "Vinçte hidrolik yağ, sistemin ürettiği ısı tankın ve soğutucunun atabileceğinden fazla olduğunda aşırı ısınır. Bir üretici çalışma sıcaklığının 70°C'nin altında kalmasını önerir; 82°C'nin üzerindeki sıcaklıklar çoğu keçeye zarar verir ve yağı hızla yaşlandırır. En sık sebepler sürekli açık kalan emniyet valfi, pompa ya da silindirde iç kaçak, yüksek PTO devri, düşük yağ seviyesi, kirli filtre ve tıkanmış soğutucudur.",
+  "intro": "Yazın Ege'de öğleden sonra çalışan bir vincin hidrolik tankına elinizi sürmek zor olabilir. Yağın ısınması kendi başına arıza değildir; ama sıcaklık her gün biraz daha yükseliyor, vinç öğleden sonra yavaşlıyor ya da hortumlar beklenmedik yerden terlemeye başlıyorsa sistemde bir şey ısı üretiyor ya da ısıyı atamıyor demektir. Bu yazı vinç ve hiyap sahipleri ile operatörler için hidrolik yağın ne zaman fazla ısındığını, ısının nereden geldiğini, yağ soğutucunun nasıl bakılacağını ve soğutucu eklemenin ne zaman çözüm olduğunu anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Hidrolik yağ kaç derecede fazla ısınmış sayılır?"
+    },
+    {
+      "type": "p",
+      "text": "Kesin sınır vincin kılavuzunda yazar; iki genel ölçü yol gösterir. Bir araç üstü vinç üreticisinin <a href=\"https://cms.hiab.com/contentassets/176458ce1b3c4d0e82a446779079d6b8/hiab---435k-hipro---operators-manual.pdf\">kılavuzu</a> yağın çalışma sıcaklığının 70°C'nin altında tutulmasını şiddetle önerir, gerekirse yağ soğutucu ya da ısıtıcı eklenmesini düşünmeyi söyler. Hidrolik sistemler üzerine yazan bir uzmanın <a href=\"https://www.machinerylubrication.com/Read/680/hydraulic-overheating\">makalesine</a> göre 82°C'nin üzerindeki yağ sıcaklıkları çoğu keçe malzemesine zarar verir ve yağın bozulmasını hızlandırır. Aynı makale asıl ölçünün kıvam olduğunu da hatırlatır: Yağ, kıvamı sistemin parçaları için gereken değerin altına düştüğü anda fazla sıcaktır."
+    },
+    {
+      "type": "p",
+      "text": "Isınan yağ incelir. İncelen yağ pompada, valflerde ve silindirlerde daha fazla iç kaçak yapar; iç kaçak da yeniden ısı üretir. Bu kısır döngü yüzünden aşırı ısınma kendi kendini büyüten bir arızadır: Vinç öğleden sonra yavaşlar, keçeler sertleşir, hortumlar yaşlanır ve yağ kısa sürede kararır."
+    },
+    {
+      "type": "h2",
+      "text": "Hidrolik sistemde ısıyı ne üretir?"
+    },
+    {
+      "type": "p",
+      "text": "Kısa cevap: iş yapmayan her basınç düşüşü. Makalenin ifadesiyle, sistemde ısıya dönüşen güç tankın ve soğutucunun atabildiğinden fazlaysa sistem eninde sonunda aşırı ısınır. Vinçte ısının başlıca kaynakları şunlardır:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Sebep",
+        "Neden ısıtır?",
+        "Nasıl anlaşılır?"
+      ],
+      "rows": [
+        [
+          "Kol uç konumda tutuluyor, emniyet valfi sürekli açılıyor",
+          "Pompanın bütün yağı yüksek basınçla tanka döner, enerjinin tamamı ısıya gider",
+          "Hareket bittiği hâlde kol çekili; valfden ıslık sesi"
+        ],
+        [
+          "Emniyet valfi kirle açık kalmış ya da düşük ayarlı",
+          "Yağ sürekli emniyetten tanka akar",
+          "Bütün hareketler güçsüz, basınç ölçümünde düşük değer"
+        ],
+        [
+          "Pompa, motor ya da silindirde iç kaçak",
+          "Kaçan yağ iş yapmadan basınç kaybeder",
+          "Yük altında yavaşlama, kaçak hattında fazla akış"
+        ],
+        [
+          "PTO devri ya da oranı yüksek",
+          "Pompa gereğinden fazla yağ basar, fazlası ısıya döner",
+          "Rölantide bile hızlı hareket, çabuk ısınan tank"
+        ],
+        [
+          "Yağ seviyesi düşük",
+          "Az yağ daha sık döner, tanka dinlenmeye vakit kalmaz",
+          "Seviye camı, köpüklü yağ"
+        ],
+        [
+          "Kirli filtre ve kirli yağ",
+          "Akış direnci ve aşınma artar",
+          "Filtre göstergesi kırmızı, koyu yağ"
+        ],
+        [
+          "Yanlış kıvamda yağ",
+          "Fazla ince yağ kaçağı, fazla kalın yağ sürtünmeyi artırır",
+          "Kılavuzdaki yağla karşılaştırma"
+        ],
+        [
+          "Tıkanmış soğutucu ya da çalışmayan fan",
+          "Isı atılamaz",
+          "Petekte kir ve yağ tabakası, fan dönmüyor"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bir mobil vinç üreticisinin <a href=\"https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf\">servis kılavuzu</a> de yağ ısınmasının sebepleri arasında yanlış kullanımı (uzun süre emniyet basıncında çalışmak), kirli filtreleri, fazla ince yağı, düşük yağ seviyesini ve kirli yağı sayar. Emniyet valfinin ayarı ve kirle açık kalması konusunu <a href=\"/blog/vinc-kumanda-valfi-arizasi.html\">vinç kumanda valfi arızası</a> yazımızda, iç kaçağı <a href=\"/blog/vinc-hidrolik-pompa-arizasi-belirtileri.html\">vinç hidrolik pompa arızası belirtileri</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Yağ sıcaklığı nasıl ölçülür?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Tankta termometre ya da sıcaklık göstergesi varsa ondan okuyun.",
+        "Yoksa temassız kızılötesi termometreyle tankın yağ seviyesinin altındaki yan yüzeyini ölçün; aynı noktayı her seferinde ölçmek karşılaştırmayı kolaylaştırır.",
+        "Pompa gövdesi, dönüş hattı ve soğutucu giriş-çıkışı arasındaki farklar, ısının nereden geldiğini gösterir; belirgin şekilde daha sıcak bir parça, iç kaçağın yerini işaret edebilir.",
+        "Elle yoklamayın; 60°C'nin üzerindeki yüzeyler yakar ve basınçlı hatta dokunmak tehlikelidir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Tek bir ölçüm az şey söyler. Sıcaklığı bir iş günü boyunca, örneğin işe başlarken, öğlen ve iş bitiminde ölçüp yaptığınız işle birlikte not edin. Sıcaklık belirli bir hareketten, örneğin uzun irgat kaldırmalarından ya da ayak açıp toplamaktan sonra sıçrıyorsa ısının kaynağı o devrededir. Her gün aynı işte biraz daha yükseliyorsa sistemde ilerleyen bir aşınma ya da tıkanma vardır. PTO devrinin yağ ısınmasına etkisini <a href=\"/blog/hiyap-vinc-arizalari-ve-cozumleri.html\">hiyap arızaları ve çözümleri</a> yazımızda da anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Yağ soğutucu nasıl çalışır ve nasıl bakılır?"
+    },
+    {
+      "type": "p",
+      "text": "Yağ soğutucu, dönüş yağını bir radyatör peteğinden geçirip fanla soğutur. Servis kılavuzundaki örnekte soğutucu dönüş hattına paralel bağlıdır; bir çek valf akışı düzenler, yağ soğukken çoğu doğrudan tanka gider, yağ ısınıp inceldikçe daha fazlası soğutucudan geçer. Fan, petekteki bir sıcaklık anahtarıyla, o modelde 48,8°C'de devreye girer. Bu yüzden soğutucusu olan bir vinçte ısınmanın ilk şüphelileri şunlardır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Petekte toz, yağ tabakası ve yol kiri; kılavuz peteğin sık yıkanmasını ister.",
+        "Fanın dönmemesi: sigorta, röle ya da sıcaklık anahtarı arızası.",
+        "Hava akışının engellenmesi: soğutucunun başka bir parçaya çok yakın olması, önüne yığılan malzeme.",
+        "Hatlarda ezik, kıvrılmış hortum ya da gevşek kelepçe; kılavuz soğuk çalıştırmada oluşan karşı basınca karşı kelepçelerin sık kontrol edilmesini ister.",
+        "Soğutucunun bypass ya da çek valfinin açık kalması; yağ peteğe hiç uğramaz."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Peteği yıkarken yüksek basınçlı suyu kanatçıklara dik ve yakından tutmayın; kanatçıklar ezilir ve hava geçişi daha da azalır."
+    },
+    {
+      "type": "h2",
+      "text": "Soğutucu eklemek ne zaman çözümdür?"
+    },
+    {
+      "type": "p",
+      "text": "Önce ısının kaynağı giderilir; soğutucu bir arızanın üstünü örtmek için takılmaz. Kaçak, ayar ve kullanım hataları giderildiği hâlde vinç sürekli ve uzun süre çalıştığı için, örneğin gün boyu malzeme veren bir şantiye vinci ya da sıcak havada irgatla uzun kaldırmalar yapan bir vinç, yağı kılavuzdaki sınırın altında tutamıyorsa soğutucu eklemek mantıklıdır. Soğutucunun kapasitesi pompanın debisine, sistemin ürettiği ısıya ve bölgenin yaz sıcaklığına göre seçilir; dönüş hattına bağlanma şekli ve bypass düzeni de vincin devresine uygun olmalıdır. Soğutucu takıldıktan sonra fanın elektrik bağlantısı sigortalı yapılır, hatlar sürtünmeyecek şekilde sabitlenir ve vinç aynı işte yeniden çalıştırılarak sıcaklığın gerçekten düştüğü ölçülür."
+    },
+    {
+      "type": "h2",
+      "text": "Yazın yağın ısınmasını azaltan alışkanlıklar"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Hareket bitince kolu bırakın; silindir sona dayandıktan sonra kolu çekili tutmak yağı ısıtmaktan başka işe yaramaz.",
+        "PTO'yu kılavuzdaki devirde çalıştırın; motoru gereksiz yükseltmeyin.",
+        "Bekleme sırasında PTO'yu devreden çıkarın.",
+        "Yağ seviyesini her gün kontrol edin, filtre göstergesine bakın.",
+        "Soğutucu peteğini yaz başında ve tozlu işlerden sonra temizleyin.",
+        "Isınan yağın kararıp kararmadığına bakın; yazı ağır geçen vinçte yağ ve filtre aralığını kısaltın. Ayrıntılar <a href=\"/blog/vinc-hidrolik-yag-degisimi-ne-zaman.html\">hidrolik yağ değişimi</a> yazımızda."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Milas, Bodrum ve Muğla'da ısınma sorunu nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Isınma teşhisinin büyük kısmı vincin çalıştığı yerde, ısı yükselirken yapılır. WhatsApp hattımıza şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Tank sıcaklığının hangi işte ve ne kadar çalıştıktan sonra yükseldiği",
+        "Tank, pompa ve varsa soğutucunun fotoğrafı; petek ve fan görünecek şekilde",
+        "Vincin etiketi: marka, model ve yıl; kamyonun PTO bilgisi",
+        "Isınırken vincin davranışını gösteren kısa bir video",
+        "Vincin bulunduğu yer"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Basınç ölçümü, valf, pompa ve soğutucu işleri için <a href=\"/hizmetler/vinc-hidrolik-tamiri.html\">vinç hidrolik tamiri</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Bir vinç üreticisi hidrolik yağın 70°C'nin altında çalışmasını önerir.",
+    "82°C'nin üzerindeki sıcaklıklar çoğu keçeye zarar verir ve yağı hızla yaşlandırır.",
+    "Isınmanın en yaygın sebebi sürekli açılan emniyet valfi ve iç kaçaktır.",
+    "Soğutucuda önce petek, fan ve hava akışı kontrol edilir.",
+    "Soğutucu, ısının kaynağı giderildikten sonra hâlâ gerekiyorsa eklenir."
+  ],
+  "faqs": [
+    {
+      "q": "Vinçte hidrolik yağ kaç derece olmalı?",
+      "a": "Vincin kılavuzundaki değer esastır. Örneğin HIAB, yağ çalışma sıcaklığının 70°C'nin altında kalmasını şiddetle önerir. 82°C'nin üzerindeki sıcaklıklar çoğu keçeye zarar verir ve yağın bozulmasını hızlandırır."
+    },
+    {
+      "q": "Hidrolik yağ neden çok ısınır?",
+      "a": "En sık sebepler kolun uç konumda tutulması ya da emniyet valfinin kirle açık kalması, pompa veya silindirde iç kaçak, yüksek PTO devri, düşük yağ seviyesi, kirli filtre ve tıkanmış soğutucudur. Sebep ölçümle bulunur."
+    },
+    {
+      "q": "Isınan yağ vinci nasıl etkiler?",
+      "a": "Yağ incelir, iç kaçak artar ve vinç özellikle yük altında yavaşlar. Keçeler sertleşip kaçak yapmaya başlar, hortumlar yaşlanır ve yağ kısa sürede kararır."
+    },
+    {
+      "q": "Yağ soğutucu fanı ne zaman çalışır?",
+      "a": "Çoğu soğutucuda fan bir sıcaklık anahtarıyla devreye girer; eşik modele göre değişir. Örneğin bir mobil vinç modelinde fan 48,8°C'de çalışmaya başlar. Yağ sıcak olduğu hâlde fan dönmüyorsa sigorta, röle ve sıcaklık anahtarı kontrol edilmelidir."
+    },
+    {
+      "q": "Her vince yağ soğutucu takılmalı mı?",
+      "a": "Hayır. Önce ısının kaynağı giderilir. Vinç sağlam olduğu hâlde uzun ve sürekli çalışma yüzünden yağı kılavuzdaki sınırın altında tutamıyorsa, pompa debisine ve devreye uygun bir soğutucu eklemek mantıklıdır."
+    },
+    {
+      "q": "Isınma sorunu sahada çözülür mü?",
+      "a": "Soğutucu temizliği, fan, filtre, yağ seviyesi ve PTO devri gibi sebepler çoğu zaman sahada giderilir. Pompa, valf ya da silindir iç kaçağı varsa onarım genellikle atölyede yapılır."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Solving Hydraulic System Overheating Problems (Brendan Casey)",
+      "publisher": "Machinery Lubrication",
+      "url": "https://www.machinerylubrication.com/Read/680/hydraulic-overheating"
+    },
+    {
+      "title": "HIAB 435K HiPro Operator's Manual (güvenlik, bakım ve arıza giderme bölümleri)",
+      "publisher": "HIAB",
+      "url": "https://cms.hiab.com/contentassets/176458ce1b3c4d0e82a446779079d6b8/hiab---435k-hipro---operators-manual.pdf"
+    },
+    {
+      "title": "NBT30H-2 Service Manual",
+      "publisher": "National Crane (Manitowoc)",
+      "url": "https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-hidrolik-tamiri.html",
+    "/hizmetler/hiyap-vinc-tamiri.html",
+    "/blog/vinc-hidrolik-pompa-arizasi-belirtileri.html",
+    "/blog/vinc-kumanda-valfi-arizasi.html",
+    "/blog/vinc-hidrolik-yag-degisimi-ne-zaman.html"
+  ]
+}

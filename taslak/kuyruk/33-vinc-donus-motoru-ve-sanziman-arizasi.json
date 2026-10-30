@@ -1,0 +1,242 @@
+{
+  "slug": "vinc-donus-motoru-ve-sanziman-arizasi",
+  "_hedef": "vinç dönüş motoru arızası / vinç dönmüyor / döner tabla şanzımanı (redüktör)",
+  "title": "Vinç Dönüş Motoru ve Şanzıman Arızası: Vinç Dönmüyorsa",
+  "h1": "Vinç Dönüş Motoru ve Şanzıman (Redüktör) Arızası: Vinç Dönmüyor, Boşluk Yapıyor, Ses Geliyor",
+  "desc": "Vinç dönüş motoru ve şanzıman arızası: dönmeme, tek yöne dönme, boşluk, vuruntu ve kendiliğinden dönme; dönüş freni, redüktör yağı ve kremayer kontrolü.",
+  "category": "Vinç Tamiri",
+  "image": "real_ones/atolye-vinc-kolonu-doner-tabla-rulmani.jpg",
+  "imageAlt": "Atölyede halatlarla kaldırılmış sarı vinç kolonu ve altındaki mavi boyalı döner tabla dişli grubu",
+  "kisaCevap": "Vinç dönmüyor, tek yöne dönüyor, dönüşte boşluk yapıyor ya da vuruntu sesi geliyorsa sorun çoğunlukla dönüş tahrikindedir: hidrolik dönüş motoru, onu tablaya bağlayan şanzıman (planet redüktör), yaylı dönüş freni, dönüş fren valfi ya da kremayerli vinçlerde dişli ve silindirler. İlk kontroller yağ seviyeleri, fren açma basıncı ve redüktör yağındaki metal parçacıktır. Rulman arızası ise ayrı bir konudur.",
+  "intro": "Vincin dönüşü bozulduğunda operatör çoğu zaman önce döner tabla rulmanından şüphelenir. Oysa sahada gördüğümüz dönüş arızalarının önemli bir kısmı rulmandan değil, tablayı döndüren tahrik grubundan gelir: hidrolik motor, şanzıman dediğimiz redüktör, dönüş freni ya da kremayerli vinçlerde dişli ve silindirler. Bu yazı vinç ve hiyap sahipleri ile operatörler için dönüş tahrikinin nasıl çalıştığını, belirtilerin hangi parçayı gösterdiğini, sahada neye bakılacağını ve neyin yapılmaması gerektiğini anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Vinçte dönüş nasıl sağlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Araç üstü vinçlerde iki yaygın düzen vardır; hangisinin vincinizde olduğu teşhisin ilk adımıdır."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Kremayer ve pinyonlu dönüş:</strong> Kolonun dibinde bir pinyon dişli bulunur; iki yandaki hidrolik silindirler bir dişli kremayeri ileri geri iterek kolonu döndürür. Bu düzen yağ banyolu bir dönüş gövdesinin içinde çalışır. HIAB'ın bir modeli için <a href=\"https://cms.hiab.com/contentassets/176458ce1b3c4d0e82a446779079d6b8/hiab---435k-hipro---operators-manual.pdf\">kılavuzu</a> bu gövdedeki dişli yağının her gün seviye camından kontrol edilmesini, her yıl da değiştirilmesini ister.",
+        "<strong>Hidrolik motor ve redüktörlü dönüş:</strong> Bir hidrolik motor, planet redüktör üzerinden küçük bir pinyonu döndürür; pinyon da döner tablanın dişlisini çevirir. Bir vinç üreticisinin <a href=\"https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf\">servis kılavuzu</a> bu tip bir dönüş şanzımanını, kol nötrdeyken kendiliğinden kapanan, yayla kapanıp hidrolik basınçla açılan entegre bir frenle birlikte tarif eder. Motor üzerinde ayrıca bir dönüş denge (fren) valfi bulunur."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "İki düzende de tahrik, <a href=\"/blog/vinc-doner-tabla-rulman-arizasi.html\">döner tabla rulmanı</a> üzerinde dönen üst yapıyı çevirir. Rulman yükü taşır, tahrik ise döndürür; belirtiler bu yüzden birbirine karışır."
+    },
+    {
+      "type": "h2",
+      "text": "Dönüş arızasının belirtileri neyi gösterir?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Belirti",
+        "Olası neden",
+        "İlk kontrol"
+      ],
+      "rows": [
+        [
+          "Vinç hiç dönmüyor",
+          "Dönüş freni açılmıyor, kumanda ya da bobin arızası, motor arızası",
+          "Fren açma basıncı, kumanda sinyali, sınırlayıcının dönüşü kesip kesmediği"
+        ],
+        [
+          "Yalnızca tek yöne dönüyor",
+          "Kumanda valfi dilimi, port emniyet valfi, bir dönüş silindirinde iç kaçak",
+          "Her iki yön için basınç ölçümü"
+        ],
+        [
+          "Dönüş yavaş, yük altında duruyor",
+          "Motor iç kaçağı, düşük basınç, kirli yağ",
+          "Basınç ve kaçak hattı ölçümü, filtre göstergesi"
+        ],
+        [
+          "Dönüşte boşluk, kalkışta ve duruşta vuruntu",
+          "Pinyon ya da kremayer dişlisinde aşınma, redüktör rulmanı, gevşek bağlantı cıvataları",
+          "Dişli boşluğu, redüktör ve tabla cıvataları"
+        ],
+        [
+          "Dönüş düzensiz ve sesli",
+          "Dönüş gövdesinde yağ az, hidrolik yağ az, üst rulman yağsız, gövde rulmanları hasarlı",
+          "Yağ seviyeleri, gresleme"
+        ],
+        [
+          "Eğimde kendiliğinden dönüyor",
+          "Dönüş freni aşınmış ya da tam kapanmıyor, fren valfinde iç kaçak",
+          "Fren testi, vincin terazide kurulup kurulmadığı"
+        ],
+        [
+          "Redüktörden yağ kaçağı",
+          "Mil keçesi, tapa contası, aşırı ısınma",
+          "Keçe ve yağ seviyesi; kaçak giderilmeden yağ tamamlanmaz"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "HIAB'ın arıza tablosu düzensiz ve sesli dönüş için dört sebebi sıralar: hidrolik sistemde yağın az olması, dönüş gövdesinde yağın az olması, üst dönüş rulmanının yağsız kalması ve dönüş gövdesindeki rulmanların hasar görmesi. İlk üçü operatörün kontrol edebileceği şeylerdir; dördüncüsü atölye işidir."
+    },
+    {
+      "type": "h2",
+      "text": "Redüktör yağı ne anlatır?"
+    },
+    {
+      "type": "p",
+      "text": "Dönüş redüktörünün yağı, içerideki dişlilerin durumunu gösteren en ucuz testtir. Servis kılavuzu, yağ değişiminde çıkan yağda belirgin metal birikimi olup olmadığına bakılmasını ister; aynı kılavuz dönüş şanzımanı ve fren bölmesi yağının ilk 50 saatten sonra, ardından her 1.000 saatte ya da altı ayda bir değişmesini önerir. Önemli bir uyarı da yapar: Fren bölmesine EP katkılı dişli yağı konmamalıdır; aksi hâlde fren düzgün çalışmayabilir."
+    },
+    {
+      "type": "p",
+      "text": "Aralıklar redüktörün tipine göre değişir. Örneğin bir planet redüktör üreticisinin <a href=\"https://www.bonfiglioli.com/300%20Series%20-Installation%20Operation%20and%20Maintenance%20Manual_7.pdf\">kılavuzu</a> fabrika yağının 200 saatten sonra değişmesini, gövde sıcaklığının 75–80°C'yi aşmamasını ister ve sabit yükte değişen ses ya da titreşimin dişli takımında aşınmayı veya rulman arızasını gösterebileceğini belirtir. Aynı kılavuz farklı marka ve tip yağların karıştırılmamasını ister. Kısacası:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Yağ seviyesini kılavuzdaki yerden ve vinç düz zemindeyken kontrol edin.",
+        "Çıkan yağda parlak toz, talaş ya da kırık parça varsa redüktör açılmalıdır.",
+        "Süt gibi bulanık yağ, redüktöre su girdiğini gösterir; keçe ve havalandırma kontrol edilir.",
+        "Kaçak varsa sebebini gidermeden yağ tamamlayıp geçmeyin."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Dönüş arızasında sahada ne yapılmalı?"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Yükü güvenle indirin; dönüş kontrolsüzse bomu yük altında çevirmeye çalışmayın.",
+        "Vincin terazide kurulduğundan ve ayakların doğru açıldığından emin olun; eğimli kurulmuş vinçte üst yapı kendi ağırlığıyla dönmeye çalışır ve freni zorlar.",
+        "Hidrolik tank yağını ve dönüş gövdesi ya da redüktör yağını kontrol edin.",
+        "Sesin ve hareketin kısa bir videosunu çekin; sesin kalkışta mı, sabit dönüşte mi, duruşta mı geldiğini not edin.",
+        "Dönüş tek yöne çalışıyorsa vinci o yönde zorlayarak park konumuna getirmeye uğraşmayın; nasıl toplanacağını servisle konuşun."
+      ]
+    },
+    {
+      "type": "callout",
+      "text": "Dönüş frenini ve dönüş fren valfini, üreticinin değerini bilmeden ayarlamayın ya da sökmeyin. Fren açık kalan bir vinçte bom, rüzgârda ya da hafif eğimde kendiliğinden dönebilir."
+    },
+    {
+      "type": "h2",
+      "text": "Dönüş tahrikini ne yıpratır?"
+    },
+    {
+      "type": "p",
+      "text": "Dönüş arızalarının bir kısmı kullanım alışkanlığından gelir. HIAB'ın bir başka <a href=\"https://cms.hiab.com/contentassets/bf3eccb61632454ebe644c660fc60311/hiab---t-hiduo-013-038---operators-manual.pdf\">kılavuzu</a> vincin son konuma tam hızla döndürülmemesini, bunun dönüş sistemine zarar vereceğini yazar; uzatma bomunun kriko gibi kullanılmasının da dönüş rulmanlarına zarar verebileceğini belirtir. Sahada gördüğümüz diğer sebepler:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Yükü yana çekmek ya da sürüklemek; dişliye ve frene yandan darbe gelir.",
+        "Dönüşte kumanda kolunu bir uçtan öbür uca hızla geçirmek.",
+        "Gresleme aralığını kaçırmak; açık dişli ve üst rulman kuru kalır.",
+        "Kirli hidrolik yağ; motorun iç kaçağı artar, dönüş yavaşlar."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Dönüş hem yavaş hem de diğer hareketlerle birlikte güçsüzse sorun tahrikte değil pompada ya da kumanda valfinde olabilir; bu ihtimalleri <a href=\"/blog/vinc-hidrolik-pompa-arizasi-belirtileri.html\">pompa arızası belirtileri</a> ve <a href=\"/blog/vinc-kumanda-valfi-arizasi.html\">kumanda valfi arızası</a> yazılarımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Dönüş motoru ve şanzıman nasıl onarılır?"
+    },
+    {
+      "type": "p",
+      "text": "Önce ölçüm yapılır: fren açma basıncı, her iki yönde dönüş basıncı ve motor kaçak hattı. Sorun hidrolik tarafta değilse redüktör ya da kremayer grubu sökülür. Atölyede dişliler ve rulmanlar kontrol edilir, fren diskleri ve keçeler yenilenir, gerekiyorsa aşınmış burç ve miller tornada yeniden yapılır. Toplanan tahrik, yağı doldurulup doğru torkla bağlandıktan sonra her iki yönde yüklü ve yüksüz denenir."
+    },
+    {
+      "type": "p",
+      "text": "Onarımda tahrikin bağlı olduğu yer de gözden geçirilir. Redüktörün ya da dönüş gövdesinin bağlantı cıvataları gevşemişse pinyon tabla dişlisine tam oturmaz; dişler ucundan çalışır ve kısa sürede aşınır. Bu yüzden yeni ya da onarılmış bir redüktör takılırken pinyonun dişliye oturuşu ve dişli boşluğu kontrol edilir, cıvatalar kılavuzdaki torkla sıkılır. Pinyon ve tabla dişlisinde kırık ya da belirgin aşınma varsa yalnızca redüktörü yenilemek yetmez; aşınmış dişli yeni parçayı da kısa sürede bozar."
+    },
+    {
+      "type": "h2",
+      "text": "Milas, Bodrum ve Muğla'da dönüş arızası nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Teşhisin önemli kısmı vincin bulunduğu yerde yapılabilir. WhatsApp hattımıza şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Dönüş hareketinin sesli kısa videosu, her iki yöne",
+        "Vincin etiketi: marka, model ve yıl; dönüş redüktörü ya da motoru üzerindeki etiket",
+        "Seviye camının ve varsa redüktörden akan yağın fotoğrafı",
+        "Arızanın ne zaman başladığı, yükte mi yüksüzde mi olduğu",
+        "Vincin bulunduğu yer"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Hidrolik motor ve valf işleri için <a href=\"/hizmetler/vinc-hidrolik-tamiri.html\">vinç hidrolik tamiri</a>, redüktör sökümü ve revizyon için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> sayfalarımıza bakabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Dönüş arızası çoğu zaman rulmandan değil tahrikten gelir: motor, redüktör, fren ya da kremayer.",
+    "İlk kontroller yağ seviyeleri, fren açma basıncı ve redüktör yağındaki metal parçacıktır.",
+    "Dönüş fren bölmesine EP katkılı dişli yağı konmamalıdır.",
+    "Vinci son konuma tam hızla döndürmek dönüş sistemini yıpratır.",
+    "Dönüş freni ve fren valfi üretici değeri bilinmeden ayarlanmaz."
+  ],
+  "faqs": [
+    {
+      "q": "Vinç neden dönmez?",
+      "a": "En sık sebepler dönüş freninin açılmaması, kumanda valfi ya da bobin arızası, hidrolik motor arızası ve sınırlayıcının dönüşü kesmesidir. Kremayerli vinçlerde dönüş silindirlerinden biri de sebep olabilir. Teşhis fren açma basıncı ve kumanda sinyali ölçülerek yapılır."
+    },
+    {
+      "q": "Vinç dönerken neden ses yapar?",
+      "a": "Dönüş gövdesinde ya da redüktörde yağın azalması, kuru kalmış üst rulman, aşınmış pinyon veya kremayer dişlisi ve hasarlı redüktör rulmanları ses yapar. Ses yükle birlikte artıyorsa vinç çalıştırılmamalı ve kontrol ettirilmelidir."
+    },
+    {
+      "q": "Dönüşte boşluk neden olur?",
+      "a": "Pinyon ile tabla dişlisi ya da kremayer arasındaki aşınma, redüktör içindeki rulman veya dişli aşınması ve gevşemiş bağlantı cıvataları boşluk yapar. Döner tabla rulmanındaki aşınma da benzer bir his verebilir; hangisi olduğu ölçümle ayrılır."
+    },
+    {
+      "q": "Dönüş redüktörü yağı ne zaman değişir?",
+      "a": "Vincin kılavuzundaki aralıkla. Örneğin bir üretici kremayerli dönüş gövdesi için yağın yılda bir, bir başka üretici motorlu dönüş şanzımanı için ilk 50 saatten sonra ve ardından her 1.000 saatte ya da altı ayda bir değişmesini ister."
+    },
+    {
+      "q": "Vinç eğimde kendiliğinden dönüyorsa ne yapılmalı?",
+      "a": "Önce vincin terazide kurulduğundan emin olun. Düz zeminde de kendiliğinden dönüyorsa dönüş freni ya da dönüş fren valfi tam tutmuyor olabilir. Bu durumda vinç yük kaldırmada kullanılmamalı ve kontrol ettirilmelidir."
+    },
+    {
+      "q": "Dönüş motoru tamir edilir mi, değişir mi?",
+      "a": "Kaçak yapan keçeler, aşınmış fren diskleri ve bazı iç parçalar yenilenerek motor ve redüktör çoğu zaman onarılabilir. Gövde ya da dişliler ağır hasarlıysa parça değişimi gerekir. Karar, ölçüm ve söküm sonrasında verilir."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "HIAB 435K HiPro Operator's Manual (güvenlik, bakım ve arıza giderme bölümleri)",
+      "publisher": "HIAB",
+      "url": "https://cms.hiab.com/contentassets/176458ce1b3c4d0e82a446779079d6b8/hiab---435k-hipro---operators-manual.pdf"
+    },
+    {
+      "title": "NBT30H-2 Service Manual",
+      "publisher": "National Crane (Manitowoc)",
+      "url": "https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf"
+    },
+    {
+      "title": "HIAB T-HiDuo 013–038 Operator's Manual",
+      "publisher": "HIAB",
+      "url": "https://cms.hiab.com/contentassets/bf3eccb61632454ebe644c660fc60311/hiab---t-hiduo-013-038---operators-manual.pdf"
+    },
+    {
+      "title": "300 Series Planetary Gearboxes – Installation, Operation and Maintenance Manual",
+      "publisher": "Bonfiglioli",
+      "url": "https://www.bonfiglioli.com/300%20Series%20-Installation%20Operation%20and%20Maintenance%20Manual_7.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-hidrolik-tamiri.html",
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/blog/vinc-doner-tabla-rulman-arizasi.html",
+    "/blog/vinc-kumanda-valfi-arizasi.html",
+    "/blog/vinc-hidrolik-pompa-arizasi-belirtileri.html"
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "slug": "hidrolik-emniyet-ve-cek-valf-arizasi",
+  "_hedef": "hidrolik çek valf arızası / yük tutma valfi arızası / emniyet valfi arızası",
+  "title": "Vinçte Çek Valf, Yük Tutma ve Emniyet Valfi Arızası",
+  "h1": "Vinçte Çek Valf, Yük Tutma Valfi ve Emniyet Valfi Arızası: Belirtiler ve Güvenli Teşhis",
+  "desc": "Vinçte çek valf, yük tutma valfi ve emniyet valfi arızası: bom oturması, ayak inmesi, titreyerek indirme ve güç kaybı; teşhis sırası ve sahadaki riskler.",
+  "category": "Hidrolik",
+  "image": "real_ones/atolye-sokulmus-vinc-govdesi-ve-ayaklar.jpg",
+  "imageAlt": "Atölye önündeki sahada sökülmüş kırmızı vinç gövdesi; üstte kumanda valf grubu ve hidrolik hatlar, iki yanda ayak silindirleri, arkada turuncu vinçli kamyon",
+  "kisaCevap": "Vinçte silindirlerin üzerindeki yük tutma valfleri ve ayaklardaki pilot çek valfler, hortum patlasa bile bomun ve ayakların inmesini önler; emniyet valfleri ise basıncı sınırlar. Bom ya da ayak kendiliğinden iniyorsa, indirme titreyerek yapılıyorsa ya da bir hareket güçsüz kaldıysa bu valfler kirlenmiş, aşınmış veya yanlış parçayla değiştirilmiş olabilir. Yük tutma valfi sahada sökülmez ve ayarı kurcalanmaz.",
+  "intro": "Hidrolik vinçte bazı valfler hareketi yönetir, bazıları ise yalnızca bir şey olduğunda devreye girer: hortum patladığında bomu tutan, ayağın gece boyunca inmesini önleyen ya da basıncın sınırı aşmasını engelleyen valfler. Bu valfler arızalandığında belirti çoğu zaman sinsi başlar: Bom birkaç santim oturur, ayak sabah biraz inmiş bulunur, indirme kesik kesik olur. Bu yazı vinç ve hiyap sahipleri ile operatörler için yük tutma valfi, pilot çek valf ve emniyet valfi arızalarının nasıl anlaşıldığını, teşhisin hangi sırayla yapıldığını ve sahada nelerin tehlikeli olduğunu anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Vinçte hangi emniyet valfleri bulunur?"
+    },
+    {
+      "type": "p",
+      "text": "Üç valf ailesi öne çıkar; üçü de kumanda valfinden ayrı parçalardır ve çoğu zaman silindirin ya da ayağın hemen üzerindedir."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Valf",
+        "Nerede?",
+        "Görevi"
+      ],
+      "rows": [
+        [
+          "Yük tutma (denge) valfi",
+          "Bom, katlanır kol, teleskop ve irgat devresinde, silindir ya da motor üzerinde",
+          "Kol bırakıldığında ve hortum patladığında yükü tutar; indirmeyi kontrollü yaptırır"
+        ],
+        [
+          "Pilot kumandalı çek valf",
+          "Ayak silindirlerinin üzerindeki blokta",
+          "Ayağı yerinde kilitler; ancak pilot basıncı gelince açılır"
+        ],
+        [
+          "Emniyet (basınç sınırlama) valfi",
+          "Pompa çıkışında, kumanda valfinde ya da dilimlerde",
+          "Sistemi ve tek tek devreleri aşırı basınçtan korur"
+        ],
+        [
+          "Isıl emniyet (termik) valfi",
+          "Bazı çek valflerin içinde",
+          "Kapalı silindirde güneşle genleşen yağın basıncını boşaltır"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bir araç üstü vinç üreticisinin <a href=\"https://cms.hiab.com/contentassets/176458ce1b3c4d0e82a446779079d6b8/hiab---435k-hipro---operators-manual.pdf\">kılavuzu</a> bütün silindirlerin yük tutma valfiyle donatıldığını, bu valflerin hareket bittiğinde vinci yerinde tuttuğunu ve boru, hortum ya da rakor kırılsa bile bomun çökmesini önlediğini yazar; silindiri hareket ettirmek için bir açma basıncı gerekir. Bir mobil vinç üreticisinin <a href=\"https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf\">servis kılavuzu</a> ise ayak silindirlerindeki pilot çek valfleri, tek yönlü akışı yalnızca pilot basıncıyla açan, ayarsız valfler olarak tarif eder."
+    },
+    {
+      "type": "h2",
+      "text": "Bu valflerin arızası hangi belirtilerle anlaşılır?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Belirti",
+        "Olası valf sorunu",
+        "Ayırt etmek için"
+      ],
+      "rows": [
+        [
+          "Bom ya da katlanır kol yük altında yavaşça oturuyor",
+          "Yük tutma valfinde kir ya da aşınmış oturma yüzeyi",
+          "Silindir iç kaçağı ile karşılaştırma testi"
+        ],
+        [
+          "Ayak gece boyunca iniyor, vinç sabah eğik",
+          "Pilot çek valfte kir ya da kaçak; silindir iç kaçağı",
+          "Ayağın hangi yöne kaçtığı; kaçak hattı kontrolü"
+        ],
+        [
+          "İndirme kesik kesik, titreyerek yapılıyor",
+          "Denge valfi ayarı ya da arızası, dönüş hattında karşı basınç, yanlış kumanda sürgüsü",
+          "Yağ sıcaklığına ve yüke göre davranış; dönüş basıncı"
+        ],
+        [
+          "Bir hareket hiç başlamıyor ya da ağır başlıyor",
+          "Valf açılmıyor, pilot hattı tıkalı",
+          "Pilot ve açma basıncı ölçümü"
+        ],
+        [
+          "Tek bir hareket güçsüz, diğerleri normal",
+          "O devrenin emniyet valfi kirle açık kalmış ya da ayarı düşük",
+          "Dilim basıncının manometreyle ölçümü"
+        ],
+        [
+          "Bütün hareketler güçsüz, yağ çabuk ısınıyor",
+          "Ana emniyet valfi açık kalmış; pompa aşınması",
+          "Ana basınç ve debi ölçümü"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Belirti tablosu bir yol haritasıdır, kesin teşhis değildir. Aynı oturma şikâyeti hem valften hem de silindirin iç keçesinden gelebilir; ikisini ayırmadan valf değiştirmek sık yapılan bir hatadır. Silindir tarafını <a href=\"/blog/vinc-hidrolik-silindir-kece-degisimi.html\">hidrolik silindir keçe değişimi</a> yazımızda, ayak tarafını <a href=\"/blog/vinc-ayaklari-outrigger-arizasi.html\">vinç ayakları arızası</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Bu valfler neden bozulur?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Kir:</strong> Servis kılavuzu, çek valfin oturma yüzeyi ile popeti arasına sıkışan bir kir ya da pas parçasının valfi açık tuttuğunu ve geri akışa izin verdiğini yazar; çözüm valfi temizlemek ve filtrenin hâlâ iş gördüğünü kontrol etmektir.",
+        "<strong>Aşınma ve keçe:</strong> Uzun kullanımda oturma yüzeyi ve O-ringler aşınır, valf küçük bir iç kaçak yapmaya başlar.",
+        "<strong>Yanlış parça:</strong> Yük tutma valfinin tipi, açma oranı ve ayarı vincin devresine göre seçilir. Bir valf üreticisinin <a href=\"https://apps.boschrexroth.com/products/compact-hydraulics/ch-catalog/pdf/Counterbalance.pdf\">kataloğu</a> dönüş hattındaki karşı basıncın valfin açılmasını etkilediğini ve bazı valf tiplerinin yalnızca belirli kumanda valfleriyle kullanılması gerektiğini belirtir. \"Ölçüsü uyuyor\" diye takılan başka bir valf titreme ya da oturma yapabilir.",
+        "<strong>Ayarla oynanması:</strong> Güç kaybını gidermek için emniyet valfini sıkmak ya da indirme titreşimini gidermek için denge valfini çevirmek, asıl sorunu gizler ve yeni bir risk ekler."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Teşhis hangi sırayla yapılır?"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Yağ seviyesi, yağın durumu ve filtre göstergesi kontrol edilir; kirli yağ bu valflerin bir numaralı düşmanıdır.",
+        "Belirtinin hangi harekette, hangi yönde, yüklü mü yüksüz mü, yağ soğukken mi sıcakken mi çıktığı not edilir.",
+        "Kumanda valfinin dilim ve ana basınçları, yağ çalışma sıcaklığındayken manometreyle ölçülür.",
+        "Oturma şikâyetinde silindir iç kaçağı ile valf kaçağı birbirinden ayrılır.",
+        "Şüpheli valf temiz bir tezgâhta açılır ya da üreticinin talimatına göre yenisiyle değiştirilir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Basınç ölçümleri üreticinin değerleriyle yapılır. Servis kılavuzu, emniyet basınçlarının yağ 60–71°C'deyken kontrol edilmesini ve emniyet valfinin bir dakikadan uzun süre açık tutulmamasını ister; bazı emniyet valflerinin fabrika ayarlı ve ayarsız olduğunu da not eder. Emniyet valfi ayarının neden körlemesine yapılmadığını <a href=\"/blog/vinc-kumanda-valfi-arizasi.html\">vinç kumanda valfi arızası</a> yazımızda ayrıntılı anlattık."
+    },
+    {
+      "type": "callout",
+      "text": "Yük tutma valfi ile silindir arasında hapsolmuş yağ, vinç kapalıyken de yüksek basınç altındadır. Bom havadayken ya da ayak yük taşırken bu bölgedeki rakoru gevşetmeyin, valf bloğunu sökmeyin. Servis kılavuzu da silindir tamamen toplanmadan valf bloğunun sökülmemesini ister."
+    },
+    {
+      "type": "h2",
+      "text": "Yük tutma valfi tamir edilir mi?"
+    },
+    {
+      "type": "p",
+      "text": "Çoğu zaman edilmez, değiştirilir. Servis kılavuzu yük tutma valfi şüpheli olduğunda valfin onarılmaya ya da basıncının ayarlanmaya çalışılmamasını, yenisiyle değiştirilmesini ister. Kartuş tipi valflerde bu, kartuşun aynı numaralı yenisiyle değişmesi demektir. Gövdeye ya da bloğa entegre valflerde blok sökülür, temizlenir, keçeleri yenilenir ve test edilir. Pilot çek valflerde ise kir kaynaklı kaçak çoğu zaman temizlik ve keçe yenilemesiyle giderilir; oturma yüzeyi bozulmuşsa valf değişir."
+    },
+    {
+      "type": "p",
+      "text": "Valf değiştikten ya da temizlendikten sonra iş bitmiş sayılmaz. Vinç yüksüz olarak bütün hareketlerde birkaç kez çalıştırılır, sistemin havası alınır, ardından bom ve ayaklar yük altında belirli bir süre bekletilerek oturma olup olmadığı ölçülür. İndirme hareketi farklı yüklerde ve yağ ısındıktan sonra yeniden denenir; titreşim ya da kesik kesik iniş varsa valf tipi ve devre uyumu tekrar kontrol edilir. Yapılan değişim ve ölçülen değerler bakım kaydına yazılır."
+    },
+    {
+      "type": "h2",
+      "text": "Sahada neler yapılmamalı?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Oturan bomun altında durmak ya da çalışmak.",
+        "Valfi sahada, tozun içinde açmak.",
+        "Ayarlı bir valfin vidasını \"biraz\" çevirmek ya da mührünü kırmak.",
+        "Ayağı inen vinçle, ayağı takozla destekleyerek yük kaldırmaya devam etmek.",
+        "Orijinal parça numarası bilinmeden ölçüsü uyan başka bir valf takmak."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Milas, Bodrum ve Muğla'da valf arızası nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Önce ölçüm, sonra parça: Valf arızalarında teşhisin bir kısmını vincin bulunduğu yerde, valf bloğu işlerini atölyemizde yapıyoruz. WhatsApp hattımıza şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Oturan bomun ya da inen ayağın kısa videosu; mümkünse belirli aralıklarla çekilmiş fotoğraflarla",
+        "Silindir üzerindeki valfin ve varsa etiket ya da numarasının fotoğrafı",
+        "Vincin etiketi: marka, model ve yıl",
+        "Valfle ya da ayarla daha önce oynanıp oynanmadığı",
+        "Vincin bulunduğu yer"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Valf, silindir ve basınç ayarı işleri için <a href=\"/hizmetler/vinc-hidrolik-tamiri.html\">vinç hidrolik tamiri</a>, valf ve conta takımları için <a href=\"/hizmetler/hidrolik-yedek-parca.html\">hidrolik yedek parça</a> sayfalarımıza bakabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Yük tutma ve pilot çek valfler hortum patlasa bile bomu ve ayakları yerinde tutar.",
+    "Oturma şikâyetinde önce valf kaçağı ile silindir iç kaçağı birbirinden ayrılır.",
+    "Çek valfi açık tutan en sık sebep oturma yüzeyine sıkışan kirdir.",
+    "Bom havadayken yük tutma valfi ile silindir arasındaki rakor gevşetilmez.",
+    "Şüpheli yük tutma valfi ayarlanmaz; aynı numaralı yenisiyle değiştirilir."
+  ],
+  "faqs": [
+    {
+      "q": "Yük tutma valfi ne işe yarar?",
+      "a": "Silindirin üzerinde durur; kumanda kolu bırakıldığında ya da hortum patladığında yağın silindirden çıkmasını engelleyerek bomu yerinde tutar. İndirme sırasında da yağın çıkışını kontrol ederek yükün kendi ağırlığıyla hızlanmasını önler."
+    },
+    {
+      "q": "Vinç ayağı gece neden iner?",
+      "a": "Ayak silindirindeki pilot çek valfin oturma yüzeyine kir sıkışmış ya da valf aşınmış olabilir; silindirin iç keçesi de kaçak yapıyor olabilir. Hangisi olduğu test ile ayrılır. Ayağı inen vinçle yük kaldırılmamalıdır."
+    },
+    {
+      "q": "Bom oturuyorsa valf mi bozuk, silindir mi?",
+      "a": "İkisi de olabilir. Yük tutma valfindeki kaçak ile silindir pistonu keçesindeki kaçak benzer belirti verir. Önce valf, sonra silindir test edilerek ayrılır; tahminle valf değiştirmek çoğu zaman sorunu çözmez."
+    },
+    {
+      "q": "İndirme sırasında vinç neden titrer?",
+      "a": "Denge valfinin ayarı ya da arızası, dönüş hattında oluşan karşı basınç, sistemde hava ya da vincin devresine uymayan bir kumanda sürgüsü titreşime yol açabilir. Valfin ayarı üreticinin değeri bilinmeden değiştirilmemelidir."
+    },
+    {
+      "q": "Emniyet valfi arızası nasıl anlaşılır?",
+      "a": "Bir hareket ya da bütün hareketler güçsüz kalıyorsa, yağ normalden çabuk ısınıyorsa ve basınç ölçümünde değer üreticinin verdiğinin altında çıkıyorsa emniyet valfi kirle açık kalmış ya da ayarı bozulmuş olabilir. Teşhis yalnızca manometreyle yapılır."
+    },
+    {
+      "q": "Yük tutma valfi tamir edilir mi?",
+      "a": "Bir üreticinin servis kılavuzu şüpheli yük tutma valfinin onarılmamasını ve ayarlanmamasını, yenisiyle değiştirilmesini ister. Kartuş tipi valflerde aynı numaralı yeni kartuş takılır; bloğa entegre valflerde blok temizlenip keçeleri yenilenir ve test edilir."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "HIAB 435K HiPro Operator's Manual (güvenlik, bakım ve arıza giderme bölümleri)",
+      "publisher": "HIAB",
+      "url": "https://cms.hiab.com/contentassets/176458ce1b3c4d0e82a446779079d6b8/hiab---435k-hipro---operators-manual.pdf"
+    },
+    {
+      "title": "NBT30H-2 Service Manual",
+      "publisher": "National Crane (Manitowoc)",
+      "url": "https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf"
+    },
+    {
+      "title": "Counterbalance Valves – Introduction and General Information",
+      "publisher": "Bosch Rexroth Oil Control",
+      "url": "https://apps.boschrexroth.com/products/compact-hydraulics/ch-catalog/pdf/Counterbalance.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-hidrolik-tamiri.html",
+    "/hizmetler/hidrolik-yedek-parca.html",
+    "/blog/vinc-kumanda-valfi-arizasi.html",
+    "/blog/vinc-hidrolik-silindir-kece-degisimi.html",
+    "/blog/vinc-ayaklari-outrigger-arizasi.html"
+  ]
+}

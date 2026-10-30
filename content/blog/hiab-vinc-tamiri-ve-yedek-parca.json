@@ -1,0 +1,261 @@
+{
+  "slug": "hiab-vinc-tamiri-ve-yedek-parca",
+  "_hedef": "hiab vinç tamiri / hiab yedek parça",
+  "title": "HIAB Vinç Tamiri ve Yedek Parça: Arızalar ve Parça Seçimi",
+  "h1": "HIAB Vinç Tamiri ve Yedek Parça: Sık Arızalar, Orijinal–Muadil Seçimi ve Milas'ta Servis",
+  "desc": "HIAB ve benzeri katlanır bomlu vinçlerde sık arızalar, seri numarasından doğru parça, orijinal ve muadil seçimi. Milas'ta atölyede ya da sahada tamir.",
+  "category": "Vinç Tamiri",
+  "datePublished": "2026-10-30",
+  "dateModified": "2026-10-30",
+  "cta": "hiyap",
+  "image": "real_ones/atolye-revizyonu-biten-katlanir-bom-vinc.jpg",
+  "imageAlt": "Atölye zemininde katlanmış hâlde duran, revizyonu bitmiş ve boyanmış sarı katlanır bomlu vinç; üzerinde Retrofit Hedef Crane etiketi",
+  "kisaCevap": "HIAB ve benzeri katlanır bomlu vinçlerde en sık arızalar bomun yük altında oturması, ayakların kaçırması, kumanda ve elektronik uyarılar, pompa sesi, hortum kaçakları ve pim-burç boşluklarıdır. Doğru parça, vincin seri numarası plakasındaki tip, seri numarası ve imal yılıyla bulunur; orijinal, muadil ya da tornada imalat seçenekleri birlikte değerlendirilir. Hedef Vinç HIAB'ın yetkili servisi değildir; bu tip vinçleri Milas'taki atölyesinde ya da sahada tamir eder.",
+  "intro": "Bu yazı; kamyonunda HIAB ya da benzeri bir katlanır bomlu vinç bulunan nakliyeciler, yapı malzemecileri ve filo sorumluları için. Sahada “hiyap” diye bilinen bu vinçlerin adı, bu tip vinçleri yaygınlaştıran markadan gelir; bugün kamyon üstü katlanır bomlu vinçlerin çoğuna bu ad verilir. Aşağıda bu vinçlerde en sık gördüğümüz arızaları, yedek parçayı doğru bulmanın yolunu, orijinal ve muadil parça arasındaki seçimi ve atölyemizde neyi nasıl yaptığımızı anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "HIAB ve benzeri vinçlerde en sık hangi arızalar çıkar?"
+    },
+    {
+      "type": "p",
+      "text": "Bu vinçler her gün açılıp toplanır, yolda sarsılır, yağmurda ve tuzlu havada kalır; arızalar da buna göre şekillenir. Atölyemize gelen katlanır bomlu vinçlerde en sık karşılaştığımız tablo şu:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Belirti",
+        "İlk bakılan yer",
+        "Genelde nerede çözülür"
+      ],
+      "rows": [
+        [
+          "Bom ya da teleskop yük altında oturuyor",
+          "Yük tutma valfi, ardından silindir piston keçesi",
+          "Valf çoğu zaman sahada; silindir atölyede"
+        ],
+        [
+          "Ayaklar yük altında içeri kaçıyor",
+          "Ayak silindiri, kilit valfi",
+          "Çoğu zaman sahada"
+        ],
+        [
+          "Kumanda sert, geç tepki veriyor ya da uyarı veriyor",
+          "Valf sürgüsü, bağlantılar, kumanda ve elektronik sistem",
+          "Ayar sahada; valf bloğu atölyede"
+        ],
+        [
+          "Pompa inliyor, hareketler yavaş",
+          "Yağ seviyesi, tank kapağı filtresi, emiş hattı, pompa",
+          "Kontrol sahada; pompa onarımı atölyede"
+        ],
+        [
+          "Hortum ya da rekor kaçırıyor",
+          "Yaşlanmış hortum, gevşek rekor",
+          "Sahada, ölçüsüne göre preslenmiş hortumla"
+        ],
+        [
+          "Dönüşte boşluk ya da vuruntu",
+          "Dönüş dişlisi, kremayer, döner kolon yatakları",
+          "Atölyede"
+        ],
+        [
+          "Mafsallarda boşluk ve ses",
+          "Pim ve burç aşınması",
+          "Tornada yeni pim ve burç; montaj atölyede ya da sahada"
+        ],
+        [
+          "Bomda ya da kolonda çatlak",
+          "Kaynak dikişleri, taşıyıcı sac",
+          "Atölyede; onarımdan sonra periyodik kontrol"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Tablo bir başlangıç noktasıdır; kesin teşhis basınç ölçümü ve test ister. Belirtiden sebebe giden yolu <a href=\"/blog/hiyap-vinc-arizalari-ve-cozumleri.html\">hiyap arızaları ve çözümleri</a> yazımızda ayrıntılı anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Elektronik kumandalı vinçlerde nelere dikkat edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Elektronik kumandalı vinçlerde sistem bir arıza algıladığında hemen uyarı verir; arızaya göre vincin hızı ya da kaldırma kapasitesi düşürülür, ciddi bir arızada vincin kullanımı tamamen engellenir. <a href=\"https://cms.hiab.com/contentassets/bf3eccb61632454ebe644c660fc60311/hiab---t-hiduo-013-038---operators-manual.pdf\">HIAB'ın kullanım kılavuzu</a> bunu böyle anlatır ve kumanda sistemini kullanıcının kendisinin onarmaya çalışmamasını ister. İlk iş, uyarının vincin kendi koruması mı, gerçek bir arıza mı olduğunu ayırmaktır. Aşırı yük korumasını, limit anahtarlarını ya da acil stop devresini köprüleyerek “işi bitirmek” en tehlikeli müdahaledir; nedenini <a href=\"/blog/yuk-moment-sinirlayici-arizasi.html\">yük moment sınırlayıcı arızası</a> yazımızda açtık. Kumandada ya da ekranda bir uyarı görüyorsanız fotoğrafını çekip gönderin; teşhis buradan başlar."
+    },
+    {
+      "type": "h2",
+      "text": "Doğru yedek parça nasıl bulunur?"
+    },
+    {
+      "type": "p",
+      "text": "Doğru parça, vincin kimliğiyle başlar. Üreticinin kılavuzu; markanın, tipin, seri numarasının ve imal yılının vinç üzerindeki seri numarası plakasında yazdığını belirtir. Aynı model adını taşıyan iki vinç, farklı yıllarda farklı valf, silindir ya da keçe ölçüleriyle üretilmiş olabilir; bu yüzden parça ararken model adı tek başına yetmez. Göndermeniz gerekenler:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Seri numarası plakası:</strong> Tip, seri numarası ve imal yılı okunacak şekilde fotoğraflayın.",
+        "<strong>Parçanın kendi etiketi:</strong> Pompa, valf ve silindir üzerindeki etiket ya da döküm yazıları.",
+        "<strong>Ölçüler:</strong> Silindirde mil ve gömlek çapı ile strok; hortumda uzunluk ve iki uçtaki rekor tipi.",
+        "<strong>Fotoğraf:</strong> Parçanın takılı olduğu yerden ve söküldükten sonra birkaç açıdan."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu bilgilerle parçayı stoktan, siparişle ya da imalatla temin etme yolunu konuşuruz. Ayrıntılar için <a href=\"/hizmetler/hidrolik-yedek-parca.html\">hidrolik yedek parça</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Orijinal mi, muadil mi, imalat mı?"
+    },
+    {
+      "type": "p",
+      "text": "Üç yolun da yeri var; doğru seçim parçanın göreviyle başlar."
+    },
+    {
+      "type": "table",
+      "head": [
+        "Seçenek",
+        "Ne zaman mantıklı",
+        "Dikkat edilecek"
+      ],
+      "rows": [
+        [
+          "Orijinal parça",
+          "Garanti süresindeki vinç; emniyetle doğrudan ilgili valfler ve elektronik parçalar",
+          "Temin süresi; parça numarasının seri numarasıyla eşleşmesi"
+        ],
+        [
+          "Muadil parça",
+          "Keçe takımı, hortum, rekor, filtre; ölçüsü ve çalışma değerleri net olan parçalar",
+          "Ölçü, basınç sınıfı ve malzemenin orijinaline uygunluğu; güvenilir üretici"
+        ],
+        [
+          "Tornada imalat",
+          "Pim, burç, mil gibi işlenebilir parçalar; bulunmayan eski model parçaları",
+          "Doğru malzeme ve ölçü; numunenin sağlıklı ölçülmesi"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Üreticinin kılavuzu orijinal parça ve takım kullanılmasını, yıllık bakım için de vincin kendi servis atölyelerine götürülmesini önerir. Vinciniz garanti süresindeyse önce garanti koşullarını satıcınızla konuşun. Garantisi bitmiş vinçlerde orijinal, muadil ve imalat seçeneklerini parça parça değerlendiriyor, teklifte hangisinin hangisi olduğunu açıkça söylüyoruz. Bulunmayan pim ve burçları atölyemizdeki tornada ölçüsünden imal ediyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "Hedef Vinç HIAB vinçlerde ne yapar?"
+    },
+    {
+      "type": "p",
+      "text": "Açık söyleyelim: HIAB'ın ya da başka bir vinç markasının yetkili servisi değiliz. 2005'ten beri vinç tamir ediyoruz; Milas'taki atölyemizde HIAB ve benzeri katlanır bomlu vinçlerin tamirini, revizyonunu ve bakımını yapıyoruz:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Arıza tespiti: basınç ve kaçak kontrolü, kumanda ve elektrik arızaları.",
+        "Hidrolik onarım: pompa, kumanda valf bloğu, silindir keçeleri, yük tutma valfleri.",
+        "Hortum ve rekor: patlayan hortum ölçüsüne göre kesilip atölyede preslenir.",
+        "Mekanik ve yapısal işler: pim-burç boşlukları, dönüş, ayak kirişleri; bom ve kolonda kaynakla onarım.",
+        "Revizyon: söküm, parçaların tek tek kontrolü, yenileme, boya, deneme ve kamyonla teslim.",
+        "Kamyon bağlantısı: bağlantı cıvataları, braketler ve <a href=\"/hizmetler/kamyon-sase-giydirme.html\">şase işleri</a>."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Sahada çözülebilecek arızaya biz geliyoruz; söküm, kaynak ve revizyon isteyen işleri atölyede yapıyoruz. Tüm kapsam için <a href=\"/hizmetler/hiyap-vinc-tamiri.html\">hiyap vinç tamiri</a> sayfamıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Arızayı önlemek için bakımda neye dikkat edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Aynı kılavuz, filtrenin ilk 50 çalışma saatinden sonra, ardından her 1000 saatte ya da en az yılda bir değiştirilmesini; hidrolik yağın en az yılda bir değiştirilmesini ya da test ettirilmesini ister ve sıcak iklimde yağın daha sık değişmesi gerekebileceğini not eder. Ege'nin sıcak yazında çalışan vinçlerde bu not önemlidir. Kılavuz ayrıca elektronik parçaların, kumanda valflerinin, silindirlerin ve yağ tankının yüksek basınçlı suyla yıkanmamasını ister; yalnızca vincin dış yüzeyi bu şekilde yıkanabilir. Günlük, haftalık ve yıllık kontrolleri <a href=\"/blog/hiyap-vinc-bakimi-kontrol-listesi.html\">hiyap bakımı kontrol listesi</a> yazımızda topladık."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne ve iskele üzerindeki katlanır bomlu vinçlerde ne farklıdır?"
+    },
+    {
+      "type": "p",
+      "text": "Güllük, Bodrum ve çevresinde katlanır bomlu vinçlerin bir kısmı kamyon yerine tekne, mavna ya da iskele üzerinde çalışır. Hidrolik açıdan kara vinçleriyle aynı mantıkla çalışırlar, ama tuzlu hava ve deniz suyu bakımı sıklaştırır. Bu vinçlerde en sık gördüğümüz sorunlar silindir millerinde pas ve buna bağlı keçe kaçağı, pim ve burçlarda korozyon nedeniyle sıkışma ya da boşluk, elektrik bağlantılarında oksitlenme ve boyası kalkmış yüzeylerde ilerleyen korozyondur. Gresleme aralığını kısaltmak, çalışma sonrası tatlı suyla durulamak ve boya hasarını zamanında onarmak, büyük tamirlerin önünü keser."
+    },
+    {
+      "type": "h2",
+      "text": "Milas, Bodrum ve Muğla'da HIAB tamiri nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "WhatsApp'tan şunları göndermeniz çoğu işte yeterli:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Arızalı hareketin kısa videosu; varsa kumandadaki ya da ekrandaki uyarının fotoğrafı.",
+        "Seri numarası plakasının fotoğrafı: tip, seri numarası ve imal yılı.",
+        "Kaçak ya da hasarlı parçanın yakın fotoğrafı.",
+        "Vincin konumu ve yola çıkıp çıkamayacağı.",
+        "Vincin hangi işte, ne sıklıkla çalıştığı."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bunlara bakıp olası arızayı ve gereken parçayı konuşuyor, sahada çözülecekse parçasıyla geliyoruz; değilse vinci atölyeye alıyoruz. Ne yapılacağını ve fiyatı işe başlamadan söylüyoruz. Telefonlarımız 7/24 açık; yabancı vinç sahipleri için İngilizce hattımız da var."
+    },
+    {
+      "type": "callout",
+      "text": "Seri numarası plakasının ve arızalı hareketin fotoğrafını gönderin; parçayı ve yapılacak işi birlikte netleştirelim."
+    }
+  ],
+  "cikarimlar": [
+    "Parça ararken model adı yetmez; plakadaki tip, seri numarası ve imal yılını gönderin.",
+    "Bom oturuyorsa keçe değiştirmeden önce yük tutma valfi test edilmelidir.",
+    "Garanti süresindeki vinçte parça ve servis seçimini önce satıcınızla konuşun.",
+    "Muadil parçada ölçü, malzeme ve basınç sınıfı orijinaline uygun olmalıdır.",
+    "Hedef Vinç HIAB yetkili servisi değildir; bu tip vinçleri atölyede ve sahada tamir eder."
+  ],
+  "faqs": [
+    {
+      "q": "HIAB yetkili servisi misiniz?",
+      "a": "Hayır. HIAB'ın ya da başka bir markanın yetkili servisi değiliz. HIAB ve benzeri katlanır bomlu vinçlerin tamirini, revizyonunu ve bakımını kendi atölyemizde ve sahada yapıyoruz. Garanti süresindeki vinçte önce garanti koşullarını satıcınızla konuşmanızı öneririz."
+    },
+    {
+      "q": "HIAB yedek parçası bulabiliyor musunuz?",
+      "a": "Seri numarası plakası ve parçanın etiketiyle temin yolunu araştırıyoruz: stoktan, siparişle ya da muadil olarak. Pim, burç ve mil gibi işlenebilir parçaları tornada imal ediyoruz. Temin süresini parçayı belirledikten sonra söylüyoruz."
+    },
+    {
+      "q": "Muadil keçe takımı güvenli mi?",
+      "a": "Ölçüsü, malzemesi ve basınç sınıfı orijinaline uygun, güvenilir bir üreticinin keçe takımı birçok silindir için uygundur. Ancak mil çizik ya da paslıysa yeni keçe de kısa sürede kaçırır; bu yüzden keçeden önce mil ve gömlek kontrol edilir."
+    },
+    {
+      "q": "Eski bir HIAB vinci revizyona değer mi?",
+      "a": "Taşıyıcı yapısı sağlam ve kritik parçaları bulunabiliyorsa çoğu zaman evet. Kolon, bom ve ayak kutularında yaygın çatlak ya da ileri korozyon varsa bunu açıkça söyleriz; o durumda revizyon yerine başka bir yol düşünmek gerekir."
+    },
+    {
+      "q": "HIAB vincim yola çıkamıyorsa ne yapmalıyım?",
+      "a": "Vincin bulunduğu yere geliyoruz. Yerinde teşhis yapıp mümkünse vinci toplanabilir ve yola çıkabilir hâle getiriyoruz; kapsamlı onarım gerekiyorsa atölyeye taşınmasını birlikte planlıyoruz."
+    },
+    {
+      "q": "Seri numarası plakası okunmuyorsa parça bulunur mu?",
+      "a": "Çoğu zaman evet, ama daha uzun sürer. Vincin genel fotoğrafları, parçanın üzerindeki döküm yazıları ve ölçüleriyle parçayı belirlemeye çalışırız. Plakayı temizleyip birkaç açıdan fotoğraflamak bile işi hızlandırır."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "HIAB T-HiDuo 013–038 Operator's Manual (bakım ve servis bölümü)",
+      "publisher": "HIAB",
+      "url": "https://cms.hiab.com/contentassets/bf3eccb61632454ebe644c660fc60311/hiab---t-hiduo-013-038---operators-manual.pdf"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (güncel metin)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/hiyap-vinc-tamiri.html",
+    "/hizmetler/hidrolik-yedek-parca.html",
+    "/blog/hiyap-vinc-arizalari-ve-cozumleri.html",
+    "/blog/hiyap-vinc-bakimi-kontrol-listesi.html"
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "slug": "teleskopik-bom-zincir-ve-halat-ayari",
+  "_hedef": "teleskopik bom halat ayarı / bom zinciri ayarı / teleskop sırası bozuldu",
+  "title": "Teleskopik Bom Halat ve Zincir Ayarı: Bom Sırası Bozulursa",
+  "h1": "Teleskopik Bom Halat ve Zincir Ayarı: Kademeler Sırasız Açılıyorsa Ne Yapılır?",
+  "desc": "Teleskopik bom halat ve zincir ayarı: kademeler sırasız açılıyor ya da toplamada vuruntu varsa nedenleri, ayar sırası, makara bakımı ve halat değişimi.",
+  "category": "Vinç Tamiri",
+  "image": "saha-mobil-vinc.jpg",
+  "imageAlt": "Şantiyede büyük teleskopik bomlu mobil vinç ile HEDEF VİNÇ yazılı kamyon üstü vinç çelik çatı makasını birlikte kaldırıyor; arkada yüksek binalar",
+  "kisaCevap": "Çok kademeli teleskopik bomlarda bir silindir kademeleri iterken, uzatma ve toplama halatları ya da zincirleri diğer kademelerin birlikte açılıp kapanmasını sağlar. Kademeler sırasız açılıyor, uçlarda aralıklar eşit değil ya da toplamada vuruntu varsa halatlar gevşemiş, uzamış ya da yanlış ayarlanmış olabilir. Ayar, bom yatay ve tam toplanmışken, üreticinin sırasına göre yapılır; hasarlı halat ayarla kurtarılmaz.",
+  "intro": "Teleskopik bomlu vinçlerde operatörün ilk fark ettiği şey çoğu zaman bir \"düzensizlik\"tir: Kademelerden biri ötekilerden önce çıkıyor, bom tam toplandığında uçlar aynı hizaya gelmiyor ya da toplama sonunda bomun içinden bir vuruntu geliyor. Bu belirtilerin önemli bir kısmı bomun içindeki halat ya da zincir sisteminden kaynaklanır. Bu yazı teleskopik bomlu vinç sahipleri ve operatörleri için bu sistemin nasıl çalıştığını, ayarın neden bozulduğunu, nasıl yapıldığını ve halatın ne zaman ayarla değil değişimle çözüleceğini anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Teleskopik bomda halat ve zincir ne işe yarar?"
+    },
+    {
+      "type": "p",
+      "text": "Üç ve daha fazla kademeli bomlarda her kademeye ayrı silindir koymak yerine çoğu zaman tek bir teleskop silindiri kullanılır; silindir bir kademeyi iter, halatlar ya da zincirler de makaralar üzerinden diğer kademeleri onunla birlikte çeker. Bir mobil vinç üreticisinin <a href=\"https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf\">servis kılavuzu</a> bu düzeni şöyle tarif eder: Uzatma halatları uç kademeyi dışarı çeker, toplama halatları kademeleri geri toplar; halatlar bir kademenin arkasına bağlanır ve bir başka kademenin önündeki makaralardan dolaşır."
+    },
+    {
+      "type": "p",
+      "text": "Bu sistemin amacı kademelerin orantılı ve belirli bir sırayla hareket etmesidir. Aynı kılavuz halat gerginliği ayarının amacını iki cümleyle özetler: Her kademe için uzatma ve toplama halatlarının ön gerginliğini dengelemek ve toplama sırasında kademelerin doğru sırayla kapanması için toplama halatlarını birbirine göre ayarlamak. Katlanır bomlu araç üstü vinçlerin bir kısmında uzatmalar ayrı silindirlerle ya da bir sıralama valfiyle çalışır; hangi sistemin vincinizde olduğu modele göre değişir."
+    },
+    {
+      "type": "h2",
+      "text": "Halat ya da zincir ayarı bozulursa ne olur?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Belirti",
+        "Olası neden",
+        "Ne yapılır?"
+      ],
+      "rows": [
+        [
+          "Kademeler sırasız ya da birbirinden önce açılıyor",
+          "Halat gerginlikleri dengesiz, bir halat uzamış",
+          "Aralık ölçümü ve üreticinin sırasıyla ayar"
+        ],
+        [
+          "Bom toplanınca uçlar aynı hizaya gelmiyor",
+          "Toplama halatı gevşek, kademe stopa oturmuyor",
+          "Toplama halatları ve stoplar kontrol edilir"
+        ],
+        [
+          "Toplamanın sonunda vuruntu, bomun içinden darbe sesi",
+          "Gevşek halat boşluğu alırken kademe çarpıyor",
+          "Gerginlik ayarı, makara ve bağlantı kontrolü"
+        ],
+        [
+          "Uzatmada sarsıntı, takılma",
+          "Halat makarada kuru ya da hasarlı; kayar pabuçlar aşınmış",
+          "Makara gresleme, pabuç kontrolü"
+        ],
+        [
+          "Halat ucunda kopuk tel, ezilme, kuş kafesi",
+          "Yorulma, yanlış ayar, makara hasarı",
+          "Ayar yapılmaz; halat takımı değişir"
+        ],
+        [
+          "Ayar kısa sürede yeniden bozuluyor",
+          "Halat uzaması ilerlemiş, bağlantı ya da makara hasarlı",
+          "Halat ve makaraların muayenesi"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Uzatma ve toplamada titreme her zaman halattan gelmez; aşınmış kayar pabuçlar ve kuru bom yüzeyi de aynı hissi verir. Teleskop silindirinde iç kaçak varsa bom yük altında kendiliğinden içeri kaçabilir; bunu <a href=\"/blog/vinc-hidrolik-silindir-kece-degisimi.html\">hidrolik silindir keçe değişimi</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Halat gerginliği nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Ayar, kılavuzda yazan sıraya ve ölçülere göre yapılır; aşağıdaki adımlar bir üreticinin kılavuzundaki yöntemi örnek olarak özetliyor:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Bom yatay konuma getirilir, tamamen toplanır ve bütün kademelerin stoplarına oturduğundan emin olunur.",
+        "Her kademenin önüne tebeşirle bir referans çizgisi çekilir.",
+        "Bom birkaç kez açılıp toplanarak halatların çalışma konumuna oturması sağlanır.",
+        "Bom, çizgiler belirli bir miktar görünecek kadar açılır ve kademeler arasındaki aralıklar ölçülüp not edilir.",
+        "Bom, çizgiler daha az görünecek kadar toplanır ve aynı ölçüler toplama yönünde de alınır.",
+        "Ölçüler tekrarlanıp doğrulandıktan sonra halatlar üreticinin verdiği sırayla ayarlanır."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Sıra önemlidir: Aynı kılavuz dört ve beş kademeli bomlar için önce hangi toplama, sonra hangi uzatma halatının sıkılacağını ayrı ayrı listeler. Yanlış sırayla yapılan ayar bir halatı fazla yükler, ötekini boşta bırakır. Ayar somunları sıkılırken halatın ucundaki anahtar yüzeyinden tutulması da istenir; kılavuz halatın fazla burulmasının erken kopmaya yol açabileceği uyarısını yapar."
+    },
+    {
+      "type": "callout",
+      "text": "Halat ayarı bom altında ve kademeler arasında çalışmayı gerektirir. Bom üzerinde ya da içinde çalışmadan önce sistem kapatılır, basınç boşaltılır ve bom güvenli şekilde desteklenir. Ayarı yük asılıyken ya da bom açıkken yapmayın."
+    },
+    {
+      "type": "h2",
+      "text": "Halat ne zaman ayarla değil değişimle çözülür?"
+    },
+    {
+      "type": "p",
+      "text": "Ayar, sağlam bir halatın gerginliğini düzeltir; hasarlı halatı kurtarmaz. Bom halatları da vincin kaldırma halatı gibi <a href=\"https://www.sis.se/en/produkter/maskinsakerhet-357f77b1/cranes/ss-iso-43092017/\">ISO 4309</a> mantığıyla değerlendirilir: kopuk teller, aşınma, korozyon, ezilme, bükülme, kuş kafesi ve ısı hasarı. Servis kılavuzu bom halatları için iki ek öneride bulunur:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Halatla uzayan bomlarda tek bir halat takımı hasarlıysa bütün uzatma halatı takımının birlikte değiştirilmesi.",
+        "Bom uzatma halatlarının yedi yılda bir değiştirilmesi."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Takım hâlinde değişimin sebebi basittir: Yeni ve eski halat aynı yükte farklı uzar, ayar dengesi kısa sürede yeniden bozulur. Halat muayenesinin ayrıntılarını <a href=\"/blog/vinc-halat-degisimi-ne-zaman.html\">vinç halatı ne zaman değişir</a> yazımızda bulabilirsiniz. Zincirli sistemlerde de benzer kural geçerlidir: Uzamış ya da halkası bozulmuş zincir ayarla toparlanmaz, değiştirilir."
+    },
+    {
+      "type": "h2",
+      "text": "Bom içindeki makaralar nasıl bakılır?"
+    },
+    {
+      "type": "p",
+      "text": "Halatların döndüğü makaraların çoğu bomun içindedir ve gözden kaçar. Servis kılavuzu bu makaraların, bom belirli bir konuma açıldığında hizaya gelen yan deliklerden özel bir gres ucuyla yağlanmasını tarif eder. Kuru makara halatı aşındırır ve sarsıntılı uzatmaya yol açar; çatlak ya da kanalı bozulmuş makara ise yeni halatı da kısa sürede bozar. Halat değişiminde makaralar, pimleri ve yatakları birlikte kontrol edilmelidir."
+    },
+    {
+      "type": "h2",
+      "text": "Ayar ya da halat değişiminden sonra ne yapılır?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bom yüksüz olarak birkaç kez tam açılıp toplanır, aralıklar yeniden ölçülür.",
+        "Kademelerin sırası ve toplamada stoplara oturması kontrol edilir.",
+        "İlk çalışma günlerinden sonra gerginlik yeniden kontrol edilir; yeni halat ilk kullanımda bir miktar oturur.",
+        "Yapılan iş bakım kaydına yazılır."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> halat ve zincir gibi askı tertibatının değişimini tek başına önemli bakım ve onarım saymaz; ancak bomda kaynak, kesme ya da taşıyıcı parça değişimi yapıldıysa vinç kullanılmadan önce periyodik kontrole girer. Ayrıntısı için <a href=\"/blog/vinc-revizyonu-ne-zaman.html\">vinç revizyonu ne zaman gerekir</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Halat ayarını hangi alışkanlıklar bozar?"
+    },
+    {
+      "type": "p",
+      "text": "Bom halatları, bomu yük altında ve hızla açıp toplamaktan, bomu yükü yana çekmek için kullanmaktan ve uzun süre greslenmeden çalışmaktan yorulur. Bomun tam toplanmadan taşıma konumuna yatırılması ya da kademelerin stoplara sertçe çarptırılması da halat bağlantılarını zorlar. Sahada en sık gördüğümüz hata ise vuruntuyu susturmak için bir halatın rastgele sıkılmasıdır: Vuruntu kısa süre kaybolur ama sıkılan halat fazla yük taşır, karşısındaki gevşek kalır ve sorun birkaç hafta sonra daha büyük hâliyle geri döner."
+    },
+    {
+      "type": "h2",
+      "text": "Milas, Bodrum ve Muğla'da bom ayarı nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Bom halatı ayarı ve değişimi, bomun sökülmesi gerekip gerekmediğine göre sahada ya da atölyede yapılır. WhatsApp hattımıza şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bomun açılırken ve toplanırken çekilmiş kısa videosu; vuruntu varsa sesiyle",
+        "Bom tam toplanmışken uç kısmın ve kademe hizalarının fotoğrafı",
+        "Vincin etiketi: marka, model ve yıl",
+        "Görünen halat uçlarının ve varsa kopuk tellerin yakın fotoğrafı",
+        "Vincin bulunduğu yer"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bom sökümü, halat ve makara değişimi ve revizyon işleri için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Teleskopik bomda halatlar kademelerin orantılı ve sıralı açılıp kapanmasını sağlar.",
+    "Ayar bom yatay ve tamamen toplanmışken, üreticinin sırasıyla yapılır.",
+    "Ayar somunu sıkılırken halat burulmamalıdır; burulma erken kopmaya yol açabilir.",
+    "Hasarlı halat ayarla kurtarılmaz; bir üretici bütün takımın değişimini önerir.",
+    "Bom içindeki makaralar da gresleme ve muayene ister."
+  ],
+  "faqs": [
+    {
+      "q": "Teleskopik bom neden sırasız açılır?",
+      "a": "En sık sebep uzatma ve toplama halatlarının gerginliğinin dengesiz olmasıdır; halatlardan biri uzamış ya da ayarı bozulmuş olabilir. Aşınmış kayar pabuçlar, kuru bom yüzeyi ve sıralama valfi olan sistemlerde valf arızası da benzer belirti verir."
+    },
+    {
+      "q": "Bom toplanırken gelen vuruntu neyden olur?",
+      "a": "Gevşek toplama halatı boşluğunu alırken kademenin stopa çarpması vuruntu yapabilir. Hasarlı makara, gevşek halat bağlantısı ya da aşınmış pabuçlar da ses yapar. Bom açılıp kontrol edilmeden yalnızca gerginliği artırmak doğru değildir."
+    },
+    {
+      "q": "Bom halatı ayarı ne sıklıkla yapılır?",
+      "a": "Sabit bir aralık yerine kılavuzdaki kontrol aralığı ve belirtiler esas alınır. Halat değişiminden ve bom sökümünden sonra ayar mutlaka yapılır; yeni halatta ilk kullanım günlerinin ardından gerginlik yeniden kontrol edilir."
+    },
+    {
+      "q": "Tek bir bom halatı değiştirilebilir mi?",
+      "a": "Bir üretici, halatla uzayan bomlarda tek bir halat takımı hasarlı olduğunda bütün uzatma halatı takımının değiştirilmesini önerir. Yeni ve eski halat aynı yükte farklı uzadığı için tek halat değişimi ayar dengesini kısa sürede bozar."
+    },
+    {
+      "q": "Bom halatı ayarı sahada yapılabilir mi?",
+      "a": "Ayar somunlarına erişilebiliyorsa ve halat sağlamsa ayar çoğu zaman sahada yapılabilir. Halat ya da makara değişimi için bomun sökülmesi gerekiyorsa iş atölyede yapılır."
+    },
+    {
+      "q": "Halat değişiminden sonra periyodik kontrol gerekir mi?",
+      "a": "İş Ekipmanları Yönetmeliği halat ve zincir gibi askı tertibatının değişimini tek başına önemli bakım ve onarım saymaz. Bomda kaynak, kesme ya da taşıyıcı parça değişimi yapıldıysa vinç kullanılmadan önce periyodik kontrolden geçirilir."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "NBT30H-2 Service Manual",
+      "publisher": "National Crane (Manitowoc)",
+      "url": "https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf"
+    },
+    {
+      "title": "SS-ISO 4309:2017 Cranes – Wire ropes – Care and maintenance, inspection and discard",
+      "publisher": "SIS – İsveç Standardizasyon Enstitüsü",
+      "url": "https://www.sis.se/en/produkter/maskinsakerhet-357f77b1/cranes/ss-iso-43092017/"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/hizmetler/vinc-hidrolik-tamiri.html",
+    "/blog/vinc-halat-degisimi-ne-zaman.html",
+    "/blog/vinc-hidrolik-silindir-kece-degisimi.html",
+    "/blog/vinc-revizyonu-ne-zaman.html"
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "slug": "deniz-kenarinda-calisan-vinclerde-korozyon",
+  "_hedef": "vinç korozyon / deniz kenarında vinç bakımı / tuzlu su vinç pas",
+  "title": "Deniz Kenarında Çalışan Vinçte Korozyon: Yıkama ve Kontrol",
+  "h1": "Deniz Kenarında Çalışan Vinçlerde Korozyon: Tuz, Yıkama ve Kontrol Noktaları",
+  "desc": "Deniz kenarında çalışan vinçte korozyon: tuzun en çok zarar verdiği yerler, doğru yıkama, silindir mili ve boya koruması, Bodrum ve Güllük için kontrol listesi.",
+  "category": "Vinç Tamiri",
+  "image": "real_ones/retrofit-hedef-crane-tekne-uzeri-deniz-vinci.jpg",
+  "imageAlt": "Limanda bir teknenin güvertesine monte edilmiş, üzerinde Retrofit Hedef Crane etiketi olan sarı katlanır bomlu vinç; arkada yamaçtaki evler",
+  "kisaCevap": "Deniz kenarında çalışan vinçte tuz, nemle birlikte boyanın altına, pim yuvalarına, silindir millerine, halata ve elektrik soketlerine işler. Korunmanın yolu tatlı suyla sık yıkamak, yüksek basıncı keçe, valf ve elektrik parçalarına tutmamak, vinci kurutup greslemek, açıktaki milleri korumak, metale inen boya hasarını beklemeden onarmak ve kılavuzdaki noktaları düzenli kontrol etmektir.",
+  "intro": "Bodrum'da iskele başında tekne kaldıran, Güllük'te rıhtımda yük indiren ya da kıyıdaki bir şantiyede çalışan vinç, aynı işi içerideki bir vinçten daha ağır koşullarda yapar. Deniz suyu sıçrar, tuzlu nem her yere çöker ve korozyon çoğu zaman görünmeyen yerlerden başlar. Bu yazı deniz kenarında çalışan kamyon üstü vinç, hiyap ve tekne üstü vinç sahipleri ile operatörler için tuzun nerelere zarar verdiğini, vincin nasıl yıkanacağını, hangi noktaların düzenli kontrol edileceğini ve korozyonun ne zaman onarım gerektirdiğini anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Deniz kenarı vinç için neden bu kadar ağırdır?"
+    },
+    {
+      "type": "p",
+      "text": "Çelik yapıların korozyon riskini sınıflandıran ISO 12944-2 ve ISO 9223, ortamları C1'den CX'e kadar kategorilere ayırır. Çelik yapı sektörünün başvuru kaynaklarından <a href=\"https://steelconstruction.info/topics/corrosion-protection/standard-corrosion-protection-systems-for-buildings\">Steel Construction Info</a> bu tabloda orta tuzluluktaki kıyı bölgelerini ve kıyıdaki tekne yapım alanlarını yüksek (C4), tuzluluğu yüksek kıyı bölgelerini ise çok yüksek (C5) korozyon kategorisinde gösterir. İskelede, rıhtımda ya da tekne üzerinde çalışan bir vinç, çoğu zaman bu kategorilerin içindedir."
+    },
+    {
+      "type": "p",
+      "text": "Bir vinç üreticisinin <a href=\"https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf\">servis kılavuzu</a> korozyonun en sık sebeplerini sayarken ulaşılması zor yerlerde biriken tuz, kir ve nemi; hareketli parçaların ya da küçük kazaların kazıdığı boyayı ve kimyasalları öne çıkarır. Aynı kılavuz, özellikle tuzlu suya yakın çalışıldığında, uzun süre nemli kalındığında ve donma noktasının hemen üzerindeki sıcaklıklarda temizlik sıklığının artırılmasını ister."
+    },
+    {
+      "type": "h2",
+      "text": "Tuz vincin nerelerine zarar verir?"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Bölge",
+        "Ne olur?",
+        "Neye bakılır?"
+      ],
+      "rows": [
+        [
+          "Silindir milleri",
+          "Krom kaplamadaki ince çatlaklardan nem girer, mil paslanır, keçeyi keser",
+          "Milde nokta pas, keçe çevresinde kaçak"
+        ],
+        [
+          "Pim ve burç yuvaları",
+          "Tuzlu su gresin yerini alır, pim yuvaya kaynar ya da aşınır",
+          "Gres çıkışı, boşluk, pas akıntısı"
+        ],
+        [
+          "Kaynak dikişleri ve kutu profil köşeleri",
+          "Su birikir, boya altından pas ilerler",
+          "Kabaran boya, kahverengi akıntı"
+        ],
+        [
+          "Bom ve ayak kutularının içi",
+          "Görünmeyen yüzeyde pas, pabuç yuvalarında aşınma",
+          "Uzatma ve ayak açıkken iç yüzeyler"
+        ],
+        [
+          "Döner tabla ve bağlantı cıvataları",
+          "Cıvata başı ve somun paslanır, sıkılık kontrol edilemez",
+          "Cıvata başları, rulman contası"
+        ],
+        [
+          "Halat",
+          "İç korozyon dışarıdan görünenden ileride olabilir",
+          "Çap kaybı, pas tozu, kuru halat"
+        ],
+        [
+          "Elektrik soketleri, sensörler, kumanda",
+          "Kontaklar oksitlenir, kesik kesik arıza verir",
+          "Soket içi yeşillenme, conta durumu"
+        ],
+        [
+          "Hortum rakorları ve borular",
+          "Rakor ve kelepçe paslanır, sızıntı başlar",
+          "Rakor çevresinde pas ve nem"
+        ],
+        [
+          "Kamyon şasesi ve vincin alt kısmı",
+          "Yol suyu ve tuzlu çamur birikir",
+          "Şase altı, yardımcı şase birleşimleri"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Halat korozyonu ayrı bir dikkat ister; dıştan sağlam görünen halatın içi aşınmış olabilir. Hangi durumda halatın değiştirileceğini <a href=\"/blog/vinc-halat-degisimi-ne-zaman.html\">vinç halatı ne zaman değişir</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Deniz kenarında çalışan vinç nasıl yıkanır?"
+    },
+    {
+      "type": "p",
+      "text": "Tuz ancak tatlı suyla gider ve beklemeye gelmez. Servis kılavuzu vincin en az ayda bir yıkanmasını, ağır koşullarda daha sık yıkanmasını önerir; tekne kaldırma gibi tuzlu suyun doğrudan sıçradığı işlerden sonra biz aynı gün durulamayı öneriyoruz. Yıkamada sıra şöyledir:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Önce bol tatlı suyla durulayın; toz ve tuz yıkama sırasında boyayı çizmesin.",
+        "Taşıt boyasına uygun bir şampuanla yıkayın; çözücü ya da benzin kullanmayın.",
+        "Sabun kalıntısı kalmayacak şekilde yeniden durulayın.",
+        "Vinci kurutun; basınçlı hava köşelerde ve kutu profillerde kalan suyu almaya yardım eder.",
+        "Yıkamadan sonra kılavuzdaki noktaları gresleyin; taze gres pim yuvalarındaki suyu dışarı iter.",
+        "Kuruyan vinci gözden geçirin; taş vurukları, çizikler ve kabaran boya bu sırada en kolay görülür."
+      ]
+    },
+    {
+      "type": "callout",
+      "text": "Yüksek basınçlı yıkama makinesini vincin her yerine tutmayın. HIAB'ın kılavuzu yüksek basınçlı suyun yalnızca vincin yüzeyinde kullanılmasını, elektronik parçalara, plastiklere, etiketlere, rulmanlara, kumanda valflerine, silindirlere ve yağ tankına tutulmamasını ister. Basınçlı su keçelerin arkasına geçer ve tuzu içeri taşır."
+    },
+    {
+      "type": "h2",
+      "text": "Silindir milleri ve boya nasıl korunur?"
+    },
+    {
+      "type": "p",
+      "text": "Silindir milindeki krom kaplama tam sızdırmaz değildir. Servis kılavuzu, her gün çalışan bir makinede ısınan yağın bu çatlaklara girip mili koruduğunu, ama nemli, yağmurlu ya da kıyı koşullarında bekleyen makinede açıktaki millerin paslanacağını yazar. Önerisi açıktır: açıktaki milleri koruyucu bir ürünle kaplamak ve haftalık kontrolle gerektiğinde yenilemek. HIAB da park yeri nedeniyle kirlenen millerin düzenli olarak temizlenip yağlanmasını ister."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Metale inmeyen çizikleri cilalayıp koruyun.",
+        "Metale inen çizikleri beklemeden temizletip astar ve son kat boyayla kapatın; servis kılavuzu yalnızca astarın gözenekli olduğunu ve zamanla su geçirdiğini yazar.",
+        "Görünmeyen yerlerdeki küçük hasarları bile fırça ile kapatın; asıl onarım bakım zamanına kalabilir ama pas beklemez.",
+        "Kıyıda çalışan vinçlerde korozyon önleyici ürünler daha sık uygulanmalıdır: Servis kılavuzu, ada ve kıyı bölgeleri gibi ağır ortamlarda fabrika uygulamasının on iki ay yerine altı ila dokuz ayda bir tekrarlanmasını önerir."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Kıyıda çalışırken hangi alışkanlıklar korozyonu azaltır?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "İş bitince vinci tam toplayın; açık bırakılan uzatma ve ayak kutuları tuzlu nemi içeri alır.",
+        "Vinci mümkünse denize bakan rıhtım kenarında değil, rüzgâr ve sıçrama almayan bir yerde park edin.",
+        "Kumandayı ve yedek bataryayı kabin ya da kapalı bir kutuda saklayın; soket kapaklarını açık bırakmayın.",
+        "Tekne kaldırmada ıslanan sapanları ve kancayı da tatlı suyla durulayıp kurutun.",
+        "Günlük kontrolde pas akıntısına, kabaran boyaya ve soketlerdeki yeşillenmeye özellikle bakın; erken görülen korozyon ucuza durur."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Korozyon ne zaman onarım gerektirir?"
+    },
+    {
+      "type": "p",
+      "text": "Yüzey pası temizlik ve boyayla durdurulur. Ama şu işaretlerden biri varsa iş boyanın ötesine geçmiştir:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Taşıyıcı bir parçada, bomda, kolonda, ayak kutusunda ya da şasede kesit kaybı veya delinme",
+        "Kaynak dikişinin kenarında pasla birlikte görülen ince çizgi; çatlak olabilir",
+        "Paslı silindir milinin keçede kaçak yapması",
+        "Pim yuvasında pasla büyüyen boşluk",
+        "Döner tabla cıvatalarında ya da rulman contasında ilerlemiş pas"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Taşıyıcı parçadaki hasar yapısal bir konudur; servis kılavuzu da bu durumda üreticiye danışılmasını ister. Kaynakla onarımın nasıl değerlendirildiğini <a href=\"/blog/vinc-bom-catlagi-kaynakla-onarilir-mi.html\">vinç bom çatlağı kaynakla onarılır mı</a> yazımızda, deniz kenarında çalışan vinçte revizyonun neden farklı planlandığını <a href=\"/blog/vinc-retrofit-modernizasyon-nedir.html\">vinç retrofit ve modernizasyon</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Milas, Bodrum ve Güllük'te korozyon kontrolü nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Kıyıda çalışan vinçlerin kontrolünü vincin bulunduğu yerde başlatıyor; boya, pim, burç ve keçe işlerini atölyemizde yapıyoruz. WhatsApp hattımıza şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Vincin genel fotoğrafı ve etiketteki marka, model ve yıl",
+        "Paslı bölgelerin yakın fotoğrafları; silindir milleri, pimler, kaynak dikişleri ve ayak kutuları",
+        "Varsa kaçak yapan silindirin ya da arıza veren soketin fotoğrafı",
+        "Vincin hangi işte çalıştığı: tekne, iskele, rıhtım ya da kıyı şantiyesi",
+        "Vincin bulunduğu yer: Bodrum, Güllük, Ören ya da Muğla kıyısında başka bir yer"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Kıyıdaki tamir işleri için <a href=\"/bolgeler/bodrum-vinc-tamiri.html\">Bodrum vinç tamiri</a> ve <a href=\"/bolgeler/gulluk-vinc-kiralama.html\">Güllük vinç kiralama</a> sayfalarımıza, atölye işleri için <a href=\"/hizmetler/vinc-revizyon-tamir-bakim.html\">vinç tamiri, revizyon ve bakım</a> sayfamıza bakabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Kıyı bölgeleri ISO 12944-2'ye göre yüksek ve çok yüksek korozyon kategorisindedir.",
+    "Tuz tatlı suyla gider; tuzlu sudan sonra vinç aynı gün durulanmalıdır.",
+    "Yüksek basınçlı su keçelere, valflere, rulmanlara ve elektrik parçalarına tutulmaz.",
+    "Açıktaki silindir milleri koruyucuyla kaplanmalı ve haftalık kontrol edilmelidir.",
+    "Metale inen boya hasarı beklemeden astar ve son katla kapatılmalıdır."
+  ],
+  "faqs": [
+    {
+      "q": "Deniz kenarında çalışan vinç ne sıklıkla yıkanmalı?",
+      "a": "Bir vinç üreticisi en az ayda bir yıkamayı, tuzlu suya yakın çalışmada daha sık yıkamayı önerir. Tekne kaldırma gibi deniz suyunun doğrudan sıçradığı işlerden sonra vinci aynı gün tatlı suyla durulamanızı öneriyoruz."
+    },
+    {
+      "q": "Vinç yüksek basınçlı suyla yıkanır mı?",
+      "a": "Yalnızca boyalı yüzeyler ve şase altı gibi yerler. Elektrik parçaları, sensörler, etiketler, rulmanlar, kumanda valfleri, silindirler, hortum ve rakorlar ile yağ tankına yüksek basınç tutulmaz; su keçelerin arkasına geçer."
+    },
+    {
+      "q": "Silindir mili neden paslanır?",
+      "a": "Milin krom kaplamasında gözle görülmeyen ince çatlaklar vardır. Her gün çalışan vinçte ısınan yağ bu çatlakları korur; bekleyen vinçte ise nem çatlaklardan çeliğe ulaşır. Paslı mil keçeyi keser ve kaçak başlar."
+    },
+    {
+      "q": "Paslı vinç parçası boyanarak kurtarılır mı?",
+      "a": "Yüzey pası temizlenip astar ve son kat boyayla durdurulabilir. Taşıyıcı parçada kesit kaybı, delinme ya da kaynak kenarında çatlak şüphesi varsa iş boyayla çözülmez; parça muayene edilip onarılır ya da değiştirilir."
+    },
+    {
+      "q": "Tekne üstü vinçte korozyon farklı mıdır?",
+      "a": "Daha ağırdır, çünkü vinç sürekli tuzlu suyun ve nemin içindedir. Soketler, sensörler, pimler ve silindir milleri daha sık kontrol edilmeli, yıkama ve gresleme aralıkları kısaltılmalıdır."
+    },
+    {
+      "q": "Korozyon kontrolü sahada yapılır mı?",
+      "a": "İlk kontrol ve küçük rötuşlar vincin bulunduğu yerde yapılabilir. Boya, keçe değişimi, pim ve burç yenileme gibi işler ise atölyede daha sağlıklı yapılır."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "NBT30H-2 Service Manual",
+      "publisher": "National Crane (Manitowoc)",
+      "url": "https://www.manitowoc.com/sites/default/files/media/divers/file/2021-10/NBT30H-2-SM-CTRL613-07-light.pdf"
+    },
+    {
+      "title": "HIAB 435K HiPro Operator's Manual (güvenlik, bakım ve arıza giderme bölümleri)",
+      "publisher": "HIAB",
+      "url": "https://cms.hiab.com/contentassets/176458ce1b3c4d0e82a446779079d6b8/hiab---435k-hipro---operators-manual.pdf"
+    },
+    {
+      "title": "Standard corrosion protection systems for buildings (ISO 12944-2 / ISO 9223 korozyon kategorileri)",
+      "publisher": "Steel Construction Info (SCI ve BCSA)",
+      "url": "https://steelconstruction.info/topics/corrosion-protection/standard-corrosion-protection-systems-for-buildings"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-revizyon-tamir-bakim.html",
+    "/bolgeler/bodrum-vinc-tamiri.html",
+    "/bolgeler/gulluk-vinc-kiralama.html",
+    "/blog/vinc-retrofit-modernizasyon-nedir.html",
+    "/blog/vinc-halat-degisimi-ne-zaman.html"
+  ]
+}

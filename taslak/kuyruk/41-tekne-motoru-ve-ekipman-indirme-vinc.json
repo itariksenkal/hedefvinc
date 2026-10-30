@@ -1,0 +1,235 @@
+{
+  "slug": "tekne-motoru-ve-ekipman-indirme-vinc",
+  "_hedef": "tekne motoru indirme vinç / tekne motoru çıkarma / direk indirme vinç",
+  "title": "Tekne Motoru ve Direk İndirme: Vinçle Ekipman Kaldırma",
+  "h1": "Tekne Motoru, Direk ve Ekipman İndirme: Vinçle Güvenli Kaldırma Nasıl Yapılır?",
+  "desc": "Tekne motoru, jeneratör ve direği vinçle indirme ve takma: ağırlık, kaldırma noktaları, traves, sapan seçimi, rıhtımda vincin yeri ve iş günü planı.",
+  "category": "Vinç Kiralama",
+  "image": "real_ones/tekne-kaldirma-katlanir-bom-vinc.jpg",
+  "imageAlt": "Sarı katlanır bomlu vinç, iki sarı kaldırma kayışıyla beyaz bir motorlu tekneyi kaldırıyor; arkada okaliptüs ağaçları",
+  "kisaCevap": "Tekne motoru, jeneratör, şanzıman ya da direk gibi ekipmanlar, tekneyi sudan çıkarmadan vinçle indirilip takılabilir. İş, ekipmanın aksesuarlarıyla birlikte ağırlığının ve ağırlık merkezinin bilinmesiyle başlar. Motor kendi kaldırma gözlerinden, ayarlı bir traves ve paralel zincirlerle; direk ağırlık merkezinin üstünden bağlanır. Vinç rıhtımda sağlam zemine kurulur, rüzgârlı havada kaldırma yapılmaz.",
+  "intro": "Tekne motorunu revizyona göndermek, yeni bir jeneratör koymak, şanzımanı değiştirmek ya da kışlık bakım için direği indirmek için tekneyi karaya almak her zaman gerekmez. Bu işlerin çoğu, tekne iskelede ya da rıhtımda dururken operatörlü bir vinçle yapılabilir. Ama tekne içinden yük çıkarmak, sahada kaldırmaktan farklıdır: Ambar ağzı dardır, ekipman pahalıdır, tekne suyun üstünde hareket eder. Bu yazı tekne sahipleri, kaptanlar ve tekne servisleri için motor ve ekipman indirmenin nasıl planlandığını, nelerin hazırlanması gerektiğini ve iş gününün nasıl ilerlediğini anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Hangi tekne ekipmanları vinçle indirilir?"
+    },
+    {
+      "type": "p",
+      "text": "En sık karşılaştığımız işler şunlardır; her birinin bağlantı noktası ve dikkat edilecek yeri farklıdır:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Ekipman",
+        "Nereden bağlanır?",
+        "Dikkat"
+      ],
+      "rows": [
+        [
+          "İç motor (şanzımanla birlikte)",
+          "Motor ve şanzıman üzerindeki kaldırma gözleri",
+          "Ayarlı traves; motorun üstündeki parçalar ezilmemeli"
+        ],
+        [
+          "Dıştan takma motor",
+          "Üreticinin kaldırma halkası ya da braketi",
+          "Ayna bağlantıları ve kablolar önceden sökülmeli"
+        ],
+        [
+          "Jeneratör",
+          "Kaldırma gözleri ya da taşıma çerçevesi",
+          "Ses kabini ve egzoz bağlantısı"
+        ],
+        [
+          "Şanzıman, şaft grubu, pervane",
+          "Kaldırma gözü ya da kuşak sapan",
+          "Hassas yüzeyler kuşakla korunur"
+        ],
+        [
+          "Direk (yelkenli)",
+          "Ağırlık merkezinin üstünden kuşak",
+          "En az üç kişilik ekip, rüzgârsız hava"
+        ],
+        [
+          "Güverte vinci, tender, jet ski",
+          "Kendi kaldırma noktaları",
+          "Kaldırma noktalarının kapasitesi ve dengesi"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Motor indirmeden önce neler hazırlanmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Motoru teknenin içinden çıkarmak, onu vinçle kaldırmaktan daha uzun süren bir hazırlık ister. Bir tekne motoru üreticisinin <a href=\"https://www.lundskov.eu/bavaria/manualer/Volvo/volvo_penta_installation_manual.pdf\">montaj kılavuzu</a> motorun, motor ve şanzıman üzerindeki kaldırma gözlerinden kaldırılmasını; kullanılan kaldırma ekipmanının şanzıman ve motorun üzerindeki ek donanımlar dahil ağırlığı taşıyacak kapasitede ve iyi durumda olmasını ister. Kaldırma günü öncesinde tekne tarafında şunlar yapılmalıdır:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Motorun modeli ve şanzıman dahil ağırlığı öğrenilir; üzerine eklenmiş donanım varsa ağırlığa eklenir.",
+        "Yakıt, soğutma suyu, egzoz, elektrik, kumanda kabloları ve şaft bağlantısı sökülür, uçlar kapatılır.",
+        "Motor kaideleri ve takozlar çözülür; motor yalnızca yerinde durur hâle getirilir.",
+        "Motorun çıkacağı yol açılır: ambar kapağı, kaporta ya da gerekiyorsa güverte üzerindeki parçalar sökülür ve yolun ölçüsü alınır.",
+        "Motorun konacağı yer hazırlanır: kamyon kasası, palet ya da sehpa."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu hazırlık genellikle tekne servisinin ya da motor ustasının işidir; bizim işimiz motor kaldırılmaya hazır olduğunda başlar. Bu yüzden kaldırma gününü tekne servisiyle birlikte planlamak, vincin rıhtımda beklemesini önler."
+    },
+    {
+      "type": "h2",
+      "text": "Motor vinçle nasıl kaldırılır?"
+    },
+    {
+      "type": "p",
+      "text": "Aynı kılavuz üç kuralı açıkça yazar: Motorun üstündeki parçalara zarar vermemek için ayarlı bir kaldırma traversi kullanılır; bütün zincir ve halatlar birbirine paralel ve motorun üst yüzeyine mümkün olduğunca dik çalışmalıdır; ağırlık merkezini değiştiren ek donanım varsa doğru dengeyi sağlayacak özel bir kaldırma düzeni gerekir. Buna iki uyarı daha ekler: Askıdaki motorun üzerinde asla çalışılmaz ve ağır parça montajında asla tek başına çalışılmaz."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Motor önce birkaç santim kaldırılır, dengesi kontrol edilir; eğiliyorsa yere bırakılıp bağlantı düzeltilir.",
+        "Motor ambar ağzından dik olarak, kılavuz iplerle ve yavaş çıkarılır; kenarlara sürtünmemesi için bir kişi yalnızca motoru izler.",
+        "Tekne iskeleye sıkıca bağlanır; vinç operatörü teknenin hareketini görecek ya da işaretçiden takip edecek konumda olur.",
+        "Motor indirileceği kasaya ya da sehpaya oturup bağlanmadan sapanlar çözülmez."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Direk vinçle nasıl indirilir ve takılır?"
+    },
+    {
+      "type": "p",
+      "text": "Direk hafiftir ama uzundur ve dengesi zordur. Bir direk üreticisinin <a href=\"https://support.seldenmast.com/files/595-540-E.pdf\">kılavuzu</a> bu işi dikkat ve konsantrasyon isteyen bir operasyon olarak tarif eder ve şu kuralları verir: Rüzgârlı havada direk kaldırılmaz, izleyenler en az bir direk boyu uzakta tutulur, ekip en az üç kişidir ve biri işi yöneten kişi olarak belirlenir. Kaldırma kuşağı direğin ağırlık merkezinin yakınına ya da biraz üstüne bağlanır; aşağı bağlanırsa direk tepe ağır olur ve dibini tutmak zorlaşır. Kancada kuşağın kaymasını önleyen bir kilitleme düzeneği olmalıdır. Omurgaya basan direkler için vincin, direği güverte deliğinden dik indirecek kadar yükseğe kaldırabilmesi gerekir."
+    },
+    {
+      "type": "p",
+      "text": "Ağırlık merkezini bulmanın pratik yolu da aynı kılavuzdadır: Direk yerdeyken bir sehpa üzerinde tahterevalli gibi dengelenir ve denge noktası işaretlenir. Kancanın ve bağlantının direğe değeceği yerler bezle ya da süngerle sarılır."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç nereye kurulur, nasıl seçilir?"
+    },
+    {
+      "type": "p",
+      "text": "Tekne işlerinde vinci zorlayan çoğu zaman ağırlık değil mesafedir. Vincin rıhtımda kurulacağı yerden motorun ambar ağzına kadar olan yatay mesafe ve teknenin bordası, gereken bom boyunu belirler. Vinç sağlam, düz bir zemine kurulur; ayak altlıkları kullanılır, rıhtım kenarına ve dolgu zemine dikkat edilir. Marinada ya da bir işletmenin iskelesinde çalışılacaksa izin ve çalışma saatleri önceden işletmeyle konuşulur. Vinç seçimini <a href=\"/blog/dogru-vinc-secimi.html\">vinç seçimi</a> yazımızda ayrıntılı anlattık."
+    },
+    {
+      "type": "p",
+      "text": "Sapan seçimi ekipmana göre yapılır: Kaldırma gözü olan motorda zincir ya da çelik sapan ve traves, boyalı ya da hassas yüzeylerde <a href=\"https://www.sis.se/en/produkter/maskinsakerhet-357f77b1/chains-ropes-webbing-slings-and-accessories/ssen14921a12008/\">EN 1492-1</a> standardındaki kuşak sapanlar kullanılır. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> de kaldırma aksesuarlarının yüke, kavrama noktalarına ve hava koşullarına uygun seçilmesini, olumsuz hava koşullarında açık havadaki kaldırma işinin durdurulmasını ister."
+    },
+    {
+      "type": "h2",
+      "text": "Kaldırma günü nasıl ilerler?"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Vinç sahaya gelir, operatör zemini ve rüzgârı kontrol eder, vinci kurar ve ayakları açar.",
+        "Tekne servisi motorun ya da ekipmanın kaldırılmaya hazır olduğunu teyit eder; son bağlantılar birlikte kontrol edilir.",
+        "Sapan ve traves bağlanır, yük birkaç santim kaldırılıp denge kontrol edilir.",
+        "Ekipman tekneden çıkarılır, kılavuz iplerle yönlendirilerek kasaya, sehpaya ya da palete indirilir ve bağlanır.",
+        "Takma işinde sıra tersinedir: Ekipman kaidesinin üstüne yavaşça indirilir ve takozlarına oturtulur; ekipman kendi ayaklarında güvenle durduktan sonra sapanlar gevşetilir. Askıdaki ekipmanın altında ya da üzerinde çalışılmaz."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Motor revizyona gidip geri gelecekse iki kaldırma da önceden planlanır; çıkarma günü motorun sığdığı yolun ölçüsü ve kullanılan bağlantı düzeni not edilirse takma günü iş daha kolay ilerler."
+    },
+    {
+      "type": "h2",
+      "text": "Tekne çekmekten farkı nedir?"
+    },
+    {
+      "type": "p",
+      "text": "Tekne çekme ve karaya alma işinde tekne bütün olarak kaldırılır; ekipman indirmede ise tekne suda kalır, yalnızca içindeki bir parça çıkar. Bu, işi hem daha hızlı hem de daha ekonomik yapabilir; ama ambar ağzı, teknenin hareketi ve hassas iç donanım ayrı bir dikkat ister. Tekneyi bütün olarak kaldırmanız gerekiyorsa <a href=\"/blog/bodrumda-tekne-cekme.html\">Bodrum'da tekne çekme</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Bodrum, Güllük ve Milas'ta ekipman indirme nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Tekne işlerinde vinci operatörüyle gönderiyoruz; kaldırma planı ve sapan seçimi bizim sorumluluğumuzdadır. WhatsApp hattımıza şunları gönderin:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Kaldırılacak ekipmanın marka ve modeli, biliniyorsa ağırlığı",
+        "Ambar ağzının ya da motorun çıkacağı yolun fotoğrafı ve ölçüsü",
+        "Teknenin durduğu yerin fotoğrafı: iskele, rıhtım ya da tersane; vincin kurulacağı zemin görünecek şekilde",
+        "Teknenin konumu: marina, iskele ya da koy adı",
+        "Ekipmanın götürüleceği yer ve planladığınız tarih"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Operatörlü vinç hizmetimiz için <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a>, bölgedeki işler için <a href=\"/bolgeler/bodrum-vinc-kiralama.html\">Bodrum vinç kiralama</a> ve <a href=\"/bolgeler/gulluk-vinc-kiralama.html\">Güllük vinç kiralama</a> sayfalarımıza bakabilirsiniz."
+    }
+  ],
+  "cikarimlar": [
+    "Motor, şanzıman ve ek donanım dahil ağırlığı bilinmeden kaldırma planlanmaz.",
+    "Motor kendi kaldırma gözlerinden, ayarlı traves ve paralel zincirlerle kaldırılır.",
+    "Askıdaki motorun üzerinde çalışılmaz, ağır parça montajında tek başına çalışılmaz.",
+    "Direk ağırlık merkezinin üstünden bağlanır; rüzgârlı havada kaldırılmaz.",
+    "Tekne işinde vinci zorlayan çoğu zaman ağırlık değil, rıhtımdan uzaklıktır."
+  ],
+  "faqs": [
+    {
+      "q": "Tekne motoru tekne sudayken çıkarılabilir mi?",
+      "a": "Çoğu durumda evet. Tekne iskeleye ya da rıhtıma sıkıca bağlanır, motor bağlantıları sökülür ve motor kaldırma gözlerinden vinçle çıkarılır. Rıhtımın vincin kurulmasına uygun olması ve ambar ağzının motorun çıkmasına yetmesi gerekir."
+    },
+    {
+      "q": "Motor kaldırırken neden traves kullanılır?",
+      "a": "Ayarlı bir traves, zincirlerin paralel ve motorun üst yüzeyine dik çalışmasını sağlar; böylece motorun üstündeki parçalar ezilmez ve motor dengeli kalkar. Motor üreticileri de kaldırma için ayarlı traves kullanılmasını ister."
+    },
+    {
+      "q": "Direk indirmek için kaç kişi gerekir?",
+      "a": "Bir direk üreticisi en az üç kişi önerir: işi yöneten ve direğin dibini tutan kişi, vinç operatörü ve ona yardım eden üçüncü kişi. Rüzgârlı havada direk kaldırılmamalıdır."
+    },
+    {
+      "q": "Vinç teknenin yanına ne kadar yaklaşmalı?",
+      "a": "Vincin kurulacağı yerden yükün kaldırılacağı noktaya olan yatay mesafe ne kadar kısa olursa vinç o kadar rahat çalışır. Rıhtım kenarına ve dolgu zemine dikkat edilerek sağlam bir yer seçilir; mesafe keşifte ya da fotoğraflarla belirlenir."
+    },
+    {
+      "q": "Motoru vinçten sonra kim söküp takar?",
+      "a": "Motorun bağlantılarının sökülüp takılması tekne servisinin ya da motor ustasının işidir. Biz kaldırma, indirme ve yerine oturtma işini yapıyoruz; bu yüzden kaldırma gününü tekne servisiyle birlikte planlamak en doğrusudur."
+    },
+    {
+      "q": "Ekipman indirme fiyatını ne belirler?",
+      "a": "Ekipmanın ağırlığı ve boyutu, vincin kurulacağı yerden uzaklık, gereken vinç, işin süresi, ulaşım mesafesi ve zemin koşulları belirler. Fotoğraf ve bilgilerle iş netleştikten sonra fiyatı söyleriz."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Installation Manual – Marine Diesel Engines D1-13, D1-20, D1-30, D2-40, D2-55, D2-75 (güvenlik önlemleri: motorun kaldırılması)",
+      "publisher": "Volvo Penta",
+      "url": "https://www.lundskov.eu/bavaria/manualer/Volvo/volvo_penta_installation_manual.pdf"
+    },
+    {
+      "title": "Hints and advice on rigging and tuning of your Seldén mast (vinçle direk kaldırma bölümü)",
+      "publisher": "Seldén Mast",
+      "url": "https://support.seldenmast.com/files/595-540-E.pdf"
+    },
+    {
+      "title": "SS-EN 1492-1+A1:2008 Textile slings – Flat woven webbing slings for general purpose use",
+      "publisher": "SIS – İsveç Standardizasyon Enstitüsü",
+      "url": "https://www.sis.se/en/produkter/maskinsakerhet-357f77b1/chains-ropes-webbing-slings-and-accessories/ssen14921a12008/"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-kiralama.html",
+    "/bolgeler/bodrum-vinc-kiralama.html",
+    "/bolgeler/gulluk-vinc-kiralama.html",
+    "/blog/bodrumda-tekne-cekme.html",
+    "/blog/dogru-vinc-secimi.html"
+  ]
+}
