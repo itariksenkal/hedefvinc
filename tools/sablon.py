@@ -94,6 +94,11 @@ BILGI_ALANLARI = ["Vinç tamiri", "Vinç revizyonu", "Hiyap tamiri", "Vinç hidr
                   "Vinç kiralama", "Tekne kaldırma"]
 
 
+
+# Small credit for the agency that built the site, in the footer's bottom row.
+KREDI_TR = '<span class="ftr__kredi">Web tasarım ve yazılım: <a href="https://hatsontech.com/tr" target="_blank" rel="noopener"><img src="/assets/img/hatson-tech.svg" alt="Hatson Tech" width="16" height="16" loading="lazy">Hatson Tech</a></span>'
+KREDI_EN = '<span class="ftr__kredi">Built by <a href="https://hatsontech.com/" target="_blank" rel="noopener"><img src="/assets/img/hatson-tech.svg" alt="Hatson Tech" width="16" height="16" loading="lazy">Hatson Tech</a></span>'
+
 def esc(t):
     """Öznitelik ve metin için kaçış; tek tırnak okunur kalsın diye dokunulmaz."""
     return html.escape(str(t), quote=False).replace('"', "&quot;")
@@ -533,9 +538,9 @@ def alt(dil):
    <div class="ftr__kol">{g2}</div>
    <div class="ftr__kol">{g3}</div>
   </div>
-  <div class="ftr__alt"><span>Hedef Vinç · Retrofit Hedef Crane · 2005</span><span>{alt_satir}</span></div>
+  <div class="ftr__alt"><span>Hedef Vinç · Retrofit Hedef Crane · 2005</span><span>{alt_satir}</span>{kredi}</div>
  </div>
-</footer>""".format(ana=ana, kim=kim, adres=adres_html(dil), telefon=telefon, eposta=EPOSTA, harita_url=esc(HARITA),
+</footer>""".format(kredi=KREDI_EN if dil == "en" else KREDI_TR, ana=ana, kim=kim, adres=adres_html(dil), telefon=telefon, eposta=EPOSTA, harita_url=esc(HARITA),
                     google=esc(GOOGLE_PROFIL), google_ad="Google profile" if dil == "en" else "Google profilimiz",
                     harita=harita, g0=gruplar[0], g1=gruplar[1], g2=gruplar[2], g3=gruplar[3], alt_satir=alt_satir)
 
