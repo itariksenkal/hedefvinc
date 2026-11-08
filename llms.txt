@@ -145,6 +145,8 @@
 
 ## Blog yazıları (Türkçe)
 
+- [Ekskavatör Hidrolik Arızaları: Belirtiden Nedene Arıza Tablosu](https://hedefvinc.com/blog/ekskavator-hidrolik-arizalari.html) (Hidrolik, 2026-11-09): Ekskavatör hidrolik arızası belirtileri: yavaşlama, güç kaybı, ısınma, bomun kendiliğinden inmesi ve kaçak. Olası nedenler, ilk kontroller ve servis zamanı.
+  Kısa cevap: Ekskavatörde hidrolik arızası çoğunlukla beş belirtiyle görülür: tüm hareketlerde yavaşlama, tek fonksiyonda güç kaybı, yağın aşırı ısınması, bom ya da kolun kendiliğinden inmesi ve görünür kaçak. Belirti bütün makinedeyse önce yağ seviyesi, filtre, pilot basıncı ve pompa; tek harekette ise o fonksiyonun valf bölümü ve silindiri şüphelidir. Kesin teşhis basınç ölçümüyle konur.
 - [Şantiye Konteyneri: Doğru Tip, Zemin Hazırlığı ve Vinçle Yerleştirme](https://hedefvinc.com/blog/santiye-konteyneri-kurulumu.html) (Rehber, 2026-11-08): Şantiye konteyneri seçerken ofis, depo ve yatakhane ihtiyacı; zemin hazırlığı, bağlantılar ve vinçle yerleştirme adımları. Milas ve Bodrum'da teslim.
   Kısa cevap: Şantiye konteyneri kurulumunda üç şey işi belirler: konteynerin amacı (ofis, depo, yatakhane ya da güvenlik kulübesi), konacağı zeminin düz, sıkıştırılmış ve drenajlı hazırlanması ve teslim günü vincin sahaya yanaşabilmesi. Yer; vinç yük rotası, iş makinesi güzergâhı ve havai hatlardan uzak seçilir. Elektrik ve su güzergâhı önceden planlanırsa konteyner aynı gün indirilip bağlanabilir.
 - [Konteyner Ölçüleri: 20'lik, 40'lık ve High Cube Konteynerin İç ve Dış Boyutları](https://hedefvinc.com/blog/konteyner-olculeri-20-40-lik.html) (Rehber, 2026-11-07): Konteyner ölçüleri: 20'lik ve 40'lık konteynerin ISO 668'e göre dış boyutları, yaklaşık iç ölçüleri, boş ağırlığı ve teslimatta vinç için gereken alan.
