@@ -46,3 +46,4 @@
 2026-11-08 santiye-konteyneri-kurulumu
 2026-11-09 ekskavator-hidrolik-arizalari
 2026-11-10 kamyon-sase-uzatma
+2026-11-11 torna-ile-mil-burc-imalati
