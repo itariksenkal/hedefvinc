@@ -47,3 +47,4 @@
 2026-11-09 ekskavator-hidrolik-arizalari
 2026-11-10 kamyon-sase-uzatma
 2026-11-11 torna-ile-mil-burc-imalati
+2026-11-12 tekne-sehpasi-ve-vincle-indirme
