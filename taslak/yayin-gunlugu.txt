@@ -51,3 +51,4 @@
 2026-11-13 vinc-hidrolik-tank-ve-filtre-degisimi
 2026-11-14 vinc-kanca-emniyet-mandali-ve-sapan-kontrolu
 2026-11-15 vinc-donus-motoru-ve-sanziman-arizasi
+2026-11-16 teleskopik-bom-zincir-ve-halat-ayari
