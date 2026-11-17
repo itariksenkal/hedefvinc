@@ -1,20 +1,20 @@
 {
   "slug": "vinc-kiralama-fiyatlari",
-  "_hedef": "vinç kiralama fiyatları (Milas, Bodrum)",
-  "title": "Vinç Kiralama Fiyatları: Milas ve Bodrum'da Ne Belirler?",
+  "_hedef": "vinç kiralama fiyatları, vinç kiralama ücretleri, vinç kiralama saat ücreti, günlük vinç kiralama fiyatları, vinç nakliye fiyatları (Milas, Bodrum)",
+  "title": "Vinç Kiralama Fiyatları ve Ücretleri: Saatlik, Günlük, Nakliye",
   "h1": "Vinç Kiralama Fiyatları Neye Göre Belirlenir? Milas ve Bodrum İçin Rehber",
-  "desc": "Vinç kiralama fiyatları Milas ve Bodrum'da yük, yükseklik ve yarıçap, süre, mesafe ve sahaya göre belirlenir. Hızlı ve net teklif için gereken 7 bilgi.",
+  "desc": "Vinç kiralama fiyatları ve ücretleri neye göre belirlenir? Saat ücreti, günlük fiyat ve nakliye (yol) payı nasıl hesaplanır, tek mesajla net fiyat nasıl alınır?",
   "category": "Vinç Kiralama",
   "datePublished": "2026-08-22",
-  "dateModified": "2026-10-22",
+  "dateModified": "2026-11-17",
   "image": "saha-mobil-vinc.jpg",
   "imageAlt": "Şantiyede büyük teleskopik bomlu mobil vinç ile HEDEF VİNÇ yazılı kamyon üstü vinç çelik çatı makasını birlikte kaldırıyor; arkada yüksek binalar",
-  "kisaCevap": "Vinç kiralama fiyatı sabit bir tarifeyle değil, işin kendisine göre belirlenir: yükün ağırlığı, kaldırma yüksekliği ve vincin yüke uzaklığı (yarıçap), işin süresi, sahanın mesafesi ve erişimi ile işin zorluğu. Yarıçap büyüdükçe vincin kaldırabileceği yük azaldığı için aynı yük daha büyük bir vinç gerektirebilir. Milas ve Bodrum'daki standart işlerde bu bilgiler ve birkaç fotoğrafla fiyat çoğu zaman telefonda netleşir.",
-  "intro": "Bu yazı; Milas, Bodrum ve çevresinde villa, şantiye, tekne ya da konteyner işi için vinç arayan ve fiyatın neden tek cümleyle söylenemediğini merak edenler için. Vinç kiralamada iki iş birbirine pek benzemez: Aynı ağırlıktaki yük birinde kapının önüne, diğerinde evin arka bahçesine, duvarın ötesine konur. Aşağıda fiyatı oluşturan kalemleri, teklif istemeden önce hazırlamanız gereken bilgileri, teklifleri nasıl karşılaştıracağınızı ve faturayı sonradan büyüten durumları anlatıyoruz.",
+  "kisaCevap": "Vinç kiralama fiyatını sabit bir tarife değil iş belirler: yükün ağırlığı, yükün vince uzaklığı ve yüksekliği, süre, adres ve saha. Kısa ve tanımlı işler iş başı ya da saatlik, gün boyu süren işler günlük fiyatlanır; vincin sahaya gelip dönmesi yani yol da fiyatın bir kalemidir. Yükün bilgisi, yatay mesafe, konum ve birkaç fotoğrafla Milas ve Bodrum'daki çoğu işte fiyat tek mesajda netleşir.",
+  "intro": "Kısa cevap: vinç kiralama ücreti yük, mesafe, süre, yol ve sahaya göre çıkar; aynı vinç iki farklı işte farklı fiyatlanır. Bu yazı; Milas, Bodrum ve çevresinde villa, şantiye, tekne ya da konteyner işi için vinç arayan ve fiyatın neden tek cümleyle söylenemediğini merak edenler için. Aynı ağırlıktaki yük birinde kapının önüne, diğerinde evin arka bahçesine, duvarın ötesine konur. Aşağıda her soruyu ayrı ele alıyoruz: fiyatı neler belirler, saat ücreti nasıl işler, günlük fiyat neye göre değişir, nakliye yani yol fiyata ne ekler ve tek mesajla net fiyatı nasıl alırsınız.",
   "body": [
     {
       "type": "h2",
-      "text": "Vinç kiralama fiyatını neler belirler?"
+      "text": "Vinç kiralama fiyatları neye göre belirlenir?"
     },
     {
       "type": "p",
@@ -42,7 +42,7 @@
     },
     {
       "type": "p",
-      "text": "Yarım saatte biten bir konteyner indirme işi ile günlerce sürecek bir şantiye montajı aynı şekilde fiyatlanmaz. Kısa işlerde iş başı ya da saatlik, uzun işlerde günlük ya da proje bazlı anlaşma yapılır. İşin süresini baştan netleştirmek, teklifin de net olmasını sağlar."
+      "text": "Yarım saatte biten bir konteyner indirme işi ile günlerce sürecek bir şantiye montajı aynı şekilde fiyatlanmaz. Kısa işlerde iş başı ya da saatlik, uzun işlerde günlük ya da proje bazlı anlaşma yapılır; ikisinin nasıl işlediğini aşağıda ayrı başlıklarda anlattık. İşin süresini baştan netleştirmek, teklifin de net olmasını sağlar."
     },
     {
       "type": "h3",
@@ -62,11 +62,73 @@
     },
     {
       "type": "h2",
-      "text": "Teklif istemeden önce hangi bilgileri hazırlamalısınız?"
+      "text": "Vinç kiralama saat ücreti nasıl işler?"
     },
     {
       "type": "p",
-      "text": "Yedi bilgi çoğu iş için yeterlidir; bunlar elinizdeyse fiyat hızlı ve net çıkar:"
+      "text": "Saat ücreti, vincin sahadaki zamanını fiyatlar; süresi tam kestirilemeyen kısa işlerde kullanılır: birkaç noktaya malzeme vermek, tadilat ya da montaj desteği. Saat ücretini sorarken asıl soru, saatin nereden başladığıdır. Uygulama firmadan firmaya değişir; bu yüzden teklifte şunların yazılı olması gerekir:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Başlangıç:</strong> Saat vincin sahaya varışıyla mı, yola çıkışıyla mı başlıyor?",
+        "<strong>Kurulum ve toplama:</strong> Ayakların açılması, bomun kurulması ve iş sonunda toplanması süreye dahil mi?",
+        "<strong>Asgari süre:</strong> İş kısa bile olsa ödenen bir asgari süre ya da sefer ücreti var mı?",
+        "<strong>Bekleme:</strong> Vinç geldi ama yük ya da saha hazır değilse bekleme nasıl sayılıyor?"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Tek bir klima ünitesi, birkaç palet ya da bir konteyner gibi tek kaldırmalık işlerde saatlik yerine iş başı fiyat çoğu zaman daha nettir: fiyatlanan şey işin kendisidir. Saat ücreti düşük ama asgari süresi uzun bir teklif, kısa bir işte daha pahalıya gelebilir. Saatin nasıl sayıldığını <a href=\"/blog/gunluk-ve-saatlik-vinc-kiralama-milas-bodrum.html\">günlük ve saatlik vinç kiralama</a> yazımızda ayrıntılı anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Günlük vinç kiralama fiyatları neye göre değişir?"
+    },
+    {
+      "type": "p",
+      "text": "Günlük fiyat, vincin bütün gününü fiyatlar. İş yarım günü aşacaksa, birden çok kaldırma noktası varsa ya da işin hızı başka ekiplere bağlıysa (çelik montaj, çatı kaplaması, prefabrik eleman) günlük kiralama daha öngörülebilirdir; gün içindeki kısa beklemeler ayrı kalem olmaz. Günlük fiyatı değiştiren dört şey vardır:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Vincin sınıfı:</strong> Yükün ağırlığı ve vince uzaklığı hangi vincin gerekeceğini belirler; günlük fiyat da buna göre değişir.",
+        "<strong>Günün kaç saat sayıldığı:</strong> Kurulum ve toplamanın güne dahil olup olmadığı, mesai dışına taşan çalışmanın nasıl hesaplandığı.",
+        "<strong>Gün sayısı:</strong> Birkaç gün süren işlerde vincin geceyi sahada geçirip geçirmeyeceği ve hava nedeniyle durulan günler.",
+        "<strong>Yol:</strong> Vincin her gün gelip dönmesi mi, sahada kalması mı gerektiği."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Hangi tonajda vincin gerektiğini bilmiyorsanız sorun değil: yükü ve mesafeyi söyleyin, vinci biz seçelim. İhtiyacınız olan tonajda vinci operatörüyle sağlıyoruz; sınıflar arasındaki farkı <a href=\"/hizmetler/tonaja-gore-vinc-kiralama.html\">tonaja göre vinç kiralama</a> sayfamızda topladık."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç nakliye fiyatı: yol fiyata ne ekler?"
+    },
+    {
+      "type": "p",
+      "text": "Vincin sahaya gelip dönmesi fiyatın ayrı bir kalemidir; teklifte bu kalemin dahil mi, ayrı mı yazıldığına bakın. Yol payını üç şey belirler:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Mesafe:</strong> Atölyeye uzaklık. Atölyemiz Milas–Bodrum karayolunun üzerinde, Güllük ile Güvercinlik arasında; Milas ve Bodrum'daki işlerde yol payı düşük kalır, Didim, Yatağan ya da Aydın ve İzmir'deki işlerde artar.",
+        "<strong>Yolun durumu:</strong> Dar sokak, dik rampa, alçak geçit ya da site girişi hangi aracın gönderilebileceğini ve yolun süresini etkiler.",
+        "<strong>Vincin büyüklüğü:</strong> Büyük vinçlerde karşı ağırlık ayrı araçlarla gelir ve yasal ölçüyü aşan araçlar için özel izin gerekir; ayrıntısı <a href=\"/blog/200-tonluk-ve-uzeri-vinc-kiralama.html\">200 tonluk ve üzeri vinç kiralama</a> yazımızda."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Yükün kendisinin de taşınması gerekiyorsa, örneğin bir konteyner, jeneratör ya da palet bir yerden alınıp başka bir adrese indirilecekse, çoğu zaman en ekonomik yol yükü kendi kasasında getirip indiren <a href=\"/hizmetler/hiyap-kiralama.html\">hiyaptır</a>: ayrı bir kamyon ve ayrı bir vinç çağırmak gerekmez. Kısa işlerde yol payı toplamın büyük kısmını oluşturduğu için aynı gün aynı bölgedeki başka işlerle birleştirmek yol maliyetini paylaştırır."
+    },
+    {
+      "type": "h2",
+      "text": "Tek mesajla net vinç kiralama fiyatı nasıl alınır?"
+    },
+    {
+      "type": "p",
+      "text": "WhatsApp'tan tek mesajda şu yedi bilgiyi gönderin; çoğu işte fiyatı aynı görüşmede netleştiririz:"
     },
     {
       "type": "ol",
@@ -124,11 +186,11 @@
     },
     {
       "type": "h2",
-      "text": "Vinç kiralama tekliflerini karşılaştırırken neye bakılır?"
+      "text": "Vinç kiralama ücretleri neden firmadan firmaya değişir?"
     },
     {
       "type": "p",
-      "text": "Yalnızca toplam rakama değil; fiyata neyin dahil olduğuna, vincin periyodik kontrol raporuna, operatörün deneyimine ve sorumluluğun kimde olduğuna bakın. Belirgin şekilde düşük bir teklif; bakımı aksatılmış bir makine, deneyimsiz bir operatör ya da belirsiz bir sorumluluk anlamına gelebilir. Kaldırma işinde tasarrufun bedeli, düşen bir yük ya da devrilen bir vinç olduğunda fark katlanarak geri döner. İki teklifi yan yana koyarken önce şu kalemlerin yazılı olarak netleştiğinden emin olun:"
+      "text": "Çünkü aynı rakam farklı kalemleri içerebilir. Yalnızca toplam rakama değil; fiyata neyin dahil olduğuna, vincin periyodik kontrol raporuna, operatörün deneyimine ve sorumluluğun kimde olduğuna bakın. Belirgin şekilde düşük bir teklif; bakımı aksatılmış bir makine, deneyimsiz bir operatör ya da belirsiz bir sorumluluk anlamına gelebilir. Kaldırma işinde tasarrufun bedeli, düşen bir yük ya da devrilen bir vinç olduğunda fark katlanarak geri döner. İki teklifi yan yana koyarken önce şu kalemlerin yazılı olarak netleştiğinden emin olun:"
     },
     {
       "type": "table",
@@ -206,8 +268,8 @@
       "a": "Bizde vinçler operatörüyle birlikte kiralanır. Teklifi verirken yol, operatör ve varsa ek ekipmanın fiyata dahil olup olmadığını açıkça yazıyoruz; başka tekliflerle karşılaştırırken de bu kalemlere bakın."
     },
     {
-      "q": "Kısa bir iş için de vinç kiralanır mı?",
-      "a": "Evet. Tek bir klima ünitesi, birkaç palet ya da konteyner indirme gibi kısa işler iş başı veya saatlik olarak fiyatlanır. Kısa işlerde yol payı toplam fiyatın daha büyük bir kısmını oluşturduğu için aynı gün başka yükleri de birleştirmek avantajlıdır."
+      "q": "Vinç nakliye ücreti fiyata dahil mi?",
+      "a": "Vincin sahaya gelip dönmesi fiyatın bir kalemidir; bazı teklifler bunu fiyata dahil eder, bazıları ayrı yazar. Biz teklifte yolu açıkça belirtiyoruz. Kısa işlerde yol payı toplamın büyük kısmını oluşturduğu için aynı gün başka yükleri birleştirmek avantajlıdır."
     },
     {
       "q": "Bodrum'da vinç kiralamak Milas'tan daha mı pahalı?",
@@ -238,6 +300,9 @@
     "/hizmetler/vinc-kiralama.html",
     "/bolgeler/bodrum-vinc-kiralama.html",
     "/blog/dogru-vinc-secimi.html",
-    "/blog/vincle-calisirken-is-guvenligi.html"
+    "/blog/vincle-calisirken-is-guvenligi.html",
+    "/blog/gunluk-ve-saatlik-vinc-kiralama-milas-bodrum.html",
+    "/hizmetler/tonaja-gore-vinc-kiralama.html",
+    "/hizmetler/hiyap-kiralama.html"
   ]
 }

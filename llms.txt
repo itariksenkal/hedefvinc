@@ -44,6 +44,11 @@
 - [Konteyner satış ve kiralama](https://hedefvinc.com/hizmetler/konteyner-satis-kiralama.html): Sıfır ve 2. el konteyner; vinçle teslim ve yerleştirme.
 - [Tüm hizmetler](https://hedefvinc.com/hizmetler/): Hizmetlerin tamamı tek sayfada.
 
+## Rehber sayfaları
+
+- [Tonaja göre vinç kiralama](https://hedefvinc.com/hizmetler/tonaja-gore-vinc-kiralama.html): 10-15 tondan 200 ton üzerine mobil vinç, hiyap ve sepetli platform sınıfları; hangi iş için hangi sınıf.
+- [Vinç arızaları rehberi](https://hedefvinc.com/hizmetler/vinc-arizalari-rehberi.html): Belirtiden olası nedene: bom iniyor, kaldırmıyor, ayak tutmuyor, yağ kaçırıyor, dönmüyor, kumanda çalışmıyor.
+
 ## Sık sorulan sorular (kısa cevaplar)
 
 - Hedef Vinç nerede? Milas'ta, Güllük ile Güvercinlik arasındaki Tuzla Kavşağı'nda, Shell'in arkasında: Dörttepe Mah. 3. Bulvar No:128/2, 48200 Milas / Muğla.
@@ -60,18 +65,22 @@
 
 ## Kurumsal sayfalar
 
-- [Ana sayfa](https://hedefvinc.com/): Milas'ta vinç tamiri, revizyon ve operatörlü vinç kiralama. 2005'ten beri Tuzla Kavşağı'nda kendi atölyemiz; Bodrum, Muğla, Aydın, İzmir. 7/24: 0533 708 92 00
-- [Hakkımızda](https://hedefvinc.com/hakkimizda.html): Hedef Vinç (Retrofit Hedef Crane): Ahmet Uğur ve Mehmet Uğur'un 2005'ten beri Milas'ta işlettiği vinç tamiri ve vinç kiralama atölyesi. Tuzla Kavşağı, 7/24.
-- [İletişim ve adres](https://hedefvinc.com/iletisim.html): Hedef Vinç iletişim: 7/24 telefon 0533 708 92 00, English line 0532 294 48 63, WhatsApp. Atölye: Dörttepe Mah. 3. Bulvar No:128/2, Tuzla Kavşağı, Milas.
+- [Ana sayfa](https://hedefvinc.com/): Milas'ta vinç firması: operatörlü vinç kiralama, hiyap, manlift ve kendi atölyemizde vinç tamiri. 2005'ten beri Tuzla Kavşağı'ndayız. 7/24: 0533 708 92 00
+- [Hakkımızda](https://hedefvinc.com/hakkimizda.html): Hedef Vinç kimdir? 2005'ten beri Ahmet ve Mehmet Uğur'un işlettiği Milas vinç firması: Tuzla Kavşağı'ndaki atölyede vinç tamiri, operatörlü vinç kiralama. 7/24.
+- [İletişim ve adres](https://hedefvinc.com/iletisim.html): Hedef Vinç'e 7/24 ulaşın: 0533 708 92 00, WhatsApp, English line 0532 294 48 63. Atölye: Dörttepe Mah. 3. Bulvar No:128/2, Tuzla Kavşağı (Shell arkası), Milas.
 
 ## Sayfalardaki sorular ve cevaplar
 
 - S: Vinç kiralama fiyatı neye göre belirleniyor?
   C: Yükün ağırlığı ve ölçüsü, ne kadar yükseğe ve ne kadar uzağa taşınacağı, işin süresi, adres ve vincin kurulacağı zemin fiyatı belirler. Telefonda ya da WhatsApp'ta işi anlatın; gerekiyorsa yerinde bakar, fiyatı işe başlamadan net söyleriz. Sabit bir fiyat listemiz yok, çünkü iki iş birbirine benzemiyor.
-- S: Arızalı vinci atölyeye getirmem gerekiyor mu?
-  C: Her zaman değil. Hortum, rekor, kumanda ve ayak arızaları gibi işlerin çoğunu sahada çözebiliyoruz. Söküm, kaynak ya da tam revizyon gerektiren işleri Tuzla Kavşağı'ndaki atölyemizde yapıyoruz.
+- S: Milas'ta kaç tonluk vinç kiralayabilirim?
+  C: İhtiyacınız olan tonajda vinci operatörüyle sağlarız. Doğru sınıfı yükün ağırlığı, vincin duracağı yerden yüke olan yatay mesafe ve yükseklik birlikte belirler; yükü ve sahanın fotoğrafını gönderin, sınıfı biz seçelim. Sınıfların karşılaştırması tonaja göre vinç kiralama sayfasında.
 - S: Kiraladığınız vinç operatörüyle mi geliyor?
   C: Evet. Kiraladığımız vinçler operatörümüzle gelir. Kaldırma planı ve sapan seçimi de bizim işimizdir; sizin sahada yükün nereye ineceğini göstermeniz yeterli.
+- S: Arızalı vinci atölyeye getirmem gerekiyor mu?
+  C: Her zaman değil. Hortum, rekor, kumanda ve ayak arızaları gibi işlerin çoğunu sahada çözebiliyoruz. Söküm, kaynak ya da tam revizyon gerektiren işleri Tuzla Kavşağı'ndaki atölyemizde yapıyoruz.
+- S: Vincim arızalandı; sorunun ne olduğunu nasıl anlarım?
+  C: Belirtiyi not edin: hangi hareket sorunlu, yük altında mı boşta mı, ses ya da kaçak var mı? Vinç arızaları rehberi belirtiden olası nedene götürür. Kesin teşhis için arızalı hareketin kısa bir videosunu gönderin ya da arayın.
 - S: Hangi bölgelere geliyorsunuz?
   C: Atölyemiz Milas'ta, Güllük ile Güvercinlik arasındaki Tuzla Kavşağı'nda. Milas, Bodrum, Muğla, Aydın, İzmir ve çevresinde çalışıyoruz. Daha uzak işler için arayın, işe göre konuşalım.
 - S: Gece ya da hafta sonu arayabilir miyim?
@@ -80,12 +89,16 @@
   C: Evet. Yabancı müşterilerimiz için İngilizce hattımız var: 0532 294 48 63. Bodrum'daki villa ve tekne sahipleri bu hattı arayabilir.
 - S: Vinci atölyeye getirmem gerekiyor mu?
   C: Arızaya bağlı. Hortum, rekor, kumanda ve ayak arızalarının çoğunu sahada çözüyoruz. Söküm, kaynak, keçe değişimi ya da tam revizyon gereken işleri Tuzla Kavşağı'ndaki atölyede yapıyoruz. Vinci yola çıkaramıyorsanız telefonda konuşup en pratik yolu birlikte seçelim.
+- S: Bodrum ya da Muğla'daki vince bakıyor musunuz?
+  C: Evet. Atölyemiz Milas–Bodrum yolunun üzerinde; Bodrum, Muğla ve çevresinde vincin durduğu yere geliyoruz. Ne zaman orada olabileceğimizi o günkü programa göre açıkça söyleriz. Ayrıntılar Bodrum ve Muğla sayfalarında.
 - S: Hangi vinçlere bakıyorsunuz?
   C: Kamyon üstü hiyap vinçler (katlanır ve teleskopik bomlu), tekne ve iskele üzerindeki katlanır bomlu vinçler ve diğer hidrolik vinçler. Vincin markasını, modelini ve yılını söylerseniz parça durumunu baştan konuşuruz.
 - S: Revizyon ne kadar sürer?
   C: Vincin durumuna ve değişecek parçalara bağlı. Vinci söküp kontrol ettikten sonra yapılacak işi ve süreyi söyleriz. Parça siparişi gerekiyorsa bunu da baştan belirtiriz.
 - S: Aradığım parça bulunamazsa ne oluyor?
   C: Pim, burç, mil gibi işlenebilir parçaları atölyemizdeki torna tezgâhında numuneden ya da ölçüden imal ediyoruz. Hidrolik hortumu çoğu zaman aynı gün presliyoruz. Pompa ve valf gibi parçalarda temin yolunu konuşuruz.
+- S: Periyodik kontrolü siz mi yapıyorsunuz?
+  C: Hayır. Periyodik kontrolü yetkili kişiler ya da ekipman muayene kuruluşları yapar ve rapor düzenler. Bizim işimiz vinci kontrole hazırlamak ve raporda çıkan eksikleri gidermek; yaptığımız işi yazılı olarak veririz.
 - S: Gece arıza olursa arayabilir miyim?
   C: Evet, telefonlarımız 7/24 açık. Yük altında kalan ya da yolda kalan bir vinç için gece de arayabilirsiniz.
 - S: Fiyatı nasıl belirliyorsunuz?
@@ -96,6 +109,8 @@
   C: Planlı işlerde birkaç gün önceden aramanız gün ve saat seçimini kolaylaştırır. Acil işlerde 7/24 arayabilirsiniz; o anki duruma göre en kısa sürede planlarız.
 - S: Hangi vinç gerektiğini bilmiyorum, sorun olur mu?
   C: Olmaz. Yükün ne olduğunu, yaklaşık ağırlığını, nereye ve ne kadar yükseğe ineceğini söyleyin; uygun vinci biz seçeriz. Emin olamadığımız işlerde önce yerinde bakarız.
+- S: Saatlik mi, günlük mü kiralıyorsunuz?
+  C: İkisi de mümkün. Kısa ve tanımlı işleri iş başı ya da saatlik, gün boyu süren montaj ve şantiye işlerini günlük ya da proje bazında yapıyoruz. İşi anlatın, hangisinin uygun olduğunu fiyatla birlikte söyleyelim.
 - S: Vinç kiralama fiyatı neye göre değişiyor?
   C: Yükün ağırlığı ve ölçüsü, kaldırma yüksekliği ve mesafesi, işin süresi, adres ve vincin kurulacağı zemin fiyatı belirler. İşi gördükten sonra fiyatı net söyleriz.
 - S: Dar sokakta ya da yokuşta çalışabilir misiniz?
@@ -124,6 +139,10 @@
   C: Basınç altındaki hattı asla elle yoklamayın; ince bir yağ jeti deriye işleyebilir ve ciddi yaralanmaya yol açar. Sistemi durdurun, temizleyip kuru bir yüzeyde kaçağın nereden geldiğini gözle izleyin ya da bize fotoğraf gönderin.
 - S: Bodrum'un dar sokaklarına vinç girebiliyor mu?
   C: Çoğu zaman giriyor, ama her sokak için değil. Vincin geçeceği yol, dönüşler, yokuş ve ayakların açılacağı yer önemli. Emin olmadığımız işlerde önce gelip bakıyoruz; konum ve birkaç fotoğraf çoğu zaman yeterli oluyor.
+- S: Bodrum'da hiyap ya da sepetli platform da kiralıyor musunuz?
+  C: Evet. Yükü kasasında getirip indiren hiyabı ve cephe, tabela, ağaç ve tekne direği işleri için sepetli platformu operatörüyle gönderiyoruz. İşi anlatın, hangisinin uygun olduğunu söyleyelim.
+- S: Yazın Bodrum'da vinç çalışabilir mi?
+  C: 15 Mayıs ile 15 Ekim arasında ağır nakliyat, hafriyat ve harçlı inşaat işleri kısıtlanıyor. Tek seferlik bir kaldırmanın kapsama girip girmediği yetkili makamın yorumuna bağlı; işe başlamadan Bodrum Belediyesi'ne sorun. Kaba işleri Ekim ortası ile Mayıs ortası arasına planlayın.
 - S: Villa bahçesine havuz ekipmanı ya da jakuzi indirebilir misiniz?
   C: Evet, bu tür işleri yapıyoruz. Yükün ağırlığını ve ölçüsünü, vincin duracağı yerden bahçeye olan mesafeyi ve arada duvar ya da ağaç olup olmadığını bilmemiz gerekiyor. Ürünün katalog bilgisi ya da etiketi işimizi kolaylaştırır.
 - S: Tekne kaldırmak için ne bilmeniz gerekiyor?
@@ -255,10 +274,12 @@
   Kısa cevap: Milas'ta vinç kiralamak için yükün ağırlığını ve ölçüsünü, nereye kaldırılacağını, vincin duracağı zeminin durumunu ve tarihi hazırlayıp firmayı arayın; vincin duracağı yerin, yükün ineceği noktanın ve yolun fotoğrafları çoğu işi telefonda netleştirir. Çatıya kaldırma, eğimli ya da dolgu zemin, enerji hattı veya dar güzergâh varsa önce keşif yapılmalıdır. Hedef Vinç, Milas'tan operatörlü vinçle Bodrum, Muğla ve çevresine gelir.
 - [Vinç Retrofit (Modernizasyon) Nedir? Yeni Almak Yerine Ne Zaman Mantıklı?](https://hedefvinc.com/blog/vinc-retrofit-modernizasyon-nedir.html) (Vinç Tamiri, 2026-10-23): Vinç retrofit nedir? Hidrolik, kumanda, emniyet sistemleri ve yapısal onarımla vinç modernizasyonu; yeni vinç almaktan ne zaman mantıklı olduğu ve süreç.
   Kısa cevap: Vinç retrofit (modernizasyon), taşıyıcı yapısı sağlam bir vincin hidrolik sistemini, kumandasını, emniyet donanımlarını ve yıpranmış parçalarını güncel karşılıklarıyla yenileyerek vinci yeniden güvenli ve verimli çalışır hale getirmektir. Bom, kolon ve şase sağlamsa ve parça bulunabiliyorsa çoğu zaman yeni vinç almaktan mantıklıdır; yaygın çatlak ya da yorulma varsa değildir. Kaynaklı onarım veya parça değişimi içeren retrofitten sonra periyodik kontrol yeniden yapılmalıdır.
+- [Vinç Periyodik Kontrolü: Yönetmelik, Sık Çıkan Eksikler ve Kontrol Öncesi Bakım](https://hedefvinc.com/blog/vinc-periyodik-kontrol-oncesi-bakim.html) (Vinç Tamiri, 2026-10-22): Vinç periyodik kontrolü en geç yılda bir ve her önemli onarımdan sonra, EKİPNET'e kayıtlı yetkili kişilerce yapılır. Sık çıkan eksikler ve hazırlık listesi.
+  Kısa cevap: Vinç periyodik kontrolü, İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği'ne göre zorunludur. Mobil vinçler ve araç üstü katlanır bomlu (hiyap) vinçler dahil krenler, standartlarda ayrı bir süre yoksa en geç yılda bir ve her önemli bakım ya da onarımdan sonra kontrol edilir. Kontrolü EKİPNET'e kayıtlı yetkili mühendis veya teknikerler ya da ekipman muayene kuruluşları yapar; sözleşme en geç bir gün önce İSG-KATİP'te onaylanır.
+- [Hiyap Arızaları ve Çözümleri: Kaldırmıyor, Yavaş Çalışıyor, Bom Düşüyor](https://hedefvinc.com/blog/hiyap-vinc-arizalari-ve-cozumleri.html) (Vinç Tamiri, 2026-10-22): Hiyap kaldırmıyor, yavaş çalışıyor ya da bom kendiliğinden iniyorsa önce neye bakılır? 6 arızanın nedeni, belirti-sebep tablosu ve güvenli ilk kontroller.
+  Kısa cevap: Hiyap arızaları çoğunlukla altı belirtiyle görülür: vinç kaldırmaz, yavaşlar, bom kendiliğinden iner, pompa ses yapar, yağ kaçırır ya da PTO devreye girmez. Sebep genellikle pompa, kumanda valfi, silindir, yük tutma valfi veya yağın kendisidir. Önce PTO, acil stop, sigorta ve yağ seviyesi gibi basit kontroller yapılır; basınç ve debi ölçümü gereken teşhis servise bırakılır, aşırı yük koruması asla köprülenmez.
 - [Vinç Tamiri mi, Yeni Vinç mi? Revizyonla Yenileme Arasında Karar Vermek](https://hedefvinc.com/blog/vinc-tamiri-mi-yenisi-mi.html) (Vinç Tamiri, 2026-10-22): Vinç tamiri mi yeni vinç mi? Yaş, taşıyıcı yapı, parça bulunabilirliği ve duruş maliyetine göre karar kuralı ve retrofit revizyonun kapsamı. Milas atölyesi.
   Kısa cevap: Vincin taşıyıcı yapısı (bom, kolon, şase, ayak kutuları) sağlamsa ve kritik parçaları bulunabiliyorsa kapsamlı revizyon çoğu durumda yeni vinçten daha mantıklıdır. Taşıyıcı yapıda yaygın yorulma çatlağı veya ciddi korozyon varsa, kritik parçalar için orijinal, muadil ya da onarım seçeneği kalmadıysa ya da iş daha büyük kapasite istiyorsa yeni vinç doğru seçimdir. Yaş tek başına karar verdirmez; bakım geçmişi ve duruş süresi de hesaba katılır.
-- [Vinç Periyodik Kontrolü: Yönetmelik, Sık Çıkan Eksikler ve Kontrol Öncesi Bakım](https://hedefvinc.com/blog/vinc-periyodik-kontrol-oncesi-bakim.html) (Vinç Tamiri, 2026-10-22): Vinç periyodik kontrol: İş Ekipmanları Yönetmeliği Ek-III'e göre en geç yılda bir, yetkili kişilerce. 2025 değişikliği, sık eksikler ve kontrol öncesi bakım.
-  Kısa cevap: Vinç periyodik kontrolü, İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği'ne göre zorunludur. Mobil vinçler ve araç üstü katlanır bomlu (hiyap) vinçler dahil krenler, standartlarda ayrı bir süre yoksa en geç yılda bir ve her önemli bakım ya da onarımdan sonra kontrol edilir. Kontrolü EKİPNET'e kayıtlı yetkili mühendis veya teknikerler ya da ekipman muayene kuruluşları yapar; sözleşme en geç bir gün önce İSG-KATİP'te onaylanır.
 - [Vinç Kumanda Valfi Arızası: Takılan Sürgü, İç Kaçak ve Emniyet Valfleri](https://hedefvinc.com/blog/vinc-kumanda-valfi-arizasi.html) (Hidrolik, 2026-10-22): Vinç kumanda valfi arızası: takılan veya nötre dönmeyen sürgü, iç kaçak, bom oturması ve emniyet valfi ayarı. Belirti tablosu ve ayarda yapılmaması gerekenler.
   Kısa cevap: Vinç kumanda valfi (distribütör) arızası çoğunlukla kolun ağırlaşması veya nötre dönmemesi, bir hareketin kendiliğinden başlaması ya da durmaması, bom ve teleskobun yük altında oturması veya tek bir fonksiyonun güçsüz kalmasıyla görülür. Sık sebepler kirli yağ, yorulmuş merkezleme yayı, aşınmış sürgü, yanlış montaj ve ayarı bozulmuş emniyet valfidir. Emniyet valfi yalnızca manometreyle, üreticinin verdiği değere göre ayarlanır.
 - [Vinç Hidrolik Yağı Değişimi Ne Zaman Yapılır? Belirtiler, Filtreler, Doğru Yöntem](https://hedefvinc.com/blog/vinc-hidrolik-yag-degisimi-ne-zaman.html) (Hidrolik, 2026-10-22): Vinç hidrolik yağı değişimi ne zaman gerekir? Üretici aralığı, yağ analizi, su ve kir belirtileri, filtreler ve doğru değişim adımları.
@@ -273,18 +294,16 @@
   Kısa cevap: Vinç ayağı arızası üç biçimde görülür: ayak açılmaz, ayak toplamaz ya da yük altında veya yolda kendiliğinden düşer. Düşen ayakta ilk şüpheli, silindirin üzerindeki kilit valfinin (pilot kumandalı çek valf) kir veya aşınma yüzünden tam kapanmamasıdır. Toplamayan ayakta ise bu valfi açacak pilot basıncı gelmiyordur ya da seçici valf veya mekanik bir engel vardır. Ayakta oturma varsa vinç yük kaldırmamalıdır.
 - [Hiyap Bakımı: Günlük, Haftalık ve Periyodik Kontrol Listesi](https://hedefvinc.com/blog/hiyap-vinc-bakimi-kontrol-listesi.html) (Rehber, 2026-10-22): Hiyap bakımı için günlük, haftalık ve periyodik kontrol listesi: yağ, hortum, ayaklar, emniyet sistemleri, gresleme, filtre ve yasal periyodik kontrol.
   Kısa cevap: Hiyap bakımı üç katmanda yapılır: Operatör her iş öncesi kaçak, yağ seviyesi, kumandalar, acil stop, ayaklar ve yapıyı kontrol eder; kullanım yoğunluğuna göre haftalık veya aylık gresleme ve sıkılık kontrolü yapılır; yağ, filtre ve kapsamlı bakım üreticinin kılavuzundaki aralıklarla yapılır. Aralık ve yağ tipi için vincin kendi kılavuzu esastır. Yasal periyodik kontrol bakımdan ayrıdır ve yetkili kişilerce yapılır.
-- [Hiyap Arızaları ve Çözümleri: Kaldırmıyor, Yavaş Çalışıyor, Bom Düşüyor](https://hedefvinc.com/blog/hiyap-vinc-arizalari-ve-cozumleri.html) (Vinç Tamiri, 2026-10-22): Hiyap arızaları: kaldırmıyor, yavaş çalışıyor, bom düşüyor, pompa sesi, yağ kaçağı ve PTO sorunları. Belirti–sebep tablosu ve sahada güvenli ilk adımlar.
-  Kısa cevap: Hiyap arızaları çoğunlukla altı belirtiyle görülür: vinç kaldırmaz, yavaşlar, bom kendiliğinden iner, pompa ses yapar, yağ kaçırır ya da PTO devreye girmez. Sebep genellikle pompa, kumanda valfi, silindir, yük tutma valfi veya yağın kendisidir. Önce PTO, acil stop, sigorta ve yağ seviyesi gibi basit kontroller yapılır; basınç ve debi ölçümü gereken teşhis servise bırakılır, aşırı yük koruması asla köprülenmez.
+- [Vinç Kiralama Fiyatları Neye Göre Belirlenir? Milas ve Bodrum İçin Rehber](https://hedefvinc.com/blog/vinc-kiralama-fiyatlari.html) (Vinç Kiralama, 2026-08-22): Vinç kiralama fiyatları ve ücretleri neye göre belirlenir? Saat ücreti, günlük fiyat ve nakliye (yol) payı nasıl hesaplanır, tek mesajla net fiyat nasıl alınır?
+  Kısa cevap: Vinç kiralama fiyatını sabit bir tarife değil iş belirler: yükün ağırlığı, yükün vince uzaklığı ve yüksekliği, süre, adres ve saha. Kısa ve tanımlı işler iş başı ya da saatlik, gün boyu süren işler günlük fiyatlanır; vincin sahaya gelip dönmesi yani yol da fiyatın bir kalemidir. Yükün bilgisi, yatay mesafe, konum ve birkaç fotoğrafla Milas ve Bodrum'daki çoğu işte fiyat tek mesajda netleşir.
+- [İş Makinası Periyodik Bakım Rehberi: Günlük Kontrolden Sezon Hazırlığına](https://hedefvinc.com/blog/is-makinasi-bakim-rehberi.html) (Atölye, 2026-08-22): İş makinası periyodik bakımı takvime değil çalışma saatine göre yapılır. Vardiya başı kontrol listesi, yağ, filtre ve gres bakım tablosu, ihmalin 6 belirtisi.
+  Kısa cevap: İş makinası periyodik bakımı takvime değil motor çalışma saatine göre planlanır. Operatör her vardiya başında seviyeleri, kaçakları, yürüyüş takımını ve günlük gres noktalarını kontrol eder; motor yağı, filtreler, hidrolik yağ ve gresleme ise üreticinin kılavuzundaki saat aralıklarında yapılır. Tozlu, sıcak ve ağır işlerde bu aralıklar kısalır. Her işlem tarih ve çalışma saatiyle kayda geçirilmelidir.
 - [Vinçle Çalışırken İş Güvenliği: Sahada 10 Kural](https://hedefvinc.com/blog/vincle-calisirken-is-guvenligi.html) (Rehber, 2026-08-22): Vinç iş güvenliği kuralları: kaldırma planı, zemin, sapan kontrolü, yük altı yasağı, işaretçi, rüzgâr, enerji hattı, günlük ve periyodik kontrol. 10 kural.
   Kısa cevap: Vinçle güvenli çalışmanın temel kuralları şunlardır: iş başlamadan kaldırma planı yapılır, vinç sağlam zemine tam açık ayaklarla kurulur, sapan ve kanca her işten önce kontrol edilir, askıdaki yükün altına kimse girmez, operatör yükü göremiyorsa eğitimli bir işaretçi yönlendirir, enerji hatlarından güvenli mesafe korunur ve hava güvenli çalışmayı engellediğinde iş durdurulur. Vincin günlük kontrolü yapılmış, periyodik kontrol raporu güncel olmalıdır.
 - [Vinç Revizyonu Ne Zaman Gerekir? Atölyede En Sık Gördüğümüz 7 Belirti](https://hedefvinc.com/blog/vinc-revizyonu-ne-zaman.html) (Vinç Tamiri, 2026-08-22): Vinç revizyonu ne zaman yapılır? Güç kaybı, yağ kaçağı, bomda boşluk, çatlak gibi 7 belirti ve tamir mi revizyon mu karar tablosu. Milas / Muğla atölyesi.
   Kısa cevap: Vinç revizyonu takvime göre değil belirtilere göre planlanır: hidrolikte güç kaybı, birden fazla noktadan yağ kaçağı, halat ve kancada aşınma, bomda boşluk veya titreme, döner tablada boşluk, sık elektrik arızası ve taşıyıcı yapıda çatlak. Bu belirtilerden ikisi üçü aynı anda görülüyorsa tek tek tamir yerine planlı revizyon daha ekonomik ve güvenlidir. Kapsamlı revizyondan sonra vinç periyodik kontrolden geçmeden işe dönmemelidir.
-- [Vinç Kiralama Fiyatları Neye Göre Belirlenir? Milas ve Bodrum İçin Rehber](https://hedefvinc.com/blog/vinc-kiralama-fiyatlari.html) (Vinç Kiralama, 2026-08-22): Vinç kiralama fiyatları Milas ve Bodrum'da yük, yükseklik ve yarıçap, süre, mesafe ve sahaya göre belirlenir. Hızlı ve net teklif için gereken 7 bilgi.
-  Kısa cevap: Vinç kiralama fiyatı sabit bir tarifeyle değil, işin kendisine göre belirlenir: yükün ağırlığı, kaldırma yüksekliği ve vincin yüke uzaklığı (yarıçap), işin süresi, sahanın mesafesi ve erişimi ile işin zorluğu. Yarıçap büyüdükçe vincin kaldırabileceği yük azaldığı için aynı yük daha büyük bir vinç gerektirebilir. Milas ve Bodrum'daki standart işlerde bu bilgiler ve birkaç fotoğrafla fiyat çoğu zaman telefonda netleşir.
 - [Sıfır mı, 2. El mi? Konteyner Alırken Dikkat Edilecekler](https://hedefvinc.com/blog/sifir-mi-ikinci-el-mi-konteyner.html) (Rehber, 2026-08-22): İkinci el konteyner alırken nelere dikkat edilir? Taban, pas, kapı, çatı ve zemin kontrol listesi, sıfırla karşılaştırma ve vinçli teslimat. Milas ve Bodrum.
   Kısa cevap: İkinci el konteyner alırken beş noktaya yerinde bakın: taban ve alt profillerde derin pas veya çürüme, sacda kabarma ve incelme, kapı menteşeleri ve contalar, çatıda su göllenmesi ve iç zeminde yumuşama. Kaynak dikişlerinde çatlak ya da yapıyı zayıflatan korozyon varsa almayın. Kısa süreli şantiye ofisi veya depo için bakımlı bir 2. el yeterlidir; yalıtım ve tesisat isteyen uzun süreli kullanımda sıfır konteyner daha mantıklıdır.
-- [İş Makinası Periyodik Bakım Rehberi: Günlük Kontrolden Sezon Hazırlığına](https://hedefvinc.com/blog/is-makinasi-bakim-rehberi.html) (Atölye, 2026-08-22): İş makinası periyodik bakım nasıl planlanır? Günlük kontroller, çalışma saatine göre yağ ve filtre, gres, Ege yazına hazırlık ve ihmal belirtileri. Milas.
-  Kısa cevap: İş makinası periyodik bakımı takvime değil motor çalışma saatine göre planlanır. Operatör her vardiya başında seviyeleri, kaçakları, yürüyüş takımını ve günlük gres noktalarını kontrol eder; motor yağı, filtreler, hidrolik yağ ve gresleme ise üreticinin kılavuzundaki saat aralıklarında yapılır. Tozlu, sıcak ve ağır işlerde bu aralıklar kısalır. Her işlem tarih ve çalışma saatiyle kayda geçirilmelidir.
 - [Hidrolik Hortum Neden Patlar? En Sık 5 Neden ve Nasıl Önlenir?](https://hedefvinc.com/blog/hidrolik-hortum-neden-patlar.html) (Hidrolik, 2026-08-22): Hidrolik hortum neden patlar? Yaşlanma, yanlış basınç sınıfı, sürtünme, bükülme ve ısı. Erken uyarı işaretleri, kontrol tablosu ve Milas'ta pres hortum.
   Kısa cevap: Hidrolik hortum en çok beş nedenle patlar: kauçuğun güneş, ozon ve ısıyla yaşlanması, devrenin basınç darbelerine uymayan basınç sınıfı, metal kenarlara sürtünme, montajda fazla bükülme, kısa boy veya burulma ve aşırı sıcaklık. Çoğu hortum patlamadan önce terleme, kabarma ya da kılıf çatlağıyla haber verir. Bu işaretlerde hortumu planlı değiştirmek, güzergâhı düzeltmek ve devreye uygun sınıfı seçmek tekrarı önler.
 - [İşinize Uygun Vinç Nasıl Seçilir? Mobil Vinç, Hiyap ve Sepetli Platform](https://hedefvinc.com/blog/dogru-vinc-secimi.html) (Vinç Kiralama, 2026-08-22): Vinç seçimi nasıl yapılır? Yük, yarıçap, yükseklik ve saha koşullarına göre mobil vinç, hiyap veya sepetli platform seçimi için pratik karar tablosu.

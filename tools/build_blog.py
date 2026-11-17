@@ -9,11 +9,12 @@ Ne üretir:
   - content/sayfalar/**/<ad>.html -> aynı yoldaki sayfa       (ana sayfa, hizmetler, İngilizce sayfalar ...)
   - blog/index.html, en/blog/index.html (kategori süzgeçli liste)
   - sitemap.xml (TR + EN, hreflang eşleri), llms.txt, robots.txt
+  - content/degisim.json: her kaynağın özeti ve son değiştiği gün (sitemap lastmod ve yazı güncelleme tarihi buradan)
 
 Aynı girdiyle iki kez çalıştırıldığında hiçbir dosya değişmez. Dosyalar UTF-8 ve LF satır sonuyla yazılır.
 Python 3.8+ yeterli, ek paket gerekmez.
 """
-import glob, html, json, os, re, sys
+import datetime, glob, hashlib, html, json, os, re, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import sablon as S  # noqa: E402
@@ -23,6 +24,9 @@ SITE = S.SITE
 KATEGORILER = ["Vinç Tamiri", "Vinç Kiralama", "Hidrolik", "Atölye", "Rehber"]
 TAMIR_HUB = "/hizmetler/vinc-revizyon-tamir-bakim.html"
 KIRA_HUB = "/hizmetler/vinc-kiralama.html"
+# Yazının çağrı türüne göre yan sütunda bağlantı verilen konu merkezi (rehber sayfası)
+REHBER_TUR = {"tamir": S.ARIZA_HUB, "hiyap": S.ARIZA_HUB, "hidrolik": S.ARIZA_HUB, "hortum": S.ARIZA_HUB,
+              "is-makinasi": S.ARIZA_HUB, "kiralama": S.TONAJ_HUB, "bodrum": S.TONAJ_HUB}
 
 HIZMETLER_TR = S.HIZMETLER
 
@@ -48,6 +52,47 @@ def yaz(rel, icerik):
     os.makedirs(os.path.dirname(p), exist_ok=True)
     with open(p, "wb") as f:
         f.write(veri)
+
+
+def bugun():
+    """Türkiye saatiyle bugün (UTC+3). Deneme için: YAYIN_TARIHI=2026-11-17"""
+    return os.environ.get("YAYIN_TARIHI") or datetime.datetime.now(
+        datetime.timezone(datetime.timedelta(hours=3))).date().isoformat()
+
+
+class Degisim:
+    """Kaynak dosyaların (content/sayfalar/*.html, content/blog/*.json) özetini ve son değiştiği günü tutar.
+
+    Kayıt content/degisim.json dosyasındadır: {"/url": ["özet", "YYYY-AA-GG"]}. Bir kaynağın özeti kayıttakinden
+    farklıysa o sayfanın günü bugüne çekilir; böylece "guncelleme" ya da "dateModified" elle yazılmasa da
+    sitemap.xml içindeki lastmod gerçek değişikliği gösterir. Kaynağın kendi yazdığı tarih daha yeniyse o geçerlidir.
+    İlk kez görülen kaynak kendi tarihiyle kaydedilir. Dosya silinir ya da bozulursa yeniden kurulur."""
+    DOSYA = "content/degisim.json"
+
+    def __init__(self):
+        try:
+            self.eski = json.loads(oku(os.path.join(ROOT, self.DOSYA)))
+        except (OSError, ValueError):
+            self.eski = {}
+        self.yeni, self.gun = {}, bugun()
+
+    def tarih(self, url, kaynak, beyan):
+        """beyan: kaynağın kendi söylediği tarih. Dönen değer: geçerli son değişiklik günü."""
+        ozet = hashlib.sha1(kaynak.encode("utf-8")).hexdigest()[:12]
+        beyan = (beyan or "")[:10]
+        e = self.eski.get(url)
+        if not (isinstance(e, list) and len(e) == 2):
+            t = beyan or self.gun
+        elif e[0] == ozet:
+            t = max(e[1], beyan)
+        else:
+            t = max(self.gun, beyan)
+        self.yeni[url] = [ozet, t]
+        return t
+
+    def kaydet(self):
+        satir = ",\n".join(' %s: ["%s", "%s"]' % (json.dumps(u), o, t) for u, (o, t) in sorted(self.yeni.items()))
+        yaz(self.DOSYA, "{\n%s\n}\n" % satir)
 
 
 def url_yolu(rel):
@@ -99,7 +144,9 @@ def sayfalari_oku():
     taban = os.path.join(ROOT, "content", "sayfalar")
     for p in sorted(glob.glob(os.path.join(taban, "**", "*.html"), recursive=True)):
         rel = os.path.relpath(p, taban).replace(os.sep, "/")
-        meta, govde = on_bilgi(oku(p))
+        ham = oku(p)
+        meta, govde = on_bilgi(ham)
+        meta["_ham"] = ham
         meta["_rel"] = rel
         meta["_url"] = meta.get("kanonik_yol") or url_yolu(rel)
         meta.setdefault("dil", "en" if rel.startswith("en/") else "tr")
@@ -110,8 +157,9 @@ def sayfalari_oku():
 def yazilari_oku():
     out = []
     for p in sorted(glob.glob(os.path.join(ROOT, "content", "blog", "*.json"))):
+        ham = oku(p)
         try:
-            d = json.loads(oku(p))
+            d = json.loads(ham)
         except ValueError as e:
             print("UYARI  %s okunamadı: %s" % (os.path.basename(p), e))
             continue
@@ -125,6 +173,7 @@ def yazilari_oku():
         d.setdefault("related", [])
         d.setdefault("imageAlt", d["h1"])
         d["_url"] = "/blog/%s.html" % d["slug"]
+        d["_ham"] = ham
         out.append(d)
     out.sort(key=lambda d: (d["datePublished"], d["dateModified"], d["slug"]), reverse=True)
     return out
@@ -175,6 +224,10 @@ class Baglam:
     def __init__(self, meta, yazilar, en_yazilar, basliklar):
         self.meta, self.yazilar, self.en_yazilar, self.basliklar = meta, yazilar, en_yazilar, basliklar
         self.dil = meta.get("dil", "tr")
+        self.gomulu = ""  # sayfaya gömülen yazı kartlarının en yeni yayın günü (lastmod için)
+
+    def gordu(self, tarihler):
+        self.gomulu = max([self.gomulu] + [t[:10] for t in tarihler if t])
 
 
 def yt_foto(b, a):
@@ -225,6 +278,7 @@ def yt_yazilar(b, a):
     sec = yazi_sec(b.yazilar, kats, anah, int(a[2] or 3), (b.meta["_url"],))
     if not sec:
         return ""
+    b.gordu(d["datePublished"] for d in sec)
     return ('<section class="bant bant--koyu" aria-labelledby="yazilar-baslik"><div class="wrap">'
             '<div class="bant__bas"><h2 id="yazilar-baslik">%s</h2></div>'
             '<div class="kartlar">%s</div>'
@@ -236,7 +290,9 @@ def yt_son_yazilar(b, a):
     n = int(a[0]) if a and a[0] else 3
     if b.dil == "en":
         sec = b.en_yazilar[:n]
+        b.gordu(m["tarih"] for m in sec)
         return "".join(en_yazi_karti(m) for m in sec)
+    b.gordu(d["datePublished"] for d in b.yazilar[:n])
     return "".join(yazi_karti(d) for d in b.yazilar[:n])
 
 
@@ -247,9 +303,11 @@ def yt_blogdan(b, a):
     if b.dil == "en":
         kartlar = "".join(en_yazi_karti(m) for m in b.en_yazilar[:n])
         tum = '<a class="lnk" href="/en/blog/index.html">All articles</a>'
+        b.gordu(m["tarih"] for m in b.en_yazilar[:n])
     else:
         kartlar = "".join(yazi_karti(d) for d in b.yazilar[:n])
         tum = '<a class="lnk" href="/blog/index.html">Tüm yazılar</a>'
+        b.gordu(d["datePublished"] for d in b.yazilar[:n])
     if not kartlar:
         return ""
     return ('<section class="bant bant--koyu" aria-labelledby="blog-baslik"><div class="wrap">'
@@ -259,13 +317,17 @@ def yt_blogdan(b, a):
 
 
 def yt_katalog(b, a):
-    haric = set(x for x in (a or []) if x) | {b.meta["_url"]}
+    """{{katalog:/haric.html|+/bolgeler/}}  düz yol: listeden çıkar; '+önek': yalnızca bu önekle başlayanlar"""
+    a = [x for x in (a or []) if x]
+    onek = tuple(x[1:] for x in a if x.startswith("+"))
+    haric = set(x for x in a if not x.startswith("+")) | {b.meta["_url"]}
     li = ['<li><a href="%s"><span class="ad">%s</span><span class="ne">%s</span></a></li>' % (u, S.esc(ad), S.esc(ne))
-          for u, ad, ne in HIZMETLER_TR if u not in haric]
+          for u, ad, ne in HIZMETLER_TR if u not in haric and (not onek or u.startswith(onek))]
     return '<ul class="katalog katalog--iki">%s</ul>' % "".join(li)
 
 
 def yt_en_yazilar(b, a):
+    b.gordu(m["tarih"] for m in b.en_yazilar)
     return "".join(en_yazi_karti(m, "h2") for m in b.en_yazilar)
 
 
@@ -550,6 +612,9 @@ def yazi_sayfasi(d, basliklar, es_haritasi):
     ilgili = ilgili_listesi(d["related"], basliklar)
     hub, hub_ad = CTA[tur][1], CTA[tur][0]
     hub_li = "" if hub in d["related"] else ('<li><a href="%s"><span class="tur">Hedef Vinç</span>%s</a></li>' % (hub, hub_ad))
+    rehber = REHBER_TUR.get(tur)
+    if rehber and rehber in basliklar and rehber not in d["related"]:
+        hub_li += '<li><a href="%s"><span class="tur">Rehber</span>%s</a></li>' % (rehber, S.esc(basliklar[rehber]))
     yan = ('<aside class="yan">%s<div><h2>Hedef Vinç</h2><ul class="ilgili">%s'
            '<li><a href="/iletisim.html"><span class="tur">Atölye</span>Adres ve yol tarifi</a></li></ul></div></aside>') % (
         ('<div><h2>Bu konuyla ilgili</h2>%s</div>' % ilgili) if ilgili else "", hub_li)
@@ -598,17 +663,22 @@ def yazi_sayfasi(d, basliklar, es_haritasi):
     return S.sayfa(meta, govde)
 
 
-def en_yazi_sayfasi(m, govde_html, basliklar, es_haritasi):
+def en_yazi_sayfasi(m, govde_html, basliklar, es_haritasi, en_yazilar=()):
     url = SITE + m["_url"]
     kirinti = [("Blog", "/en/blog/index.html"), (m["h1"], None)]
     tur = m.get("cta", "genel")
     kelime = kelime_say(govde_html)
     ilgili = ilgili_listesi(m.get("ilgili", []), basliklar, "en")
+    # İngilizce yazı az; her yazı diğerlerine bağlansın ki hiçbiri yalnızca blog listesinden bağlantı almasın
+    gorulen = set(m.get("ilgili", [])) | {m["_url"]}
+    diger = "".join('<li><a href="%s"><span class="tur">Article</span>%s</a></li>' % (x["_url"], S.esc(x["h1"]))
+                    for x in en_yazilar if x["_url"] not in gorulen)
+    diger = ('<div><h2>More articles</h2><ul class="ilgili">%s</ul></div>' % diger) if diger else ""
     yan = ('<aside class="yan">%s<div><h2>Services</h2><ul class="ilgili">'
            '<li><a href="/en/services/crane-repair-maintenance.html"><span class="tur">Hedef Vinç</span>Crane repair &amp; maintenance</a></li>'
            '<li><a href="/en/services/crane-rental.html"><span class="tur">Hedef Vinç</span>Crane rental</a></li>'
-           '<li><a href="/en/contact.html"><span class="tur">Workshop</span>Address and directions</a></li></ul></div></aside>') % (
-        ('<div><h2>Related</h2>%s</div>' % ilgili) if ilgili else "")
+           '<li><a href="/en/contact.html"><span class="tur">Workshop</span>Address and directions</a></li></ul></div>%s</aside>') % (
+        ('<div><h2>Related</h2>%s</div>' % ilgili) if ilgili else "", diger)
     govde = """<article>
 <header class="yazi-bas"><div class="wrap">
 {kirinti}
@@ -747,6 +817,13 @@ def llms(sayfalar, yazilar, en_yazilar):
     L.append("- [Tüm hizmetler](%s/hizmetler/): Hizmetlerin tamamı tek sayfada." % SITE)
     L.append("")
 
+    rehberler = [(u, ad, ne) for u, ad, ne in S.REHBERLER if u in tr]
+    if rehberler:
+        L += ["## Rehber sayfaları", ""]
+        for u, ad, ne in rehberler:
+            L.append("- [%s](%s%s): %s" % (ad, SITE, u, ne))
+        L.append("")
+
     L += ["## Sık sorulan sorular (kısa cevaplar)", ""]
     for q, a in KISA_SSS:
         L.append("- %s %s" % (q, a))
@@ -813,6 +890,17 @@ def main():
     yazilar = yazilari_oku()
     tr_yazi_slug = {d["slug"] for d in yazilar}
 
+    # son değişiklik günleri: kaynağın yazdığı tarih ile değişim kaydından yeni olanı
+    kayit = Degisim()
+    for d in yazilar:
+        d["dateModified"] = kayit.tarih(d["_url"], d["_ham"], d["dateModified"])
+    for m, _ in sayfalar:
+        yazi = m.get("tur") == "yazi"
+        m["_degisim"] = kayit.tarih(m["_url"], m["_ham"], m.get("degisim") or m.get("guncelleme")
+                                    or (m.get("tarih") if yazi else None))
+        if yazi:
+            m["degisim"] = m["_degisim"]
+
     en_yazilar = sorted([m for m, _ in sayfalar if m.get("tur") == "yazi" and m["dil"] == "en"],
                         key=lambda m: (m["tarih"], m["_url"]), reverse=True)
 
@@ -851,7 +939,7 @@ def main():
         b = Baglam(meta, yazilar, en_yazilar, basliklar)
         icerik = yer_tut(govde, b)
         if meta.get("tur") == "yazi":
-            html_out = en_yazi_sayfasi(meta, icerik, basliklar, es)
+            html_out = en_yazi_sayfasi(meta, icerik, basliklar, es, en_yazilar)
         else:
             kanonik = SITE + meta["_url"]
             lds = []
@@ -877,7 +965,7 @@ def main():
         yaz(meta["_rel"], html_out)
         if not meta.get("noindex"):
             gorsel = meta.get("kapak") if meta.get("tur") == "yazi" else ilk_gorsel(govde, None)[0]
-            harita.append((meta["_url"], meta.get("degisim") or meta.get("guncelleme"), es.get(meta["_url"]),
+            harita.append((meta["_url"], max(meta["_degisim"], b.gomulu), es.get(meta["_url"]),
                            meta["dil"], gorsel))
 
     # eski (henüz JSON'a taşınmamış) Türkçe yazılar haritada kalsın
@@ -891,6 +979,7 @@ def main():
     yaz("sitemap.xml", site_haritasi(harita))
     yaz("llms.txt", llms(sayfalar, yazilar, en_yazilar))
     yaz("robots.txt", ROBOTS)
+    kayit.kaydet()
 
     print("%d sayfa, %d Türkçe yazı, %d İngilizce yazı. %s %d dosya." % (
         len([1 for m, _ in sayfalar if m.get("tur") != "yazi"]), len(yazilar), len(en_yazilar),

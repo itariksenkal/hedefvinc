@@ -1,12 +1,12 @@
 {
   "slug": "is-makinasi-bakim-rehberi",
   "_hedef": "iş makinası periyodik bakım",
-  "title": "İş Makinası Periyodik Bakım Rehberi: Günlükten Sezonluğa",
+  "title": "İş Makinası Periyodik Bakımı: Kaç Saatte Bir, Neler Yapılır?",
   "h1": "İş Makinası Periyodik Bakım Rehberi: Günlük Kontrolden Sezon Hazırlığına",
-  "desc": "İş makinası periyodik bakım nasıl planlanır? Günlük kontroller, çalışma saatine göre yağ ve filtre, gres, Ege yazına hazırlık ve ihmal belirtileri. Milas.",
+  "desc": "İş makinası periyodik bakımı takvime değil çalışma saatine göre yapılır. Vardiya başı kontrol listesi, yağ, filtre ve gres bakım tablosu, ihmalin 6 belirtisi.",
   "category": "Atölye",
   "datePublished": "2026-08-22",
-  "dateModified": "2026-10-22",
+  "dateModified": "2026-11-17",
   "image": "atolye-torna.jpg",
   "imageAlt": "Atölyede yeşil büyük torna tezgâhı; arkada takım panosu ve parça rafları",
   "kisaCevap": "İş makinası periyodik bakımı takvime değil motor çalışma saatine göre planlanır. Operatör her vardiya başında seviyeleri, kaçakları, yürüyüş takımını ve günlük gres noktalarını kontrol eder; motor yağı, filtreler, hidrolik yağ ve gresleme ise üreticinin kılavuzundaki saat aralıklarında yapılır. Tozlu, sıcak ve ağır işlerde bu aralıklar kısalır. Her işlem tarih ve çalışma saatiyle kayda geçirilmelidir.",
@@ -209,6 +209,7 @@
     "/hizmetler/is-makinasi-tamir-bakim.html",
     "/hizmetler/pres-hortum.html",
     "/blog/hidrolik-hortum-neden-patlar.html",
-    "/hizmetler/torna-isleri.html"
+    "/hizmetler/torna-isleri.html",
+    "/blog/ekskavator-hidrolik-arizalari.html"
   ]
 }

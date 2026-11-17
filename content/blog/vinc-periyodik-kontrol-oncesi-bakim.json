@@ -1,12 +1,12 @@
 {
   "slug": "vinc-periyodik-kontrol-oncesi-bakim",
   "_hedef": "vinç periyodik kontrol",
-  "title": "Vinç Periyodik Kontrolü: Kim Yapar, Ne Sıklıkla Yapılır?",
+  "title": "Vinç Periyodik Kontrolü Kaç Yılda Bir Yapılır, Kim Yapar?",
   "h1": "Vinç Periyodik Kontrolü: Yönetmelik, Sık Çıkan Eksikler ve Kontrol Öncesi Bakım",
-  "desc": "Vinç periyodik kontrol: İş Ekipmanları Yönetmeliği Ek-III'e göre en geç yılda bir, yetkili kişilerce. 2025 değişikliği, sık eksikler ve kontrol öncesi bakım.",
+  "desc": "Vinç periyodik kontrolü en geç yılda bir ve her önemli onarımdan sonra, EKİPNET'e kayıtlı yetkili kişilerce yapılır. Sık çıkan eksikler ve hazırlık listesi.",
   "category": "Vinç Tamiri",
   "datePublished": "2026-10-22",
-  "dateModified": "2026-10-22",
+  "dateModified": "2026-11-17",
   "image": "real_ones/atolye-boyanmis-vinc-kolonu-revizyon.jpg",
   "imageAlt": "Atölyede sapanla asılı, yeni boyanmış sarı vinç kolonu; zeminde aynı vincin boyanmış taban parçası",
   "kisaCevap": "Vinç periyodik kontrolü, İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği'ne göre zorunludur. Mobil vinçler ve araç üstü katlanır bomlu (hiyap) vinçler dahil krenler, standartlarda ayrı bir süre yoksa en geç yılda bir ve her önemli bakım ya da onarımdan sonra kontrol edilir. Kontrolü EKİPNET'e kayıtlı yetkili mühendis veya teknikerler ya da ekipman muayene kuruluşları yapar; sözleşme en geç bir gün önce İSG-KATİP'te onaylanır.",
@@ -210,6 +210,7 @@
     "/hizmetler/vinc-revizyon-tamir-bakim.html",
     "/hizmetler/hiyap-vinc-tamiri.html",
     "/blog/vinc-tamiri-mi-yenisi-mi.html",
-    "/blog/vinc-revizyonu-ne-zaman.html"
+    "/blog/vinc-revizyonu-ne-zaman.html",
+    "/blog/periyodik-kontrol-raporundaki-eksikler-nasil-giderilir.html"
   ]
 }

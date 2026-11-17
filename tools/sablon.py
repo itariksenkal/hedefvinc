@@ -90,6 +90,16 @@ HIZMETLER = [  # (url, ad, tek satır açıklama) llms.txt, katalog ve OfferCata
     ("/hizmetler/konteyner-satis-kiralama.html", "Konteyner satış ve kiralama",
      "Sıfır ve 2. el konteyner; vinçle teslim ve yerleştirme."),
 ]
+# Konu merkezleri (hub): çok sayıda yazıyı tek sayfada toplayan rehber sayfaları. Alt bölümde, ana sayfada,
+# llms.txt'te ve ilgili blog yazılarının yan sütununda bağlantı alırlar. Hizmet değildirler; OfferCatalog'a girmezler.
+TONAJ_HUB = "/hizmetler/tonaja-gore-vinc-kiralama.html"
+ARIZA_HUB = "/hizmetler/vinc-arizalari-rehberi.html"
+REHBERLER = [  # (url, ad, tek satır açıklama)
+    (TONAJ_HUB, "Tonaja göre vinç kiralama",
+     "10-15 tondan 200 ton üzerine mobil vinç, hiyap ve sepetli platform sınıfları; hangi iş için hangi sınıf."),
+    (ARIZA_HUB, "Vinç arızaları rehberi",
+     "Belirtiden olası nedene: bom iniyor, kaldırmıyor, ayak tutmuyor, yağ kaçırıyor, dönmüyor, kumanda çalışmıyor."),
+]
 BILGI_ALANLARI = ["Vinç tamiri", "Vinç revizyonu", "Hiyap tamiri", "Vinç hidrolik sistemleri", "Pres hortum",
                   "Vinç kiralama", "Tekne kaldırma"]
 
@@ -502,11 +512,13 @@ def alt(dil):
             _grup("Vinç tamiri", [("/hizmetler/vinc-revizyon-tamir-bakim.html", "Vinç tamiri ve revizyon", ""),
                                   ("/hizmetler/hiyap-vinc-tamiri.html", "Hiyap vinç tamiri", ""),
                                   ("/hizmetler/vinc-hidrolik-tamiri.html", "Vinç hidrolik tamiri", ""),
-                                  ("/hizmetler/tavan-vinci.html", "Tavan vinci tamiri ve montajı", "")]),
+                                  ("/hizmetler/tavan-vinci.html", "Tavan vinci tamiri ve montajı", ""),
+                                  (ARIZA_HUB, "Vinç arızaları rehberi", "")]),
             _grup("Vinç kiralama", [("/hizmetler/vinc-kiralama.html", "Milas vinç kiralama", ""),
                                     ("/bolgeler/bodrum-vinc-kiralama.html", "Bodrum vinç kiralama", ""),
                                     ("/hizmetler/hiyap-kiralama.html", "Hiyap kiralama", ""),
                                     ("/hizmetler/sepetli-platform-manlift-kiralama.html", "Manlift kiralama", ""),
+                                    (TONAJ_HUB, "Tonaja göre vinç kiralama", ""),
                                     ("/hizmetler/konteyner-satis-kiralama.html", "Konteyner satış ve kiralama", "")]),
             _grup("Atölye", [("/hizmetler/is-makinasi-tamir-bakim.html", "İş makinası tamir", ""),
                              ("/hizmetler/pres-hortum.html", "Pres hortum", ""),
