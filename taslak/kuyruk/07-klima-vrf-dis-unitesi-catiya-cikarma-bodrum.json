@@ -1,0 +1,234 @@
+{
+  "slug": "klima-vrf-dis-unitesi-catiya-cikarma-bodrum",
+  "_hedef": "klima dış ünitesi vinç / vrf dış ünite çatıya çıkarma / klima vinç bodrum",
+  "title": "Klima ve VRF Dış Ünitesini Çatıya Çıkarma: Bodrum Rehberi",
+  "h1": "Klima ve VRF Dış Ünitesi Çatıya Vinçle Nasıl Çıkarılır? Otel, Villa ve Dükkân İçin Plan",
+  "desc": "Otel, villa ve dükkânda VRF ve klima dış ünitesini çatıya vinçle çıkarma: ağırlık, sapan, çatı ve kaide, sokak erişimi ve sezon öncesi planlama. Bodrum.",
+  "category": "Vinç Kiralama",
+  "cta": "kiralama",
+  "image": "saha-cati-montaj.jpg",
+  "imageAlt": "Sarı kamyon vinci uzun kafes bomuyla, inşaat hâlindeki sekizgen betonarme binanın çatısına çelik bir parça veriyor; çatıda işçiler, önde paletli bloklar",
+  "kisaCevap": "Ağır klima ve VRF dış üniteleri çatıya vinçle, ünitenin ağırlık merkezi gözetilerek uzun kuşaklar ve köşe koruyucularla çıkarılır. Alçak binada ve yola yakın çatıda çoğu zaman hiyap yeter; yüksek otel çatısında ya da binanın arkasındaki noktada mobil vinç gerekir. Önce çatının ve kaidenin ünitenin ağırlığını taşıdığı doğrulanmalı. Bodrum'da işi yaz kısıtlaması başlamadan, sezon öncesine planlamak gerekir.",
+  "intro": "Bodrum'da oteller, villalar ve dükkânlar her yıl sezon öncesinde klima sistemlerini yeniliyor: eski üniteler iniyor, yeni VRF dış üniteleri, soğutma grupları ve kaideler çatıya çıkıyor. Küçük bir split klimanın dış ünitesi çoğu zaman merdivenden elle taşınır; vinç, ağır ve büyük ünitelerde, yüksek çatılarda ve çok sayıda ünitenin aynı gün çıkacağı işlerde gerekir. Bu yazı, klima firmaları, otel teknik müdürleri ve villa sahipleri için böyle bir kaldırmanın nasıl planlandığını, üreticinin ne istediğini ve hangi bilgilerle doğru aracı göndereceğimizi anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Dış üniteyi çatıya çıkarmak için hangi vinç gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "Hangi vincin gerektiğini ünitenin ağırlığı, çatı yüksekliği ve vincin duracağı yerden ünitenin konacağı noktaya olan yatay mesafe belirler. Alçak bir binada, yola bakan bir çatıya tek bir VRF modülü çıkacaksa genellikle hiyap yeter. Otelin yüksek çatısına, binanın arka tarafına ya da ağır bir soğutma grubu çıkacaksa mobil vinç gerekir. Aşağıdaki tablo bölgede en sık karşılaştığımız işleri özetliyor:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "İş",
+        "Doğru araç",
+        "Bilmemiz gerekenler"
+      ],
+      "rows": [
+        [
+          "Tek VRF modülü, alçak bina, yola bakan çatı",
+          "Hiyap",
+          "Ünitenin modeli ve ağırlığı, çatı yüksekliği, aracın duracağı yere mesafe"
+        ],
+        [
+          "Birden çok VRF modülü, otel çatısı",
+          "Mobil vinç",
+          "Ünite sayısı ve ağırlıkları, çatının en uzak noktası, bina yüksekliği"
+        ],
+        [
+          "Soğutma grubu (chiller), çatı tipi klima santrali",
+          "Mobil vinç",
+          "Üretici kaldırma çizimi, ağırlık, kaide ölçüsü, gerekiyorsa traves"
+        ],
+        [
+          "Çelik kaide ya da taşıyıcı şase",
+          "Hiyap",
+          "Parçaların boyu ve ağırlığı, çatıda kaynak ya da montaj yapılacak mı"
+        ],
+        [
+          "Eski ünitelerin indirilmesi",
+          "Aynı vinç, aynı gün",
+          "Eski ünitelerin sökülüp bağlantılarının ayrılmış olması"
+        ],
+        [
+          "Cephede boru ve kablo işi, yüksekte montaj",
+          "Sepetli platform (manlift)",
+          "Çalışma yüksekliği, cepheye uzaklık, aracın duracağı yer"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Hiyap ile mobil vinç arasındaki farkı <a href=\"/hizmetler/hiyap-kiralama.html\">hiyap kiralama</a> sayfamızda anlattık; mobil vinç gereken işlerde ihtiyacınız olan tonajda vinç sağlarız."
+    },
+    {
+      "type": "h2",
+      "text": "Üretici kılavuzu kaldırma için ne diyor?"
+    },
+    {
+      "type": "p",
+      "text": "Üreticiler, dış ünitenin vinçle ve ağırlık merkezi gözetilerek kaldırılmasını ister. Örneğin bir VRF üreticisinin <a href=\"https://www.midea.com/content/dam/midea-aem/global/hvac/vrf/v6r-series-heat-recovery-vrf/Midea%20V6R%20Heat%20Recovery%20VRF%20Installation%20Manual.pdf\">dış ünite montaj kılavuzu</a>, üniteyi kaldırmak için bir vinç ve iki uzun kuşak kullanılmasını, ünitenin korunarak dikkatle taşınmasını ve ağırlık merkezinin konumuna dikkat edilmesini yazar; kuşakların ünitenin ağırlığını rahatça taşıyacak kapasitede olmasını ister ve kuşağın gövdeye değdiği yerlerde koruyucu levha gösterir. Bu yüzden kaldırma günü öncesinde ünitenin kendi kılavuzundaki kaldırma şeklini bize iletmeniz çok işe yarar."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Ünite ambalajından çıkmadan önce kaldırma noktaları ve ağırlık etiketi kontrol edilir.",
+        "Kuşaklar ünitenin altından, üreticinin gösterdiği yerlerden geçirilir; ince sac panellere ve batarya kanatlarına baskı yapmaması için köşe koruyucu kullanılır.",
+        "Ünite önce birkaç santim kaldırılır; eğiliyorsa yere bırakılıp bağlantı düzeltilir.",
+        "Ünite çatıda kaidesine oturup sabitlenmeden kuşaklar çözülmez."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Çatı ve kaide ünitenin ağırlığını taşıyor mu?"
+    },
+    {
+      "type": "p",
+      "text": "Vinç çağırmadan önce cevaplanması gereken ilk soru budur. Aynı kılavuz, montaj yerinin ünitenin ağırlığını ve titreşimini taşıyabilmesini, ünitenin dengeli ve düz durmasını ve çelik kiriş ya da betondan sağlam bir kaide üzerine oturmasını ister. Kılavuz ayrıca kuvvetli rüzgâr ve depreme karşı dikkatsiz montajın üniteyi devirebileceğini, denize yakın, havada tuz bulunan yerlerin ayrıca dikkate alınması gerektiğini yazar; bu Bodrum'daki çatıların çoğu için geçerlidir."
+    },
+    {
+      "type": "p",
+      "text": "Eski bir binanın çatısına ağır bir ünite konacaksa çatının taşıma gücünü bir inşaat mühendisine kontrol ettirmenizi öneririz. Bu bizim değil, bina sahibinin ve projecinin kararıdır; biz kaldırmayı, kaide hazır ve çatı uygun olduğunda yaparız."
+    },
+    {
+      "type": "h2",
+      "text": "Otel ve villada vinç nereye kurulur?"
+    },
+    {
+      "type": "p",
+      "text": "Vinç, ünitenin konacağı noktaya en kısa yatay mesafede ve sağlam zeminde kurulur. Otellerde bu çoğu zaman servis girişi ya da otopark, villalarda ise bahçe kapısının önü ya da sokaktır. Bodrum'un dar ve yokuşlu sokaklarında vincin yeri işin tamamını belirler; sokak ve giriş fotoğraflarıyla bunu önceden görürüz. Bahçeye ağır yük taşıma örneklerini <a href=\"/blog/villaya-jakuzi-havuz-ekipmani-tasima.html\">villaya jakuzi ve havuz ekipmanı taşıma</a> yazımızda anlattık."
+    },
+    {
+      "type": "p",
+      "text": "Çatı işlerinde operatör çoğu zaman ünitenin indiği yeri göremez. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> bu durumda operatöre yol gösterecek eğitimli ve deneyimli bir kişinin görevlendirilmesini, teknik zorunluluk olmadıkça kaldırılan yükün altında insan bulunmamasını ister. Otelde çalışıyorsak yükün geçeceği yol misafir ve personel trafiğine kapatılır; bunu otel yönetimiyle önceden konuşuyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "Dükkân ve çarşı içindeki binalarda ne farklı?"
+    },
+    {
+      "type": "p",
+      "text": "Dükkânlarda zorluk ağırlık değil, sokaktır. Bodrum ve Milas çarşılarında bina önleri dar, yaya trafiği yoğundur ve araç girişi saatle sınırlı olabilir. Bu işlerde genellikle hiyap kullanırız, işi sabah erken ya da trafiğin az olduğu saatlere koyarız ve kaldırma süresince yaya geçişini birkaç dakikalığına durdururuz. Yol ya da kaldırım kapatılması gerekiyorsa bunu belediyeyle önceden konuşmak işletmenin işidir; biz hangi alanın ne kadar süre kapanacağını söyleriz."
+    },
+    {
+      "type": "h2",
+      "text": "Kaldırma günü nasıl ilerler?"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Klima firması üniteleri ambalajlı ya da kaldırmaya hazır hâlde vincin erişebileceği yere koyar; kaide hazırdır.",
+        "Operatör vinci kurar, ayakları açar ve zemini kontrol eder; yükün geçeceği alan kapatılır.",
+        "Çatıda bir kişi işaretçi olarak operatöre yol gösterir; telsiz ya da telefonla haberleşilir.",
+        "Her ünite kuşaklanır, birkaç santim kaldırılıp dengesi kontrol edilir, sonra çatıya alınır.",
+        "Ünite kaidesine oturtulup klima ekibi tarafından sabitlenince kuşaklar çözülür; sıradaki üniteye geçilir.",
+        "Eski üniteler indirilecekse aynı düzenle indirilir ve kamyona alınır."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Sezon takvimi: ne zaman planlamalı?"
+    },
+    {
+      "type": "p",
+      "text": "Bodrum'da klima işlerini sezon başlamadan bitirmek gerekir. Muğla İl Kültür ve Turizm Müdürlüğü'nün <a href=\"https://mugla.ktb.gov.tr/TR-397558/insaat-yasaklari-hakkinda-onemli-duyuru.html\">duyurusuna</a> göre turistik yörelerde her yıl 15 Mayıs–15 Ekim arasında ağır nakliyat, hafriyat ve harçlı inşaat faaliyetlerine kısıtlama getiriliyor. Bu yüzden oteller yenilemeyi sonbahar, kış ve ilkbahara sıkıştırır ve bu dönemde vinç programları dolar. Kısıtlamanın vinç işlerine etkisini <a href=\"/blog/bodrum-yaz-insaat-yasagi-ve-vinc.html\">Bodrum inşaat yasağı ve vinç</a> yazımızda ayrıntılı anlattık."
+    },
+    {
+      "type": "p",
+      "text": "Pratik öneri: Ünitelerin teslim tarihi belli olduğu anda bizi arayın. Ünite tedarikçiden gelirken kamyondan doğrudan çatıya çıkarmak, önce yere indirip sonra yeniden kaldırmaktan hem daha hızlı hem daha ekonomiktir."
+    },
+    {
+      "type": "h2",
+      "text": "WhatsApp'tan ne göndermelisiniz?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Ünitelerin marka ve modeli, adet ve her birinin ağırlığı; kılavuzdaki kaldırma sayfası varsa fotoğrafı.",
+        "Çatının ve kaidenin fotoğrafı; çatı yüksekliği ve ünitelerin konacağı noktanın binanın kenarına uzaklığı.",
+        "Vincin durabileceği yerin ve sokağın fotoğrafı; üstte elektrik hattı, ağaç ya da saçak var mı.",
+        "Konum ve tarih; ünitelerin tedarikçiden ne zaman geleceği.",
+        "Eski üniteler de inecekse adedi ve yaklaşık ağırlığı."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Fiyatı ne belirler?"
+    },
+    {
+      "type": "p",
+      "text": "Ünitelerin ağırlığı ve sayısı, çatı yüksekliği ve mesafe (yani gereken vinç), işin süresi, otelin ya da villanın atölyemize uzaklığı ve sokak koşulları belirler. Yeni ünitelerin çıkışı ile eskilerin inişi aynı güne alınırsa iki ayrı sefer yerine tek sefer yapılır. Sabit fiyat listemiz yok; bilgileri gördükten sonra fiyatı net söylüyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "Bodrum'da klima ve VRF ünitesi için vinç nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Fotoğraflara bakıp hiyap mı mobil vinç mi gerektiğini söylüyor, gerekiyorsa önce yerinde bakıyoruz. Vinçlerimiz operatörüyle gelir; kaldırma planı ve sapan seçimi bizim işimizdir, ünitenin bağlantıları klima firmanızın. Vinci kiralayan da tamir eden de biziz; telefonlarımız 7/24 açık. Hizmetin ayrıntıları <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a>, bölgedeki işler için <a href=\"/bolgeler/bodrum-vinc-kiralama.html\">Bodrum vinç kiralama</a> sayfamızda."
+    },
+    {
+      "type": "callout",
+      "text": "Ünitenin modelini, çatının ve sokağın fotoğrafını gönderin; hangi vincin gerektiğini birlikte netleştirelim."
+    }
+  ],
+  "cikarimlar": [
+    "Ağır dış ünite vinçle, iki uzun kuşakla ve ağırlık merkezi gözetilerek kaldırılır.",
+    "Alçak binada hiyap, yüksek ya da uzak çatıda mobil vinç gerekir.",
+    "Çatının ve kaidenin ünitenin ağırlığını taşıdığı kaldırmadan önce doğrulanmalıdır.",
+    "Operatör iniş noktasını göremiyorsa işaretçi görevlendirilir; yükün altında kimse durmaz.",
+    "Bodrum'da otel klima işleri 15 Mayıs'tan önce bitirilecek şekilde planlanmalıdır."
+  ],
+  "faqs": [
+    {
+      "q": "Split klima dış ünitesi için vinç gerekir mi?",
+      "a": "Çoğu zaman gerekmez; küçük split üniteler merdivenden elle taşınabilir. Vinç, ağır VRF modülleri, soğutma grupları, yüksek çatılar ve çok sayıda ünitenin aynı gün çıkacağı işlerde gerekir."
+    },
+    {
+      "q": "VRF dış ünitesi hiyapla çıkar mı?",
+      "a": "Bina alçaksa ve ünitenin konacağı nokta aracın durabileceği yere yakınsa çoğu zaman evet. Yüksek otel çatısında ya da binanın arka tarafında mobil vinç gerekir. Ünitenin ağırlığı ve mesafeyle karar veriyoruz."
+    },
+    {
+      "q": "Çatının taşıyıp taşımadığını siz mi kontrol ediyorsunuz?",
+      "a": "Hayır. Çatının ve kaidenin taşıma gücü bina sahibinin ve projecinin sorumluluğundadır; eski binalarda bir inşaat mühendisine kontrol ettirmenizi öneririz. Biz kaldırmayı kaide hazır olduğunda yapıyoruz."
+    },
+    {
+      "q": "Otel açıkken çalışabilir misiniz?",
+      "a": "Mümkündür, ama yükün geçeceği alan misafir ve personel trafiğine kapatılmalıdır. Bodrum'da yaz kısıtlaması nedeniyle bu işleri genellikle sezon öncesine planlıyoruz."
+    },
+    {
+      "q": "Eski üniteleri aynı gün indirebilir misiniz?",
+      "a": "Evet. Eski ünitelerin bağlantıları ayrılmış ve sökülmüşse yeni ünitelerin çıkışıyla aynı gün indiririz; böylece iki ayrı sefer gerekmez."
+    },
+    {
+      "q": "Klima ünitesi taşıma fiyatı neye göre değişir?",
+      "a": "Ünitelerin ağırlığı ve sayısı, çatı yüksekliği ve mesafe, işin süresi, adres ve sokak koşulları belirler. Fotoğrafları gördükten sonra fiyatı net söylüyoruz."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "V6R Heat Recovery VRF Outdoor Unit – Installation Manual (taşıma, montaj yeri ve kaide bölümleri)",
+      "publisher": "Midea",
+      "url": "https://www.midea.com/content/dam/midea-aem/global/hvac/vrf/v6r-series-heat-recovery-vrf/Midea%20V6R%20Heat%20Recovery%20VRF%20Installation%20Manual.pdf"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (Ek-II: yük kaldırmada kullanılan iş ekipmanı)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "İnşaat yasakları hakkında önemli duyuru (2025/3 sayılı genelge)",
+      "publisher": "Muğla İl Kültür ve Turizm Müdürlüğü",
+      "url": "https://mugla.ktb.gov.tr/TR-397558/insaat-yasaklari-hakkinda-onemli-duyuru.html"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-kiralama.html",
+    "/hizmetler/hiyap-kiralama.html",
+    "/bolgeler/bodrum-vinc-kiralama.html",
+    "/blog/bodrum-yaz-insaat-yasagi-ve-vinc.html",
+    "/blog/villaya-jakuzi-havuz-ekipmani-tasima.html"
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "slug": "hiyap-kiralama-hangi-islerde-kullanilir",
+  "_hedef": "hiyap kiralama / hiyap ne işe yarar / hiyap mı mobil vinç mi",
+  "title": "Hiyap Kiralama Hangi İşlerde Kullanılır? Milas ve Bodrum",
+  "h1": "Hiyap Hangi İşlerde Doğru Araçtır? Mobil Vinçle Farkı ve İş İş Seçim",
+  "desc": "Hiyap hangi işte yeter, hangi işte mobil vinç gerekir? Malzeme indirme, konteyner, tekne ekipmanı ve totem için Milas ve Bodrum'dan iş iş seçim rehberi.",
+  "category": "Vinç Kiralama",
+  "cta": "kiralama",
+  "image": "real_ones/tekne-kaldirma-katlanir-bom-vinc.jpg",
+  "imageAlt": "Sarı katlanır bomlu araç üstü vinç, iki sarı kuşak sapanla beyaz bir motoryatı kaldırıyor; teknenin üstünde bir kişi, arkada yüksek ağaçlar",
+  "kisaCevap": "Hiyap, yükü kendi kasasında getirip kendisi indiren kamyon üstü vinçtir. Milas ve Bodrum'da en çok paletli inşaat malzemesini çatıya ya da bahçeye indirmek, konteyner ve kabin yerleştirmek, tekneye motor ya da ekipman vermek, totem ve tabela dikmek için kullanılır. Yük çok ağırsa, yükün konacağı nokta vince uzaksa ya da yükseklik büyükse doğru araç mobil vinçtir; insan kaldırmak gerekiyorsa sepetli platform.",
+  "intro": "“Hiyap mı lazım, vinç mi?” telefonda en sık duyduğumuz sorudur. Milas, Bodrum, Güllük ve Ören'de tuğla paleti, konteyner, klima ünitesi, tekne motoru ya da totem için çağrılıyoruz ve bu işlerin çoğunda doğru araç hiyaptır. Ama her işte değil. Bu yazıyı kendi işi için araç seçmeye çalışan ev sahipleri, ustalar, müteahhitler ve işletmeler için yazdık: Hiyabın hangi işte yettiğini, hangi işte mobil vince ya da sepetli platforma geçmek gerektiğini ve hangi bilgilerle doğru aracı ilk seferde gönderebileceğimizi iş iş anlatıyoruz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Hiyap nedir, mobil vinçten farkı ne?"
+    },
+    {
+      "type": "p",
+      "text": "Hiyap, kamyonun şasesine monte edilmiş katlanır ya da teleskopik bomlu bir vinçtir; yükü kasasında getirir, ayaklarını açar ve aynı araçla indirir. Mobil vinç ise yük taşımaz; yük ayrı bir kamyonla gelir, vinç yalnızca kaldırır. Buna karşılık mobil vinç daha ağır yükü daha uzağa ve daha yükseğe kaldırabilir. Kamyon üstü vinçlerin tasarım, hesap ve test kuralları ayrı bir Avrupa standardında, <a href=\"https://www.sis.se/en/produkter/maskinsakerhet-357f77b1/cranes/ss-en-129992020/\">EN 12999</a> içinde tanımlanır."
+    },
+    {
+      "type": "p",
+      "text": "Hiyaplar ton ile değil tonmetre ile anılır: yükün ağırlığı ile vincin dönüş merkezinden yüke olan yatay mesafenin çarpımı. Örnek vermek gerekirse, Palfinger'in <a href=\"https://www.palfinger.com/apac/en/our-products/cranes/loader-cranes/models/pk-12000.html\">PK 12000</a> modeli için üretici en yüksek kaldırma momentini 11,6 tonmetre, en yüksek kaldırma kapasitesini 6.790 kg, hidrolik erişimi 14,6 metre ve standart ayak açıklığını 4,6 metre olarak veriyor. 6.790 kg yalnızca vincin dibinde geçerlidir; bom açıldıkça kaldırılabilecek yük hızla düşer. Hesabın ayrıntısını <a href=\"/blog/hiyap-kac-ton-kaldirir-hiyap-tonajlari.html\">hiyap kaç ton kaldırır</a> yazımızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Hangi işte hiyap, hangi işte mobil vinç?"
+    },
+    {
+      "type": "p",
+      "text": "Yük kamyonla geliyorsa, ağırlığı birkaç ton civarındaysa ve kamyonun yanaşabileceği yere yakın bir noktaya inecekse hiyap çoğu zaman yeter. Aşağıdaki tablo, bölgede en sık gelen işler için ilk seçimi gösteriyor; kesin karar her zaman yükün ağırlığına, mesafeye ve vincin yük tablosuna göre verilir."
+    },
+    {
+      "type": "table",
+      "head": [
+        "İş",
+        "Doğru araç",
+        "Bilmemiz gerekenler"
+      ],
+      "rows": [
+        [
+          "Paletli tuğla, kiremit, çimento, demir indirme",
+          "Hiyap",
+          "Palet sayısı ve ağırlığı, indirilecek nokta (çatı, teras, bahçe), kamyonun duracağı yere uzaklık"
+        ],
+        [
+          "Konteyner, kabin, bekçi kulübesi yerleştirme",
+          "Hiyap; duvar arkasında uzak ya da ağır yükte mobil vinç",
+          "Konteynerin ölçüsü, boş mu dolu mu, konacağı zemin, aradaki duvar ve ağaçlar"
+        ],
+        [
+          "Tekneye motor, jeneratör, bot verme",
+          "Hiyap; rıhtımdan uzak teknede mobil vinç",
+          "Ekipmanın modeli ve ağırlığı, rıhtımdan yükün yatay mesafesi, marina izni"
+        ],
+        [
+          "Totem ve tabela dikme",
+          "Hiyap",
+          "Totemin boyu ve ağırlığı, ankraj cıvatalarının hazır olup olmadığı, üstte elektrik hattı"
+        ],
+        [
+          "Klima dış ünitesi, jeneratör, havuz ekipmanı",
+          "Hiyap; yüksek çatıda ya da uzak noktada mobil vinç",
+          "Ünitenin ağırlığı, çatı ya da teras yüksekliği, binaya yanaşma mesafesi"
+        ],
+        [
+          "Çelik makas, büyük prefabrik eleman, ağır makine",
+          "Mobil vinç (küçük parçalarda hiyap)",
+          "Parçanın boyu ve ağırlığı, montaj yüksekliği, vincin kurulacağı alan"
+        ],
+        [
+          "Cephede, tabelada ya da ağaçta yüksekte çalışma",
+          "Sepetli platform (manlift)",
+          "Çalışma yüksekliği, yana erişim, aracın duracağı yer"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Hiyap neden Bodrum sokaklarında daha çok tercih edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü tek araçla gelir ve mobil vince göre daha az yer kaplar. Bodrum yarımadasında işlerin çoğu dar, yokuşlu ve taş duvarlı sokaklarda; ayrı bir kamyon ve ayrı bir vinç sokağa sığmayabilir. Hiyap malzemeyi kasasında getirip aynı yerden indirdiği için hem yer hem zaman kazandırır. Yine de ayaklar açılmadan hiçbir vinç çalışmaz: Ayak açıklığı modele göre değişir; sokak bundan darsa ya da ayakların bir yanı yumuşak toprağa geliyorsa önce yerinde bakıyoruz. Dar sokak işlerini <a href=\"/blog/dar-sokakta-vinc-calismasi.html\">dar sokakta vinç çalışması</a> yazımızda ayrıntılı anlattık."
+    },
+    {
+      "type": "p",
+      "text": "Bodrum'da bir de takvim var. Muğla İl Kültür ve Turizm Müdürlüğü'nün <a href=\"https://mugla.ktb.gov.tr/TR-397558/insaat-yasaklari-hakkinda-onemli-duyuru.html\">duyurusuna</a> göre turistik yörelerde her yıl 15 Mayıs–15 Ekim arasında ağır nakliyat, hafriyat ve harçlı inşaat faaliyetlerine kısıtlama getiriliyor. İnşaat malzemesi indirme gibi işleri sezon dışına planlamak ya da kapsamını önceden sormak gerekebilir."
+    },
+    {
+      "type": "h2",
+      "text": "Hiyabın yetmediği işler hangileri?"
+    },
+    {
+      "type": "p",
+      "text": "Hiyap üç durumda yetmez: Yük çok ağırsa, yükün konacağı nokta vincin durabileceği yerden uzaksa ya da yükseklik büyükse. Örneğin bir konteyneri yolun hemen kenarındaki arsaya koymak hiyap işidir; aynı konteyneri iki katlı bir evin arkasındaki bahçeye, evin üstünden aşırarak koymak çoğu zaman mobil vinç işidir. Ağır çelik makaslar, büyük soğutma üniteleri ve yüksek çatılar da genellikle mobil vince gider. Bu durumda ihtiyacınız olan tonajda vinç sağlarız; tonaj seçimini <a href=\"/hizmetler/tonaja-gore-vinc-kiralama.html\">tonaja göre vinç kiralama</a> sayfamızda özetledik."
+    },
+    {
+      "type": "h2",
+      "text": "Hiyapla insan kaldırılır mı?"
+    },
+    {
+      "type": "p",
+      "text": "Hayır. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> insanların kaldırılmasında yalnızca bu amaç için sağlanan iş ekipmanı ve aksesuarlarının kullanılmasını ister; insan kaldırmak için üretilmemiş ekipman yalnızca olağanüstü ve acil istisnai durumlarda, önlem alınarak ve gözetim altında kullanılabilir. EN 12999 standardı da kapsamını yük kaldırmayla sınırlar, insan kaldırmayı dışarıda bırakır. Cephede, tabelada ya da ağaçta çalışacak biri varsa doğru araç <a href=\"/hizmetler/sepetli-platform-manlift-kiralama.html\">sepetli platformdur (manlift)</a>."
+    },
+    {
+      "type": "h2",
+      "text": "Hiyaplı iş günü nasıl ilerler?"
+    },
+    {
+      "type": "p",
+      "text": "Hiyaplı bir iş, hazırlık doğru yapıldıysa çoğu zaman kısa sürer. Sahada sıra şöyledir:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Araç yükü aldıysa yükleme adresinden çıkar; yük sahadaysa doğrudan iş adresine gelir.",
+        "Operatör aracın duracağı yeri, zemini, eğimi ve üstteki engelleri kontrol eder; ayakları açar ve gerekiyorsa altlık koyar.",
+        "Yük sapanlanır, birkaç santim kaldırılıp dengesi kontrol edilir.",
+        "Yük, operatörün göremediği bir noktaya iniyorsa bir kişi işaretçi olarak operatöre yol gösterir; yükün altında ve dönüş alanında kimse bulunmaz.",
+        "Yük yerine oturup sabitlendikten sonra sapanlar çözülür; ayaklar toplanır ve araç çıkar."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Sahada en çok zaman kaybettiren şey, yükün ineceği yerin hazır olmamasıdır: dolu bir bahçe, kapanmamış bir çukur, yerine oturmayı bekleyen bir kaide. Vinç geldiğinde alanın boş, yükün bağlanmaya hazır olması işi kısaltır ve fiyatı da düşük tutar."
+    },
+    {
+      "type": "h2",
+      "text": "WhatsApp'tan ne göndermelisiniz?"
+    },
+    {
+      "type": "p",
+      "text": "Doğru aracı ilk seferde göndermemiz için şu bilgiler yeterli:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Yük:</strong> Ne olduğu, yaklaşık ağırlığı ve ölçüsü; etiket, irsaliye ya da katalog fotoğrafı.",
+        "<strong>Mesafe ve yükseklik:</strong> Aracın duracağı yerden yükün ineceği noktaya yatay mesafe ve yükseklik.",
+        "<strong>Konum:</strong> Google Haritalar konumu; yük başka bir yerden alınacaksa o adres de.",
+        "<strong>Sokak ve giriş:</strong> Sokağın, bahçe kapısının ve ayakların açılacağı yerin fotoğrafı; üstte elektrik hattı ya da ağaç varsa o da.",
+        "<strong>Tarih:</strong> İstediğiniz gün ve saat; acil mi, planlı mı."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Hiyap kiralama fiyatını ne belirler?"
+    },
+    {
+      "type": "p",
+      "text": "Fiyatı yükün ağırlığı ve mesafe (yani gereken tonmetre), işin süresi, yükün başka bir adresten alınıp alınmayacağı, iş yerinin atölyemize uzaklığı ve sahanın durumu belirler. Dar ve yokuşlu sokak, bekleme ve sezon kısıtlaması da hesaba girer. Sabit fiyat listemiz yok; fotoğraflara bakıp işi netleştirdikten sonra fiyatı söylüyoruz, karmaşık sahalarda önce yerinde bakıyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "Milas ve Bodrum'da hiyap nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Bilgileri ve fotoğrafları gönderdiğinizde hangi aracın uygun olduğunu, hiyap mı mobil vinç mi gerektiğini ve nedenini açıkça söylüyoruz. Hiyaplarımız operatörüyle gelir; ayakları açmak, yükü sapanlamak ve yerine koymak bizim işimizdir. Vinci kiralayan da tamir eden de biziz; atölyemiz Güllük ile Güvercinlik arasında, Tuzla Kavşağı'nda. Hizmetin ayrıntıları <a href=\"/hizmetler/hiyap-kiralama.html\">hiyap kiralama</a> sayfamızda, Bodrum'daki işler için <a href=\"/bolgeler/bodrum-vinc-kiralama.html\">Bodrum vinç kiralama</a> sayfamızda."
+    },
+    {
+      "type": "callout",
+      "text": "Yükün fotoğrafını ve konumu gönderin; hiyap mı, mobil vinç mi, manlift mi, birlikte karar verelim."
+    }
+  ],
+  "cikarimlar": [
+    "Hiyap yükü kasasında getirip kendisi indirir; mobil vinç yalnızca kaldırır ama ağır ve uzak işe yeter.",
+    "Hiyap seçimi tonmetreyle yapılır: yükün ağırlığı çarpı vincin merkezinden yatay mesafe.",
+    "Yük ağır, uzak ya da yüksekse doğru araç mobil vinçtir.",
+    "Hiyapla insan kaldırılmaz; yüksekte çalışma için sepetli platform kullanılır.",
+    "Yükün, mesafenin ve sokağın fotoğrafı doğru aracı ilk seferde seçmeyi sağlar."
+  ],
+  "faqs": [
+    {
+      "q": "Hiyap kaç ton kaldırır?",
+      "a": "Tek bir rakam yoktur; hiyabın kapasitesi yükün vince uzaklığına göre değişir. Vincin dibinde birkaç ton kaldıran bir hiyap, bomu sonuna kadar açıldığında bunun çok altında yük kaldırır. Yükün ağırlığını ve mesafeyi söyleyin, uygun hiyabı biz seçelim."
+    },
+    {
+      "q": "Konteyner için hiyap mı, mobil vinç mi gerekir?",
+      "a": "Konteyner yola yakın, düz bir zemine konacaksa çoğu zaman hiyap yeter. Duvarın, evin ya da ağaçların arkasında uzak bir noktaya konacaksa ya da konteyner doluysa mobil vinç gerekebilir. Arsanın ve yolun fotoğrafıyla karar veriyoruz."
+    },
+    {
+      "q": "Hiyap dar sokağa girebilir mi?",
+      "a": "Çoğu zaman mobil vinçten kolay girer, çünkü tek araçtır. Ama ayakların açılacağı genişlik, eğim ve zemin önemlidir. Sokağın fotoğrafını gönderin; emin olamadığımız yere önce bakmaya geliyoruz."
+    },
+    {
+      "q": "Hiyap operatörüyle mi gelir?",
+      "a": "Evet. Hiyaplarımız operatörüyle gelir; vinci kurmak, yükü sapanlamak ve indirmek bizim işimizdir. Sizden yükün nereye ineceğini göstermenizi ve alanın boş olmasını isteriz."
+    },
+    {
+      "q": "Malzemeyi siz mi taşıyorsunuz, yoksa sadece indiriyor musunuz?",
+      "a": "İkisi de olur. Yükü bir adresten alıp kasada getirip yerine indirebiliriz; yük zaten sahadaysa yalnızca kaldırıp yerine koyarız. Yükleme ve indirme adreslerini birlikte söyleyin."
+    },
+    {
+      "q": "Hiyap kiralama fiyatı neye göre değişir?",
+      "a": "Yükün ağırlığı ve mesafe, işin süresi, adres, yükün başka bir yerden alınıp alınmayacağı ve sahanın durumu belirler. Sabit fiyat listemiz yok; işi gördükten sonra fiyatı net söylüyoruz."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (Ek-II: yük kaldırmada kullanılan iş ekipmanı)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "PK 12000 – key specs and lifting capacities",
+      "publisher": "PALFINGER",
+      "url": "https://www.palfinger.com/apac/en/our-products/cranes/loader-cranes/models/pk-12000.html"
+    },
+    {
+      "title": "SS-EN 12999:2020 Cranes – Loader cranes",
+      "publisher": "SIS – İsveç Standardizasyon Enstitüsü",
+      "url": "https://www.sis.se/en/produkter/maskinsakerhet-357f77b1/cranes/ss-en-129992020/"
+    },
+    {
+      "title": "İnşaat yasakları hakkında önemli duyuru (2025/3 sayılı genelge)",
+      "publisher": "Muğla İl Kültür ve Turizm Müdürlüğü",
+      "url": "https://mugla.ktb.gov.tr/TR-397558/insaat-yasaklari-hakkinda-onemli-duyuru.html"
+    }
+  ],
+  "related": [
+    "/hizmetler/hiyap-kiralama.html",
+    "/hizmetler/tonaja-gore-vinc-kiralama.html",
+    "/blog/hiyap-kac-ton-kaldirir-hiyap-tonajlari.html",
+    "/blog/dar-sokakta-vinc-calismasi.html",
+    "/bolgeler/bodrum-vinc-kiralama.html"
+  ]
+}

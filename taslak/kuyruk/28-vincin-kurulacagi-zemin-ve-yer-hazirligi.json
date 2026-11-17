@@ -1,0 +1,229 @@
+{
+  "slug": "vincin-kurulacagi-zemin-ve-yer-hazirligi",
+  "_hedef": "vinç zemin hazırlığı / vinç kurulacak yer / vinç ayak altlığı / vinç bahçeye girer mi / vinç zemin etüdü",
+  "title": "Vinç Gelmeden Önce Zemin ve Yer Hazırlığı: Kontrol Listesi",
+  "h1": "Vinç Kurulacak Zemin ve Yer Nasıl Hazırlanır? Ayak Altlığı, Eğim, Altyapı ve Villa Bahçesi",
+  "desc": "Vinç gelmeden önce zemin ve yer hazırlığı: ayakların basacağı zemin, altlık, eğim, yeni dolgu, yer altı boruları, havai hatlar ve yumuşak villa bahçeleri.",
+  "category": "Vinç Kiralama",
+  "cta": "kiralama",
+  "image": "real_ones/saha-manitou-teleskopik-yukleyici-deniz-kenari-santiye.jpg",
+  "imageAlt": "Deniz kenarındaki bir şantiyede ahşap takoz yığınına oturtulmuş kırmızı-beyaz şeritli bir destek ayağı; arkada kırmızı teleskopik yükleyicinin kabininde operatör, kule vinç ve koy",
+  "kisaCevap": "Vinç, ayaklarını açacağı yerin sağlam, düz ve yeterince geniş olduğu kesinleşmeden kurulmaz. Gelmeden önce aracın gireceği yolu, ayakların basacağı zemini, eğimi, yeni dolgu ya da kazıları, yer altındaki boru ve kabloları, foseptik ve havuz kenarlarını, havai hatları ve ağaçları kontrol edin. Ayakların altına yükü yayan altlık konur; zemin yetersizse vincin yeri ya da sınıfı değişir.",
+  "intro": "Vinçle yapılan bir işin güvenliği, yük havaya kalkmadan çok önce, vincin duracağı yer seçilirken belirlenir. Vinç kaldırdığı yükü ve kendi ağırlığını ayaklarının küçük taban alanları üzerinden zemine aktarır. Zemin bu yükü taşıyamazsa ayak gömülür, vinç yana yatar. Bu yazı Milas, Bodrum, Güllük, Ören ve Didim'de vinç çağıracak ev sahipleri, villa yapımcıları ve şantiye şefleri için vinç gelmeden önce sahada nelerin hazırlanması gerektiğini anlatıyor. Bu hazırlık, hem işin güvenliğini hem de vincin sahada boş beklemeden çalışmasını sağlar.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Vinç neden sağlam zemin ister?"
+    },
+    {
+      "type": "p",
+      "text": "Vinç, yükün ve kendi ağırlığının büyük bölümünü kaldırma sırasında tek bir ayağa aktarabilir; bu yüzden ayağın bastığı noktanın sağlam olması şarttır. Yük bom ucunda bir yöne döndükçe o taraftaki ayağa binen yük artar. İngiltere'deki inşaat makineleri güvenliği grubunun hazırladığı <a href=\"https://cpa.uk.net/wp-content/uploads/2025/04/SFPSG-Ground-Conditions-Shortform-Guidance-Published-Document-1.pdf\">zemin koşulları rehberi</a>, ayak yüklerinin kaba kurallarla değil üreticinin ya da tedarikçinin verdiği gerçek değerlerle hesaplanmasını önerir; kaba yöntemlerin ancak son çare olarak kullanılmasını ister. Türkiye'de de <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18928&MevzuatTur=7&MevzuatTertip=5\">Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği</a>, her türlü iş ekipmanı için üzerinde kurulu olduğu zeminin sağlamlığının kontrol edilmesini, zeminden emin olunmadan ve gerektiğinde dengeleme ve sabitleme yapılmadan çalışmaya başlanmamasını; hendek kenarlarında ve dik eğimli yerlerde kaymayı önleyici tedbir alınmasını ister."
+    },
+    {
+      "type": "h2",
+      "text": "Sahada hangi durumda ne yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Zeminin durumu, vincin nereye kurulacağını, nasıl bir altlık gerektiğini ve bazen hangi vincin geleceğini belirler. En sık karşılaştığımız durumlar şunlardır:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Saha durumu",
+        "Ne yapılır",
+        "Bilmemiz gerekenler"
+      ],
+      "rows": [
+        [
+          "Asfalt ya da beton yol, düz",
+          "Ayak altlığıyla doğrudan kurulum",
+          "Yolun altında menhol, kanal ya da boru olup olmadığı"
+        ],
+        [
+          "Toprak ya da çim bahçe",
+          "Daha geniş altlık, gerekirse sıkıştırılmış dolgu ya da stabilize",
+          "Toprağın ıslak mı kuru mu olduğu, sulama hatları"
+        ],
+        [
+          "Yeni dolgu, kapanmış kanal kazısı",
+          "Ayak oraya basmaz; vincin yeri değişir",
+          "Dolgunun yeri, ne zaman yapıldığı"
+        ],
+        [
+          "Eğimli arsa, yokuş",
+          "Ayaklarla sınırlı düzeltme; gerekirse teraslama",
+          "Eğimin yönü ve miktarı, düz alan olup olmadığı"
+        ],
+        [
+          "Havuz, istinat duvarı ya da şev kenarı",
+          "Kenardan güvenli uzaklıkta kurulum",
+          "Duvarın yüksekliği, arkasındaki dolgu"
+        ],
+        [
+          "Foseptik, su deposu, bodrum",
+          "Ayak üzerine basmaz",
+          "Yerleri; projede ya da sahada işaretli olması"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu tablo bir başlangıçtır; her sahanın kendi koşulları vardır. Zemin uygun değilse vinci başka bir noktaya, gerekirse daha uzun erişimli bir sınıfa kaydırırız. İhtiyacınız olan tonajda vinç sağlarız; ama hiçbir vinç yumuşak zeminde güvenle çalışmaz."
+    },
+    {
+      "type": "h2",
+      "text": "Ayak altlığı ne işe yarar?"
+    },
+    {
+      "type": "p",
+      "text": "Altlık, ayağın küçük tabanındaki yükü daha geniş bir alana yayar ve zemine binen basıncı düşürür. Operatörümüz ayakların altına, yük altında eğilmeyecek kadar sağlam altlıklar koyar. Aynı rehber bunun özel olarak tasarlanmış altlıklarla yapılması gerektiğini, birkaç eski tahtanın bu işi görmeyeceğini vurgular. Altlık her zaman çözüm değildir: Altında boşluk, gevşek dolgu ya da boru varsa altlık yükü yaysa bile zemin çöker. Bu yüzden altlık koymadan önce ayağın basacağı yerin altında ne olduğunu bilmek isteriz."
+    },
+    {
+      "type": "h2",
+      "text": "Yeni villalarda zemin neden yanıltıcıdır?"
+    },
+    {
+      "type": "p",
+      "text": "Yeni yapılmış villalarda bahçe çoğu zaman dolgudur ve yüzeyden sağlam görünür. Temel kazısından sonra geri doldurulan toprak, havuz çevresindeki dolgu, yeni döşenmiş kilit taşı ve altyapı kanalları ilk yıllarda oturmaya devam eder. Yağmurdan sonra bu alanlar daha da yumuşar. Aynı rehber zayıf zeminleri sayarken ince bir sert tabakanın altındaki yumuşak malzemeyi, geri doldurulmuş kazı ve servis kanallarını, sığ boruları, eski temellerin altındaki boşlukları, bodrumları ve kaymaya duyarlı şevlerin yanını sayar. Villa sahalarında bunların hepsiyle karşılaşabiliyoruz. Vinci bahçenin içine değil, mümkünse yola ya da kaba inşaattan kalma sağlam bir alana kurmayı tercih ederiz. Bodrum'daki villa sahalarının özelliklerini <a href=\"/blog/bodrum-villa-insaatinda-vinc.html\">Bodrum villa inşaatında vinç</a> yazımızda ayrıca anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Yer altındaki boru ve kablolar nasıl bulunur?"
+    },
+    {
+      "type": "p",
+      "text": "Ayakların basacağı yerin altındaki tesisatı en iyi sahanın sahibi ya da yapan ekip bilir; bu bilgiyi vinç gelmeden önce paylaşmak gerekir. Yapı İşleri yönetmeliği, yapı işlerine başlamadan önce alandaki tesisatın belirlenmesini, kontrol edilmesini ve açıkça işaretlenmesini ister. Pratikte şunları soruyoruz: Bahçede sulama boruları, aydınlatma kabloları, doğalgaz ya da su hattı, foseptik, su deposu var mı? Yolun altında belediyenin menholleri ya da kanalları var mı? Projede ya da sahada işaretli mi? Bilmediğiniz bir şey varsa söyleyin; ayakları bu noktalardan uzak bir yere kurarız."
+    },
+    {
+      "type": "h2",
+      "text": "Zemin bilgisini kim verir?"
+    },
+    {
+      "type": "p",
+      "text": "Zeminin ve altındaki yapıların bilgisini sahayı yöneten taraf verir; vinç tarafı bu bilgiye göre yerini ve altlığını seçer. Şantiyede bu kişi şantiye şefi ya da yapının sorumlu mühendisidir; bir villada ev sahibi, peyzajı ya da havuzu yapan usta. Proje çizimleri, eski zemin etüdü, altyapı planı ya da sadece \"burada geçen yıl kanal kazıldı\" bilgisi bile işimize yarar. Biz de vincin ayak açıklığını ve altlığın ölçüsünü, gerektiğinde üreticinin verisine göre ayaklara binecek yükü paylaşırız. Çok ağır kaldırmalarda bu iki bilgi bir mühendis tarafından birlikte değerlendirilir. Bilgi yoksa yerinde bakar, şüpheli noktaya ayak koymayız."
+    },
+    {
+      "type": "h2",
+      "text": "Havai hatlar ve ağaçlar için ne yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Vincin bomu ve yükü, enerji hatlarına yeterli güvenlik mesafesinde kalmalıdır. Yönetmelik, yapı alanının yakınından enerji nakil hattı geçiyorsa yeterli güvenlik mesafesi bırakılmasını, bu mesafe hesaplanırken tellerin rüzgârdaki salınımının da dikkate alınmasını ister; mesafe bırakılamıyorsa hattın yerinin değiştirilmesi ya da akımının kesilmesi için ilgili kurumlardan onay ve izin alınması gerekir. Böyle bir izin günler sürebilir; bu yüzden hattı vinç gelmeden fark etmek önemlidir. Ağaç dalları, balkonlar, tenteler ve sokak lambaları da bomun dönüşünü kısıtlar. Sahayı fotoğraflarken yukarıya da bakın."
+    },
+    {
+      "type": "h2",
+      "text": "Dar sokak ve giriş yolu nasıl kontrol edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Vincin sahaya ulaşacağı yol, kurulacağı yer kadar önemlidir. Yolun genişliği, keskin dönüşler, yokuşun eğimi, köprü ve menfezler, site girişlerindeki bariyerler ve yolun taşıma kapasitesi önceden bilinmelidir. Ayakların tam açılabilmesi için gereken genişlik de vincin sınıfına göre değişir; ayaklar tam açılamazsa vinç daha az yük kaldırır. Bu konuyu <a href=\"/blog/dar-sokakta-vinc-calismasi.html\">dar sokakta vinç çalışması</a> yazımızda ayrıntılı anlattık. Ayak sistemlerinin nasıl çalıştığını ve arızalarını merak ediyorsanız <a href=\"/blog/vinc-ayaklari-outrigger-arizasi.html\">vinç ayakları arızası</a> yazımıza da bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç gelmeden önce kontrol listesi"
+    },
+    {
+      "type": "p",
+      "text": "Şu listeyi vinç gelmeden bir gün önce gözden geçirin:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Aracın gireceği yol açık mı; park etmiş araçlar ve malzeme kaldırıldı mı?",
+        "Vincin kurulacağı alan düz, sağlam ve ayakların açılacağı genişlikte mi?",
+        "Bu alanın altında dolgu, kanal, boru, foseptik ya da depo var mı?",
+        "Havuz, istinat duvarı, şev ya da kazı kenarına yeterince uzak mı?",
+        "Havai hatlar, ağaçlar, balkonlar ve tenteler bomun yolunda mı?",
+        "Yağmur yağdıysa zemin yumuşadı mı?",
+        "Yük, bağlama ekibi ve yükün ineceği yer hazır mı?"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu listedeki her hayır, sahada kaybedilecek zaman ya da değişecek bir plan demektir."
+    },
+    {
+      "type": "h2",
+      "text": "WhatsApp'tan ne göndermelisiniz?"
+    },
+    {
+      "type": "p",
+      "text": "Şunları gönderin; sahayı görmeden önce kurulum yerini birlikte belirleyelim:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Vincin kurulabileceği yerin fotoğrafları; zeminin türü (asfalt, beton, toprak, çim).",
+        "Giriş yolunun ve sokağın fotoğrafı; yokuş ve dönüşler.",
+        "Bildiğiniz yer altı tesisatı, foseptik, depo ve dolgu alanları.",
+        "Havai hatlar, ağaçlar ve yakındaki yapılar.",
+        "Yükün ne olduğu, ağırlığı, nereye ineceği ve aradaki mesafe."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Emin olamadığımız sahada önce yerinde bakarız. Genel süreç için <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> sayfamıza bakabilirsiniz. Vinçlerimizin ayak ve hidrolik sistemlerinin bakımını kendi atölyemizde yapıyoruz; vinci kiralayan da tamir eden de biziz."
+    },
+    {
+      "type": "callout",
+      "text": "Vincin kurulacağı yerin ve yolun fotoğraflarını gönderin; zemine bakıp kurulum yerini birlikte seçelim."
+    }
+  ],
+  "cikarimlar": [
+    "Vinç, ayaklarının basacağı zeminin sağlamlığı kesinleşmeden kurulmaz.",
+    "Ayak altlığı yükü yayar ama altındaki boşluğu ya da gevşek dolguyu kapatmaz.",
+    "Yeni villa bahçeleri, dolgu ve kanal kazıları yüzünden yanıltıcı olabilir.",
+    "Yer altı tesisatı ve havai hatlar vinç gelmeden önce belirlenip işaretlenmelidir.",
+    "Zemin uygun değilse vincin yeri ya da sınıfı değişir."
+  ],
+  "faqs": [
+    {
+      "q": "Vinç çim bahçeye girebilir mi?",
+      "a": "Zemin kuru ve sağlamsa, altında boru ya da foseptik yoksa girebilir; ayakların altına geniş altlık konur. Islak ya da yeni dolgu bir bahçede vinci yola ya da sağlam bir alana kurup erişimle çalışmayı tercih ederiz."
+    },
+    {
+      "q": "Ayak altlığını siz mi getiriyorsunuz?",
+      "a": "Evet, operatörümüz ayakların altına yükü yayan altlıkları koyar. Altlık zemini iyileştirmez; ayağın basacağı yerin altında boşluk ya da gevşek dolgu varsa vincin yerini değiştiririz."
+    },
+    {
+      "q": "Eğimli arsada vinç kurulur mu?",
+      "a": "Ayaklar sınırlı bir eğimi düzeltebilir; daha fazlası için düz bir alan bulmak ya da hazırlamak gerekir. Eğimin yönünü ve miktarını fotoğraftan görüp kurulum yerini birlikte seçeriz."
+    },
+    {
+      "q": "Vinç yeni dökülmüş betonun üzerine kurulabilir mi?",
+      "a": "Beton yükü taşıyacak dayanıma ulaşmadan kurulmaz. Yeni dökülmüş bir döşeme ya da sahanın üzerine kurulum için yapının sorumlu mühendisinin onayı gerekir."
+    },
+    {
+      "q": "Yağmurdan sonra vinç çalışır mı?",
+      "a": "Zemin yumuşadıysa çalışmayabilir. Asfalt ve beton zeminde sorun çoğu zaman olmaz; toprak ve çim zeminde ise yağmurdan sonra zemini yeniden değerlendiririz."
+    },
+    {
+      "q": "Zemin etüdü gerekiyor mu?",
+      "a": "Çoğu villa ve şantiye işinde sahayı görmek ve zemin hakkında bilinenleri öğrenmek yeterlidir. Çok ağır kaldırmalarda ya da zeminden emin olunamayan sahalarda zemin bilgisinin bir mühendis tarafından değerlendirilmesi gerekebilir."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği (Ek-4: zemin sağlamlığı, enerji dağıtım tesisleri)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18928&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "Ground Conditions for Construction Plant: a brief guide",
+      "publisher": "Strategic Forum for Construction Plant Safety Group (CPA)",
+      "url": "https://cpa.uk.net/wp-content/uploads/2025/04/SFPSG-Ground-Conditions-Shortform-Guidance-Published-Document-1.pdf"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (EK-II: yük kaldırmada zemin ve kararlılık)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-kiralama.html",
+    "/blog/dar-sokakta-vinc-calismasi.html",
+    "/blog/bodrum-villa-insaatinda-vinc.html",
+    "/blog/dogru-vinc-secimi.html"
+  ]
+}

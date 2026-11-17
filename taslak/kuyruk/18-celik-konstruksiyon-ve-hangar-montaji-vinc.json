@@ -1,0 +1,227 @@
+{
+  "slug": "celik-konstruksiyon-ve-hangar-montaji-vinc",
+  "_hedef": "çelik konstrüksiyon montajı vinç / çelik makas montajı vinç / hangar montajı vinç kiralama",
+  "title": "Çelik Konstrüksiyon ve Hangar Montajında Vinç Kiralama",
+  "h1": "Çelik Konstrüksiyon, Makas ve Hangar Montajında Vinç: Hangi Vinç ve Nasıl Bir Plan?",
+  "desc": "Çelik kolon, makas ve hangar montajında vinç seçimi: en ağır ve en uzak parça, iki vinçli kaldırma, montaj sırası, rüzgâr ve günlük kiralama. Milas ve Bodrum.",
+  "category": "Vinç Kiralama",
+  "cta": "kiralama",
+  "image": "saha-celik-konstruksiyon.jpg",
+  "imageAlt": "Beyaz bahçe duvarının önünde Hedef Vinç yazılı kamyon üstü vinç ve arkada sarı mobil vinç, kırmızı çelik çatı konstrüksiyonunu yerleştiriyor; çelikte çalışan işçiler, arkada yapım hâlinde yüksek bina",
+  "kisaCevap": "Çelik konstrüksiyon montajında vinç, en ağır parçanın en uzak noktadaki ağırlığına ve en yüksek montaj kotuna göre seçilir. Küçük sundurma ve saçaklarda hiyap yeter; depo, hangar ve büyük açıklıklı makaslarda mobil vinç, çok uzun makaslarda bazen iki vinç birlikte çalışır. Montaj, çelik firmasının montaj sırasına ve ehil bir kişinin gözetimine göre yapılır; rüzgârlı havada kaldırma durdurulur.",
+  "intro": "Muğla'da tarım depoları, sanayi siteleri, otel servis binaları, otoparklar, villa pergolaları ve tekne hangarları çelikle yapılıyor. Bu işlerde vinç, montaj ekibinin temposunu belirler: Doğru vinç doğru yere kurulursa kolonlar, kirişler ve makaslar sırayla ve güvenle yerine oturur; yanlış seçilirse ya bir parça kalkmaz ya da vinç sürekli yer değiştirir. Bu yazı çelik firmaları, müteahhitler ve yatırımcılar için çelik montajında vinç seçiminin nasıl yapıldığını, kaldırma planında nelerin konuşulduğunu ve hangi bilgilerle doğru vinci göndereceğimizi anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Çelik montajı için hangi vinç gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "Vinci en ağır parça değil, en ağır parçanın vincin duracağı yerden en uzak noktadaki konumu belirler. Bir makas vincin dibinde rahatça kalkarken, aynı makas binanın öbür ucundaki aksına konacaksa çok daha büyük bir vinç gerekebilir. Bu yüzden çelik firmasından tek bir “en ağır parça” değil, en ağır parçaların montaj aksları ve kotlarıyla birlikte listesini isteriz. Aşağıdaki tablo bölgede en sık gelen çelik işleri için ilk seçimi gösteriyor:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "İş",
+        "Doğru araç",
+        "Bilmemiz gerekenler"
+      ],
+      "rows": [
+        [
+          "Sundurma, saçak, pergola, merdiven",
+          "Hiyap",
+          "Parça ağırlıkları ve boyları, montaj yüksekliği, araç yanaşma mesafesi"
+        ],
+        [
+          "Tarım deposu, küçük atölye binası",
+          "Hiyap ya da mobil vinç (açıklığa göre)",
+          "Makas boyu ve ağırlığı, kolon yüksekliği, binanın çevresinde vinç yolu"
+        ],
+        [
+          "Depo, fabrika binası, hangar",
+          "Mobil vinç",
+          "En ağır parçaların akslara göre listesi, mahya kotu, montaj sırası"
+        ],
+        [
+          "Çok uzun makas ya da kafes kiriş",
+          "Mobil vinç; gerekirse iki vinç birlikte",
+          "Parçanın boyu, ağırlık merkezi, kaldırma noktaları, sahada birleştirme yapılıp yapılmayacağı"
+        ],
+        [
+          "Aşık, çatı ve cephe paneli paketleri",
+          "Hiyap ya da montajdaki vinç",
+          "Paket ağırlıkları, çatıda nereye konacakları"
+        ],
+        [
+          "Bulon sıkma, kaynak, boya rötuşu",
+          "Sepetli platform (manlift)",
+          "Çalışma yüksekliği, zemin, binanın içinde mi dışında mı"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Tonaj seçimini <a href=\"/hizmetler/tonaja-gore-vinc-kiralama.html\">tonaja göre vinç kiralama</a> sayfamızda özetledik; orta büyüklükteki çelik işlerinde sık kullanılan sınıfları <a href=\"/blog/40-tonluk-vinc-kiralama.html\">40 tonluk</a> ve <a href=\"/blog/50-tonluk-vinc-kiralama.html\">50 tonluk vinç kiralama</a> yazılarımızda anlattık. İhtiyacınız olan tonajda vinç sağlarız."
+    },
+    {
+      "type": "h2",
+      "text": "Montaj planında neler konuşulur?"
+    },
+    {
+      "type": "p",
+      "text": "Çelik montajı bir proje işidir ve kuralları yönetmelikte yazılıdır. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18928&MevzuatTur=7&MevzuatTertip=5\">Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği</a> metal karkasların, geçici destek ve payandaların üzerlerine binen yük ve gerilime dayanacak şekilde planlanmasını, kaldırılmasını, taşınmasını, montajını ve sökümünü projesine uygun olarak işveren tarafından görevlendirilen ehil bir kişinin gözetiminde ve konuyla ilgili tecrübeli çalışanlarca yapılmasını ister. Aynı yönetmelik montaj alanının emniyet şeridiyle işaretlenmesini, görevliler dışında girişin engellenmesini, montaj yapılan yerin altında çalışan bulundurulmamasını ve yapının geçici dayanıksızlığından doğan risklere karşı tedbir alınmasını ister; ağır prefabrik elemanların montajını da özel risk taşıyan işler arasında sayar."
+    },
+    {
+      "type": "p",
+      "text": "Pratikte kaldırma gününden önce çelik firmasıyla şunları netleştiriyoruz:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Montaj sırası: hangi kolon ve makas önce kalkacak, ilk açıklık nasıl stabil hâle getirilecek.",
+        "Parça listesi: her parçanın ağırlığı, boyu ve montaj aksı; en ağır ve en uzak parçalar.",
+        "Vincin yerleri: vinç tek yerden mi çalışacak, yoksa montaj ilerledikçe yer mi değiştirecek.",
+        "Parçaların istif yeri: vincin erişebileceği yerde ve montaj sırasına göre.",
+        "Geçici bağlantı: parça kaç bulonla ya da hangi geçici bağlantıyla tutulunca kancadan bırakılacak."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "İki vinçle kaldırma ne zaman gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "Çok uzun makaslar, kafes kirişler ve sahada birleştirilip bütün kaldırılan çatı parçaları bazen tek vinçle güvenle kaldırılamaz; parça ya çok uzundur ya da ağırlık merkezi kaldırma noktalarına göre dengesizdir. Bu durumda iki vinç parçayı birlikte kaldırır. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> bir yük iki veya daha fazla iş ekipmanıyla aynı anda kaldırılacaksa operatörler arasında eşgüdümü sağlayacak bir düzenleme yapılmasını ve uygulanmasını, çalışma alanları kesişen kaldırma araçlarının ve yüklerin çarpışmaması için önlem alınmasını ister. İki vinçli kaldırmada her vincin taşıyacağı yük önceden hesaplanır, tek bir kişi işaret verir ve kaldırma yavaş yapılır."
+    },
+    {
+      "type": "h2",
+      "text": "Rüzgâr ve hava montajı nasıl etkiler?"
+    },
+    {
+      "type": "p",
+      "text": "Çelik makaslar ve çatı panelleri geniş yüzeylidir ve rüzgârda döner, salınır. Aynı yönetmelik, hava şartları güvenli kullanımı engelleyecek şekilde bozulduğunda askıdaki serbest yükleri kaldıran ekipmanın açık havada kullanılmasının durdurulmasını ve özellikle devrilmeye karşı tedbir alınmasını ister. Bu yüzden makasları kılavuz iplerle yönlendiriyor, rüzgâr arttığında kaldırmayı durduruyoruz. Çok günlü montajlarda hava nedeniyle durulan saatlerin nasıl hesaplanacağını baştan konuşmak, sonradan tartışmayı önler."
+    },
+    {
+      "type": "h2",
+      "text": "Günlük mü, iş başı mı kiralanmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Çelik montajı çoğu zaman günlük ya da çok günlük kiralanır, çünkü işin hızı montaj ekibine, bulon ve kaynak süresine ve havaya bağlıdır. Tek bir sundurma ya da birkaç makasın yerine konması ise iş başı kiralanabilir. Fark ve teklif karşılaştırması için <a href=\"/blog/gunluk-ve-saatlik-vinc-kiralama-milas-bodrum.html\">günlük ve saatlik vinç kiralama</a> yazımıza bakabilirsiniz. Bulon sıkma ve kaynak için yüksekte çalışan ekip varsa vinçle birlikte <a href=\"/hizmetler/sepetli-platform-manlift-kiralama.html\">sepetli platform</a> planlamak, vincin insan taşımak için kullanılmasının önüne geçer; yönetmelik insanların yalnızca bu amaçla sağlanan ekipmanla kaldırılmasını ister."
+    },
+    {
+      "type": "h2",
+      "text": "Bodrum ve kıyı sahalarında ne farklı?"
+    },
+    {
+      "type": "p",
+      "text": "Kıyıdaki tekne hangarları, otel servis binaları ve villa pergolaları iki ek konu getirir: takvim ve erişim. Muğla İl Kültür ve Turizm Müdürlüğü'nün <a href=\"https://mugla.ktb.gov.tr/TR-397558/insaat-yasaklari-hakkinda-onemli-duyuru.html\">duyurusuna</a> göre turistik yörelerde her yıl 15 Mayıs–15 Ekim arasında ağır nakliyat, hafriyat ve harçlı inşaat faaliyetlerine kısıtlama getiriliyor; çelik parçaların sahaya taşınması ve montajı bu dönemin dışına planlanmalı ya da kapsamı kaymakamlığa sorulmalıdır. Erişim tarafında ise uzun çelik parçaları taşıyan kamyonun dar ve yokuşlu sokaklardan sahaya girip giremeyeceği, makasların sahada birleştirilip birleştirilmeyeceği önceden görülür. Dolgu sahalar ve deniz kenarındaki yumuşak zemin, vincin kurulacağı yer olarak ayrıca kontrol edilir."
+    },
+    {
+      "type": "h2",
+      "text": "Montaj günü nasıl ilerler?"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Çelik parçalar montaj sırasına göre ve vincin erişebileceği yere istiflenmiş, ankraj cıvataları ve kolon ayakları hazırdır.",
+        "Operatör vinci planlanan yere kurar, ayakları açar, zemini ve rüzgârı kontrol eder; montaj alanı şeritle çevrilir.",
+        "İlk kolonlar dikilir, geçici bağlantıyla tutulur; ilk açıklık makas ve bağlantı elemanlarıyla stabil hâle getirilir.",
+        "Sonraki makaslar sırayla, kılavuz iplerle yönlendirilerek kaldırılır; her parça bağlanmadan kancadan bırakılmaz.",
+        "Vinç gerekiyorsa montaj ilerledikçe planlanan bir sonraki yere taşınır.",
+        "Aşık ve panel paketleri çatıya dağıtılır; gün sonunda yarım kalan bir parça askıda bırakılmaz."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "WhatsApp'tan ne göndermelisiniz?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Proje ya da yerleşim planı; en ağır parçaların ağırlığı, boyu ve montaj aksı.",
+        "Kolon yüksekliği ve mahya kotu; makas boyu.",
+        "Sahanın ve vincin kurulabileceği alanların fotoğrafı; zemin, eğim, üstteki elektrik hatları.",
+        "Konum, montaja başlama tarihi ve tahmini süre.",
+        "Montaj ekibinin sahada olacağı gün ve parçaların sahaya geliş tarihi."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Fiyatı ne belirler?"
+    },
+    {
+      "type": "p",
+      "text": "En ağır ve en uzak parça (yani gereken vinç), montajın süresi, iki vinç gerekip gerekmediği, vincin kaç kez yer değiştireceği, sahanın atölyemize uzaklığı ve saha koşulları belirler. Montaj ekibinin hazır olması ve parçaların doğru sırayla istiflenmesi süreyi doğrudan kısaltır. Sabit fiyat listemiz yok; planı gördükten sonra fiyatı yazılı veriyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "Çelik montajı için vinç nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Projeyi ve sahayı görüp hangi vincin, nereye kurulacağını ve gerekiyorsa ikinci bir vinç ya da manlift gerektiğini söylüyoruz; büyük işlerde önce sahaya geliyoruz. Vinçlerimiz operatörüyle gelir; kaldırma planı ve sapanlama bizim, montaj ve bağlantı çelik firmasının işidir. Vinci kiralayan da tamir eden de biziz; telefonlarımız 7/24 açık. Ayrıntılar <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> sayfamızda."
+    },
+    {
+      "type": "callout",
+      "text": "Projeyi ve en ağır parçaların listesini gönderin; vinci ve montaj gününü birlikte planlayalım."
+    }
+  ],
+  "cikarimlar": [
+    "Vinci en ağır parçanın en uzak montaj noktasındaki ağırlığı belirler.",
+    "Çelik montajı projesine göre, ehil bir kişinin gözetiminde yapılır.",
+    "İki vinçli kaldırmada operatörler arası eşgüdüm ve tek işaretçi gerekir.",
+    "Montaj alanı şeritle çevrilir, montajın altında çalışan bulunmaz.",
+    "Bulon ve kaynak işinde yüksekte çalışan ekip için manlift planlanır."
+  ],
+  "faqs": [
+    {
+      "q": "Çelik makas montajı için kaç tonluk vinç gerekir?",
+      "a": "Makasın ağırlığına ve vincin duracağı yerden makasın konacağı aksa olan mesafeye bağlıdır. En ağır parçaların ağırlığını ve montaj akslarını gönderin; vincin yük tablosuna göre uygun tonajı seçelim."
+    },
+    {
+      "q": "Küçük bir sundurma için mobil vinç gerekir mi?",
+      "a": "Çoğu zaman gerekmez; sundurma, saçak ve pergola gibi hafif işlerde hiyap yeter. Parça ağırlıklarını ve aracın yanaşabileceği mesafeyi söyleyin."
+    },
+    {
+      "q": "İki vinçli kaldırma yapıyor musunuz?",
+      "a": "Gereken işlerde evet. İki vinçli kaldırmada her vincin taşıyacağı yük önceden hesaplanır, operatörler arasında eşgüdüm sağlanır ve tek bir kişi işaret verir."
+    },
+    {
+      "q": "Montaj ekibini de siz mi sağlıyorsunuz?",
+      "a": "Hayır. Montaj ve bağlantı çelik firmasının işidir. Biz vinci, operatörü, kaldırma planını ve sapanlamayı getiriyoruz."
+    },
+    {
+      "q": "Çelik montajında vinç günlük mü kiralanır?",
+      "a": "Çoğu zaman evet, çünkü işin hızı montaj ekibine ve havaya bağlıdır. Birkaç parçanın yerine konması gibi kısa ve tanımlı işler iş başı kiralanabilir."
+    },
+    {
+      "q": "Çelik montajında vinç fiyatı neye göre değişir?",
+      "a": "En ağır ve en uzak parça, montajın süresi, ikinci vinç gerekip gerekmediği, vincin yer değiştirme sayısı ve saha koşulları belirler. Planı gördükten sonra fiyatı yazılı veriyoruz."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği (Ek-2 ve Ek-4: metal ve beton karkas ve prefabrik elemanlar, çelik yapı işleri)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18928&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (Ek-II: yük kaldırmada kullanılan iş ekipmanı)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "İnşaat yasakları hakkında önemli duyuru (2025/3 sayılı genelge)",
+      "publisher": "Muğla İl Kültür ve Turizm Müdürlüğü",
+      "url": "https://mugla.ktb.gov.tr/TR-397558/insaat-yasaklari-hakkinda-onemli-duyuru.html"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-kiralama.html",
+    "/hizmetler/tonaja-gore-vinc-kiralama.html",
+    "/hizmetler/sepetli-platform-manlift-kiralama.html",
+    "/blog/40-tonluk-vinc-kiralama.html",
+    "/blog/gunluk-ve-saatlik-vinc-kiralama-milas-bodrum.html"
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "slug": "yatagan-sanayi-ve-maden-tesisinde-vinc-kiralama",
+  "_hedef": "yatağan vinç kiralama / maden sahası vinç kiralama / sanayi tesisi vinç kiralama muğla",
+  "title": "Yatağan'da Sanayi ve Maden Tesisinde Vinç Kiralama",
+  "h1": "Yatağan'da Sanayi, Santral ve Maden Tesisinde Vinç Kiralama: Planlı İş, Saha Kuralları ve Evrak",
+  "desc": "Yatağan'da sanayi, santral ve maden tesislerinde vinç kiralama: planlı bakım işleri, saha giriş kuralları, istenen evrak, zemin ve hiyap mı mobil vinç mi.",
+  "category": "Vinç Kiralama",
+  "cta": "kiralama",
+  "image": "saha-uzun-bom.jpg",
+  "imageAlt": "Hedef yazılı beyaz kamyonun üstündeki vinç uzun bomunu açık sahanın ucuna kadar uzatmış; uçta sarı çelik kafes parçaları ve bir işçi, önde kereste istifi",
+  "kisaCevap": "Yatağan'daki sanayi, santral ve maden tesislerinde vinç işi çoğu zaman planlı bakım duruşlarına bağlanır. Tesis vinçten önce kaldırma planını, vincin güncel periyodik kontrol raporunu ve operatörün belgelerini ister; sahaya giriş, iş izni ve güvenlik eğitimi tesisin kurallarına göre yapılır. Yükün ağırlığı, mesafe ve zemin hangi vincin geleceğini belirler; ihtiyacınız olan tonajda vinç sağlarız.",
+  "intro": "Yatağan, Muğla'nın sanayi ve madencilik ilçelerinden biri. Güney Ege Kalkınma Ajansı'nın 2019 tarihli <a href=\"https://geka.gov.tr/uploads/pages_v/mugla-is-ve-yatirim-ortami-raporu.pdf\">Muğla İş ve Yatırım Ortamı raporu</a> ilçedeki termik santrali ilçe ekonomisinin can damarı olarak tanımlıyor; aynı rapor Yatağan'da boksit ve çimento hammaddesi potansiyelini, 1978'de faaliyete geçen küçük sanayi sitesini de sayıyor. Bu tesislerde vinç işleri bir şantiyeden farklıdır: Kurallar daha sıkı, evrak daha çok, iş çoğu zaman bir bakım duruşunun dar zaman penceresine sığdırılır. Bu yazı tesis bakım sorumluları, satın almacılar ve tesiste çalışan yükleniciler için vinç kiralamanın nasıl planlandığını anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Sanayi ve maden tesislerinde hangi işler için vinç gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "Vinç, tesisin kendi kaldırma ekipmanının yetmediği ya da ulaşamadığı her işte gerekir: bakım duruşunda motor, redüktör ve pompa değişimi, konveyör ve bunker parçası değişimi, yeni ekipman kurulumu, tavan vincinin montajı ya da taşınması, iş makinası parçalarının sökülüp takılması. Aşağıdaki tablo en sık gelen işleri ve ilk araç seçimini gösteriyor:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "İş",
+        "Doğru araç",
+        "Bilmemiz gerekenler"
+      ],
+      "rows": [
+        [
+          "Motor, redüktör, pompa değişimi",
+          "Hiyap ya da mobil vinç (ağırlık ve mesafeye göre)",
+          "Parça ağırlığı, bulunduğu yükseklik, vincin yanaşabileceği nokta"
+        ],
+        [
+          "Konveyör, bunker, şut parçası değişimi",
+          "Mobil vinç",
+          "Parça ölçüsü ve ağırlığı, çalışma yüksekliği, etraftaki yapı ve borular"
+        ],
+        [
+          "Yeni makine ya da ekipman kurulumu",
+          "Mobil vinç; içeride tesisin kendi ekipmanı",
+          "Üretici kaldırma çizimi, kaide ve açıklık ölçüleri"
+        ],
+        [
+          "Tavan vinci montajı, sökümü, taşınması",
+          "Mobil vinç",
+          "Kiriş boyu ve ağırlığı, ray yüksekliği, çatı açıklığı"
+        ],
+        [
+          "Malzeme, yedek parça, konteyner sevki",
+          "Hiyap",
+          "Yükleme ve indirme noktaları, yük ağırlığı"
+        ],
+        [
+          "Yüksekte bakım, aydınlatma, boru ve kablo işi",
+          "Sepetli platform (manlift)",
+          "Çalışma yüksekliği, zemin, yana erişim"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Tavan vinci işlerinin ayrıntılarını <a href=\"/hizmetler/tavan-vinci.html\">tavan vinci</a> sayfamızda, tonaj seçimini <a href=\"/hizmetler/tonaja-gore-vinc-kiralama.html\">tonaja göre vinç kiralama</a> sayfamızda anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "Hiyap mı, mobil vinç mi, tesisin kendi vinci mi?"
+    },
+    {
+      "type": "p",
+      "text": "Seçimi yükün ağırlığı, vincin yüke uzaklığı ve parçanın bina içinde mi dışında mı olduğu belirler. Bina içindeki bir motor, tesisin tavan vinciyle kapıya kadar getirilebiliyorsa dışarıda onu hiyap alır ve atölyeye götürür; bu, tesisin içine büyük bir vinç sokmaktan çoğu zaman daha hızlıdır. Konveyör köprüsünün ortasındaki bir redüktör ya da yüksek bir bunker parçası ise ancak uzun erişimli bir mobil vinçle alınır. Çatı açıklığından içeri verilecek ağır bir ekipmanda vincin binanın üstünden aşırarak çalışması gerekir ve bu da tonajı artırır."
+    },
+    {
+      "type": "p",
+      "text": "Telefonda bize parçanın ağırlığını, bulunduğu yüksekliği ve vincin en fazla nereye kadar yaklaşabileceğini söylemeniz ilk seçimi yapmamıza yeter; ağır işlerde kesin karar keşiften sonra, vincin yük tablosuna göre verilir. Tesisin kendi tavan vinci arızalıysa ya da periyodik kontrol raporunda eksik varsa onu da sahada değerlendirebiliriz."
+    },
+    {
+      "type": "h2",
+      "text": "Tesis vinçten hangi evrakı ister?"
+    },
+    {
+      "type": "p",
+      "text": "Tesislerin çoğu vinç sahaya girmeden önce en az üç belgeyi ister: vincin güncel periyodik kontrol raporu, operatörün belgeleri ve işe özel kaldırma planı ya da risk değerlendirmesi. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> kurulum ve montaj şartlarına tabi olmayan seyyar iş ekipmanları işletme dışında kullanıldığında, yapılan son periyodik kontrolle ilgili raporun da ekipmanla birlikte bulundurulmasını ister; yönetmeliğin Ek-III tablosu da mobil ve yükleyici krenler dahil krenlerin periyodik kontrolü için, standartlarda ayrı bir süre belirtilmemişse azami bir yıllık süre öngörür."
+    },
+    {
+      "type": "p",
+      "text": "Operatör tarafında ise <a href=\"https://www.resmigazete.gov.tr/eskiler/2026/03/20260323-7.htm\">Meslekî Yeterlilik Belgesi Zorunluluğu Getirilen Mesleklere İlişkin Tebliğ (Sıra No: 2026/1)</a> mobil vinç operatörlüğünü (Seviye 3) belge zorunluluğu kapsamına aldı; tebliğe göre belgesi olmayan kişiler, tebliğin yayımından on iki ay sonra, yani 23 Mart 2027'den itibaren bu işte çalıştırılamaz. Kiralarken sorulacak diğer soruları <a href=\"/blog/vinc-kiralarken-sorulacak-sorular.html\">vinç kiralarken nelere dikkat edilmeli</a> yazımızda topladık."
+    },
+    {
+      "type": "h2",
+      "text": "Saha kuralları ve iş izni nasıl işler?"
+    },
+    {
+      "type": "p",
+      "text": "Tesiste çalışmak, tesisin kurallarına göre çalışmak demektir. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6331&MevzuatTur=1&MevzuatTertip=5\">6331 sayılı İş Sağlığı ve Güvenliği Kanunu</a> aynı çalışma alanını birden fazla işverenin paylaşması durumunda işverenlerin iş sağlığı ve güvenliği önlemlerinin uygulanmasında iş birliği yapmasını, risklerin önlenmesi çalışmalarını koordinasyon içinde yürütmesini ve birbirlerini bu riskler konusunda bilgilendirmesini ister. Pratikte bu şu anlama gelir:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Vinç ve operatör, tesise girmeden önce tesisin istediği evrakla kayda alınır.",
+        "Operatör tesisin giriş ve güvenlik eğitimini alır; kişisel koruyucu donanım tesisin kurallarına göre belirlenir.",
+        "Kaldırma için iş izni çıkarılır; kaldırma alanı, yükün yolu ve enerji kesintisi gerekip gerekmediği izinde yazılır.",
+        "Tesis tarafında işi koordine edecek kişi belli olur; işaretçi ve sapancı rolleri baştan konuşulur.",
+        "Ocak ve maden sahalarında saha içi trafik kurallarına, hız sınırlarına ve iş makinalarının hareket alanlarına uyulur."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Kaldırma sırasında yükün bağlanması ve çözülmesi de planın parçasıdır: Sapancının tesisin mi yoksa bizim ekibimizin mi olacağı, işaretleri kimin vereceği ve telsiz kanalı önceden belirlenir. Tesisin enerji, buhar ya da basınçlı hat kesintisi gerektiren işlerinde kesinti saati kaldırma planına yazılır. Bu kuralları baştan söylemeniz işimizi kolaylaştırır: Hangi gün eğitime gelmemiz gerektiğini, hangi belgeleri hangi formatta istediğinizi ve kapıda kimin karşılayacağını önceden bilirsek vinç sahada beklemez."
+    },
+    {
+      "type": "h2",
+      "text": "Bakım duruşu nasıl planlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Tesislerde vinç işi çoğu zaman bir bakım duruşuna bağlıdır ve duruşun her saati üretimden gider. Bu yüzden kaldırma planını duruştan önce birlikte yapıyoruz: hangi parçanın hangi sırayla ineceği, vincin nereye kurulacağı, parçaların nereye konacağı ve yeni parçaların nasıl yerine verileceği. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> de bütün yük kaldırma işlerinin çalışanların güvenliğini korumak için uygun şekilde planlanmasını ve gözetim altında yürütülmesini, bir yük iki vinçle birlikte kaldırılacaksa operatörler arasında eşgüdüm sağlanmasını ister."
+    },
+    {
+      "type": "p",
+      "text": "Ağır ve yüksek parçalar için keşif şarttır. Mümkünse duruştan önce sahaya gelip vincin kurulacağı yeri, zemini, üstteki boru köprülerini ve elektrik hatlarını görüyoruz. Ocak ve maden sahalarında zemin, yağmurdan sonra kısa sürede değişebilir; dolgu alanlar, şev kenarları ve kapatılmış çukurlar vinç ayağının konacağı yer olamaz."
+    },
+    {
+      "type": "h2",
+      "text": "Yatağan'a vinç nasıl gelir?"
+    },
+    {
+      "type": "p",
+      "text": "Atölyemiz Milas'ta, Güllük ile Güvercinlik arasında, Tuzla Kavşağı'nda. Yatağan'daki işler için vinç ve operatör buradan planlanır; planlı işlerde gün ve saat veriyoruz, arıza ve acil durumlarda telefonlarımız 7/24 açık. Bölgedeki işlerin ayrıntıları <a href=\"/bolgeler/yatagan-vinc-kiralama.html\">Yatağan vinç kiralama</a> sayfamızda. Vinci kiralayan da tamir eden de biziz; ocakta ya da tesiste çalışan hiyapların ve iş makinalarının hidrolik arızalarını da sahada ya da atölyede gideriyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "WhatsApp'tan ne göndermelisiniz?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Kaldırılacak parçanın tanımı, ağırlığı ve ölçüsü; varsa üretici çizimi.",
+        "Parçanın bulunduğu yerin ve gideceği yerin fotoğrafı; yükseklik ve vincin yanaşabileceği noktaya uzaklık.",
+        "Tesisin konumu, giriş kapısı ve saha içi yol durumu.",
+        "Tesisin istediği evrak listesi ve giriş eğitimi koşulları.",
+        "Duruş tarihi ve işin sığması gereken zaman aralığı."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Fiyatı ne belirler?"
+    },
+    {
+      "type": "p",
+      "text": "Yükün ağırlığı ve mesafe (yani gereken vinç), işin süresi, bekleme ve eğitim süreleri, tesisin atölyemize uzaklığı ve saha koşulları belirler. Birkaç günlük duruşlarda vincin sahada kalıp kalmayacağı da hesaba girer. Duruşun tarihi kesinleşir kesinleşmez arayın; aynı haftada bölgedeki başka tesislerin de duruşu olabilir ve erken planlama istediğiniz gün ve saati almanızı sağlar. Sabit fiyat listemiz yok; bilgileri ve gerekirse keşfi gördükten sonra fiyatı yazılı olarak veriyoruz."
+    },
+    {
+      "type": "callout",
+      "text": "Parçanın bilgilerini, sahanın fotoğraflarını ve tesisin evrak listesini gönderin; duruştan önce planı birlikte yapalım."
+    }
+  ],
+  "cikarimlar": [
+    "Tesis işlerinde vinç çoğu zaman planlı bakım duruşuna bağlanır.",
+    "Seyyar vincin son periyodik kontrol raporu ekipmanla birlikte bulundurulur.",
+    "Mobil vinç operatörü için MYK belgesi 23 Mart 2027'den itibaren zorunludur.",
+    "Aynı sahayı paylaşan işverenler İSG önlemlerinde iş birliği ve koordinasyon yapar.",
+    "Ağır ve yüksek kaldırmalarda duruştan önce keşif yapılmalıdır."
+  ],
+  "faqs": [
+    {
+      "q": "Yatağan'daki tesislere vinç gönderiyor musunuz?",
+      "a": "Evet. Yatağan'daki sanayi, santral ve maden tesislerine Milas'taki atölyemizden operatörlü vinç, hiyap ve sepetli platform gönderiyoruz. Planlı işlerde gün ve saat veriyoruz."
+    },
+    {
+      "q": "Tesis hangi belgeleri ister?",
+      "a": "Genellikle vincin güncel periyodik kontrol raporu, operatörün belgeleri ve işe özel kaldırma planı ya da risk değerlendirmesi istenir. Tesisinizin listesini önceden gönderin, belgeleri hazır getirelim."
+    },
+    {
+      "q": "Operatörünüz tesisin güvenlik eğitimine katılır mı?",
+      "a": "Evet. Tesisin giriş ve güvenlik eğitimi hangi gün ve ne kadar sürüyorsa ona göre planlıyoruz; eğitim süresini de iş planına yazıyoruz."
+    },
+    {
+      "q": "Maden sahasında zemin uygun değilse ne olur?",
+      "a": "Vinç sağlam ve düz olmayan zemine kurulmaz. Dolgu, şev kenarı ve kapatılmış çukurlardan uzak bir yer seçilir; gerekirse altlık kullanılır ya da daha uzun erişimli bir vinçle daha uzak ve sağlam bir noktadan çalışılır."
+    },
+    {
+      "q": "Birkaç gün süren bir duruşta vinç sahada kalabilir mi?",
+      "a": "Kalabilir. Vincin sahada kalıp kalmayacağı, gece güvenliği ve hava nedeniyle durulan saatlerin nasıl hesaplanacağı teklifte baştan yazılır."
+    },
+    {
+      "q": "Tesis işlerinde vinç fiyatı neye göre değişir?",
+      "a": "Yükün ağırlığı ve mesafe, gereken vinç, işin ve beklemenin süresi, eğitim, uzaklık ve saha koşulları belirler. Bilgileri gördükten sonra fiyatı yazılı veriyoruz."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Muğla İş ve Yatırım Ortamı (Mayıs 2019)",
+      "publisher": "Güney Ege Kalkınma Ajansı, Muğla Yatırım Destek Ofisi",
+      "url": "https://geka.gov.tr/uploads/pages_v/mugla-is-ve-yatirim-ortami-raporu.pdf"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (madde 7 ve Ek-III: periyodik kontroller; Ek-II: yük kaldırma)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "6331 sayılı İş Sağlığı ve Güvenliği Kanunu (madde 23)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6331&MevzuatTur=1&MevzuatTertip=5"
+    },
+    {
+      "title": "Meslekî Yeterlilik Belgesi Zorunluluğu Getirilen Mesleklere İlişkin Tebliğ (Sıra No: 2026/1)",
+      "publisher": "Resmî Gazete (23 Mart 2026)",
+      "url": "https://www.resmigazete.gov.tr/eskiler/2026/03/20260323-7.htm"
+    }
+  ],
+  "related": [
+    "/bolgeler/yatagan-vinc-kiralama.html",
+    "/hizmetler/tonaja-gore-vinc-kiralama.html",
+    "/hizmetler/tavan-vinci.html",
+    "/blog/vinc-kiralarken-sorulacak-sorular.html"
+  ]
+}

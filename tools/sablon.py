@@ -47,6 +47,12 @@ AYLAR = {"tr": [None, "Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "T
                 "September", "October", "November", "December"]}
 
 HIZMETLER = [  # (url, ad, tek satır açıklama) llms.txt, katalog ve OfferCatalog için
+    ("/hizmetler/vinc-kiralama.html", "Vinç kiralama",
+     "Operatörlü vinç: Milas, Bodrum, Muğla ve çevresi."),
+    ("/hizmetler/hiyap-kiralama.html", "Hiyap kiralama",
+     "Operatörlü araç üstü vinç: totem, konteyner, inşaat malzemesi, tekne ekipmanı."),
+    ("/hizmetler/sepetli-platform-manlift-kiralama.html", "Manlift ve sepetli platform kiralama",
+     "Operatörlü platform: cephe, tabela, villa, otel, ağaç ve tekne direği işleri."),
     ("/hizmetler/vinc-revizyon-tamir-bakim.html", "Vinç tamiri, revizyon ve bakım",
      "Arıza tespiti, revizyon, periyodik bakım. Atölyede ya da sahada."),
     ("/hizmetler/hiyap-vinc-tamiri.html", "Hiyap vinç tamiri",
@@ -55,12 +61,6 @@ HIZMETLER = [  # (url, ad, tek satır açıklama) llms.txt, katalog ve OfferCata
      "Pompa, kumanda valfi, silindir keçesi, hortum ve yağ kaçakları."),
     ("/hizmetler/tavan-vinci.html", "Tavan vinci tamiri, bakımı ve montajı",
      "Köprülü vinçte halat, fren, şalter, yürüyüş ve kumanda; periyodik kontrole hazırlık, mobil vinçle montaj."),
-    ("/hizmetler/vinc-kiralama.html", "Vinç kiralama",
-     "Operatörlü vinç: Milas, Bodrum, Muğla ve çevresi."),
-    ("/hizmetler/hiyap-kiralama.html", "Hiyap kiralama",
-     "Operatörlü araç üstü vinç: totem, konteyner, inşaat malzemesi, tekne ekipmanı."),
-    ("/hizmetler/sepetli-platform-manlift-kiralama.html", "Manlift ve sepetli platform kiralama",
-     "Operatörlü platform: cephe, tabela, villa, otel, ağaç ve tekne direği işleri."),
     ("/bolgeler/bodrum-vinc-kiralama.html", "Bodrum vinç kiralama",
      "Villa ve inşaat işleri, dar sokaklar, tekne kaldırma."),
     ("/bolgeler/gulluk-vinc-kiralama.html", "Güllük vinç kiralama",
@@ -266,14 +266,14 @@ T = {
 }
 
 NAV = {
-    "tr": [("tamir", "Vinç tamiri", "/hizmetler/vinc-revizyon-tamir-bakim.html"),
-           ("kiralama", "Vinç kiralama", "/hizmetler/vinc-kiralama.html"),
+    "tr": [("kiralama", "Vinç kiralama", "/hizmetler/vinc-kiralama.html"),
+           ("tamir", "Vinç tamiri", "/hizmetler/vinc-revizyon-tamir-bakim.html"),
            ("hizmetler", "Tüm hizmetler", "/hizmetler/"),
            ("blog", "Blog", "/blog/index.html"),
            ("hakkimizda", "Hakkımızda", "/hakkimizda.html"),
            ("iletisim", "İletişim", "/iletisim.html")],
-    "en": [("tamir", "Crane repair", "/en/services/crane-repair-maintenance.html"),
-           ("kiralama", "Crane rental", "/en/services/crane-rental.html"),
+    "en": [("kiralama", "Crane rental", "/en/services/crane-rental.html"),
+           ("tamir", "Crane repair", "/en/services/crane-repair-maintenance.html"),
            ("hizmetler", "All services", "/en/#services"),
            ("blog", "Blog", "/en/blog/index.html"),
            ("hakkimizda", "About", "/en/about.html"),
@@ -336,7 +336,7 @@ def isletme_schema():
         "name": "Hedef Vinç",
         "alternateName": ["Retrofit Hedef Crane", "Hedef Vinç Hidrolik", "Hedef Vinç Retrofit Crane"],
         "slogan": SLOGAN,
-        "description": ("Milas'ta 2005'ten beri vinç tamiri, revizyon ve bakım ile operatörlü vinç kiralama. "
+        "description": ("Milas'ta 2005'ten beri operatörlü vinç, hiyap ve manlift kiralama ile vinç tamiri, revizyon ve bakım. "
                         "Tuzla Kavşağı'nda kendi atölyesi; Milas, Bodrum, Muğla, Aydın ve İzmir'e 7/24 hizmet."),
         "url": SITE + "/",
         "logo": {"@type": "ImageObject", "url": LOGO_PNG, "width": 1200, "height": 279},
@@ -480,7 +480,8 @@ def alt_cubuk(dil, wa_mesaj=None):
 
 
 def _grup(baslik, linkler):
-    li = "".join('<li><a href="%s"%s>%s</a></li>' % (u, (' ' + ek) if ek else "", ad) for u, ad, ek in linkler)
+    li = "".join(('<li style="grid-column:1/-1">%s</li>' % ad) if u is None else
+                 '<li><a href="%s"%s>%s</a></li>' % (u, (' ' + ek) if ek else "", ad) for u, ad, ek in linkler)
     return ('<details class="katla ftr__grup" open><summary><h2>%s</h2></summary><ul>%s</ul></details>'
             % (baslik, li))
 
@@ -488,12 +489,12 @@ def _grup(baslik, linkler):
 def alt(dil):
     if dil == "en":
         gruplar = [
-            _grup("Crane repair", [("/en/services/crane-repair-maintenance.html", "Crane repair &amp; maintenance", ""),
-                                   ("/en/services/hydraulic-hose-pressing.html", "Hydraulic hose pressing", ""),
-                                   ("/en/services/hydraulic-spare-parts.html", "Hydraulic spare parts", "")]),
             _grup("Crane rental", [("/en/services/crane-rental.html", "Crane rental", ""),
                                    ("/en/services/container-sales-rental.html", "Container sales &amp; rental", ""),
                                    ("/en/blog/boat-lifting-bodrum.html", "Boat lifting in Bodrum", "")]),
+            _grup("Crane repair", [("/en/services/crane-repair-maintenance.html", "Crane repair &amp; maintenance", ""),
+                                   ("/en/services/hydraulic-hose-pressing.html", "Hydraulic hose pressing", ""),
+                                   ("/en/services/hydraulic-spare-parts.html", "Hydraulic spare parts", "")]),
             _grup("Workshop", [("/en/services/heavy-equipment-repair.html", "Heavy equipment repair", ""),
                                ("/en/services/custom-machining.html", "Custom machining", ""),
                                ("/en/services/welding-services.html", "Welding", ""),
@@ -509,17 +510,20 @@ def alt(dil):
         ana = "/en/"
     else:
         gruplar = [
+            _grup("Vinç kiralama", [("/hizmetler/vinc-kiralama.html", "Milas vinç kiralama", ""),
+                                    ("/hizmetler/hiyap-kiralama.html", "Hiyap kiralama", ""),
+                                    ("/hizmetler/sepetli-platform-manlift-kiralama.html", "Manlift kiralama", ""),
+                                    (TONAJ_HUB, "Tonaja göre vinç kiralama", ""),
+                                    ("/hizmetler/konteyner-satis-kiralama.html", "Konteyner satış ve kiralama", ""),
+                                    ("/bolgeler/bodrum-vinc-kiralama.html", "Bodrum vinç kiralama", ""),
+                                    (None, " · ".join('<a href="/bolgeler/%s-vinc-kiralama.html">%s</a>' % (y, ad)
+                                                      for y, ad in (("gulluk", "Güllük"), ("oren", "Ören"),
+                                                                    ("yatagan", "Yatağan"), ("didim", "Didim"))), "")]),
             _grup("Vinç tamiri", [("/hizmetler/vinc-revizyon-tamir-bakim.html", "Vinç tamiri ve revizyon", ""),
                                   ("/hizmetler/hiyap-vinc-tamiri.html", "Hiyap vinç tamiri", ""),
                                   ("/hizmetler/vinc-hidrolik-tamiri.html", "Vinç hidrolik tamiri", ""),
                                   ("/hizmetler/tavan-vinci.html", "Tavan vinci tamiri ve montajı", ""),
                                   (ARIZA_HUB, "Vinç arızaları rehberi", "")]),
-            _grup("Vinç kiralama", [("/hizmetler/vinc-kiralama.html", "Milas vinç kiralama", ""),
-                                    ("/bolgeler/bodrum-vinc-kiralama.html", "Bodrum vinç kiralama", ""),
-                                    ("/hizmetler/hiyap-kiralama.html", "Hiyap kiralama", ""),
-                                    ("/hizmetler/sepetli-platform-manlift-kiralama.html", "Manlift kiralama", ""),
-                                    (TONAJ_HUB, "Tonaja göre vinç kiralama", ""),
-                                    ("/hizmetler/konteyner-satis-kiralama.html", "Konteyner satış ve kiralama", "")]),
             _grup("Atölye", [("/hizmetler/is-makinasi-tamir-bakim.html", "İş makinası tamir", ""),
                              ("/hizmetler/pres-hortum.html", "Pres hortum", ""),
                              ("/hizmetler/hidrolik-yedek-parca.html", "Hidrolik yedek parça", ""),
@@ -531,7 +535,7 @@ def alt(dil):
                                  ("/en/", "English", 'hreflang="en" lang="en"')]),
         ]
         kim = ('<p class="ftr__not">Ahmet Uğur ve Mehmet Uğur\'un işlettiği atölye. 2005\'ten beri Milas\'ta vinç '
-               'tamiri ve vinç kiralama.</p>')
+               'kiralama ve vinç tamiri.</p>')
         telefon = ('<p class="ftr__tel"><a href="tel:%s">%s</a> 7/24<br><a href="tel:%s">%s</a> <span lang="en">English</span></p>'
                    % (TEL, TEL_YAZI, TEL_EN, TEL_EN_YAZI))
         harita, alt_satir = "Yol tarifi al", "7/24 açık, acil işler dahil"
@@ -562,7 +566,7 @@ def son_bant(dil, tur="genel", wa_mesaj=None, baslik=None, metin=None):
     if dil == "en":
         h2 = {"tamir": "Crane out of action? Send us a photo or a short video.",
               "kiralama": "Need a crane? Tell us the load, the address and the day.",
-              "genel": "Crane repair or crane rental: one call."}[tur]
+              "genel": "Crane rental or crane repair: one call."}[tur]
         p = "Our English line is there for foreign customers. For photos and videos, WhatsApp is the quickest way."
         hat = ('<a href="tel:%s"><span class="ne">English line</span><span class="no">%s</span></a>'
                '<a href="tel:%s"><span class="ne">Turkish line · 24/7</span><span class="no">%s</span></a>'
@@ -571,7 +575,7 @@ def son_bant(dil, tur="genel", wa_mesaj=None, baslik=None, metin=None):
     else:
         h2 = {"tamir": "Vinciniz arızalı mı? Fotoğrafını ya da kısa bir videosunu gönderin.",
               "kiralama": "Vinç mi lazım? Yükü, adresi ve günü söyleyin.",
-              "genel": "Vinç tamiri ya da vinç kiralama: tek telefon."}[tur]
+              "genel": "Vinç kiralama ya da vinç tamiri: tek telefon."}[tur]
         p = {"tamir": "Arızayı telefonda dinler, gerekirse sahaya geliriz. Kapsamlı işleri Tuzla Kavşağı'ndaki atölyede yaparız.",
              "kiralama": "Uygun vinci ve operatörü planlarız. Gerekiyorsa önce yerinde bakarız. Fiyatı işi gördükten sonra net söyleriz.",
              "genel": "Telefonlarımız gece gündüz açık. Yabancı müşterilerimiz için İngilizce hattımız var."}[tur]

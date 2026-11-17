@@ -1,0 +1,221 @@
+{
+  "slug": "su-deposu-ve-tank-yerlestirme-vinc",
+  "_hedef": "su deposu vinç / su deposunu çatıya çıkarma / tank taşıma vinç kiralama",
+  "title": "Su Deposu ve Tank Yerleştirme: Çatıya ve Arsaya Vinçle",
+  "h1": "Su Deposu ve Tank Yerleştirme: Çatıya, Arsaya ve Tesise Vinçle Güvenli Kaldırma",
+  "desc": "Su deposu, yakıt ve proses tankını vinçle çatıya, arsaya ya da tesise yerleştirme: boş kaldırma, kaldırma kulakları, kaide, dolu ağırlık ve zemin. Muğla.",
+  "category": "Vinç Kiralama",
+  "cta": "kiralama",
+  "image": "hedef-vinc-kamyon.jpg",
+  "imageAlt": "Hedef yazılı beyaz kamyonun üstündeki mavi-beyaz katlanır bomlu vinç, dört zincirle sarı çelik kafes bir parçayı kaldırıyor; yanında iki kişi",
+  "kisaCevap": "Su deposu ve tanklar boş, temiz ve bağlantıları ayrılmış hâlde, üreticinin gösterdiği bütün kaldırma kulaklarından kaldırılır. Çatıya konacak deponun asıl sorusu kaldırma değil, dolu ağırlıktır: Bir metreküp su yaklaşık bir ton eder ve çatı ile kaide bu ağırlığı rüzgârla birlikte taşımalıdır. Hafif depolarda hiyap yeter; büyük, uzun ya da uzağa konacak tanklarda mobil vinç gerekir.",
+  "intro": "Muğla'da su deposu gündelik bir ihtiyaç: Villalarda, otellerde, tarım arazilerinde ve şantiyelerde depolar çatıya, terasa ya da arsaya konuyor; tesislerde yakıt, su ve proses tankları ekleniyor ya da yer değiştiriyor. Bu tankların çoğu boşken hafif ama hacimli, doluyken ise çok ağırdır. Bu yazı ev sahipleri, tesisatçılar ve tesis sorumluları için tank yerleştirmede hangi aracın gerektiğini, üreticilerin ne istediğini ve vinç gününden önce neyin hazır olması gerektiğini anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Su deposu ve tank için hangi vinç gerekir?"
+    },
+    {
+      "type": "p",
+      "text": "Tankın boş ağırlığı, boyutu ve konacağı noktanın vince uzaklığı hangi aracın gerektiğini belirler. Plastik ve paslanmaz su depoları boşken çoğu zaman birkaç yüz kilo ile birkaç ton arasındadır ve hiyapla rahatça çatıya ya da arsaya konur. Büyük çelik tanklar, uzun yatay tanklar ve binanın arkasındaki ya da yüksek bir çatıdaki noktalar mobil vinç ister. Aşağıdaki tablo en sık gelen işleri özetliyor:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "İş",
+        "Doğru araç",
+        "Bilmemiz gerekenler"
+      ],
+      "rows": [
+        [
+          "Plastik ya da paslanmaz su deposu, alçak çatı veya teras",
+          "Hiyap",
+          "Deponun hacmi, çapı ve boş ağırlığı, çatı yüksekliği, araca uzaklık"
+        ],
+        [
+          "Arsaya ya da bahçeye büyük su deposu",
+          "Hiyap; duvar arkasında uzak noktada mobil vinç",
+          "Kaide hazır mı, yol ve giriş, aradaki engeller"
+        ],
+        [
+          "Yüksek bina ya da otel çatısına depo",
+          "Mobil vinç",
+          "Bina yüksekliği, çatıdaki konum, çatının taşıma gücü"
+        ],
+        [
+          "Yer altı deposu ya da sarnıç için tank indirme",
+          "Hiyap ya da mobil vinç",
+          "Çukurun ölçüsü ve kenarlarının sağlamlığı, tankın ağırlığı"
+        ],
+        [
+          "Yakıt ya da proses tankı taşıma",
+          "Hiyap ya da mobil vinç (boyut ve ağırlığa göre)",
+          "Tankın boşaltılıp temizlendiği, kaldırma kulakları, tesisin iş izni"
+        ],
+        [
+          "Uzun yatay tankın dikilmesi",
+          "Mobil vinç; gerekirse iki noktadan kaldırma",
+          "Tankın boyu, ağırlık merkezi, kaldırma noktaları"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Hiyabın kapasitesinin mesafeyle nasıl değiştiğini <a href=\"/blog/hiyap-kac-ton-kaldirir-hiyap-tonajlari.html\">hiyap kaç ton kaldırır</a> yazımızda, hizmetin ayrıntılarını <a href=\"/hizmetler/hiyap-kiralama.html\">hiyap kiralama</a> sayfamızda anlattık. Mobil vinç gereken işlerde ihtiyacınız olan tonajda vinç sağlarız."
+    },
+    {
+      "type": "h2",
+      "text": "Tank neden boş kaldırılır?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü kaldırma kulakları ve tankın gövdesi dolu ağırlık için tasarlanmamıştır. Bir su deposu üreticisinin <a href=\"https://www.hynds.co.nz/wp-content/uploads/Hynds-Devan-Tank-installation-2016-High-Res.pdf\">montaj kılavuzu</a> tankın yerine kaldırılması gerektiğinde dört kaldırma gözünün hepsinin kullanılmasını ister ve kaldırma gözlerinin tankta hiç su varken kullanılacak kadar dayanıklı olmadığını açıkça yazar. İçinde su ya da yakıt kalmış bir tank hem ağırdır hem de sıvı hareket ettikçe dengesi değişir."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Tank tamamen boşaltılır; vana, boru ve şamandıra bağlantıları ayrılır.",
+        "Üreticinin gösterdiği bütün kaldırma kulakları kullanılır; boru ağızlarından ya da vanalardan kaldırılmaz.",
+        "Plastik tanklarda sapanın gövdeyi içe çekmemesi için traves ya da uzun sapan kullanılır.",
+        "Tank birkaç santim kaldırılıp dengesi kontrol edilir; rüzgârlı havada geniş yüzeyli tanklar kaldırılmaz."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Çatı ve kaide dolu tankı taşır mı?"
+    },
+    {
+      "type": "p",
+      "text": "Çatıya depo koyarken asıl soru budur. Bir metreküp su yaklaşık bir ton ağırlığındadır; birkaç tonluk bir depo dolduğunda çatıya birkaç ton yük biner. Aynı kılavuz, yükseltilmiş yerlere konan tanklarda zeminin sağlam olmasını ve dolu tankın ağırlığını rüzgâr yükleriyle birlikte taşıyacak kadar güçlü olmasını ister; yerdeki büyük tanklar için de düz bir temel ve keskin taş ve köklerden arındırılmış bir taban ister. Eski bir binanın çatısına ya da terasa büyük bir depo konacaksa çatının taşıma gücünü bir inşaat mühendisine kontrol ettirmenizi öneririz; bu karar bina sahibinin ve projecinin, kaldırma bizim işimizdir."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç nereye kurulur, zemin nasıl kontrol edilir?"
+    },
+    {
+      "type": "p",
+      "text": "Vinç, tankın konacağı noktaya en kısa mesafede ve sağlam zeminde kurulur. Tank işlerinde dikkat edilecek özel bir nokta vardır: Vinç ayağının altında başka bir depo, sarnıç, foseptik ya da yeni doldurulmuş bir çukur olmamalıdır. İş makineleri için zemin koşullarını anlatan bir sektör <a href=\"https://cpa.uk.net/wp-content/uploads/2025/04/SFPSG-Ground-Conditions-Shortform-Guidance-Published-Document-1.pdf\">kılavuzu</a> geri doldurulmuş kazıların, sığ boruların, üstü kapatılmış kuyu ve rögarların ve eski temellerin altındaki boşlukların ani çökmelere yol açabileceğini, suyun da zeminin dayanımını düşürdüğünü yazar. Yer altı deposu indirilecekse çukurun kenarı da aynı nedenle vinçten uzak tutulur."
+    },
+    {
+      "type": "p",
+      "text": "<a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> yük kaldırmak için tasarlanmış seyyar ekipmanın zemin özellikleri dikkate alınarak sağlam ve kararlı bir şekilde kullanılmasını ve teknik zorunluluk olmadıkça kaldırılan yükün altında insan bulunmamasını ister. Çatı işlerinde operatör tankın oturacağı yeri göremiyorsa çatıda bir kişi işaretçi olarak ona yol gösterir."
+    },
+    {
+      "type": "h2",
+      "text": "Yakıt ve proses tanklarında ne farklı?"
+    },
+    {
+      "type": "p",
+      "text": "Yakıt ve proses tankları tesisin iş izni ve güvenlik kurallarıyla taşınır. Tankın boşaltılması, temizlenmesi ve içinde ne kaldığının belirlenmesi tesisin ya da tankla ilgili yetkili firmanın işidir; kaldırma öncesinde tankın boş olduğunu ve en son ne taşıdığını bize bildirin. Kaldırma alanının çevresindeki ateşleme kaynakları ve elektrik ekipmanları da tesis kurallarına göre değerlendirilir. Tesis içinde vincin kurulacağı yerin altındaki boru hatları ve yer altı tankları da tesisin planından kontrol edilir. Tesis içi işlerde evrak ve iş izni sürecini baştan konuşmak vincin kapıda beklemesini önler."
+    },
+    {
+      "type": "h2",
+      "text": "Kaldırma günü nasıl ilerler?"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Tesisatçı tankı boşaltır, vana ve boru bağlantılarını ayırır; yeni tankın kaidesi hazırdır.",
+        "Operatör vinci kurar, ayakları açar, zemini ve rüzgârı kontrol eder; yükün geçeceği alan boşaltılır.",
+        "Tank bütün kaldırma kulaklarından bağlanır, birkaç santim kaldırılıp dengesi kontrol edilir.",
+        "Tank kılavuz iplerle yönlendirilerek çatıya, kaidesine ya da çukura indirilir; çatıdaki işaretçi operatöre yol gösterir.",
+        "Tank yerine oturup tesisatçı tarafından sabitlendikten sonra sapanlar çözülür; eski tank varsa aynı düzenle indirilir."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Tarım arazilerinde ve şantiyelerde depo işleri çoğu zaman yağmur sonrasına denk gelir. Islak tarla toprağı ve yeni açılmış sulama kanalları vincin kurulacağı yer olamaz; bu yüzden toprak yoldaki ve arazideki zemini fotoğraflarla önceden görmek, gerekiyorsa işi bir iki gün kaydırmak en doğrusudur. Deponun konacağı kaidenin ya da beton tabanın dökülmüş ve yük almaya hazır olması da işi tek seferde bitirir."
+    },
+    {
+      "type": "h2",
+      "text": "WhatsApp'tan ne göndermelisiniz?"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Tankın türü, hacmi, ölçüsü ve boş ağırlığı; kaldırma kulaklarının fotoğrafı.",
+        "Tankın konacağı yerin fotoğrafı: çatı, teras, kaide ya da çukur; yüksekliği ve binanın kenarına uzaklığı.",
+        "Vincin durabileceği yerin ve sokağın fotoğrafı; üstte elektrik hattı ya da ağaç var mı.",
+        "Konum ve tarih; tank başka bir yerden alınacaksa o adres.",
+        "Eski tank da inecekse boşaltıldığı ve bağlantılarının ayrıldığı bilgisi."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Fiyatı ne belirler?"
+    },
+    {
+      "type": "p",
+      "text": "Tankın ağırlığı ve boyutu, konacağı yüksekliğin ve mesafenin gerektirdiği vinç, işin süresi, adresin atölyemize uzaklığı ve saha koşulları belirler. Yeni tankın konması ile eskisinin indirilmesi aynı güne alınırsa iki ayrı sefer gerekmez. Tank tedarikçiden geliyorsa teslim kamyonundan doğrudan çatıya ya da kaidesine vermek, önce yere indirip sonra yeniden kaldırmaktan daha kısa sürer; teslim gününü bize önceden söyleyin. Sabit fiyat listemiz yok; bilgileri gördükten sonra fiyatı net söylüyoruz."
+    },
+    {
+      "type": "h2",
+      "text": "Su deposu ve tank için vinç nasıl ayarlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Fotoğraflara bakıp hiyap mı mobil vinç mi gerektiğini söylüyoruz; emin olamadığımız çatılarda ve tesislerde önce yerinde bakıyoruz. Vinçlerimiz operatörüyle gelir; kaldırma planı, sapanlama ve tankın kaidesine konması bizim, bağlantılar tesisatçınızın işidir. Vinci kiralayan da tamir eden de biziz. Ağır bahçe ekipmanlarında benzer bir plan için <a href=\"/blog/villaya-jakuzi-havuz-ekipmani-tasima.html\">villaya jakuzi ve havuz ekipmanı taşıma</a> yazımıza, bölgedeki işler için <a href=\"/bolgeler/oren-vinc-kiralama.html\">Ören</a> ve <a href=\"/bolgeler/didim-vinc-kiralama.html\">Didim vinç kiralama</a> sayfalarımıza bakabilirsiniz."
+    },
+    {
+      "type": "callout",
+      "text": "Tankın ölçüsünü ve konacağı yerin fotoğrafını gönderin; aracı ve günü birlikte belirleyelim."
+    }
+  ],
+  "cikarimlar": [
+    "Tank boş, temiz ve bağlantıları ayrılmış hâlde, bütün kaldırma kulaklarından kaldırılır.",
+    "Bir metreküp su yaklaşık bir ton eder; çatı dolu tankı rüzgârla birlikte taşımalıdır.",
+    "Hafif depoda hiyap, büyük, uzun ya da uzağa konacak tankta mobil vinç gerekir.",
+    "Vinç ayağı depo, sarnıç, foseptik ya da dolgu çukurun üstüne kurulmaz.",
+    "Yakıt ve proses tanklarında boşaltma ve iş izni tesisin sorumluluğundadır."
+  ],
+  "faqs": [
+    {
+      "q": "Su deposunu çatıya hiyapla çıkarabilir misiniz?",
+      "a": "Bina alçaksa ve depo aracın durabileceği yere yakın bir noktaya konacaksa çoğu zaman evet. Yüksek binalarda ve binanın arka tarafında mobil vinç gerekir. Deponun boyutunu ve çatının fotoğrafını gönderin."
+    },
+    {
+      "q": "Dolu su deposu taşınır mı?",
+      "a": "Hayır. Üreticiler kaldırma gözlerinin su varken kullanılacak kadar dayanıklı olmadığını yazar. Depo tamamen boşaltılır ve bağlantıları ayrıldıktan sonra kaldırılır."
+    },
+    {
+      "q": "Çatım su deposunu taşır mı?",
+      "a": "Bunu bina sahibi ve projeci belirler; eski binalarda bir inşaat mühendisine kontrol ettirmenizi öneririz. Dolu deponun ağırlığı, rüzgâr yüküyle birlikte hesaba katılmalıdır."
+    },
+    {
+      "q": "Yer altı deposu indiriyor musunuz?",
+      "a": "Evet. Çukurun ölçüsünü ve kenarlarının durumunu önceden görmemiz gerekir; vinç çukurun kenarından uzak, sağlam bir yere kurulur."
+    },
+    {
+      "q": "Yakıt tankı taşıyor musunuz?",
+      "a": "Evet, tank boşaltılmış ve temizlenmişse, tesisin iş izni ve kurallarıyla. Tankın boş olduğunu ve en son ne taşıdığını önceden bildirin."
+    },
+    {
+      "q": "Su deposu yerleştirme fiyatı neye göre değişir?",
+      "a": "Tankın ağırlığı ve boyutu, yükseklik ve mesafe, gereken vinç, işin süresi ve adres belirler. Fotoğrafları gördükten sonra fiyatı net söylüyoruz."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "Devan Water Tank Installation Guide (foundation, location and lifting)",
+      "publisher": "Hynds (Devan su depoları)",
+      "url": "https://www.hynds.co.nz/wp-content/uploads/Hynds-Devan-Tank-installation-2016-High-Res.pdf"
+    },
+    {
+      "title": "Ground Conditions for Construction Plant: a brief guide",
+      "publisher": "Construction Plant-hire Association (CPA)",
+      "url": "https://cpa.uk.net/wp-content/uploads/2025/04/SFPSG-Ground-Conditions-Shortform-Guidance-Published-Document-1.pdf"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (Ek-II: yük kaldırmada kullanılan iş ekipmanı)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/hiyap-kiralama.html",
+    "/hizmetler/vinc-kiralama.html",
+    "/bolgeler/oren-vinc-kiralama.html",
+    "/bolgeler/didim-vinc-kiralama.html",
+    "/blog/hiyap-kac-ton-kaldirir-hiyap-tonajlari.html"
+  ]
+}

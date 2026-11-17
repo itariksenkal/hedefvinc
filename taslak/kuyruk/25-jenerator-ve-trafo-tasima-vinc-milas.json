@@ -1,0 +1,236 @@
+{
+  "slug": "jenerator-ve-trafo-tasima-vinc-milas",
+  "_hedef": "jeneratör taşıma vinç / trafo taşıma vinç / trafo indirme hiyap / jeneratör yerleştirme milas / köşk tipi trafo vinç",
+  "title": "Jeneratör ve Trafo Taşıma: Vinçle Yerleştirme, Milas",
+  "h1": "Jeneratör, Trafo ve Kabin Taşıma: Otel, Site ve Çiftlikte Vinçle Yerleştirme",
+  "desc": "Jeneratör, trafo, köşk ve elektrik kabinini vinçle taşıma ve kaideye oturtma: ağırlık, kaldırma noktaları, traves, enerji hattı ve zemin hazırlığı.",
+  "category": "Vinç Kiralama",
+  "cta": "kiralama",
+  "image": "real_ones/kabin-konteyner-yerlestirme-vinc.jpg",
+  "imageAlt": "Kırmızı teleskopik vinç bomundan sapanlarla asılı beyaz prefabrik kabin, taş duvarlı kırsal bir arsaya indiriliyor; iki kişi yerleşimi yönlendiriyor, arkada tepeler",
+  "kisaCevap": "Jeneratör, trafo, köşk tipi trafo binası ve elektrik kabinleri, üreticinin gösterdiği kaldırma noktalarından ve gerekirse traversle kaldırılıp hazırlanmış kaideye vinçle oturtulur. Küçük ve orta ağırlıktaki ünitelerde hiyap, ağır ya da uzağa konacak ünitelerde mobil vinç kullanılır. Ağırlık etiketten okunur; enerji hatları ve zemin önceden kontrol edilir. Bağlantıyı elektrik ekibiniz yapar, kaldırmayı biz.",
+  "intro": "Otellerde, sitelerde, fabrikalarda ve tarım işletmelerinde yedek güç ve enerji ekipmanı yerine konurken en riskli an, ünitenin kamyondan kaideye geçtiği birkaç dakikadır. Jeneratör kabinleri ağırdır, ağırlık merkezi ortada değildir; trafolar hassastır ve yerine milimetrik oturması gerekir. Yanlış noktadan kaldırılan bir ünite hem kendine hem kaideye zarar verir. Bu yazı Milas, Bodrum, Güllük, Yatağan ve çevresinde jeneratör, trafo ya da elektrik kabini yerleştirecek tesis yöneticileri, elektrik yüklenicileri ve işletme sahipleri için kaldırma işinin nasıl planlandığını anlatıyor.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Jeneratör ve trafo hangi araçla taşınır?"
+    },
+    {
+      "type": "p",
+      "text": "Küçük ve orta ağırlıktaki ünitelerde hiyap, ağır ya da uzağa konacak ünitelerde mobil vinç kullanılır. Hiyap üniteyi kasasında getirip kendisi indirebilir; ünite başka bir kamyonla geliyorsa vinç onu kamyondan alıp kaideye koyar. Kaideye olan mesafe uzadıkça, araya duvar, çatı ya da bina girdikçe daha büyük bir vinç gerekir."
+    },
+    {
+      "type": "table",
+      "head": [
+        "İş",
+        "Doğru araç",
+        "Bilmemiz gerekenler"
+      ],
+      "rows": [
+        [
+          "Kabinli dizel jeneratör, otel ya da site",
+          "Hiyap ya da mobil vinç",
+          "Etiketteki ağırlık, kaldırma noktaları, kaideye mesafe"
+        ],
+        [
+          "Kuru tip ya da yağlı trafo",
+          "Hiyap ya da mobil vinç",
+          "Toplam ağırlık, kaldırma gözleri, trafo odasının girişi"
+        ],
+        [
+          "Köşk tipi trafo binası ya da beton kiosk",
+          "Mobil vinç",
+          "Toplam ağırlık, kaldırma halkaları, temelin hazır olup olmadığı"
+        ],
+        [
+          "Elektrik panosu, kompanzasyon ya da kumanda kabini",
+          "Hiyap",
+          "Ölçü ve ağırlık, devrilmeye karşı bağlama şekli"
+        ],
+        [
+          "Güneş enerjisi sahası için inverter ve kabin",
+          "Hiyap",
+          "Parça sayısı, saha yolu, kaidelerin yeri"
+        ],
+        [
+          "Sulama pompası ve hidrofor grubu",
+          "Hiyap",
+          "Ağırlık, kuyu ya da depo başına mesafe, zemin"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Hangi işte hangi tonajın gerekeceğini <a href=\"/hizmetler/tonaja-gore-vinc-kiralama.html\">tonaja göre vinç kiralama</a> sayfamızda özetledik. Ne gerekirse gereksin, ihtiyacınız olan tonajda vinç sağlarız."
+    },
+    {
+      "type": "h2",
+      "text": "Ünitenin ağırlığı nereden öğrenilir?"
+    },
+    {
+      "type": "p",
+      "text": "Ağırlık, ünitenin etiketinden, teknik föyünden ya da sevk irsaliyesinden okunur. Jeneratörlerde etiket ya da katalog çoğu zaman kuru ağırlığı verir; yakıt tankı doluysa, akü ve susturucu takılıysa gerçek ağırlık daha fazladır. Bu yüzden kaldırmadan önce tankın durumunu ve üniteye neyin takılı olduğunu söyleyin. Trafolarda etiketteki toplam ağırlık yağı da içerir. Ağırlığı bilemediğiniz eski bir ünitede marka, model ve ölçü yeterlidir; üreticinin verisinden birlikte bulalım. Ağırlığından emin olmadığımız bir yükü kaldırmayız."
+    },
+    {
+      "type": "h2",
+      "text": "Kaldırma noktaları ve traves neden önemli?"
+    },
+    {
+      "type": "p",
+      "text": "Ünite yalnızca üreticinin kaldırma için gösterdiği noktalardan kaldırılır. Jeneratörlerin şasesinde ya da kabininde bunun için gözler veya delikler bulunur; motorun ya da alternatörün üzerindeki gözler çoğu üniteye yalnızca o parçanın montajı için konur; kılavuzda aksi yazmıyorsa bütün üniteyi bunlardan kaldırmayız. Trafolarda kapağın üzerindeki kaldırma gözleri kullanılır; buşingler, radyatör kanatları ve kablo bağlantıları kaldırma noktası değildir. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a> de kaldırma aksesuarlarının kaldırılacak yüke, kavrama noktalarına ve bağlantı elemanlarına uygun seçilmesini ister."
+    },
+    {
+      "type": "p",
+      "text": "Kabinli bir ünitede sapanlar kabinin kenarına sürtünüyorsa traves kullanılır. Traves, sapanları dikey tutar, kabine ve üniteye yan kuvvet binmesini önler. Ağırlık merkezi ortada olmayan ünitelerde zincir ya da sapan boyları ünite yerden birkaç santim kalktığında dengeye göre ayarlanır; ünite eğik kalkıyorsa indirilir, ayar yapılır, sonra kaldırma sürdürülür."
+    },
+    {
+      "type": "h2",
+      "text": "Kaide ve yerleşim yeri nasıl hazırlanır?"
+    },
+    {
+      "type": "p",
+      "text": "Kaide, ünite gelmeden hazır, kürünü almış ve ölçüsü kontrol edilmiş olmalıdır. Beton kaide yeni döküldüyse yüke dayanacak dayanıma ulaşıp ulaşmadığını yapının sorumlu mühendisine sorun. Ankraj civataları ya da titreşim takozları varsa yerleri işaretlenmiş olmalı; ünite indirilirken bu noktalara göre yönlendirilir. Kaidenin çevresinde ünitenin döneceği, iki kişinin kılavuz halatla yürüyebileceği bir alan bırakın."
+    },
+    {
+      "type": "p",
+      "text": "Trafo odasına ya da bina içine girecek ünitelerde iş daha uzundur: Vinç üniteyi kapının önüne koyar, içeri taşıma çoğu zaman paletli taşıyıcı ve ray ile yapılır. Kapı genişliği ve eşik yüksekliği önceden ölçülmelidir. Kabin ya da kiosk tipi yapılarda ise temel ve kablo kanalları hazır olmalıdır; yapı oturduktan sonra kaydırmak zordur."
+    },
+    {
+      "type": "h2",
+      "text": "Enerji hatları ve zemin için ne yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Vincin ve yükün havai hatlara yeterli mesafede kalması gerekir; bu mesafe sağlanamıyorsa hat sahibi kurumdan izin alınmadan çalışılmaz. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18928&MevzuatTur=7&MevzuatTertip=5\">Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği</a>, çalışmaya başlamadan önce alandaki tesisatın belirlenmesini ve işaretlenmesini, enerji nakil hatlarının yakınında yeterli güvenlik mesafesi bırakılmasını ister; mesafe bırakılamıyorsa hattın yerinin değiştirilmesi ya da akımının kesilmesi için ilgili kurumlardan onay alınması gerekir. Trafo yerleşimi çoğu zaman mevcut bir hattın hemen yanında yapıldığı için bu konu baştan konuşulmalıdır."
+    },
+    {
+      "type": "p",
+      "text": "Zemin de aynı önemdedir. Tarım arazisinde, yeni dolgu yapılmış bir otel bahçesinde ya da kanal kazısının hemen yanında vincin ayakları gömülebilir. Ayakların basacağı yerin altında kablo kanalı, foseptik ya da su borusu olup olmadığını bilmemiz gerekir. Vinç sağlam zemine kurulur, ayakların altına yükü yayan altlık konur."
+    },
+    {
+      "type": "h2",
+      "text": "Otel ve sitelerde yerleştirme ne zaman yapılmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Misafirin ve trafiğin en az olduğu dönemde ve saatte yapılmalıdır. Sahil ilçelerindeki otel ve sitelerde jeneratör, trafo ya da pano yenilemesi çoğu zaman sezon dışına, kış ve ilkbahar aylarına planlanır. Turistik yörelerde her yıl 15 Mayıs–15 Ekim arasında ağır nakliyat ve inşaat işleri kısıtlandığı için (<a href=\"https://mugla.ktb.gov.tr/TR-397558/insaat-yasaklari-hakkinda-onemli-duyuru.html\">Muğla İl Kültür ve Turizm Müdürlüğü duyurusu</a>) yaz aylarına kalan işler zorlaşır. Sezon içinde acil bir değişim gerekiyorsa, örneğin arızalanan bir jeneratörün yerine geçici bir ünite konacaksa, işi sabahın erken saatlerine ve misafir alanlarından uzak bir güzergâha planlarız. Vincin ve kamyonun tesise hangi kapıdan gireceğini, hangi alanların kısa süreliğine kapatılacağını tesis yönetimiyle önceden konuşmak, kaldırma günü sürprizleri önler."
+    },
+    {
+      "type": "h2",
+      "text": "Kaldırma günü nasıl ilerler?"
+    },
+    {
+      "type": "p",
+      "text": "Kaldırma günü kısa sürer ama sırası bellidir. Operatörümüz önce vincin yerini, ayakların basacağı zemini ve havai hatları kontrol eder. Ünite kamyondan alınmadan önce bağlantılar ve sapan açıları gözden geçirilir. Ünite birkaç santim kaldırılıp denge kontrol edilir, sonra yavaşça kaideye taşınır. Kaideye inerken iki kişi kılavuz halatla yönlendirir; ünite ankraj noktalarına oturmadan sapanlar gevşetilmez. Elektrik bağlantısı, topraklama ve devreye alma bizim işimiz değildir; bunları yetkili elektrik ekibiniz yapar. Biz üniteyi güvenle yerine koyar ve toparlanıp çıkarız."
+    },
+    {
+      "type": "h2",
+      "text": "Fiyatı ne belirler?"
+    },
+    {
+      "type": "p",
+      "text": "Fiyatı ünitenin ağırlığı, mesafe ve saha belirler:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "<strong>Ağırlık ve mesafe:</strong> Ünitenin ağırlığı ve vince olan yatay uzaklığı, gerekecek vinci belirler.",
+        "<strong>Taşıma:</strong> Üniteyi biz mi getiriyoruz, yoksa yalnızca indirme mi var?",
+        "<strong>Saha:</strong> Yol, zemin, havai hat, bina ve çatı gibi engeller.",
+        "<strong>Hazırlık:</strong> Kaide ya da trafo odası hazır değilse araç bekler.",
+        "<strong>Zaman:</strong> Tesisin çalışma saatleri dışına ya da hafta sonuna kaydırılan işler."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Sabit fiyat listemiz yok; işi gördükten sonra fiyatı net söyleriz."
+    },
+    {
+      "type": "h2",
+      "text": "WhatsApp'tan ne göndermelisiniz?"
+    },
+    {
+      "type": "p",
+      "text": "Şu bilgilerle hangi aracın geleceğini ve fiyatı söyleyebiliriz:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Ünitenin ne olduğu, marka ve modeli; etiketin ya da teknik föyün fotoğrafı.",
+        "Ünitenin şu an nerede olduğu ve nereye konacağı; kaidenin fotoğrafı.",
+        "Vincin duracağı yerden kaideye yatay mesafe ve aradaki engeller.",
+        "Haritadan konum; giriş yolu, kapı ve zeminin fotoğrafı; yakındaki havai hatlar.",
+        "İşin tarihi ve saati; tesisin hangi saatlerde müsait olduğu."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Hiyapla yapılan işlerin ayrıntıları <a href=\"/hizmetler/hiyap-kiralama.html\">hiyap kiralama</a>, ağır üniteler için <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> sayfamızda. Yatağan ve çevresindeki tesis işleri için <a href=\"/bolgeler/yatagan-vinc-kiralama.html\">Yatağan vinç kiralama</a> sayfamıza bakabilirsiniz. Villalardaki havuz ve teras ekipmanı için benzer bir planı <a href=\"/blog/villaya-jakuzi-havuz-ekipmani-tasima.html\">jakuzi ve havuz ekipmanı taşıma</a> yazımızda anlattık. Vinçlerimizin bakımını kendi atölyemizde yapıyoruz; vinci kiralayan da tamir eden de biziz."
+    },
+    {
+      "type": "callout",
+      "text": "Ünitenin etiketini ve kaidenin fotoğrafını gönderin; hangi vincin geleceğini ve fiyatı söyleyelim."
+    }
+  ],
+  "cikarimlar": [
+    "Ünite yalnızca üreticinin gösterdiği kaldırma noktalarından kaldırılır.",
+    "Ağırlık etiketten okunur; dolu yakıt tankı ve takılı ekipman ağırlığı artırır.",
+    "Kabinli ünitelerde traves, sapanların kabine yan kuvvet bindirmesini önler.",
+    "Havai hatlara yeterli mesafe sağlanamıyorsa hat sahibi kurumdan izin alınmadan çalışılmaz.",
+    "Elektrik bağlantısı ve devreye alma yetkili elektrik ekibinin işidir."
+  ],
+  "faqs": [
+    {
+      "q": "Jeneratörü vinçle taşırken yakıt tankı boş mu olmalı?",
+      "a": "Mümkünse evet. Dolu tank ağırlığı artırır ve ağırlık merkezini değiştirir. Boşaltmak mümkün değilse tankın durumunu bize söyleyin; kaldırmayı buna göre planlarız."
+    },
+    {
+      "q": "Trafoyu vinçle kaldırmak güvenli mi?",
+      "a": "Trafo, kapağındaki kaldırma gözlerinden ve uygun aksesuarla kaldırıldığında güvenlidir. Buşingler, radyatör kanatları ve kablo bağlantıları kaldırma noktası değildir; sapanların bunlara değmemesi gerekir."
+    },
+    {
+      "q": "Köşk tipi trafo binasını yerleştirebilir misiniz?",
+      "a": "Evet; ağırlığına ve mesafeye uygun mobil vinçle temeline oturtuyoruz. Temelin ve kablo kanallarının hazır olması, kaldırma halkalarının yerinin bilinmesi gerekir."
+    },
+    {
+      "q": "Jeneratörü çatıya ya da terasa koyabilir misiniz?",
+      "a": "Evet; ama çatının ya da terasın bu yükü taşıyıp taşımadığına yapının sorumlu mühendisi karar verir. Biz ağırlığa ve mesafeye göre vinci seçer, üniteyi gösterilen kaideye koyarız."
+    },
+    {
+      "q": "Elektrik bağlantısını da yapıyor musunuz?",
+      "a": "Hayır. Elektrik bağlantısı, topraklama ve devreye alma yetkili elektrik ekibinizin işidir. Biz üniteyi taşır ve yerine koyarız."
+    },
+    {
+      "q": "Eski jeneratörü söküp götürebilir misiniz?",
+      "a": "Kaldırma ve yükleme kısmını yapabiliriz. Bağlantılarının yetkili ekip tarafından sökülmüş ve ünitenin kaldırmaya hazır olması gerekir; nereye götürüleceğini baştan konuşalım."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (EK-II: kaldırma aksesuarlarının seçimi)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "Yapı İşlerinde İş Sağlığı ve Güvenliği Yönetmeliği (Ek-4: enerji dağıtım tesisleri)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18928&MevzuatTur=7&MevzuatTertip=5"
+    },
+    {
+      "title": "İnşaat yasakları hakkında önemli duyuru (2025/3 sayılı genelge)",
+      "publisher": "Muğla İl Kültür ve Turizm Müdürlüğü",
+      "url": "https://mugla.ktb.gov.tr/TR-397558/insaat-yasaklari-hakkinda-onemli-duyuru.html"
+    },
+    {
+      "title": "Lifting equipment at work: A brief guide (INDG290)",
+      "publisher": "Health and Safety Executive (HSE)",
+      "url": "https://www.hse.gov.uk/pubns/indg290.pdf"
+    }
+  ],
+  "related": [
+    "/hizmetler/hiyap-kiralama.html",
+    "/hizmetler/vinc-kiralama.html",
+    "/bolgeler/yatagan-vinc-kiralama.html",
+    "/hizmetler/tonaja-gore-vinc-kiralama.html"
+  ]
+}

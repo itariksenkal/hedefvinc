@@ -451,11 +451,33 @@ def cta_sec(d):
     return "kiralama" if "kiralama" in d["slug"] else "tamir"
 
 
-def kutu_cta(anahtar):
+# Kiralama ile tamir arasında köprü: tamir yazılarının çağrı kutusu kiralık vince, vinç kiralama yazılarınınki
+# (yazı tamir sayfalarına hiç bağlantı vermiyorsa) vinç tamirine bir satırla bağlanır.
+KIRALAMA_TURLERI = ("kiralama", "bodrum", "konteyner")
+TAMIR_SAYFALARI = (TAMIR_HUB, "/hizmetler/hiyap-vinc-tamiri.html", "/hizmetler/vinc-hidrolik-tamiri.html",
+                   "/bolgeler/bodrum-vinc-tamiri.html", "/bolgeler/mugla-vinc-tamiri.html", S.ARIZA_HUB)
+_EK_P = '<p style="border-top:1px solid rgba(255,255,255,.2);padding-top:16px">%s</p>'
+KIRA_SATIRI = _EK_P % ('Vinciniz tamirdeyken iş durmasın: <a class="lnk" href="%s">ihtiyacınız olan tonajda kiralık '
+                       'vinç</a>.' % KIRA_HUB)
+BAKIM_SATIRI = _EK_P % ('Vincinizin bakımını da biz yaparız: <a class="lnk" href="%s">vinç tamiri, revizyon ve '
+                        'bakım</a>.' % TAMIR_HUB)
+
+
+def kopru_satiri(d, tur):
+    if tur not in KIRALAMA_TURLERI:
+        return KIRA_SATIRI
+    if tur == "konteyner":
+        return ""
+    metin = json.dumps(d, ensure_ascii=False)
+    return "" if any(u in metin for u in TAMIR_SAYFALARI) else BAKIM_SATIRI
+
+
+def kutu_cta(anahtar, ek=""):
     ad, url, baslik, metin, wa, _, ikinci = CTA[anahtar]
     return ('<aside class="kutu-cta" aria-label="%s"><h3>%s</h3><p>%s</p><div class="btnlar">%s%s</div>'
-            '<p><a class="lnk" href="%s">%s</a> · <a class="lnk" href="%s">%s</a></p></aside>') % (
-        S.esc(ad), baslik, metin, S.btn_ara("tr"), S.btn_wa(wa, "tr"), url, ad, ikinci, IKINCI_AD.get(ikinci, ikinci))
+            '<p><a class="lnk" href="%s">%s</a> · <a class="lnk" href="%s">%s</a></p>%s</aside>') % (
+        S.esc(ad), baslik, metin, S.btn_ara("tr"), S.btn_wa(wa, "tr"), url, ad, ikinci, IKINCI_AD.get(ikinci, ikinci),
+        ek)
 
 
 def son_bant_yazi(anahtar):
@@ -648,7 +670,7 @@ def yazi_sayfasi(d, basliklar, es_haritasi):
                 y=d["datePublished"], yy=S.tarih_yazi(d["datePublished"]), g=guncel, gy=S.tarih_yazi(guncel),
                 dk=dk, img=S.img(d["image"], d.get("imageAlt", ""), "(min-width: 1232px) 1200px, 100vw", True),
                 alt=S.esc(d.get("imageAlt", "")), giris=temiz(d["intro"]),
-                govde=govde_bloklari(d["body"], kutu_cta(tur)), sss=sss, yazar=yazar_kutusu(),
+                govde=govde_bloklari(d["body"], kutu_cta(tur, kopru_satiri(d, tur))), sss=sss, yazar=yazar_kutusu(),
                 icindekiler=icindekiler(d["body"], ek), kisa=kisa_cevap_html(d), cikarim=cikarim, kaynak=kaynak,
                 yan=yan, son=son_bant_yazi(tur))
     lds = [yazi_schema(url, d["h1"], d["desc"], d["image"], d["datePublished"], guncel, "tr", d["category"], kelime,

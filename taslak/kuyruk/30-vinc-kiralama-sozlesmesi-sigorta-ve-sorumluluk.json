@@ -1,0 +1,224 @@
+{
+  "slug": "vinc-kiralama-sozlesmesi-sigorta-ve-sorumluluk",
+  "_hedef": "vinç kiralama sözleşmesi / vinç kiralama sigorta / vinç kiralamada hasar sorumluluğu / vinç kiralama iptal",
+  "title": "Vinç Kiralama Sözleşmesi: Sigorta, Hasar ve İptal Maddeleri",
+  "h1": "Vinç Kiralama Sözleşmesi ve Yazılı Onay: Sigorta, Hasar, İptal ve Sorumluluk Maddeleri",
+  "desc": "Vinç kiralamadan önce yazılı netleşmesi gereken maddeler: işin tanımı, operatör, sigorta, hasar ve tutanak, iptal, hava koşulu ve ödeme. Resmî kaynaklarla.",
+  "category": "Vinç Kiralama",
+  "cta": "kiralama",
+  "image": "saha-uzun-bom.jpg",
+  "imageAlt": "Hedef yazılı kamyon üstü vincin kumanda yerinde operatör; teleskopik bom yatay uzatılmış, sahada sarı çelik kafes parçalar ve istiflenmiş kereste",
+  "kisaCevap": "Vinç kiralamadan önce işin tanımı, vincin sınıfı, operatör, çalışma saatleri, fiyatın neyi kapsadığı, sigorta, hasar hâlinde ne yapılacağı, iptal, erteleme ve hava koşulu ile ödeme şekli yazılı olarak netleşmelidir. Küçük işlerde ayrıntılı bir teklif ve yazılı onay yeterli olabilir; büyük ve riskli işlerde imzalı bir sözleşme gerekir. Bu yazı genel bir rehberdir, hukuki danışmanlık değildir.",
+  "intro": "Vinç kiralamada sorunların çoğu sahada değil, baştan konuşulmayan bir maddede başlar: Saat ne zaman başladı? Rüzgâr yüzünden yapılamayan işin bedeli ne olacak? Kaldırma sırasında yük zarar görürse kim karşılayacak? Bu yazı Milas, Bodrum ve çevresinde vinç kiralayacak müteahhitler, tesis yöneticileri ve ev sahipleri için vinç kiralamadan önce hangi maddelerin yazılı olarak netleşmesi gerektiğini anlatıyor. Kiralamadan önce sorulacak soruların tam listesini <a href=\"/blog/vinc-kiralarken-sorulacak-sorular.html\">vinç kiralarken sorulacak sorular</a>, sahadaki sorumluluk paylaşımını <a href=\"/blog/operatorlu-vinc-kiralama.html\">operatörlü vinç kiralama</a> yazımızda anlattık. Burada konu, bu cevapların kâğıda nasıl döküleceği. Bu bir genel rehberdir; büyük ve özel işlerde sözleşmenizi bir hukukçuya göstermenizi öneririz.",
+  "body": [
+    {
+      "type": "h2",
+      "text": "Vinç kiralamada yazılı sözleşme gerekir mi?"
+    },
+    {
+      "type": "p",
+      "text": "Her iş için uzun bir sözleşme gerekmez, ama her iş için yazılı bir onay gerekir. Tek bir klima ünitesini indirmek için iş tanımı, tarih, fiyat ve kapsamı yazan bir teklif ve mesajla verilen onay çoğu zaman yeterlidir. Birkaç gün süren, pahalı bir yük kaldırılan, birden çok tarafın çalıştığı ya da kamu ve kurumsal işlerde ise imzalı bir sözleşme yapılmalıdır. Yazılı olmayan bir anlaşma da bir anlaşmadır; ama bir anlaşmazlıkta neyin konuşulduğunu kanıtlamak zorlaşır."
+    },
+    {
+      "type": "p",
+      "text": "Hukuki nitelik de işin içeriğine göre değişebilir. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6098&MevzuatTur=1&MevzuatTertip=5\">Türk Borçlar Kanunu</a> kira sözleşmesini bir şeyin kullanılmasının bedel karşılığı bırakılması, eser sözleşmesini ise bir eserin bedel karşılığı meydana getirilmesi olarak tanımlar. Operatörsüz bir vincin kiralanması ile operatörüyle gelip belirli bir yükü yerine koyan bir hizmet farklı değerlendirilebilir. Sözleşmenin adından çok içeriğinin, yani kimin neyi üstlendiğinin açık yazılması önemlidir."
+    },
+    {
+      "type": "h2",
+      "text": "Sözleşmede ya da teklifte hangi maddeler olmalı?"
+    },
+    {
+      "type": "p",
+      "text": "Aşağıdaki tablo, en sık ihtiyaç duyulan maddeleri ve her birinde neyin netleşmesi gerektiğini gösterir:"
+    },
+    {
+      "type": "table",
+      "head": [
+        "Madde",
+        "Ne yazılmalı",
+        "Neden önemli"
+      ],
+      "rows": [
+        [
+          "İşin tanımı",
+          "Yük, ağırlık, kaldırma noktaları, nereden nereye, kaç kaldırma",
+          "Tanımın dışına çıkan iş ayrıca konuşulur"
+        ],
+        [
+          "Vinç",
+          "Vincin türü ve sınıfı; mobil vinç, hiyap ya da sepetli platform",
+          "Yanlış vinç gelmesi işi durdurur"
+        ],
+        [
+          "Operatör ve ekip",
+          "Operatör kimden; bağlama ve işaretçi kimden",
+          "Sahadaki görevler netleşir"
+        ],
+        [
+          "Süre ve saatler",
+          "Başlangıç, asgari süre, yol, kurulum ve toplama, mesai dışı",
+          "Saatin nasıl sayıldığı faturayı belirler"
+        ],
+        [
+          "Fiyat ve kapsam",
+          "Neyin dahil olduğu; KDV, yol, ek donanım",
+          "Sonradan çıkan kalemleri önler"
+        ],
+        [
+          "Sigorta",
+          "Hangi poliçelerin olduğu, neyi kapsadığı",
+          "Hasar hâlinde kimin karşılayacağı"
+        ],
+        [
+          "Hasar ve tutanak",
+          "Hasar fark edilince ne yapılacağı",
+          "Sonradan tartışmayı önler"
+        ],
+        [
+          "İptal, erteleme, hava",
+          "Kim, ne zamana kadar, hangi koşulla",
+          "Rüzgârlı günler ve son dakika iptalleri"
+        ],
+        [
+          "Ödeme",
+          "Ödeme şekli ve zamanı",
+          "İki tarafın da beklentisi netleşir"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Hangi vincin ve hangi tonajın geleceği teklifte açıkça yazılmalıdır. İhtiyacınız olan tonajda vinç sağlarız; ama hangi vincin geldiği belgede yazmıyorsa bir anlaşmazlıkta tartışma konusu olur."
+    },
+    {
+      "type": "h2",
+      "text": "İşin tanımı neden en önemli maddedir?"
+    },
+    {
+      "type": "p",
+      "text": "Çünkü sigorta, süre ve fiyat dahil diğer bütün maddeler işin tanımına dayanır. \"Konteyner indirme\" yazan bir teklif ile \"20'lik boş konteynerin kamyondan alınıp bahçe duvarının arkasında, yoldan 8 metre içeride hazırlanmış takozlara indirilmesi\" yazan bir teklif aynı değildir. İkincisinde vincin sınıfı, süre ve sahadaki riskler bellidir; iş tanımın dışına çıkarsa, örneğin konteyner dolu çıkarsa, bunun ayrıca konuşulacağı da bellidir. Yükün ağırlığını siz veriyorsanız bunun teklifte yazması da önemlidir; yanlış bildirilen ağırlık hem güvenlik hem sorumluluk sorunudur. Ağırlığından emin olmadığımız bir yükü kaldırmayız."
+    },
+    {
+      "type": "h2",
+      "text": "Sigorta neyi kapsar, neyi kapsamaz?"
+    },
+    {
+      "type": "p",
+      "text": "Sigorta konusunda en sık yanılgı, vincin trafik sigortasının her şeyi karşıladığını düşünmektir. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2918&MevzuatTur=1&MevzuatTertip=5\">Karayolları Trafik Kanunu</a>'nun 91. maddesi, motorlu araç işletenlerinin, aracın işletilmesinden doğan sorumlulukları için zorunlu mali sorumluluk sigortası yaptırmasını ister. Aynı kanunun 92. maddesi ise bazı hususları bu sigortanın kapsamı dışında sayar; bunların arasında motorlu araçta taşınan eşyanın uğrayacağı zararlar ve gelir kaybı, kâr kaybı, iş durması gibi dolaylı zararlar vardır."
+    },
+    {
+      "type": "p",
+      "text": "Kaldırma sırasında yüke, binaya ya da üçüncü kişilere gelen bir zararın hangi poliçeyle karşılanacağı olaya ve poliçelerin şartlarına göre değişir. Bu yüzden genel bir cevap yerine şunları yazılı olarak sorun: Vinç firmasının hangi poliçeleri var ve bu poliçeler kaldırma işini kapsıyor mu? Kaldırılan yük kimin sigortasında? Yükünüz değerliyse, örneğin bir trafo, tekne ya da özel bir makine, kendi sigortanızın kaldırma ve taşıma sırasındaki zararları kapsayıp kapsamadığını sigortacınıza sorun. Poliçe adlarından çok kapsamın yazılı olması önemlidir."
+    },
+    {
+      "type": "h2",
+      "text": "Hasar olursa ne yapılır?"
+    },
+    {
+      "type": "p",
+      "text": "Hasar fark edildiği anda iş durdurulur, fotoğraflanır ve iki tarafın da imzaladığı bir tutanak tutulur. Tutanakta saat, yer, ne olduğu, kimlerin orada olduğu ve hasarın görünen durumu yazılır. Hasar sonradan fark edilirse ne kadar süre içinde bildirileceği sözleşmede yazılı olmalıdır. Kaldırmadan önce yükün ve sahanın mevcut durumunu fotoğraflamak da iki taraf için korumadır: Teslim alınan bir teknedeki eski bir çizik ya da duvardaki eski bir çatlak, sonradan kaldırma hasarı sanılmaz. Sorumluluğun nasıl paylaşılacağı ise işin tanımına ve kimin neyi üstlendiğine bağlıdır; bunu <a href=\"/blog/operatorlu-vinc-kiralama.html\">operatörlü vinç kiralama</a> yazımızda ayrıntılı anlattık."
+    },
+    {
+      "type": "h2",
+      "text": "İptal, erteleme ve hava koşulu nasıl yazılır?"
+    },
+    {
+      "type": "p",
+      "text": "İptal ve erteleme maddesi, kimin hangi koşulda ve ne zamana kadar iptal edebileceğini ve bunun sonucunu açıkça söylemelidir. Hava koşulu ayrı yazılmalıdır, çünkü burada karar güvenliğe bağlıdır. <a href=\"https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5\">İş Ekipmanları Yönetmeliği</a>, hava şartları güvenli kullanımı engelleyecek şekilde bozulduğunda askıdaki serbest yükleri kaldıran ekipmanın açık havada kullanılmasının durdurulmasını ister. Rüzgâr yüzünden iş başlamadan iptal edilirse, yarıda kalırsa ya da başka güne kayarsa ne olacağı baştan yazılırsa sahada tartışma çıkmaz. Kaldırmayı durdurma kararını operatör verir; sözleşme bu kararı tartışmaya açmamalıdır."
+    },
+    {
+      "type": "p",
+      "text": "Saatin ve beklemenin nasıl sayılacağını <a href=\"/blog/gunluk-ve-saatlik-vinc-kiralama-milas-bodrum.html\">günlük ve saatlik vinç kiralama</a> yazımızda anlattık; fiyatı belirleyen diğer kalemler için <a href=\"/blog/vinc-kiralama-fiyatlari.html\">vinç kiralama fiyatları</a> yazımıza bakabilirsiniz."
+    },
+    {
+      "type": "h2",
+      "text": "Vinç firmasından hangi belgeler istenir?"
+    },
+    {
+      "type": "p",
+      "text": "Kiralanan vincin ve operatörün belgeleri sözleşmeye ek olarak istenebilir; bunların başında vincin geçerli periyodik kontrol raporu ve operatörün belgesi gelir. Aynı yönetmeliğin periyodik kontrol tablosu mobil ve yükleyici krenler için, ilgili standartta süre belirtilmemişse en fazla bir yıllık kontrol süresi öngörür. Mobil vinç operatörleri için getirilen mesleki yeterlilik belgesi zorunluluğunu ve tarihlerini <a href=\"/blog/operatorlu-vinc-kiralama.html\">operatörlü vinç kiralama</a> yazımızda anlattık. Belgelerin adı, kapsadığı vinç türü ve geçerlilik tarihi sözleşmenin ekine yazılabilir; belgelerin sahada da gösterilebilmesi gerekir. Uzun süreli işlerde periyodik kontrolün kiralama süresi içinde dolup dolmayacağı da baştan konuşulmalıdır. Periyodik kontrol raporunu ve operatör belgesini sormanızı her zaman memnuniyetle karşılarız."
+    },
+    {
+      "type": "h2",
+      "text": "WhatsApp'tan ne göndermelisiniz?"
+    },
+    {
+      "type": "p",
+      "text": "Teklifi yazılı hazırlayabilmemiz için şunları gönderin:"
+    },
+    {
+      "type": "ol",
+      "items": [
+        "Yükün ne olduğu, ağırlığı ve ölçüsü; etiket ya da belge fotoğrafı.",
+        "Yükün nereden alınıp nereye konacağı; aradaki mesafe ve yükseklik.",
+        "Haritadan konum; sokak, giriş ve vincin duracağı yerin fotoğrafı.",
+        "İşin tarihi, saati ve esneklik payınız.",
+        "Faturanın kime kesileceği ve sözleşme gerekip gerekmediği."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Bu bilgilerle işin tanımını, fiyatı ve kapsamı yazılı olarak veriyoruz. Ayrıntılar için <a href=\"/hizmetler/vinc-kiralama.html\">vinç kiralama</a> sayfamıza bakabilirsiniz. Vinçlerimizin bakımını kendi atölyemizde yapıyoruz; vinci kiralayan da tamir eden de biziz."
+    },
+    {
+      "type": "callout",
+      "text": "İşi ve yükü anlatın; tanımı, fiyatı ve kapsamı yazılı olarak gönderelim."
+    }
+  ],
+  "cikarimlar": [
+    "Her vinç işi için en azından iş tanımını, fiyatı ve kapsamı yazan bir onay gerekir.",
+    "Sözleşmenin adından çok kimin neyi üstlendiğinin açık yazılması önemlidir.",
+    "Trafik sigortası araçta taşınan eşyanın zararlarını ve dolaylı zararları kapsamaz.",
+    "Hasar fark edilince iş durdurulur, fotoğraflanır ve tutanak tutulur.",
+    "Hava nedeniyle iptal ve ertelemenin sonucu baştan yazılmalıdır."
+  ],
+  "faqs": [
+    {
+      "q": "Vinç kiralamada sözleşme yapmak zorunlu mu?",
+      "a": "Her iş için ayrıntılı bir sözleşme gerekmez; ama iş tanımını, tarihi, fiyatı ve kapsamı yazan bir teklif ve yazılı onay her iş için gerekir. Büyük, uzun ya da riskli işlerde imzalı sözleşme yapılmalıdır."
+    },
+    {
+      "q": "Vincin trafik sigortası kaldırılan yükü karşılar mı?",
+      "a": "Buna genel bir evet ya da hayır vermek doğru olmaz. Karayolları Trafik Kanunu araçta taşınan eşyanın zararlarını ve dolaylı zararları zorunlu sigortanın kapsamı dışında sayar. Kaldırılan yükün hangi poliçeyle korunduğunu yazılı olarak sorun."
+    },
+    {
+      "q": "Kaldırma sırasında yük zarar görürse kim öder?",
+      "a": "İşin tanımına, kimin neyi üstlendiğine, hasarın nedenine ve poliçelere bağlıdır. Hasar fark edilince iş durdurulmalı, fotoğraflanmalı ve iki tarafın imzaladığı bir tutanak tutulmalıdır."
+    },
+    {
+      "q": "Son dakika iptal ederse ne olur?",
+      "a": "Bu, sözleşmenin ya da teklifin iptal maddesine bağlıdır. Kimin, ne zamana kadar ve hangi sonuçla iptal edebileceği baştan yazılmalıdır; biz bunu teklifte açıkça söylüyoruz."
+    },
+    {
+      "q": "Rüzgâr yüzünden iş yapılamazsa ödeme yapılır mı?",
+      "a": "Bunun nasıl hesaplanacağı baştan yazılmalıdır. Güvenli olmayan havada kaldırma yapılmaz; ertelenen ya da yarıda kalan işin nasıl sayılacağını kiralamadan önce konuşuyoruz."
+    },
+    {
+      "q": "Teklifte vincin tonajı yazmalı mı?",
+      "a": "Evet. Hangi vincin, hangi sınıfta ve operatörüyle mi geleceği teklifte yazmalıdır. Yanlış vinç gelmesi işin durmasına ve tartışmaya yol açar."
+    }
+  ],
+  "kaynaklar": [
+    {
+      "title": "6098 sayılı Türk Borçlar Kanunu (Madde 299: kira sözleşmesi; Madde 470: eser sözleşmesi)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6098&MevzuatTur=1&MevzuatTertip=5"
+    },
+    {
+      "title": "2918 sayılı Karayolları Trafik Kanunu (Madde 85, 91 ve 92: işletenin sorumluluğu ve zorunlu mali sorumluluk sigortası)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2918&MevzuatTur=1&MevzuatTertip=5"
+    },
+    {
+      "title": "İş Ekipmanlarının Kullanımında Sağlık ve Güvenlik Şartları Yönetmeliği (EK-II hava şartları; EK-III periyodik kontrol)",
+      "publisher": "Mevzuat Bilgi Sistemi (mevzuat.gov.tr)",
+      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=18318&MevzuatTur=7&MevzuatTertip=5"
+    }
+  ],
+  "related": [
+    "/hizmetler/vinc-kiralama.html",
+    "/blog/vinc-kiralarken-sorulacak-sorular.html",
+    "/blog/operatorlu-vinc-kiralama.html",
+    "/blog/vinc-kiralama-fiyatlari.html"
+  ]
+}
