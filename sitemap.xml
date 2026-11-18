@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://hedefvinc.com/</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/"/>
@@ -158,6 +158,11 @@
     <image:image><image:loc>https://hedefvinc.com/assets/img/r/saha-uzun-bom-1600.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://hedefvinc.com/blog/hiyap-kiralama-hangi-islerde-kullanilir.html</loc>
+    <lastmod>2026-11-18</lastmod>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/tekne-kaldirma-katlanir-bom-vinc-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://hedefvinc.com/blog/hiyap-pto-kuyruk-mili-arizasi.html</loc>
     <lastmod>2026-10-30</lastmod>
     <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-kamyon-sasesi-tadilat-1600.jpg</image:loc></image:image>
@@ -179,11 +184,11 @@
   </url>
   <url>
     <loc>https://hedefvinc.com/blog/index.html</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/index.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/index.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/index.html"/>
-    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/kabin-konteyner-yerlestirme-vinc-1600.jpg</image:loc></image:image>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/tekne-kaldirma-katlanir-bom-vinc-1600.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://hedefvinc.com/blog/is-makinasi-bakim-rehberi.html</loc>
@@ -437,27 +442,27 @@
   </url>
   <url>
     <loc>https://hedefvinc.com/bolgeler/bodrum-vinc-tamiri.html</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/revizyonu-biten-vinc-kamyonla-teslimat-1600.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://hedefvinc.com/bolgeler/didim-vinc-kiralama.html</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/kabin-konteyner-yerlestirme-vinc-1600.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://hedefvinc.com/bolgeler/gulluk-vinc-kiralama.html</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/retrofit-hedef-crane-tekne-uzeri-deniz-vinci-1600.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://hedefvinc.com/bolgeler/mugla-vinc-tamiri.html</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-kabinli-vinc-hidrolik-test-1600.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://hedefvinc.com/bolgeler/oren-vinc-kiralama.html</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/tekne-kaldirma-katlanir-bom-vinc-1600.jpg</image:loc></image:image>
   </url>
   <url>
@@ -475,7 +480,7 @@
   </url>
   <url>
     <loc>https://hedefvinc.com/hizmetler/</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/revizyonu-biten-vinc-kamyonla-teslimat-1600.jpg</image:loc></image:image>
   </url>
   <url>
@@ -493,7 +498,7 @@
   </url>
   <url>
     <loc>https://hedefvinc.com/hizmetler/hiyap-vinc-tamiri.html</loc>
-    <lastmod>2026-10-30</lastmod>
+    <lastmod>2026-11-18</lastmod>
     <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-sokulmus-vinc-govdesi-ve-ayaklar-1600.jpg</image:loc></image:image>
   </url>
   <url>
