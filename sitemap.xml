@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://hedefvinc.com/</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/"/>
@@ -184,11 +184,11 @@
   </url>
   <url>
     <loc>https://hedefvinc.com/blog/index.html</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/index.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/index.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/index.html"/>
-    <image:image><image:loc>https://hedefvinc.com/assets/img/r/saha-cati-montaj-1600.jpg</image:loc></image:image>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/vincli-kamyonun-tasinmasi-atolye-onu-1600.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://hedefvinc.com/blog/is-makinasi-bakim-rehberi.html</loc>
@@ -428,6 +428,11 @@
     <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/atolye-vinc-kolonu-doner-tabla-rulmani-1600.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://hedefvinc.com/blog/vinci-baska-kamyona-aktarma.html</loc>
+    <lastmod>2026-11-20</lastmod>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/vincli-kamyonun-tasinmasi-atolye-onu-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://hedefvinc.com/blog/vincle-calisirken-is-guvenligi.html</loc>
     <lastmod>2026-10-22</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/vincle-calisirken-is-guvenligi.html"/>
@@ -485,7 +490,7 @@
   </url>
   <url>
     <loc>https://hedefvinc.com/hizmetler/</loc>
-    <lastmod>2026-11-19</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/revizyonu-biten-vinc-kamyonla-teslimat-1600.jpg</image:loc></image:image>
   </url>
   <url>
@@ -516,7 +521,7 @@
   </url>
   <url>
     <loc>https://hedefvinc.com/hizmetler/kamyon-sase-giydirme.html</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-20</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/hizmetler/kamyon-sase-giydirme.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/services/truck-chassis-works.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/hizmetler/kamyon-sase-giydirme.html"/>
