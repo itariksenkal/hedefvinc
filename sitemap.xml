@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://hedefvinc.com/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/"/>
@@ -184,7 +184,7 @@
   </url>
   <url>
     <loc>https://hedefvinc.com/blog/index.html</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <xhtml:link rel="alternate" hreflang="tr" href="https://hedefvinc.com/blog/index.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://hedefvinc.com/en/blog/index.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hedefvinc.com/blog/index.html"/>
@@ -446,6 +446,11 @@
     <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/kabin-konteyner-yerlestirme-vinc-1600.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://hedefvinc.com/blog/zeytinyagi-fabrikasi-ekipman-tasima-vinc-milas.html</loc>
+    <lastmod>2026-11-21</lastmod>
+    <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/vincli-kamyonun-tasinmasi-atolye-onu-1600.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://hedefvinc.com/bolgeler/bodrum-vinc-kiralama.html</loc>
     <lastmod>2026-11-17</lastmod>
     <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/kabin-konteyner-yerlestirme-vinc-1600.jpg</image:loc></image:image>
@@ -462,7 +467,7 @@
   </url>
   <url>
     <loc>https://hedefvinc.com/bolgeler/gulluk-vinc-kiralama.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/retrofit-hedef-crane-tekne-uzeri-deniz-vinci-1600.jpg</image:loc></image:image>
   </url>
   <url>
@@ -490,7 +495,7 @@
   </url>
   <url>
     <loc>https://hedefvinc.com/hizmetler/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
     <image:image><image:loc>https://hedefvinc.com/assets/img/r/real_ones/revizyonu-biten-vinc-kamyonla-teslimat-1600.jpg</image:loc></image:image>
   </url>
   <url>
